@@ -1,0 +1,34 @@
+RecipeNumber: |
+  <2 Type='2' Data='2600530069006d0070006c00650049006e00740046006f0072004d00650073007300610067006500ffff01cd'/>
+Pa_RecipeCard_00-Pa_Recipe_00-T_Cookable_00: |
+  Not enough ingredients.
+Name: |
+  <2 Type='37'/>
+Pa_RecipeCard_00-Pa_Recipe_00-T_NewCooking_00: |
+  NEW
+Pa_RecipeCard_00-T_Cook_00: |
+  Dishes with This Ingredient
+RecipeCompleteRate: |
+  <2 Type='15' Data='2600530069006d0070006c00650049006e00740046006f0072004d00650073007300610067006500ffff01cd'/>/<2 Type='15' Data='2800530069006d0070006c00650049006e00740046006f0072004d006500730073006100670065003200ffff01cd'/>
+MaterialRecipeGuide: |
+  Hold ingredients
+Pa_RecipeCard_00-Pa_Recipe_00-Pa_Material_00-Pa_FoodParam_00-T_MaxText_00: |
+  Full recovery
+RecipeCardLogNum: |
+  <2 Type='21' Data='2600530069006d0070006c00650049006e00740046006f0072004d00650073007300610067006500ffff'/> other <201 Type='6' Data='0c007200650063006900700065000e0072006500630069007000650073000000'/>
+Pa_RecipeSlideList_00-Pa_Btn_00-Pa_FoodParam_00-T_MaxText_00: |
+  Full recovery
+Pa_RecipeSlideList_00-Pa_Btn_00-Pa_FoodParam_01-T_Plus_00: |
+  +
+UseMaterial: |
+  Ingredients
+Pa_RecipeSlideList_00-Pa_Btn_00-Pa_FoodParam_01-T_Plus_01: |
+  +
+Pa_RecipeCard_00-Pa_Recipe_00-Pa_Material_00-Pa_FoodParam_01-T_Plus_00: |
+  +
+Pa_RecipeCard_00-Pa_Recipe_00-Pa_Material_00-Pa_FoodParam_01-T_Plus_01: |
+  +
+FoodRecipeGuide: |
+  View history
+RecipeComplete: |
+  Registered

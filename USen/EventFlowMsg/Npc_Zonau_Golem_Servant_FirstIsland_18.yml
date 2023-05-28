@@ -1,0 +1,136 @@
+talk_01: |
+  <3 Type='0' Data='0700'/>Yes. <5 Type='0'/>This green thing is called a
+  <0 Type='3' Data='0000'/>Zonai device<0 Type='3' Data='ffff'/>.<0 Type='4'/>The one I am inspecting is known as a
+  <0 Type='3' Data='0000'/>fan<0 Type='3' Data='ffff'/>. It <0 Type='3' Data='0000'/>activates<0 Type='3' Data='ffff'/> when <0 Type='3' Data='0000'/>struck <0 Type='3' Data='ffff'/>to generate
+  wind on demand.<0 Type='4'/><4 Type='0' Data='0a005400680069006e006b00'/>This river is meltwater. <5 Type='0'/>Falling into it will
+  quickly sap your stamina.<0 Type='4'/>It is for this reason that I maintain rafts
+  to cross to the other bank.
+talk_27: |
+  <3 Type='0' Data='0700'/><0 Type='3' Data='0000'/>Energy Cells<0 Type='3' Data='ffff'/> store the <0 Type='3' Data='0000'/>energy <0 Type='3' Data='ffff'/>required to
+  use a Zonai device.<0 Type='4'/>This <0 Type='3' Data='0000'/>energy <0 Type='3' Data='ffff'/>will replenish automatically
+  when the <0 Type='3' Data='0000'/>Zonai device<0 Type='3' Data='ffff'/> is not in use.<0 Type='4'/>Be mindful of your <0 Type='3' Data='0000'/>energy<0 Type='3' Data='ffff'/> reserves. <5 Type='0'/>It
+  would be unfortunate to run out mid-use.
+talk_14: |
+  <3 Type='0' Data='0900'/><4 Type='0' Data='1200530075007200700072006900730065004c00'/>I remind you that these rafts are
+  undergoing maintenance.<0 Type='4'/><3 Type='0' Data='0701'/>Using one would be far too dangerous.<5 Type='0'/>
+  The rafts by the riverside are available in
+  the meantime.
+talk_02: |
+  <3 Type='0' Data='0700'/>This green thing is called a <0 Type='3' Data='0000'/>Zonai device<0 Type='3' Data='ffff'/>.<0 Type='4'/>This is a <0 Type='3' Data='0000'/>fan<0 Type='3' Data='ffff'/>-type device. <5 Type='0'/>It activates
+  when <0 Type='3' Data='0000'/>struck <0 Type='3' Data='ffff'/>to generate wind.
+talk_28: |
+  <3 Type='0' Data='0700'/>The rafts by the riverside are there for
+  your use. <5 Type='0'/>Excuse me as I continue
+  my work.
+talk_15: |
+  <3 Type='0' Data='0900'/><4 Type='0' Data='1200530075007200700072006900730065004c00'/>I repeat that these rafts are undergoing
+  maintenance. <5 Type='0'/>Using an unserviced and
+  uninspected raft is not recommended.
+  <3 Type='0' Data='0701'/>The rafts by the riverside are tested and
+  perfectly serviceable.
+talk_03: |
+  <3 Type='0' Data='0700'/>I should mention that energy is essential
+  for using a <0 Type='3' Data='0000'/>Zonai device<0 Type='3' Data='ffff'/>.<0 Type='4'/>You will need an <0 Type='3' Data='0000'/>Energy Cell <0 Type='3' Data='ffff'/>if you want
+  to use one.
+talk_16: |
+  <3 Type='0' Data='0700'/>My duties today are complete. <5 Type='0'/>The rafts
+  and <0 Type='3' Data='0000'/>Zonai devices<0 Type='3' Data='ffff'/> are in working order.<5 Type='0'/>
+  Tomorrow my duties begin once more.
+talk_17: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003100'/>This is a problem. <5 Type='0'/>You do not seem to
+  have an <0 Type='3' Data='0000'/>Energy Cell<0 Type='3' Data='ffff'/>.<0 Type='4'/>It will be impossible for you to use any
+  <0 Type='3' Data='0000'/>Zonai devices <0 Type='3' Data='ffff'/>without an <0 Type='3' Data='0000'/>Energy Cell<0 Type='3' Data='ffff'/>.<0 Type='4'/><3 Type='0' Data='0701'/><0 Type='3' Data='0000'/>Zonai devices<0 Type='3' Data='ffff'/> are essential on this island.<5 Type='0'/>
+  I will give you a spare <0 Type='3' Data='0000'/>Energy Cell<0 Type='3' Data='ffff'/>.
+talk_04: |
+  <3 Type='0' Data='0700'/>It is what powers this raft.<0 Type='4'/>The <0 Type='3' Data='0000'/>Zonai device<0 Type='3' Data='ffff'/> currently in use is the
+  <0 Type='3' Data='0000'/>fan<0 Type='3' Data='ffff'/>-type model.<0 Type='4'/>It activates when <0 Type='3' Data='0000'/>struck <0 Type='3' Data='ffff'/>to generate wind.
+  Remember to board the raft before you
+  strike the <0 Type='3' Data='0000'/>fan<0 Type='3' Data='ffff'/>.
+talk_05: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a0048006100700070007900'/>The rafts by the bank are fully operational.<5 Type='0'/>
+  Use them with confidence.
+talk_18: |
+  <3 Type='0' Data='0700'/>Yes. <5 Type='0'/>The green thing attached to the raft<5 Type='0'/>
+  is called a <0 Type='3' Data='0000'/>Zonai device<0 Type='3' Data='ffff'/>.<0 Type='4'/>This model is a <0 Type='3' Data='0000'/>fan<0 Type='3' Data='ffff'/>-type Zonai device.<5 Type='0'/>
+  It actives when <0 Type='3' Data='0000'/>struck<0 Type='3' Data='ffff'/> to generate wind.
+talk_06: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Please activate the <0 Type='3' Data='0000'/>Zonai device <0 Type='3' Data='ffff'/>if you
+  want to use a raft.
+talk_19: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a0048006100700070007900'/>I am at rest. <5 Type='0'/>Feel free in the meantime
+  to use the fully inspected rafts by
+  the riverside.
+talk_07: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='0a0048006100700070007900'/>Hmm. It has grown late. <5 Type='0'/>I was too
+  immersed in my duties to notice.<0 Type='4'/>I will rest until the next time bell chimes.<5 Type='0'/>
+  Do not hesitate to disturb me if the
+  need arises.
+talk_08: |
+  <3 Type='0' Data='0800'/>I see that you already have one. <5 Type='0'/>That is
+  a relief.<0 Type='4'/>Allow me to review how it works.
+talk_09: |
+  <3 Type='0' Data='0700'/>My duties today are complete. <5 Type='0'/>The rafts
+  and <0 Type='3' Data='0000'/>Zonai devices<0 Type='3' Data='ffff'/> are in working order.
+0000: |
+  Zonai device?
+0001: |
+  Goodbye.
+talk_20: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003100'/>Oh? <5 Type='0'/>One moment. <5 Type='0'/>You do not have an
+  <0 Type='3' Data='0000'/>Energy Cell<0 Type='3' Data='ffff'/>.<0 Type='4'/><0 Type='3' Data='0000'/>Zonai devices<0 Type='3' Data='ffff'/> cannot be operated without
+  an <0 Type='3' Data='0000'/>Energy Cell<0 Type='3' Data='ffff'/>.<0 Type='4'/>This means you will also be unable to
+  move the raft.<0 Type='4'/><3 Type='0' Data='0700'/>Zonai devices are a necessity on this
+  island. <5 Type='0'/>I do have a spare <0 Type='3' Data='0000'/>Energy Cell<0 Type='3' Data='ffff'/>.
+  I will offer it to you.
+talk_21: |
+  <3 Type='0' Data='0700'/><0 Type='3' Data='0000'/>Energy Cells<0 Type='3' Data='ffff'/> store the <0 Type='3' Data='0000'/>energy<0 Type='3' Data='ffff'/> required to
+  use a Zonai device.<0 Type='3' Data='0000'/><0 Type='4'/><3 Type='0' Data='0700'/><4 Type='0' Data='0a0048006100700070007900'/><0 Type='3' Data='ffff'/>This <0 Type='3' Data='0000'/>energy<0 Type='3' Data='ffff'/> will replenish automatically
+  when the Zonai device is not in use.<0 Type='4'/>Be mindful of your <0 Type='3' Data='0000'/>energy<0 Type='3' Data='ffff'/> reserves. <5 Type='0'/>It
+  would be unfortunate to run out mid-use.<0 Type='4'/>The rafts by the riverside have been
+  thoroughly inspected. <5 Type='0'/>They are ready for
+  your use in crossing the waters.
+0002: |
+  Zonai device?
+talk_22: |
+  <3 Type='0' Data='0700'/>This <0 Type='3' Data='0000'/>Energy Cell<0 Type='3' Data='ffff'/> contains the <0 Type='3' Data='0000'/>energy<0 Type='3' Data='ffff'/>
+  required to operate Zonai devices.<0 Type='4'/>This <0 Type='3' Data='0000'/>energy <0 Type='3' Data='ffff'/>will replenish automatically
+  when the <0 Type='3' Data='0000'/>Zonai device<0 Type='3' Data='ffff'/> is not in use.<0 Type='4'/>Be mindful of your <0 Type='3' Data='0000'/>energy<0 Type='3' Data='ffff'/> reserves. <5 Type='0'/>It
+  would be unfortunate to run out mid-use.<0 Type='4'/><3 Type='0' Data='0800'/>This will enable you to pilot the rafts by
+  the riverside. <5 Type='0'/>They are yours to use if you
+  want to cross the waters.
+0003: |
+  Goodbye.
+talk_23: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>Ah. <5 Type='1'/>Pardon my rudeness. <5 Type='0'/>Do you require
+  a raft?<0 Type='4'/>The ones by the riverbank are ready
+  for use.<5 Type='0'/> The <0 Type='3' Data='0000'/>Zonai device<0 Type='3' Data='ffff'/> has also
+  been inspected.
+0004: |
+  Zonai device?
+talk_24: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1200530075007200700072006900730065005300'/>Using a Zonai device will deplete the
+  <0 Type='3' Data='0000'/>energy<0 Type='3' Data='ffff'/> in your <0 Type='3' Data='0000'/>Energy Cell<0 Type='3' Data='ffff'/>.<0 Type='4'/>This <0 Type='3' Data='0000'/>energy<0 Type='3' Data='ffff'/> will automatically replenish.<5 Type='0'/>
+  But be careful that your <0 Type='3' Data='0000'/>Energy Cell<0 Type='3' Data='ffff'/> does
+  not run out while using a Zonai device.
+0005: |
+  Goodbye.
+talk_11: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1200530075007200700072006900730065005300'/>Ahem. <5 Type='0'/>These rafts are in for maintenance.<0 Type='4'/>The rafts by the riverside are available for
+  those in need of one.
+talk_25: |
+  <3 Type='0' Data='0700'/>Using a Zonai device will deplete the
+  <0 Type='3' Data='0000'/>energy<0 Type='3' Data='ffff'/> in your <0 Type='3' Data='0000'/>Energy Cell<0 Type='3' Data='ffff'/>.<0 Type='4'/>This <0 Type='3' Data='0000'/>energy<0 Type='3' Data='ffff'/> will automatically replenish.<5 Type='0'/>
+  But be careful that your <0 Type='3' Data='0000'/>Energy Cell<0 Type='3' Data='ffff'/> does
+  not run out while using a Zonai device.
+talk_00: |
+  <3 Type='0' Data='0700'/>Confirming raft <5 Type='0'/>and <0 Type='3' Data='0000'/>Zonai device<0 Type='3' Data='ffff'/>
+  operational status.
+talk_26: |
+  <3 Type='0' Data='0700'/>Using a Zonai device will deplete the
+  <0 Type='3' Data='0000'/>energy<0 Type='3' Data='ffff'/> in your <0 Type='3' Data='0000'/>Energy Cell<0 Type='3' Data='ffff'/>.<0 Type='4'/>This <0 Type='3' Data='0000'/>energy<0 Type='3' Data='ffff'/> will automatically replenish.<5 Type='0'/>
+  But be careful that your <0 Type='3' Data='0000'/>Energy Cell<0 Type='3' Data='ffff'/> does
+  not run out while using a Zonai device.
+talk_13: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1200530075007200700072006900730065005300'/>Ahem. <5 Type='0'/>These rafts are in for maintenance.<0 Type='4'/>People keep trying to use unserviced and
+  uninspected rafts. <5 Type='0'/>This makes me anxious.<0 Type='4'/>I recommend the rafts by the riverside if
+  you have need of one.

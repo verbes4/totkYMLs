@@ -1,0 +1,15 @@
+MakeFood: |
+  Moza has opened a restaurant inside a well.
+  She's convinced she can take <0 Type='3' Data='0000'/>failed dishes<0 Type='3' Data='ffff'/>,
+  such as dubious or rock-hard food, and make
+  them ultimate.
+  
+  If you get your hands on those disastrous
+  dishes, Moza is ready for them.
+Name: |
+  The Ultimate Dish?
+Complete: |
+  Moza turned the failed dish you gave her into
+  monster stew. No challenge is too great for
+  that master chef—she's ready to remake any
+  dubious or rock-hard food you bring her.

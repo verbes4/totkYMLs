@@ -1,0 +1,13 @@
+talk002: |
+  <3 Type='0' Data='0c00'/>I wonder if there's any way up there...
+  If you could jump straight up, you'd be
+  in Korok Forest, except for that ceiling.
+near001: |
+  Hmmm... Hm, hm, hm.
+talk001: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='0600530061006400'/>I can't figure this out... <5 Type='1'/>I made it this far,
+  but it seems like there's no way up
+  from here.
+  <3 Type='0' Data='0701'/>If you could jump super high, straight up,
+  you'd be in Korok Forest, but then there's
+  the ceiling. It seems impossible...

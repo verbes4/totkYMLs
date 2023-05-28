@@ -1,0 +1,156 @@
+0039: |
+  Dash
+0056: |
+  Swim up
+T_X_03: |
+  X
+0057: |
+  Listen
+0058: |
+  Reach
+0059: |
+  Examine
+0000: |
+  Pick up
+0002: |
+  Talk
+0003: |
+  Take
+0004: |
+  Examine
+0005: |
+  Open
+0022: |
+  Buy
+0006: |
+  Examine
+0023: |
+  Attach
+0040: |
+  Pull
+0007: |
+  Wake
+0024: |
+  Jump
+0041: |
+  Let's go!
+0008: |
+  Sit
+0025: |
+  Catch
+0042: |
+  Let's go!
+0009: |
+  Sleep
+0026: |
+  Grab
+0043: |
+  Let's go!
+0060: |
+  Final attack
+0044: |
+  Let's go!
+0061: |
+  Look through
+0028: |
+  Ascend
+0045: |
+  Push <0 Type='3' Data='0000'/>(Hold)<0 Type='3' Data='ffff'/> 
+0062: |
+  Search
+0029: |
+  Build
+0046: |
+  Grab <0 Type='3' Data='0000'/>(Hold)<0 Type='3' Data='ffff'/> 
+0063: |
+  Exit
+0047: |
+  Grab
+0064: |
+  Bring horse in
+0048: |
+  Glide
+0065: |
+  Take horse
+T_Plus_00: |
+  +
+0049: |
+  Gust!
+0066: |
+  Take
+0067: |
+  Dismount
+0068: |
+  Grab <0 Type='3' Data='0000'/>(Hold)<0 Type='3' Data='ffff'/>
+T_B_00: |
+  B
+0069: |
+  Cancel
+T_B_01: |
+  B
+T_Y_00: |
+  Y
+T_B_02: |
+  B
+T_Y_01: |
+  Y
+T_B_03: |
+  B
+T_Y_02: |
+  Y
+T_Y_03: |
+  Y
+0011: |
+  Mount
+0013: |
+  Charge!
+0030: |
+  Rewind
+0014: |
+  Cook
+0031: |
+  Jump
+T_A_01: |
+  A
+0015: |
+  Fire
+T_A_02: |
+  A
+0016: |
+  Sneakstrike
+0033: |
+  Put in
+0050: |
+  Ride
+T_A_03: |
+  A
+0017: |
+  Control
+0034: |
+  Take
+0051: |
+  Soothe
+0018: |
+  Pray
+0035: |
+  Flurry rush
+0019: |
+  Climb down
+0036: |
+  Grab
+0053: |
+  Display
+0070: |
+  Display
+T_X_00: |
+  X
+0037: |
+  Ride
+0054: |
+  Let's go!
+T_X_01: |
+  X
+0055: |
+  Exchange
+T_X_02: |
+  X

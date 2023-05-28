@@ -1,0 +1,99 @@
+near0000: |
+  Wh-wh-what is...
+talk0013: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0600530061006400'/>I came all this way to meet the dazzling
+  Gerudo who lived here. I can't believe
+  they've all been killed...
+  I do sometimes hear voices coming up
+  <0 Type='3' Data='0000'/>from the wells<0 Type='3' Data='ffff'/>. No doubt about it—the
+  spirits of stunning Gerudo linger here...
+  <3 Type='0' Data='0a00'/>Those poor, magnificent women...
+talk0014: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0600530061006400'/>I came all this way to meet the dazzling
+  Gerudo who lived here. I can't believe
+  they've all been killed...
+  I do sometimes hear voices coming up
+  <0 Type='3' Data='0000'/>from the wells<0 Type='3' Data='ffff'/>.
+  
+  Oh, and I also occasionally see <0 Type='3' Data='0000'/>small
+  shadows moving to the west<0 Type='3' Data='ffff'/>...
+  
+  <3 Type='0' Data='0a00'/>It must be the spirits of the stunning
+  Gerudo, lingering here still. <5 Type='0'/>Those poor,
+  magnificent women...
+near0001: |
+  I hear them...
+talk0006: |
+  <3 Type='0' Data='0a00'/>Phew. You're just another real, living
+  person... I was certain one of the ghosts
+  haunting this place had come for me!
+  I traveled out here hoping to meet the
+  wonderful, amazing Gerudo women who
+  lived here, but there's...no one...
+  I do sometimes hear voices coming up
+  <0 Type='3' Data='0000'/>from the wells<0 Type='3' Data='ffff'/>. Oh, and I also occasionally
+  see <0 Type='3' Data='0000'/>small shadows moving to the west<0 Type='3' Data='ffff'/>...
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0600530061006400'/>Obviously the place is now haunted by the
+  restless spirits of the beautiful Gerudo
+  who were slain by the strange monsters!
+  If I'm not careful, the same monsters
+  might get me too...
+talk0007: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0600530061006400'/>I came all this way to meet the dazzling
+  Gerudo who lived here. I can't believe
+  they've all been killed...
+  I do sometimes hear voices coming up
+  <0 Type='3' Data='0000'/>from the wells<0 Type='3' Data='ffff'/>. Oh, and I also occasionally
+  see <0 Type='3' Data='0000'/>small shadows moving to the west<0 Type='3' Data='ffff'/>...
+  No doubt about it—those are all signs that
+  the spirits of the stunning Gerudo linger
+  here still...
+  <3 Type='0' Data='0a00'/>Those poor, magnificent women...
+talk0008: |
+  <FontSize Value='125'/><3 Type='0' Data='0900'/>Shh! Shh! Not so loud!<FontSize Value='100'/>
+  
+  
+  <3 Type='0' Data='0701'/><FontSize Value='80'/>I can hear voices. They're coming from below...
+  
+  
+  Something about a <0 Type='3' Data='0000'/>secret<0 Type='3' Data='ffff'/>...<5 Type='1'/> Could this be the reason
+  the ghosts haven't moved on? Is it a secret about
+  the monsters that doubtlessly killed them?<FontSize Value='100'/>
+talk0009: |
+  <FontSize Value='125'/><3 Type='0' Data='0901'/>Shh! Shh! Not so loud!<FontSize Value='100'/>
+  
+  
+  <3 Type='0' Data='0700'/><FontSize Value='80'/>If you're too loud, the guards might find us! Plus, it
+  makes it hard to hear the voices coming from below.
+  
+  Something about a <0 Type='3' Data='0000'/>secret<0 Type='3' Data='ffff'/>...<5 Type='1'/>
+  
+  
+  I was hearing these voices even during the
+  sand shroud. Could they be the calls of those
+  brave Gerudo who fell to the monsters?<FontSize Value='100'/>
+talk0011: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0600530061006400'/><0 Type='3' Data='0200'/><FontSize Value='80'/>The ghosts of those marvelous Gerudo have a
+  <0 Type='3' Data='0000'/>secret<0 Type='3' Data='0200'/>...<5 Type='0'/> I wonder what's happening down there...<FontSize Value='100'/><0 Type='3' Data='ffff'/>
+talk0003: |
+  <3 Type='0' Data='0b00'/>Ah! <5 Type='1'/>Another voice!
+  
+  
+  <3 Type='0' Data='0701'/>Wait, <5 Type='0'/>what?
+talk0012: |
+  <3 Type='0' Data='0a00'/>Phew. You're just another real, living
+  person... I was certain one of the ghosts
+  haunting this place had come for me!
+  I traveled out here hoping to meet the
+  wonderful, amazing Gerudo women who
+  lived here, but there's...no one...
+  I do sometimes hear voices coming up
+  <0 Type='3' Data='0000'/>from the wells<0 Type='3' Data='ffff'/>...
+  
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0600530061006400'/>Obviously the place is now haunted by the
+  restless spirits of the beautiful Gerudo
+  who were slain by the strange monsters!
+  If I'm not careful, the same monsters
+  might get me too...
+TerrorEnemy: |
+  Do something!

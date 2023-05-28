@@ -1,0 +1,76 @@
+TerrorFire_00: |
+  Wah! Hot!
+TerrorFire_01: |
+  No, NO!
+TerrorLightning_00: |
+  Yeeek!
+TerrorFire_02: |
+  Hyeee!
+TerrorLightning_01: |
+  Hyeee!
+TerrorGeneric_00: |
+  Gwaaah!
+TerrorLightning_02: |
+  Eeep!
+TerrorGeneric_01: |
+  Hoooyag!
+TerrorGeneric_02: |
+  DAAA!
+TerrorArrow_00: |
+  Yeeep!
+TerrorSword_00: |
+  DAAA!
+TerrorArrow_01: |
+  Stop, stop!
+TerrorSword_01: |
+  Gwaaah!
+TerrorArrow_02: |
+  Ack!
+TerrorInsect: |
+  Hoooyag!
+TerrorSword_02: |
+  Aaayeee!
+TerrorHorse_00: |
+  Eeeeee!
+TerrorExplosion_00: |
+  Nooo, loooud!
+TerrorHorse_01: |
+  No, NO!
+Talk_01_00: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='0e0045006100730065005f0030003000'/>Whaaa? I can't quite believe it.<5 Type='1'/> That's
+  what has become of Koltin?<5 Type='1'/>
+Talk_01: |
+  <3 Type='0' Data='0000'/>Hmm...<4 Type='0' Data='0e0045006100730065005f0030003100'/> Thank you kindly for letting me
+  know.<5 Type='1'/> The end result was...well...I'm sure
+  he's very happy.
+  I think I'll take the stall my little brother
+  left behind to his favorite place.<5 Type='0'/> Yes,<5 Type='0'/> that
+  will be nice.
+  <3 Type='0' Data='0000'/>And the handmade cloth my brother gave
+  you at the end...please make good use
+  of it. <5 Type='1'/>It's what he would have wanted.
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>He always chased his dreams...<5 Type='1'/> So I will
+  also do my best to chase mine!
+TerrorBomb: |
+  Gaaack!
+TerrorExplosion_01: |
+  Hyeee!
+TerrorHorse_02: |
+  Fwaaah!
+Talk_02: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>Ah, hello, traveler. Hello. <5 Type='1'/>Can I help you
+  with something?
+TerrorExplosion_02: |
+  Fwaaah!
+TerrorEnemy: |
+  No, no, no!
+TerrorAnimal: |
+  Hoooyag!
+TerrorIce: |
+  Oooh... Brrr!
+Talk_04: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>Oh, <5 Type='0'/>can I help you with something?
+TerrorFlash: |
+  Whaaa!
+ClearTerrorEnemy: |
+  Whew...

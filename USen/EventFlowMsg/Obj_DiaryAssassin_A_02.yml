@@ -1,0 +1,22 @@
+Talk_000: |
+  Read the Yiga Clan journal?
+0000: |
+  Read.
+Talk_001: |
+  The Yiga Bulletin
+  Confidential updates from the hideout.
+  
+  Item One: Our research division has
+  developed new vehicles—the 
+  Gloomdredger and HOVERDOOM MK.3.
+  If one of these vehicles is damaged,
+  please contact a member of the research
+  division in the Depths right away.
+  Item Two: It is imperative that all
+  espionage agents in the field learn
+  the <0 Type='3' Data='0000'/>Earthwake technique<0 Type='3' Data='ffff'/>.
+  Addendum: The <0 Type='3' Data='0000'/>Earthwake technique<0 Type='3' Data='ffff'/> 
+  can only be learned at the hideout's
+  training area.
+0001: |
+  Don't read.

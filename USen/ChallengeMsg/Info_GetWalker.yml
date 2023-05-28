@@ -1,0 +1,17 @@
+Name: |
+  Presenting: Hero's Path Mode!
+Step01: |
+  Apparently the Purah Pad has a feature called
+  <0 Type='3' Data='0000'/>hero's path mode<0 Type='3' Data='ffff'/> that allows you to review
+  where you've been. However, calibrating the
+  upgrade will require <0 Type='3' Data='0000'/>data from 15 shrine
+  locations<0 Type='3' Data='ffff'/>.
+  
+  Have Robbie make the modifications once you
+  have the data.
+Complete: |
+  You gave Robbie data on 15 shrine locations,
+  and he successfully updated the Purah Pad.
+  
+  Now you can use the hero's path mode to see
+  where you've been on the map.

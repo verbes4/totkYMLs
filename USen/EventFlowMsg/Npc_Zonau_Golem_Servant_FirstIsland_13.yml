@@ -1,0 +1,122 @@
+talk_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1200530075007200700072006900730065005300'/>This is a rarity. <5 Type='0'/>It is unusual for me to
+  receive visitors here.<0 Type='4'/>I assume you will require Zonai devices
+  to descend the mountain. Would you like
+  to use the <0 Type='3' Data='0000'/>device dispenser<0 Type='3' Data='ffff'/>?
+talk_27: |
+  <3 Type='0' Data='0700'/>My maintenance is fully complete. You are
+  free to use the <0 Type='3' Data='0000'/>device dispenser <0 Type='3' Data='ffff'/>anytime.
+talk_14: |
+  <3 Type='0' Data='0701'/>Do you require the <0 Type='3' Data='0000'/>device dispenser <0 Type='3' Data='ffff'/>or
+  any <0 Type='3' Data='0000'/>Zonai devices<0 Type='3' Data='ffff'/>?
+talk_15: |
+  <3 Type='0' Data='0800'/>Oh. <5 Type='0'/>You have returned.<0 Type='4'/><3 Type='0' Data='0701'/>My duties are complete. <5 Type='0'/>But I have not
+  had visitors in some time. I would
+  welcome some conversation.
+talk_29: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Oh?
+talk_16: |
+  <3 Type='0' Data='0c00'/>There is a slight issue. <5 Type='0'/>You do not seem
+  to have an <0 Type='3' Data='0000'/>Energy Cell<0 Type='3' Data='ffff'/>.<0 Type='4'/>It is impressive that you have come so far
+  without one. <5 Type='0'/>Not everyone could do so.<0 Type='4'/>But an <0 Type='3' Data='0000'/>Energy Cell<0 Type='3' Data='ffff'/> will be essential to
+  traverse the rest of this island.
+talk_03: |
+  <3 Type='0' Data='0700'/>Yes. I am manufacturing <0 Type='3' Data='0000'/>Zonai devices<0 Type='3' Data='ffff'/>
+  using this <0 Type='3' Data='0000'/>device dispenser<0 Type='3' Data='ffff'/>.
+talk_17: |
+  <3 Type='0' Data='0700'/>It seems that you still do not have an
+  <0 Type='3' Data='0000'/>Energy Cell<0 Type='3' Data='ffff'/>.<0 Type='4'/>You cannot make use of Zonai devices
+  without an <0 Type='3' Data='0000'/>Energy Cell<0 Type='3' Data='ffff'/>. <0 Type='3' Data='0000'/>Device dispensers<0 Type='3' Data='ffff'/>
+  will also not function for you.
+talk_04: |
+  <3 Type='0' Data='0700'/>Do you see the bowl-like receptacle?
+  Resources held in your hands can be
+  deposited there.<0 Type='4'/>It accepts resources such as <0 Type='3' Data='0000'/>construct
+  horns <0 Type='3' Data='ffff'/>and <0 Type='3' Data='0000'/>Zonai charges <0 Type='3' Data='ffff'/>for processing.
+talk_18: |
+  <3 Type='0' Data='0700'/>You also cannot use the Zonai devices
+  from the <0 Type='3' Data='0000'/>device dispenser<0 Type='3' Data='ffff'/> without an
+  <0 Type='3' Data='0000'/>Energy Cell<0 Type='3' Data='ffff'/>.
+talk_05: |
+  <3 Type='0' Data='0700'/>I see you are still here. <5 Type='0'/>I am ordinarily
+  alone on this mountain. The conversation
+  we are having is very exciting to me.
+talk_19: |
+  <3 Type='0' Data='0700'/>Let us speak again after you have
+  acquired an <0 Type='3' Data='0000'/>Energy Cell<0 Type='3' Data='ffff'/>.
+talk_06: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>It is cold here. You can light a fire nearby
+  to warm yourself if you plan to remain
+  for long.
+talk_07: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Oh. <5 Type='0'/>I remember you.
+talk_30: |
+  <3 Type='0' Data='0700'/>My maintenance duties are complete for
+  today. <5 Type='1'/>It has been another cycle with
+  no visitors.
+talk_08: |
+  <3 Type='0' Data='0700'/>It is interesting to have a visitor after so
+  long in isolation. <5 Type='0'/>I am happy to address
+  whatever questions you have.
+0011: |
+  The device dispenser.
+talk_09: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a0048006100700070007900'/>The altitude here is incredibly high. It is
+  no easy task to descend the mountain.<0 Type='4'/>That is why I am preparing <0 Type='3' Data='0000'/>wing<0 Type='3' Data='ffff'/>-type<0 Type='3' Data='0000'/>
+  Zonai devices<0 Type='3' Data='ffff'/>. They are useful tools for
+  making your descent.<0 Type='4'/><0 Type='3' Data='0000'/>Zonai capsules<0 Type='3' Data='ffff'/> are very convenient.
+  They are a portable form of <0 Type='3' Data='0000'/>Zonai device<0 Type='3' Data='ffff'/>
+  that you can retrieve at any time.<0 Type='4'/>I suggest that you deposit resources in
+  the device dispenser before proceeding.
+talk_20: |
+  <3 Type='0' Data='0700'/>I recall the <0 Type='3' Data='0000'/>Maker Construct <0 Type='3' Data='ffff'/>by the
+  riverside at the base of the mountain
+  having a spare <0 Type='3' Data='0000'/>Energy Cell<0 Type='3' Data='ffff'/>.
+0001: |
+  Device dispenser?
+talk_21: |
+  <3 Type='0' Data='0700'/>We will speak again when you come into
+  possession of an <0 Type='3' Data='0000'/>Energy Cell<0 Type='3' Data='ffff'/>.
+talk_22: |
+  <3 Type='0' Data='0700'/>The <0 Type='3' Data='0000'/>Maker Construct <0 Type='3' Data='ffff'/>by the riverside at
+  the base of the mountain should have a
+  spare <0 Type='3' Data='0000'/>Energy Cell<0 Type='3' Data='ffff'/>.
+0003: |
+  I'm fine.
+talk_23: |
+  <3 Type='0' Data='0800'/>Oh? <5 Type='0'/>You seem to have finally acquired an
+  <0 Type='3' Data='0000'/>Energy Cell<0 Type='3' Data='ffff'/>.<0 Type='4'/>This will enable you to use Zonai devices.<5 Type='0'/>
+  <0 Type='3' Data='0000'/>Device dispensers<0 Type='3' Data='ffff'/> are now also available
+  for your use.
+talk_24: |
+  <3 Type='0' Data='0700'/>Pardon this late explanation. <5 Type='0'/>I prepare
+  <0 Type='3' Data='0000'/>Zonai devices<0 Type='3' Data='ffff'/> here that are useful for
+  descending the mountain.<0 Type='4'/>The difficulty of descending the mountain
+  from this high perch <5 Type='0'/>calls for the <0 Type='3' Data='0000'/>wing<0 Type='3' Data='ffff'/>-
+  type <0 Type='3' Data='0000'/>Zonai device<0 Type='3' Data='ffff'/>.
+talk_25: |
+  <3 Type='0' Data='0700'/>This <0 Type='3' Data='0000'/>device dispenser<0 Type='3' Data='ffff'/><5 Type='0'/> can provide you
+  with one.
+talk_12: |
+  <3 Type='0' Data='0700'/><0 Type='3' Data='0000'/>Device dispensers<0 Type='3' Data='ffff'/> make it possible to
+  produce portable Zonai devices in the
+  form of <0 Type='3' Data='0000'/>Zonai capsules<0 Type='3' Data='ffff'/>.<0 Type='4'/>They are simple to use.<5 Type='0'/> Hold materials in
+  your hands. Then place them into the
+  receptacle. It is similar to a cooking pot.<0 Type='4'/>Accepted resources are things such as
+  <0 Type='3' Data='0000'/>construct horns <0 Type='3' Data='ffff'/>or <0 Type='3' Data='0000'/>Zonai charges<0 Type='3' Data='ffff'/>.<0 Type='4'/><3 Type='0' Data='0700'/><4 Type='0' Data='0a0048006100700070007900'/>The altitude here is incredibly high. The
+  <0 Type='3' Data='0000'/>wing-type Zonai devices<0 Type='3' Data='ffff'/> are useful tools
+  for making your descent.<0 Type='4'/>I suggest that you deposit resources in
+  the device dispenser before proceeding.
+talk_13: |
+  <3 Type='0' Data='0700'/>My duties today are complete.
+talk_26: |
+  <3 Type='0' Data='0700'/>Do you see the bowl-like receptacle? Hold
+  resources in your hands and deposit them
+  there. The dispenser will process them.<0 Type='4'/>You can insert resources such as
+  <0 Type='3' Data='0000'/>construct horns<0 Type='3' Data='ffff'/> and <0 Type='3' Data='0000'/>Zonai charges<0 Type='3' Data='ffff'/> to
+  receive Zonai devices in return.
+talk_00: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1200530075007200700072006900730065005300'/>This is a rarity. <5 Type='0'/>It is unusual for me to
+  receive visitors here.<0 Type='4'/>I assume you will require Zonai devices
+  to descend the mountain. Would you like
+  to use the <0 Type='3' Data='0000'/>device dispenser<0 Type='3' Data='ffff'/>?

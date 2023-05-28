@@ -1,0 +1,31 @@
+Name: |
+  Lost in the Dunes
+Step1: |
+  Ponthos, a bushy-bearded caravan traveler,
+  went out through the west entrance and hasn't
+  returned yet. Standard caravan practice is to
+  wait in a <0 Type='3' Data='0000'/>conspicuous location<0 Type='3' Data='ffff'/>—near a tall
+  structure, for example—when lost in the desert.
+  
+  But since a sinkhole is also in this area, finding
+  Ponthos isn't going to be easy.
+Step2: |
+  You smashed through some rocks and made a
+  passageway to a ladder leading to the surface.
+  Ponthos climbed the ladder and headed back to
+  his worried friends.
+  
+  He said something about a reward waiting for
+  you at <0 Type='3' Data='0000'/>Kara Kara Bazaar<0 Type='3' Data='ffff'/>.
+Step1a: |
+  You found the caravan traveler, Ponthos,
+  stuck below the sinkhole.
+  
+  There doesn't seem to be an <0 Type='3' Data='0000'/>exit<0 Type='3' Data='ffff'/>, and Ponthos
+  is just about ready to give up.
+Complete: |
+  You rescued Ponthos, a missing caravan
+  traveler, from the sinkhole. As a reward, he
+  gave you his prized orb. He said there is
+  someone in Gerudo Town who knows more
+  about the orb.

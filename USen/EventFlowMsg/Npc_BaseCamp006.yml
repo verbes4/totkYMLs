@@ -1,0 +1,103 @@
+Near_05: |
+  Is that going to fall over?
+talk_25: |
+  <3 Type='0' Data='0700'/>I hear it's valuable, so I'm not going to
+  touch it.
+  
+  But it looks like it could go toppling over
+  at any moment, so please be careful.
+Talk_03: |
+  <FontSize Value='80'/><3 Type='0' Data='0c00'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>So those balloon things that fell from the sky are
+  called <0 Type='3' Data='0000'/>Zonai devices<0 Type='3' Data='ffff'/>...
+  
+  There's still so much we don't know about them.
+  
+  
+  But trust my boss, Purah, to take a thing we know so
+  little about and turn it into something useful. She's
+  the sharpest person in Hyrule—a creative genius!<FontSize Value='100'/>
+talk_10: |
+  <0 Type='3' Data='0200'/><FontSize Value='80'/><3 Type='0' Data='0c00'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>Turns out this giant thing has inscriptions on it that
+  are valuable to archaeological research... And that
+  lady from the Zonai Survey Team is right there.
+  Glad she doesn't know I intended to demolish it.
+  I mean, it's huge. It takes up so much space...<FontSize Value='100'/><0 Type='3' Data='ffff'/>
+Near_07: |
+  I don't want to get wet.
+talk_29: |
+  <FontSize Value='80'/><3 Type='0' Data='0700'/><4 Type='0' Data='0a0053006c00650065007000'/>President Hudson... Can I go back to
+  Tarrey Town soon?<FontSize Value='100'/>
+talk_35: |
+  <3 Type='0' Data='0700'/>Whenever it rains, the walls get slick,
+  which can be dangerous. It's a real pain
+  for us carpenters.
+  So be careful, will you?<5 Type='1'/>
+  
+  
+  Although, it's not like you're going to be
+  climbing all over the walls or anything, ha.
+Talk_2_2: |
+  <FontSize Value='80'/><3 Type='0' Data='0c00'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>So there was a path after all.
+  
+  
+  I figured if this is the royal family's emergency
+  shelter, there would be a path that leads to here.
+  
+  So if you follow it, then...<FontSize Value='100'/>
+talk_13: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004e006f007400690063006500'/>Hm? Did you come to see the <0 Type='3' Data='0000'/>tablet<0 Type='3' Data='ffff'/>?
+talk_07: |
+  <FontSize Value='80'/><3 Type='0' Data='0c00'/><4 Type='0' Data='0e0043006800610074005f0030003000'/>That Wortsworth guy is a bigwig with the Zonai
+  Survey Team...<5 Type='0'/>isn't he? Surprised he came all
+  the way out here.
+  Guess that means this <0 Type='3' Data='0000'/>stone tablet<0 Type='3' Data='ffff'/> is something
+  worth looking into...
+  
+  Close call.<5 Type='0'/> I was just about to demolish it.<FontSize Value='100'/>
+talk_08: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='0a005400680069006e006b00'/><0 Type='3' Data='0200'/><FontSize Value='80'/>I won't be letting anyone know I was just about to up
+  and demo that thing.
+  
+  I mean, it was in the way. Any longer and I'd have
+  split it clean in two...<FontSize Value='100'/><0 Type='3' Data='ffff'/>
+talk_37: |
+  <FontSize Value='80'/><3 Type='0' Data='0c00'/>I usually just mind my business,<5 Type='1'/> but hearing that the
+  princess might have been found is exciting!
+  
+  I have to get a look!<FontSize Value='100'/>
+talk_09: |
+  <FontSize Value='80'/><3 Type='0' Data='0c00'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>That bigwig? Wortsworth?<5 Type='0'/> He was looking at the
+  <0 Type='3' Data='0000'/>stone tablet <0 Type='3' Data='ffff'/>in the base of this thing before taking
+  off for <0 Type='3' Data='0000'/>Kakariko Village<0 Type='3' Data='ffff'/>.
+  It would've been nice if he had just taken this
+  massive obstruction with him though...
+  
+  <4 Type='0' Data='10005400680069006e006b005f0030003000'/>If it falls down, it'll be dangerous. <5 Type='0'/>Plus, it's in the
+  way, so I want to demo it.
+  
+  But that lady from the Zonai Survey Team is standing
+  watch. <5 Type='0'/>If I mess with it, she'll probably send me
+  soaring straight into Death Mountain.<FontSize Value='100'/>
+Talk_2_5: |
+  <FontSize Value='80'/><3 Type='0' Data='0c00'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>How odd...<5 Type='0'/> This place was the royal family's
+  shelter, so they'd probably have a hidden
+  pathway. <5 Type='0'/>Even so...<FontSize Value='100'/>
+talk_16: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='08004500610073006500'/>Whew!<5 Type='0'/> The rain sure is chilly, huh?
+Near_02: |
+  That was close.
+Enokida: |
+  Yo, President!
+Talk_2_6: |
+  <FontSize Value='80'/><3 Type='0' Data='0c00'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>I bet it's deteriorated pretty badly in there... Just
+  strolling on in is probably a bad idea.
+  
+  Still, I'm dying to know if it leads to where I think
+  it does.<FontSize Value='100'/>
+Talk_2_7: |
+  <FontSize Value='80'/><3 Type='0' Data='0c00'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>If this place is the royal family's emergency shelter,
+  then it would make sense for them to have a
+  secret corridor.
+  But maybe I miscalculated something...<FontSize Value='100'/>
+Near_04: |
+  It didn't break apart...

@@ -1,0 +1,182 @@
+GoalPoint_01: |
+  <3 Type='0' Data='0b00'/>Well! <5 Type='1'/>Never thought I'd run into someone
+  else all the way out here.
+  
+  <3 Type='0' Data='0000'/>This cliff crumbled during <0 Type='3' Data='0000'/>the Upheaval<0 Type='3' Data='ffff'/>,
+  so this is as far as anyone can go.
+  
+  It's so bad that it put <0 Type='3' Data='0000'/>Gerudo Canyon
+  Stable<0 Type='3' Data='ffff'/> up ahead out of business.
+  
+  If you were hoping to find a place to rest
+  and restock, <0 Type='3' Data='0000'/>Kara Kara Bazaar <0 Type='3' Data='ffff'/>out <0 Type='3' Data='0000'/>toward
+  the desert <0 Type='3' Data='ffff'/>is your only option.
+  <3 Type='0' Data='0700'/>But the temperature in the desert shifts
+  from <0 Type='3' Data='0000'/>extreme heat to extreme cold<0 Type='3' Data='ffff'/>, and
+  walking through sand is a challenge.
+  If you want to cook something to prepare
+  yourself, you're welcome to use my pot.
+GoRange_01: |
+  <3 Type='0' Data='0a00'/>Traveling in the desert is really tough.
+  
+  
+  Take one step off the road and you'll be
+  up to your knees in sand. If you plan on
+  walking, plan on walking slow.
+  Honestly, it almost makes me wish I'd
+  thought ahead and borrowed a <0 Type='3' Data='0000'/>sand seal<0 Type='3' Data='ffff'/>
+  right at the start.
+  <3 Type='0' Data='0700'/>But I swore to myself that I was going to
+  take this investigation one step at a time,<5 Type='1'/>
+  and I meant that literally.
+GoRange_02_2: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>I still can't believe the ravine road is
+  blocked. The Upheaval messed things
+  up even worse than I imagined.
+  If you need to get to the Digdogg
+  Suspension Bridge, you're going to
+  have to use the new road.
+SavedLv3_01: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='0e0045006100730065005f0030003000'/>That really surprised me there...<5 Type='0'/>
+  Talk about ferocious.
+GoRange_02: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='0c005300610064005f0030003100'/>The old cliff in this area crumbled during
+  the Upheaval.
+  
+  The debris completely blocked off the
+  road I used to walk.
+  
+  Luckily, they made a new one. If you're
+  going to the Digdogg Suspension Bridge,
+  use that.
+BackRange_01_2: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='0c004c0061007500670068005300'/>I didn't come all this way only for my
+  investigation to end up half-baked.<0 Type='4'/>Even if the sand trips me up and the
+  wild temperature changes alternately
+  freeze and fry me...
+  I swear I'll unlock the mysteries of
+  that <0 Type='3' Data='0000'/>geoglyph<0 Type='3' Data='ffff'/>!
+Thanks00: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0a0048006100700070007900'/>It's a good thing you swooped in when
+  you did! You saved me!
+  
+  Here, let me give you a little something to
+  thank you.
+StartPoint_01: |
+  <3 Type='0' Data='0700'/>You came to see the <0 Type='3' Data='0000'/>geoglyph<0 Type='3' Data='ffff'/> too?<0 Type='4'/>Well, this is the perfect spot. There's a
+  <0 Type='3' Data='0000'/>clear view of the whole thing<0 Type='3' Data='ffff'/> from here.<0 Type='4'/>I just...don't know what it's supposed to
+  depict.<5 Type='1'/> It looks kind of like a person. <5 Type='1'/>Or
+  maybe a monster?<5 Type='1'/>
+  <3 Type='0' Data='0c00'/>I want to get closer, but walking through
+  the desert is tough, especially with the
+  extreme temperature fluctuations.
+  If you try heading over there, make sure
+  you're well prepared.
+SavedLv1_00: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='08004500610073006500'/>Phew... I have to admit, that took me
+  by surprise.
+StartPoint_01_2: |
+  <3 Type='0' Data='0700'/>What's up?<5 Type='0'/> Ah, that <0 Type='3' Data='0000'/>geoglyph<0 Type='3' Data='ffff'/> really has a
+  hold on you, huh?<0 Type='4'/><3 Type='0' Data='0c01'/>I just wish I knew what it depicted. It's
+  sort of person-like...<5 Type='1'/>but also sort of
+  monster-like too.<5 Type='1'/>
+  I want to get closer, but with these wild
+  temperature fluctuations, walking through
+  all that sand would be misery.
+  If you go, just make sure you're prepared.
+SavedLv1_01: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='08004500610073006500'/>Th-that was kind of scary. I wasn't
+  expecting an attack.
+Atacked00: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='14005000610069006e00660075006c005f0030003000'/>Ngh... I didn't expect an attack here.<5 Type='0'/>
+  I can't drive them away!
+Atacked01: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='0e005000610069006e00660075006c00'/>Ugh. How'd I end up in a mess like this?
+BackRange_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='08004500610073006500'/>Phew... <5 Type='1'/> I finally made it.<0 Type='4'/>You did too, huh? Great work.<0 Type='4'/>The desert has a way of tripping you up.
+  Traveling through it takes time, even in
+  the best of circumstances.
+  <3 Type='0' Data='0700'/>I'm guessing you're here to see
+  the <0 Type='3' Data='0000'/>geoglyph<0 Type='3' Data='ffff'/>?<0 Type='4'/>So am I! Want to go take a look at
+  it together?
+Near_BackRange_01: |
+  Another place, changed...
+RestPoint_01_2: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>I think I'll rest a little longer and then
+  set out.
+  
+  <3 Type='0' Data='0300'/>I'm not really looking forward to trudging
+  through the <0 Type='3' Data='0000'/>desert sands<0 Type='3' Data='ffff'/> or dealing with
+  <0 Type='3' Data='0000'/>Gerudo Canyon<0 Type='3' Data='ffff'/> elevation differences.
+  But maybe the <0 Type='3' Data='0000'/>extreme temperature
+  changes between day and night<0 Type='3' Data='ffff'/> will
+  distract me from all that...
+BackRange_02: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>Oh?<5 Type='1'/> Hey, are you lost?<0 Type='4'/>If you're looking for Gerudo Canyon
+  Stable, I'm afraid it's closed.<0 Type='4'/>If you need to rest, your only real option
+  now is <0 Type='3' Data='0000'/>Kara Kara Bazaar<0 Type='3' Data='ffff'/>, which is down
+  this road toward the desert.
+  <3 Type='0' Data='0700'/>As for me, I've got a <0 Type='3' Data='0000'/>geoglyph <0 Type='3' Data='ffff'/>to
+  investigate, so that's where I'm headed.<0 Type='4'/>Who knows? Maybe I'll see you again.
+Near_GoRange_02: |
+  I should rent a sand seal...
+Near_BackRange_02: |
+  First, to Kara Kara Bazaar.
+GoRange_01_2: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/><0 Type='3' Data='0000'/>Sand seals<0 Type='3' Data='ffff'/> can move really fast in the
+  desert. It's like they're swimming over
+  the dunes!
+  I won't be doing any of that though. Just
+  trudging along, my feet sinking into the
+  sand. All for my investigation...
+SavedLv2_00: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='08004500610073006500'/>Ugh, that was so scary. Once they
+  attacked, I didn't know what to do...
+Failed00: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='0c005300610064005f0030003000'/>How awful, attacking me out of the blue...
+  I couldn't even fight back.
+RestPoint_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0e0045006100730065005f0030003100'/>Phew... I'm taking a little break.<0 Type='4'/>Honestly, you should too. Getting here
+  can't have been easy.<0 Type='4'/><3 Type='0' Data='0a00'/>As if the <0 Type='3' Data='0000'/>desert sand<0 Type='3' Data='ffff'/> isn't bad enough,
+  the elevation differences in <0 Type='3' Data='0000'/>Gerudo
+  Canyon<0 Type='3' Data='ffff'/> really take it out of you.
+  Then there's the<0 Type='3' Data='0000'/> harsh heat of the day
+  and biting cold of the night<0 Type='3' Data='ffff'/>. If I weren't
+  pacing myself, I'd probably keel over.
+  <3 Type='0' Data='0700'/>It's important to listen to your body, and
+  that includes resting once in a while!
+BackRange_02_2: |
+  <3 Type='0' Data='0700'/>The nearby Gerudo Canyon Stable isn't
+  accepting visitors anymore.<0 Type='4'/>So if you need rest, why not follow the
+  road to the desert and make your way
+  to <0 Type='3' Data='0000'/>Kara Kara Bazaar<0 Type='3' Data='ffff'/>?
+  <3 Type='0' Data='0700'/>Meanwhile, I'll be heading over to the
+  <0 Type='3' Data='0000'/>geoglyph <0 Type='3' Data='ffff'/>for a little eyes-on research.<0 Type='4'/>See you again, maybe?
+Near_RestPoint_01: |
+  I'm beat...
+SavedLv2_01: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='100041006e006700720079005f0030003000'/>Good grief! I was in big trouble!
+Failed01: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='0c005300610064005f0030003000'/>How merciless can they be? Scary...
+GoalPoint_01_2: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a005400680069006e006b00'/>Crumbling cliffsides, <0 Type='3' Data='0000'/>extreme shifts in
+  temperature<0 Type='3' Data='ffff'/>... Did anything escape the
+  effects of <0 Type='3' Data='0000'/>the Upheaval<0 Type='3' Data='ffff'/>?
+  <0 Type='3' Data='0000'/>Gerudo Canyon Stable <0 Type='3' Data='ffff'/>couldn't get
+  enough customers to keep itself
+  afloat anymore.<0 Type='4'/>If you're looking for someplace to stock
+  up and collect yourself, head <0 Type='3' Data='0000'/>toward the
+  desert<0 Type='3' Data='ffff'/> and <0 Type='3' Data='0000'/>Kara Kara Bazaar<0 Type='3' Data='ffff'/>.
+EnokidaSignboard: |
+  Ah, "son and done," right?
+Greeting: |
+  <3 Type='0' Data='0b00'/>Pat yourself on the back for making it
+  here. That's no mean feat.
+Near_GoalPoint_01: |
+  What's it supposed to be?
+SavedLv3_00: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1000540069007200650064005f0030003000'/>*pant* *pant* That was no joke. I was in
+  real trouble there...
+Guardian00: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='0a0053006300610072006500'/>Wh-what can we do against a monster
+  like this?!

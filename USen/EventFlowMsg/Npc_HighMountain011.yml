@@ -1,0 +1,71 @@
+Talk2005: |
+  <3 Type='0' Data='0700'/>I'm just about finished inspecting the
+  repaired bridge. <5 Type='0'/>I'd be done by now if it
+  wasn't for this rain.
+0004: |
+  Where's Tulin?
+Talk007: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Thanks for helping to keep our food
+  supplies intact. I'll deliver them to the
+  village as soon as I've packed them up.
+Talk013: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Hey. I owe you for opening up that cave
+  the last time we met.<0 Type='4'/><3 Type='0' Data='0101'/>Thanks to you, all the food I collected
+  made it back to the village. They needed
+  it too!<0 Type='4'/>I wish I could say everything is fine now
+  that the snow has stopped...<5 Type='0'/>but I need to
+  check for any damage to the bridges.
+  <3 Type='0' Data='0001'/>The last thing we want is any more
+  bridges collapsing.
+0005: |
+  Goodbye.
+Talk014: |
+  <3 Type='0' Data='0700'/>I wish I could say everything is fine now
+  that the snow has stopped...<5 Type='0'/>but I need to
+  check for any damage to the bridges.
+  <3 Type='0' Data='0001'/>The last thing we want is any more
+  bridges collapsing.
+Talk015: |
+  <3 Type='0' Data='0700'/>From my initial inspection, none of the
+  other bridges look too seriously damaged.<0 Type='4'/>But it couldn't hurt to inspect them again
+  just to be sure.
+near2002: |
+  Hmph. It's raining again.
+Talk016: |
+  <3 Type='0' Data='0700'/>It's cold outside the cave. Keep yourself
+  warm, OK?
+Near12: |
+  Are the bridges OK?
+Near13: |
+  I'm glad it's fixed.
+Talk017: |
+  <3 Type='0' Data='0700'/>I'm relieved that the snow has stopped
+  and the bridge is repaired.<0 Type='4'/>I went around checking the other bridges
+  too, and none of the rest seemed to have
+  been damaged by the blizzard.<0 Type='4'/><3 Type='0' Data='0001'/>With the bridge inspections behind me,
+  I can go back to guarding the village.
+Talk018: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>I went around checking the other bridges
+  too, and none of the rest seemed to have
+  been damaged by the blizzard.<0 Type='4'/>With the bridge inspections behind me,
+  I can go back to guarding the village.
+Near09: |
+  The food seems safe.
+Talk019: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Hey, I owe you one for helping open up
+  that cave.<0 Type='4'/><3 Type='0' Data='0101'/>Thanks to you, all the food I collected
+  made it back to the village. They needed
+  it too!<0 Type='4'/><3 Type='0' Data='0001'/>I'm relieved that the snow has stopped
+  and the bridge is repaired.<0 Type='4'/>I went around checking the other bridges,
+  too, and none of the rest seemed to have
+  been damaged by the blizzard.<0 Type='4'/><3 Type='0' Data='0001'/>With the bridge inspections behind me,
+  I can go back to guarding the village.
+Talk2002: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0600530061006400'/>I was in the middle of inspecting the
+  bridges, but I'll have to get back to it
+  after the rain stops. <5 Type='0'/>Guess it's break time.
+Talk010: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0e0045006100730065005f0030003100'/>We're lucky the cave-in didn't extend
+  farther inside.<0 Type='4'/><3 Type='0' Data='0001'/>Also that the food I collected is still intact.
+  I need to pack it up and hurry it over to
+  the village.

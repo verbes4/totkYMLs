@@ -1,0 +1,32 @@
+Talk_09: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Fancy seeing you here again.<5 Type='0'/> Hello, hello!
+Talk_11: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>We meet again!<5 Type='0'/> Look at you, working so
+  hard in this rainy weather!
+Talk_27: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='0a0048006100700070007900'/>That's more like it.<5 Type='0'/> Now you have room
+  for this!
+NakedPlayer: |
+  Just wearing that today?
+Talk_30: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Huh?<5 Type='0'/> Did you come out to see the
+  Skyview Tower?
+Talk_12: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Hello again!<5 Type='0'/> And good evening!
+Talk_21: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Aha! You've come to this Skyview Tower
+  too?<5 Type='0'/> Pretty late to be working so hard,
+  and in rainy weather on top of it!
+Talk_28: |
+  <3 Type='0' Data='0b01'/>Huh?<5 Type='1'/> Your bag is stuffed full!
+Enokida: |
+  Good work!
+Talk_08: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>We meet again.<5 Type='0'/> Good morning!
+Talk_10: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Hello there.<5 Type='0'/> So you came to see the 
+  Skyview Tower too?<5 Type='0'/> It's a bit late to be
+  working, isn't it?
+Talk_26: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0600530061006400'/>How am I supposed to give you this dish?<5 Type='0'/>
+  Get your bag in order, will ya?

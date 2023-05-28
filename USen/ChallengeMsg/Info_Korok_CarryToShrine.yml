@@ -1,0 +1,29 @@
+Name: |
+  A Pretty Stone and Five Golden Apples
+Carry: |
+  You gave five golden apples to Damia. He
+  was pleased to have so much of his
+  favorite food.
+  
+  Then, as promised, he gave you the <0 Type='3' Data='0000'/>pretty
+  green stone that emits light<0 Type='3' Data='ffff'/>.
+Crystal: |
+  Damia gave you a pretty stone that shines
+  green. It seems that you can enter a Shrine of
+  Light if you offer up the crystal.
+  
+  Follow the ray of light, and offer up the crystal
+  at the shrine.
+Step01: |
+  Damia has a pretty green stone that emits
+  light. He says he'll trade it to you for <0 Type='3' Data='0000'/>five
+  golden apples<0 Type='3' Data='ffff'/>.
+  
+  He says there are trees where the golden
+  apples grow on the north side of a bottomless
+  bog called Mido Swamp. If you follow the path
+  by Damia deep into the woods, you'll find it.
+Complete: |
+  The pretty stone from Damia emitted a light that
+  led you to a shrine. When you presented the
+  stone, a Shrine of Light appeared.

@@ -1,0 +1,47 @@
+talk_1010: |
+  <3 Type='0' Data='0700'/>Hey there!<0 Type='4'/>This place is an old abandoned mine.
+  Way back when, they used to refine all
+  sorts of stuff here.<5 Type='0'/>
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Things like these cool, super rare
+  "crystallized charges." And you can still
+  find 'em around these parts!<5 Type='0'/>
+  Take a look—doesn't it feel like there's
+  something hidden inside them?<5 Type='0'/><0 Type='4'/>My friends are the ones who told me
+  about these crystals, so I'm trying to lug
+  a few back for 'em.<5 Type='0'/>
+talk_1011: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>Hm?<5 Type='0'/> Who are my friends, you ask?<5 Type='0'/>
+  Why, that's obvious!
+talk_1040: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Oh, did you come to help me out?<5 Type='0'/><0 Type='4'/><3 Type='0' Data='0300'/>I hate to tell you after you came all the
+  way down here, but I'm done already.<5 Type='0'/>
+  Abandoned-mine duties complete!<0 Type='4'/><3 Type='0' Data='0700'/>But I bet some of our friends in the other
+  abandoned mines could use a hand!
+talk_1012: |
+  <3 Type='0' Data='0700'/>The rest of the Yiga Clan!
+talk_1041: |
+  <3 Type='0' Data='0700'/>Seriously, we're all good here.<5 Type='0'/> Don't be
+  shy about heading out!<0 Type='4'/>I've also got some friends lying in wait
+  in case you-know-who shows up!
+talk_1020: |
+  <3 Type='0' Data='0900'/><FontSize Value='125'/>Everyone, attack! He's here!<FontSize Value='100'/><1 Type='3' Data='5a000000'/>
+talk_1021: |
+  <FontSize Value='125'/><3 Type='0' Data='0900'/>We will have our vengeance!<1 Type='3' Data='5a000000'/><FontSize Value='100'/>
+near_0000: |
+  Worked up quite a sweat!
+talk_1000: |
+  <3 Type='0' Data='0800'/>All right, that should be far enough.
+talk_1001: |
+  <3 Type='0' Data='0800'/>There. That should do it.
+0000: |
+  What's up?
+talk_1030: |
+  <3 Type='0' Data='0c00'/>I moved the crystals I took from here...<5 Type='0'/>
+  and I left behind some notes about some
+  things that caught my eye.<5 Type='0'/>
+0001: |
+  I'll leave you alone.
+talk_1031: |
+  <3 Type='0' Data='0c01'/>Now there's just one thing left to do...
+talk_1032: |
+  <3 Type='0' Data='0700'/>Put an end to this blasted hero!

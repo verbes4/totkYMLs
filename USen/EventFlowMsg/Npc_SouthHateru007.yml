@@ -1,0 +1,321 @@
+Talk14: |
+  <3 Type='0' Data='0800'/>Well, take care!<5 Type='0'/> Let's keep our goodbyes
+  short so a monster doesn't surprise us. 
+Talk23_01: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='0c004c0061007500670068005300'/>On second thought, you deserve more
+  than that. <5 Type='0'/>Here!
+Moon_00: |
+  <3 Type='0' Data='0800'/>Tonight is a red moon! At last...<5 Type='0'/>
+  A <0 Type='3' Data='0000'/>blood moon<0 Type='3' Data='ffff'/>!
+  
+  Hurry!<5 Type='0'/> I want to observe the blood moon
+  from a better vantage point.
+Talk15: |
+  <3 Type='0' Data='0800'/>Well, I'm off!<5 Type='0'/> I don't want to stick around
+  for a monster to catch me.
+Moon_01: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>Tonight the moon begins to wane...
+  
+  
+  Mmm.<5 Type='0'/> The moon's fullness may now be
+  receding, but I find her no less beautiful.
+Talk16: |
+  <3 Type='0' Data='0800'/>Well, you'll have to excuse me!<5 Type='0'/> It seems
+  dangerous to stick around, don't
+  you think?
+Talk17: |
+  <3 Type='0' Data='0001'/>You might be wondering how I got here.
+  
+  
+  <3 Type='0' Data='0c00'/>A fine question!<5 Type='0'/> To explain, I must tell you
+  about...<5 Type='0'/>the <0 Type='3' Data='0000'/>blood moon<0 Type='3' Data='ffff'/>!
+  
+  Some nights, no matter the moon's phase,
+  it rises full and red. Precisely at midnight,
+  the whole sky turns crimson.
+  <3 Type='0' Data='0901'/><4 Type='0' Data='1200530075007200700072006900730065004c00'/>And then...<5 Type='1'/>defeated monsters appear
+  again!<5 Type='1'/> There you have it.
+  
+  <FontSize Value='125'/>The <0 Type='3' Data='0000'/>blood moon<0 Type='3' Data='ffff'/>!<FontSize Value='100'/>
+  
+  
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a005400680069006e006b00'/>It is my life's work to research this event.
+  Why do the monsters revive?<5 Type='0'/> What
+  connects them to the <0 Type='3' Data='0000'/>blood moon<0 Type='3' Data='ffff'/>?
+  I thought if I studied the monsters'
+  ecology, I would discover something...
+  
+  <3 Type='0' Data='0a00'/>But I got too close, and here I am.
+Moon_02: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>Tonight is the third-quarter moon...
+  
+  
+  Mmm.<5 Type='0'/> Are you lonely, my moon, with only
+  half of yourself for company?
+Talk18: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='0c004e006f007400690063006500'/>Hm...<5 Type='0'/> Your pouch is full.
+  
+  
+  In that case, why don't you just take
+  this instead?
+Moon_03: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>Tonight is a waning crescent moon...
+  
+  
+  Mmm. <5 Type='0'/>The new moon will be here
+  tomorrow.<5 Type='0'/> I must admit, it breaks my
+  heart to say goodbye to each old moon.
+Moon_Full: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>Tonight is a full moon...
+  
+  
+  Mmm.<5 Type='0'/> I can feel the moonlight pouring
+  down, cleansing my spirit...
+Moon_04: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>Tonight is a new moon...
+  
+  
+  Mmm.<5 Type='0'/> The new moon is hesitant to show
+  herself. Perhaps she's shy?
+BloodyTalk_00: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='0a0054006900720065006400'/><0 Type='3' Data='0000'/>It...<5 Type='0'/>it's here!<5 Type='0'/> Can you feel it?! <5 Type='0'/>This is it!<5 Type='1'/>
+  <4 Type='0' Data='12004c0061007500670068004c005f0030003000'/>THE BLOOD MOON!<0 Type='3' Data='ffff'/>
+BloodyNear_01: |
+  Bl...bl...bl...
+Talk20: |
+  <3 Type='0' Data='0101'/>Please, take this for saving me.<5 Type='0'/>
+  
+  
+  <3 Type='0' Data='0001'/><4 Type='0' Data='0c004e006f007400690063006500'/>Hm...<5 Type='0'/> I was about to give you an elixir
+  made of monster parts, but it appears
+  your pouch is full.
+  Why don't you just take this instead?
+Moon_05: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>Tonight is a crescent moon...
+  
+  
+  Mmm.<5 Type='0'/> A golden arc through the sky...<5 Type='0'/>
+  She's beautiful, isn't she?
+BloodyTalk_01: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='0a0054006900720065006400'/><0 Type='3' Data='0000'/>The...the crimson moon! It's calling!
+  <4 Type='0' Data='12004c0061007500670068004c005f0030003000'/>It's calling meee!<0 Type='3' Data='ffff'/>
+BloodyNear_02: |
+  Bl...blood...blooood...
+Moon_06: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>Tonight is a first-quarter moon...
+  
+  
+  Mmm.<5 Type='0'/> Doesn't she look like a celestial
+  bow, eager to shoot the sun?<5 Type='0'/>
+  What courage.
+BloodyTalk_02: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='0a0054006900720065006400'/><0 Type='3' Data='0000'/>My blood...it's roiling! <5 Type='0'/>Roaring!<5 Type='0'/> Raging!<5 Type='0'/><0 Type='4'/><4 Type='0' Data='12004c0061007500670068004c005f0030003000'/><FontSize Value='125'/>AAAAAAAAAGGGHHH!<FontSize Value='100'/><0 Type='3' Data='ffff'/>
+Talk22: |
+  <3 Type='0' Data='0700'/>I found that stunning ore on the very day
+  you rescued me. <5 Type='0'/>Oh, how it sparkled!
+  
+  I was keeping it as a good luck charm,
+  but now I leave it with you.
+Moon_07: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>Tonight is the 13th-day moon...
+  
+  
+  Mmm.<5 Type='0'/> She grows larger every day on her
+  path to fullness.
+Near: |
+  Oh!
+Talk23: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>You want another? All right...
+Moon_After: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>Last night was amazing, wasn't it?
+  The moon was so red and beautiful...
+  
+  <3 Type='0' Data='0801'/>It makes me feel alive!<5 Type='0'/> What could cause
+  such a remarkable phenomenon?
+  
+  There are still so many mysteries to solve.
+  I will eagerly await the blood moon's
+  next visit.
+BloodyTalk_04: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003100'/><0 Type='3' Data='0000'/>Guh...<5 Type='0'/> Gyuh...<5 Type='0'/> Gyuuuh...<5 Type='1'/>
+  
+  
+  <4 Type='0' Data='12004c0061007500670068004c005f0030003000'/><FontSize Value='125'/>BLOOOOOOD!<FontSize Value='100'/><0 Type='3' Data='ffff'/>
+Talk24: |
+  <3 Type='0' Data='0201'/><4 Type='0' Data='120057006f0072006b0048006500610076007900'/>No... <5 Type='0'/>That's not enough to properly
+  convey my gratitude! <5 Type='0'/>Here!
+BloodyTalk_05: |
+  <4 Type='0' Data='1000540069007200650064005f0030003000'/>Urgh... <5 Type='1'/>AGH!<5 Type='0'/> The <0 Type='3' Data='0000'/>blood moon<0 Type='3' Data='ffff'/>, it's...<5 Type='0'/>
+  GAAAH!
+Talk25: |
+  <3 Type='0' Data='0000'/>Oh...<5 Type='0'/> Did I fill up your pouch?
+  
+  
+  I was going to give you another one, but...<5 Type='1'/>
+  please, take this instead.
+BloodyTalk_06: |
+  <4 Type='0' Data='0c005300610064005f0030003100'/>Here...<5 Type='1'/> For setting me free...<5 Type='0'/> Take it!
+Talk26: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='0a005400680069006e006b00'/>Hmmm...<5 Type='1'/> I could have sworn I'd escaped.
+  I suppose that was just a momentary
+  delusion. Alas!
+  Say, you there.<5 Type='0'/> Would you mind breaking
+  me out of this cell?
+BloodyTalk_07: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1200530075007200700072006900730065004d00'/>It...<5 Type='1'/>it's coming! <5 Type='0'/>The <0 Type='3' Data='0000'/>blood moon<0 Type='3' Data='ffff'/>!
+Moon_Before: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>Tonight's moon...<5 Type='0'/> I have a feeling that it
+  might be red!
+  
+  <3 Type='0' Data='0001'/>So please hurry up. <5 Type='0'/>This is a terrible spot
+  for me to conduct my observations.
+Talk01: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0a0048006100700070007900'/>Thank you! I'm saved!<5 Type='0'/> I despaired thinking
+  no one would find me here!
+Talk02: |
+  <3 Type='0' Data='0001'/>You might be wondering how I got here.
+  
+  
+  <3 Type='0' Data='0c00'/>A fine question!<5 Type='0'/> To explain, I must tell you
+  about...<5 Type='0'/>the <0 Type='3' Data='0000'/>blood moon<0 Type='3' Data='ffff'/>!
+  
+  Some nights, no matter the moon's phase,
+  it rises full and red. Precisely at midnight,
+  the whole sky turns crimson.
+  <3 Type='0' Data='0901'/><4 Type='0' Data='1200530075007200700072006900730065004c00'/>And then...<5 Type='1'/>defeated monsters appear
+  again!<5 Type='1'/> There you have it.
+  
+  <FontSize Value='125'/>The <0 Type='3' Data='0000'/>blood moon<0 Type='3' Data='ffff'/>!<FontSize Value='100'/>
+  
+  
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a005400680069006e006b00'/>It is my life's work to research this event.
+  Why do the monsters revive?<5 Type='0'/> What
+  connects them to the <0 Type='3' Data='0000'/>blood moon<0 Type='3' Data='ffff'/>?
+  I thought if I studied the monsters'
+  ecology, I would discover something...
+  
+  <3 Type='0' Data='0a00'/>But I got too close, and here I am.
+Talk03: |
+  <3 Type='0' Data='0800'/>You saved me again!<5 Type='0'/> Thank you!
+  
+  
+  <3 Type='0' Data='0c01'/>The sky turning red... Slain monsters
+  returning to life...
+  
+  I want to unravel the mysteries of the
+  <0 Type='3' Data='0000'/>blood moon<0 Type='3' Data='ffff'/>. <5 Type='0'/>Unfortunately, going to the
+  moon to investigate has proven difficult.
+  <3 Type='0' Data='0701'/>That being the case, I decided to research
+  by closely observing the monsters in their
+  natural habitat.
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0c004c0061007500670068004c00'/>But it looks like I got too close!<5 Type='0'/> Again!
+Moon_Rain_01: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>Rain tonight...
+  
+  
+  Mmm.<5 Type='0'/> Whenever the moon is hidden,
+  I don't feel like myself.
+Talk04: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='08004500610073006500'/>Phew! Thank you for rescuing me. <5 Type='0'/>Again!
+  
+  
+  <3 Type='0' Data='0501'/>I'm sorry this keeps happening. But when
+  I dig into a mystery, I just can't let go.
+  
+  <3 Type='0' Data='0c01'/>Why do the monsters revive when the
+  <0 Type='3' Data='0000'/>blood moon<0 Type='3' Data='ffff'/> rises...
+  
+  I'll do whatever it takes to figure it out.
+  And if that means sneaking into their dens
+  again<5 Type='0'/> and again<5 Type='0'/> and again...
+  <3 Type='0' Data='0a00'/>Ahem.<5 Type='0'/> But it looks like I wasn't as careful
+  as I thought.
+Moon_Rain_02: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>Do you think we'll see the moon tonight?
+  
+  
+  Mmm.<5 Type='0'/> I hope this rain lets up soon.
+Talk05: |
+  <3 Type='0' Data='0c00'/>*sigh* You saved me.<5 Type='1'/> Again.<3 Type='0' Data='0501'/> No, I'm
+  grateful. Really!
+  
+  <3 Type='0' Data='0b01'/>Huh?<5 Type='0'/> You think there's something I might
+  be missing?
+  
+  <3 Type='0' Data='0401'/>Hmm...<5 Type='0'/> Let me think...
+  
+  
+  <3 Type='0' Data='0700'/>Well, the biggest monster seemed to be
+  in charge...<5 Type='0'/> That's about it.
+  
+  <FontSize Value='80'/>But that doesn't get me any closer to understanding
+  the blood moon.<FontSize Value='100'/>
+  
+  <3 Type='0' Data='0101'/>In any case, I'm saved! Thanks...<5 Type='0'/>again.
+Talk06: |
+  <3 Type='0' Data='0501'/><4 Type='0' Data='0c004e006f007400690063006500'/>I knew you would come!
+  
+  
+  You dispatch the monsters with such
+  impressive skill.
+  
+  <3 Type='0' Data='0c01'/>It's just...once the <0 Type='3' Data='0000'/>blood moon<0 Type='3' Data='ffff'/> rises,
+  they'll all come back.
+  
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Monsters...<5 Type='1'/> What in the world are they?
+Talk07: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='08004500610073006500'/>Thank you, thank you!<5 Type='0'/>
+  
+  
+  <3 Type='0' Data='0a01'/>I had no idea how I would escape this—
+  What would you call it? A monster fort?
+  
+  I thought I was destined for a monstrous
+  cook pot. I had almost given up hope!
+  
+  <3 Type='0' Data='0c01'/><FontSize Value='80'/>Huh...<4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/> What do monsters eat, anyway? Could be
+  worth investigating...
+  
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0a0048006100700070007900'/><FontSize Value='100'/>In any case,<5 Type='0'/> I can't thank you enough!<FontSize Value='80'/><FontSize Value='100'/>
+Talk08: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068004c00'/>I knew it!<5 Type='0'/> I just knew you'd rescue me!
+  
+  
+  <3 Type='0' Data='0101'/>You have my endless thanks...again.<5 Type='1'/>
+  And— Oh! I just realized something!
+  
+  <3 Type='0' Data='0800'/>With your assistance,<5 Type='0'/> I can devote
+  myself to researching the <0 Type='3' Data='0000'/>blood moon<0 Type='3' Data='ffff'/>
+  without fear.
+  It doesn't matter how many times I'm
+  captured and rescued...
+  
+  <3 Type='0' Data='0901'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>I'll never give up!
+  
+  
+  <3 Type='0' Data='0101'/>So keep up the good work.
+Talk09: |
+  <3 Type='0' Data='0101'/>Please, <5 Type='0'/>take this for saving me.
+Near00: |
+  Hmm...
+Talk10: |
+  <3 Type='0' Data='0501'/>And for your invaluable assistance with
+  my research...
+  
+  <3 Type='0' Data='0800'/>Take this as a token of my
+  heartfelt thanks.
+Near01: |
+  Let me out!
+Talk11: |
+  <3 Type='0' Data='0800'/>Well, I'm sure we'll meet again.<5 Type='0'/> Now
+  quick, let's split up before a monster
+  spots us!
+Talk12: |
+  <3 Type='0' Data='0800'/>Well, until next time.<5 Type='0'/> I'm getting out of
+  here before the monsters come back!
+Talk24_01: |
+  <3 Type='0' Data='0901'/><4 Type='0' Data='120057006f0072006b0048006500610076007900'/>No! <5 Type='0'/>I can't insult you with that pathetically
+  small show of thanks! <5 Type='0'/>Take this too!
+Talk13: |
+  <3 Type='0' Data='0800'/>Well, goodbye!<5 Type='0'/> Let's disappear before a
+  monster notices us.

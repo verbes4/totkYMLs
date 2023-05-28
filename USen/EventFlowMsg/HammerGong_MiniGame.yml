@@ -1,0 +1,179 @@
+Talk_56: |
+  <FontSize Value='125'/><3 Type='0' Data='0800'/><4 Type='0' Data='0e0045006100730065005f0030003000'/>That was a sound explosion!
+  
+  
+  <3 Type='0' Data='0100'/><FontSize Value='100'/>You rung that bell for all it's worth.
+  That was fantastic!<FontSize Value='125'/><FontSize Value='100'/>
+Talk_22: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>Great.<5 Type='0'/> This is all you.
+0010: |
+  I'm done.
+Talk_23: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0c005300610064005f0030003100'/>I get it...<5 Type='1'/> I'll clean things up here, then.
+0012: |
+  Let's ring that bell.
+Talk_24: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>Are you leaving?<5 Type='1'/><0 Type='4'/>I can't refund you your <0 Type='3' Data='0000'/>30 rupees <0 Type='3' Data='ffff'/>if
+  you go.
+0013: |
+  Yeah, I'm done.
+Talk_26: |
+  <3 Type='0' Data='0000'/>Throw something at it with as much
+  force as you can.<5 Type='1'/> Do that, and the
+  bell will answer.
+Talk_27: |
+  <3 Type='0' Data='0300'/>Oh yeah, also... <5 Type='0'/>I built this thing all on my
+  own, <5 Type='1'/>and parts ain't cheap, so I gotta
+  charge ya a fee. <5 Type='0'/>You get it.
+Talk_40: |
+  <3 Type='0' Data='0100'/>The trick to really ring it is to throw
+  somethin' real <0 Type='3' Data='0000'/>heavy<0 Type='3' Data='ffff'/>, real <0 Type='3' Data='0000'/>fast<0 Type='3' Data='ffff'/>.
+  
+  Now, show me what you've got!
+Talk_41: |
+  <3 Type='0' Data='0100'/>Here, take this.<5 Type='1'/> It's a thank-you for
+  giving that bell a good smack!
+Talk_42: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Wanna try the <0 Type='3' Data='0000'/>test of strength <0 Type='3' Data='ffff'/>again?<5 Type='1'/>
+  It'd be <0 Type='3' Data='0000'/>30 rupees<0 Type='3' Data='ffff'/>.
+Talk_43: |
+  <3 Type='0' Data='0100'/>But I know you can go even louder than
+  that!<5 Type='1'/> C'mon, make it sing.
+Talk_44: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Well, I can't refund your <0 Type='3' Data='0000'/>30 rupees<0 Type='3' Data='ffff'/>...<5 Type='0'/> You
+  sure you're done?
+Talk_10: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0c005300610064005f0030003100'/>Oh. You don't have enough rupees, huh?
+Talk_45: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Yup!<5 Type='1'/> Your goal is to make the <0 Type='3' Data='0000'/>bell<0 Type='3' Data='ffff'/> at the
+  top of this here tower ring as loud as
+  ya can.
+Talk_11: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='08004500610073006500'/>Whoa, I thought that was a monster
+  roaring.<5 Type='1'/> That bell sure is loud!
+Talk_46: |
+  <3 Type='0' Data='0701'/>Well, once you get it organized, come on
+  back and I'll give you a nice, shiny <0 Type='3' Data='0000'/>ruby<0 Type='3' Data='ffff'/>!
+0000: |
+  I'll do it.
+Talk_12: |
+  <3 Type='0' Data='0100'/>Ya did pretty OK...<5 Type='1'/>but you can do better.
+Talk_47: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Did you get your pouch all organized?<5 Type='0'/>
+  Then I've got an ore for you!
+0001: |
+  No, thanks.
+Talk_13: |
+  <3 Type='0' Data='0100'/>That was better than your last one!<5 Type='1'/> But I
+  bet you can hit it even harder.
+Talk_48: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Looks like your pouch is still full...
+0002: |
+  I'm done.
+Talk_14: |
+  <3 Type='0' Data='0100'/>That <5 Type='0'/>was impressive. <5 Type='1'/>This is for you!
+Talk_49: |
+  <3 Type='0' Data='0701'/>Well, once you get it organized, come on
+  back and I'll give you a nice, shiny <0 Type='3' Data='0000'/>topaz<0 Type='3' Data='ffff'/>!
+0003: |
+  I'll keep trying.
+Talk_15: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>Come back soon, yeah?
+0004: |
+  Test of strength?
+Talk_16: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Maybe you need some ringing practice.
+  <5 Type='1'/>Take all the time ya need.
+Talk_17: |
+  <3 Type='0' Data='0801'/>So loud!<5 Type='0'/> I love it!<5 Type='1'/> I could sit here all day
+  listenin' to you doin' that.
+Talk_18: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Hoho, that musta been at least <0 Type='3' Data='0000'/><2 Type='16' Data='1c004d0069006e006900470061006d0065005f00530063006f0072006500ffff0001'/><0 Type='3' Data='ffff'/> on
+  the <0 Type='3' Data='0000'/>mega-ding scale<0 Type='3' Data='ffff'/>.
+Talk_30: |
+  <3 Type='0' Data='0000'/>Why, you ask? <5 Type='0'/>Because I thought up a
+  great new game—a <0 Type='3' Data='0000'/>test of strength<0 Type='3' Data='ffff'/>!
+0007: |
+  Test of strength?
+Talk_19: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0e0045006100730065005f0030003100'/>I thought that was thunder, but then I
+  realized it was you!<5 Type='1'/> Today I learned what
+  that bell is capable of.
+  And what you're capable of!<5 Type='1'/> You're
+  amazing. My head is still ringing!
+Talk_31: |
+  <3 Type='0' Data='0000'/>Wanna give it a go?
+0008: |
+  No, thanks.
+Talk_32: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Heh, I made myself quite the tower, eh?<5 Type='1'/>
+  Just look at that.
+0009: |
+  Sure!
+Talk_33: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0c005300610064005f0030003100'/>Well, OK...<5 Type='1'/> Come by again when you
+  wanna put your strength to the test.
+Talk_34: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>Then head back to the tower,<5 Type='1'/> and get
+  to ringing!
+Talk_35: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>Well? Up for a <0 Type='3' Data='0000'/>test of strength<0 Type='3' Data='ffff'/>?
+Talk_01: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>And! <5 Type='0'/>I put that bell right on top.
+Talk_36: |
+  <3 Type='0' Data='0800'/>I was hoping you'd be back!
+Talk_37: |
+  <3 Type='0' Data='0000'/>Wanna take my <0 Type='3' Data='0000'/>test of strength<0 Type='3' Data='ffff'/>?<5 Type='0'/>
+  One try is <0 Type='3' Data='0000'/>30 rupees<0 Type='3' Data='ffff'/>.
+Talk_02: |
+  <3 Type='0' Data='0000'/>It's <0 Type='3' Data='0000'/>30 rupees<0 Type='3' Data='ffff'/> per try. <5 Type='0'/>Wanna give it a go?
+Balloon_01: |
+  Love a good ring.
+Talk_38: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>A visitor? In this weather? <5 Type='0'/>Wouldn't have
+  expected that.
+Talk_03: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>You giving up?!
+Balloon_02: |
+  You've got this.
+Talk_39: |
+  <3 Type='0' Data='0800'/>You even came here in the rain.
+Talk_04: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>Great. Lemme get things ready.
+Talk_50: |
+  <3 Type='0' Data='0701'/>Well, once you get it organized, come on
+  back and I'll give you a nice, sparkly <0 Type='3' Data='0000'/>opal<0 Type='3' Data='ffff'/>!
+Balloon_03: |
+  That sounded great.
+Talk_51: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Oh. Never mind. Your pouch is full.
+Talk_06: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>There's a <0 Type='3' Data='0000'/>bell<0 Type='3' Data='ffff'/> at the top of the tower,<5 Type='1'/>
+  and ya gotta ring it real loud.
+Talk_52: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>I wanna hear you make some racket
+  again!<5 Type='1'/> I can hardly wait.
+Talk_07: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Once you ring the bell, the game ends.<5 Type='0'/>
+  And you only get one ring per round.
+Talk_53: |
+  <3 Type='0' Data='0b00'/>That made me jump! That was you? <5 Type='1'/>Well
+  it sounded fantastic.<0 Type='4'/><3 Type='0' Data='0000'/>If you're into bells, I made a fun, little
+  <0 Type='3' Data='0000'/>test of strength<0 Type='3' Data='ffff'/> that uses one.<5 Type='1'/> Just let
+  me know if you're interested.
+Talk_54: |
+  <3 Type='0' Data='0800'/>Now that was a ring! Wanna try out my
+  <0 Type='3' Data='0000'/>bell-ringin' game<0 Type='3' Data='ffff'/>?
+Talk_20: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Wanna try my <0 Type='3' Data='0000'/>test of strength<0 Type='3' Data='ffff'/>?<5 Type='1'/> It's
+  <0 Type='3' Data='0000'/>30 rupees<0 Type='3' Data='ffff'/>.
+Talk_09: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0c005300610064005f0030003100'/>Aw...<5 Type='1'/> Well, you can come back if you feel
+  like giving that bell a good whack.
+Talk_55: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>You're welcome to all the stuff over there.<5 Type='1'/>
+  Some of it's left over from when I built
+  the tower.
+  And some of it's this weird <0 Type='3' Data='0000'/>junk<0 Type='3' Data='ffff'/> I didn't
+  really know what to do with... <5 Type='1'/>Anyway,
+  you can use whatever you want.

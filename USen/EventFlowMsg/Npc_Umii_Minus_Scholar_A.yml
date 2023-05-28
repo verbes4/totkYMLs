@@ -1,0 +1,35 @@
+Talk_0001: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003000'/>Ah! <5 Type='1'/>I didn't think we'd see anybody
+  else down here!<0 Type='4'/>Though I imagine you could say the same
+  to us, huh?
+Talk_0004: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Oh, hey, I thought we were the only ones
+  down he—<5 Type='1'/><0 Type='4'/><3 Type='0' Data='0000'/>Er,<5 Type='0'/> wait, no.<5 Type='0'/> I mean...
+Talk_0002: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Uhhh...<5 Type='0'/> You're here to investigate too,
+  right? <5 Type='0'/>Y'know, <5 Type='0'/>since you took the Yi—<5 Type='0'/> Er,
+  I mean, the survey-team interview?
+  Because we definitely took that interview
+  too. That's why we're here. Yep...
+  
+  <3 Type='0' Data='0800'/><4 Type='0' Data='12004c0061007500670068004c005f0030003000'/>Oh, uh, take a look at this! <5 Type='1'/>Our latest
+  discovery nearly knocked us off our feet.
+  
+  We found this weird device with these
+  wavering green letters on it, and this
+  <0 Type='3' Data='0000'/>strange statue<0 Type='3' Data='ffff'/>!
+  We think it's one of those living stone
+  <0 Type='3' Data='0000'/>constructs<0 Type='3' Data='ffff'/>. <5 Type='0'/>Pretty sure it's supposed to
+  move too.
+  Well, I say that...<5 Type='0'/>but it's all just conjecture
+  on my part.
+  
+  <3 Type='0' Data='0c00'/>Truth is, we're in a bit of a panic here.
+  If we don't figure out how this thing works
+  soon, we're going to be in big trouble.
+Talk_0003: |
+  <3 Type='0' Data='0c00'/>This <0 Type='3' Data='0000'/>strange statue<0 Type='3' Data='ffff'/>...<5 Type='0'/> It's got to be a
+  <0 Type='3' Data='0000'/>construct<0 Type='3' Data='ffff'/>, no doubt about it.
+  
+  I think it's supposed to move...<5 Type='0'/>but how
+  do we wake it up?

@@ -1,0 +1,41 @@
+Step3: |
+  You dug through the rocks deep inside the cave
+  and created a way for Selmie to get out. She
+  was able to return to her students and wants to
+  thank you at her lodge. <0 Type='3' Data='0000'/>You should be able to
+  find it northwest of Hebra Peak.<0 Type='3' Data='ffff'/>
+  
+  Look for the bonfire she keeps burning in front
+  of the lodge.
+Name: |
+  The Duchess Who Disappeared
+Step0: |
+  Former pro shield surfer Selmie has gone
+  missing after leaving her lodge to create a new
+  shield-surfing course. Her student Russ says
+  his buddy Fin is searching for Selmie on the
+  <0 Type='3' Data='0000'/>Biron Snowshelf to the west<0 Type='3' Data='ffff'/>. 
+  
+  Meet up with Fin there. You can find him by
+  looking for his smoke signals.
+Complete: |
+  You went to Selmie's lodge in the vicinity of
+  Hebra Peak, where Selmie offered a word of
+  thanks and gave you a reward. She also
+  accepted you as her third student and said to
+  visit anytime you want to shield surf.
+Step1: |
+  Former pro shield surfer Selmie has gone
+  missing after leaving her lodge to create a new
+  shield-surfing course. Her student Fin is looking
+  for her on the Biron Snowshelf and said that her
+  <0 Type='3' Data='0000'/>shield-surfing tracks come to an end <0 Type='3' Data='ffff'/>nearby.
+  
+  Where could Selmie be?
+Step2: |
+  While trying to develop a new course for shield
+  surfing, Selmie went into a cave and found that
+  she couldn't get back out through the entrance.
+  She's <0 Type='3' Data='0000'/>trapped in the cave<0 Type='3' Data='ffff'/>.
+  
+  Find some way to get Selmie out.

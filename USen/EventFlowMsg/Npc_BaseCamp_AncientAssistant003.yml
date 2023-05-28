@@ -1,0 +1,122 @@
+Talk_01: |
+  <3 Type='0' Data='0700'/>More like "chasms." You know, the creepy
+  openings in the ground. Ever since the
+  Upheaval, they're all over.
+  In this area, they're <0 Type='3' Data='0000'/>beneath Hyrule Castle<0 Type='3' Data='ffff'/>
+  and <0 Type='3' Data='0000'/>to the south of Lookout Landing<0 Type='3' Data='ffff'/>.
+  
+  I heard that members from the research
+  team went rooting around in some and
+  ended up in a bad way...
+  It's best to steer clear.
+Talk_02: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='08004500610073006500'/><FontSize Value='80'/>I'm glad I'm researching shrines and not
+  the chasms...<FontSize Value='100'/>
+Talk_10: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='0c004e006f007400690063006500'/>Huh? <5 Type='0'/>You mean, like the one right here?<5 Type='0'/>
+  
+  
+  <3 Type='0' Data='0701'/>When the shrines appeared, it caused
+  such a commotion that they landed in
+  the newspaper.
+  "<0 Type='3' Data='0000'/>Mysterious Shrines <0 Type='3' Data='ffff'/>Appear All Over the
+  World Overnight" was smack on the front
+  page, you know?
+  <3 Type='0' Data='0c00'/>So far we know they're from the age
+  of legends...
+  
+  But did they fall from the sky or emerge
+  from the ground?
+  
+  And just what ARE they, anyway?
+  
+  
+  <3 Type='0' Data='0700'/>Aside from the <0 Type='3' Data='0000'/>shrines<0 Type='3' Data='ffff'/>, we've also got the
+  <0 Type='3' Data='0000'/>chasms<0 Type='3' Data='ffff'/>, of course.<5 Type='0'/>
+  
+  To tell you the truth, we don't know squat
+  about all of the things that sprung up due
+  to the Upheaval.<5 Type='0'/>
+  But the shrines and chasms? They could
+  be dangerous. Which would be scary. So
+  we need to investigate them, pronto.
+Talk_11: |
+  <3 Type='0' Data='0b00'/>WAH! <5 Type='0'/>You scared me!<5 Type='0'/> What are you doing
+  in a place like this?
+Talk_05: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>The people from the search party are
+  putting in long hours at Hyrule Castle,
+  so I intend to do the same.
+Talk_06: |
+  <3 Type='0' Data='0b00'/>WHOA. <5 Type='0'/>Was that opening there before?<5 Type='0'/>
+  How could I have missed it...
+Talk_12: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004e006f007400690063006500'/>Huh? <5 Type='0'/>Um, what is it?<5 Type='0'/> We're close to the
+  <0 Type='3' Data='0000'/>chasm <0 Type='3' Data='ffff'/>here, so it's dangerous, you know?
+  
+  <3 Type='0' Data='0c01'/>For all I know, this <0 Type='3' Data='0000'/>shrine <0 Type='3' Data='ffff'/>could be
+  dangerous too.
+  
+  <3 Type='0' Data='0000'/>My point is, lots of things are
+  dangerous ever since the Upheaval.<5 Type='0'/>
+  So be careful, OK?
+Talk_13: |
+  <3 Type='0' Data='0b00'/>WAH! <5 Type='0'/>You scared me!<5 Type='0'/> What are you doing
+  out here in the rain?
+Talk_07: |
+  <3 Type='0' Data='0400'/>The Hyrule Castle<0 Type='3' Data='0000'/> chasm <0 Type='3' Data='ffff'/>is nearby.
+  It's dangerous, you know?
+  
+  <3 Type='0' Data='0c00'/>For all I know, this <0 Type='3' Data='0000'/>shrine<0 Type='3' Data='ffff'/> could be
+  dangerous too.<5 Type='1'/>
+  
+  <3 Type='0' Data='0701'/>I'd say MOST things are dangerous
+  these days, what with the Upheaval.<5 Type='0'/>
+  Watch your back.
+Talk_08: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004e006f007400690063006500'/>Did you need something from me?
+  
+  
+  The Hyrule Castle<0 Type='3' Data='0000'/> chasm <0 Type='3' Data='ffff'/>is nearby, so
+  my mind is on that at the moment. It's
+  dangerous, you know?
+  <3 Type='0' Data='0c00'/>For all I know, this <0 Type='3' Data='0000'/>shrine<0 Type='3' Data='ffff'/> could be
+  dangerous too.
+  
+  <3 Type='0' Data='0701'/>I'd say MOST things are dangerous
+  these days, what with the Upheaval.<5 Type='0'/>
+  Watch your back.
+Talk_14: |
+  <FontSize Value='80'/><3 Type='0' Data='0a01'/><4 Type='0' Data='0c005300610064005f0030003000'/>Ugh... I was at the castle town and saw <0 Type='3' Data='0000'/>something
+  strange moving around<0 Type='3' Data='ffff'/>...<0 Type='4'/>The people from the search party left, so I know
+  there's no one there now. I've got to wrap things
+  up and head back to Lookout Landing.<FontSize Value='100'/>
+Talk_09: |
+  <3 Type='0' Data='0b00'/>WAH! <5 Type='0'/>You scared me!<5 Type='0'/> What are you doing
+  at such an hour?
+0000: |
+  Chasm?
+Talk_15: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>It's dangerous around here because it's
+  near the Hyrule Castle <0 Type='3' Data='0000'/>chasm<0 Type='3' Data='ffff'/>.
+  
+  And...
+  
+  
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0c005300610064005f0030003000'/><0 Type='3' Data='0000'/>Something's moving around<0 Type='3' Data='ffff'/> in the <0 Type='3' Data='0000'/>castle
+  town<0 Type='3' Data='ffff'/>... I haven't really looked yet though.
+  Too scary.
+  It's probably best not to wander aimlessly
+  around here.
+  
+  I'm planning on finishing my shrine
+  investigations quickly so I can head
+  back to Lookout Landing.
+  <3 Type='0' Data='0c00'/><FontSize Value='80'/>If it came down to it, the monster-control crew at the
+  castle gates would help me...right?<FontSize Value='100'/>
+0001: |
+  Let's talk about shrines.
+near_00: |
+  Where to begin...
+0002: |
+  Goodbye.

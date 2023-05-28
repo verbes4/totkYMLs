@@ -1,0 +1,13 @@
+Repair: |
+  When you entered the Rebonae Bridge Well,
+  you found Dillie trapped inside. He says he
+  went down there to get something he dropped
+  and then the <0 Type='3' Data='0000'/>ladder broke<0 Type='3' Data='ffff'/>.
+  
+  Now he can't get back out.
+Name: |
+  Fell into a Well!
+Complete: |
+  You fixed the broken ladder. Having escaped
+  the well, Dillie headed off to Foothill Stable
+  after his traveling partner, Jora.

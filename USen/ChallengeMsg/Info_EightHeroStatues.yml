@@ -1,0 +1,20 @@
+Name: |
+  The Heroines' Secret
+Step1: |
+  A Gerudo archaeologist named Rotana told you
+  that there are stelae hidden in the shelter with
+  information about the seven Gerudo heroines,
+  and that she would like to see pictures of their
+  contents. Only by finding all of the stelae can
+  you piece together the heroines' secret.
+  
+  You must still find <0 Type='3' Data='0000'/><2 Type='2' Data='28004e0075006d005f00450069006700680074004800650072006f005300740061007400750065007300ffff00cd'/> <0 Type='3' Data='ffff'/><201 Type='6' Data='0a007300740065006c0061000c007300740065006c00610065000000'/>.
+Complete: |
+  You found all of the stelae and shared the
+  information with Rotana. She spoke of a place
+  deep in the shelter where statues of the
+  heroines can be found. By placing orbs in the
+  statues' arms, you may help solve the true
+  mystery of the heroines.
+  
+  You are apparently free to use Rotana's orb.

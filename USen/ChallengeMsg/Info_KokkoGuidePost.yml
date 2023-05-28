@@ -1,0 +1,15 @@
+Name: |
+  Follow the Cuccos
+step1: |
+  Trissa is at a loss. The local Cuccos are nesting
+  somewhere new, and she cannot gather any
+  bird eggs for her shop. She says she'd like to
+  have 10, since they're such a popular item.
+  
+  It seems the Cuccos all go off somewhere when
+  <0 Type='3' Data='0000'/>morning<0 Type='3' Data='ffff'/> comes.
+Complete: |
+  You gave 10 bird eggs to Trissa for her shop,
+  and she paid you back at above-normal prices!
+  Those eggs should allow her to stay stocked for
+  a while.

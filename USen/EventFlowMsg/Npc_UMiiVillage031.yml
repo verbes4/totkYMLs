@@ -1,0 +1,213 @@
+Talk47: |
+  <3 Type='0' Data='0700'/>Ah, hello.
+Talk_0001: |
+  <3 Type='0' Data='0700'/>It's nice of you to come all the way to
+  the construction site.
+  
+  But I'm all right.
+  
+  
+  I just hope it inspires Mattison to see her
+  papa working hard.
+  
+  Anyway, I've been looking at ways to
+  make use of the Zonai devices that
+  have fallen around here.
+  It's all part of this <0 Type='3' Data='0000'/>development project<0 Type='3' Data='ffff'/>
+  I'm doing with the folks of the Zonai
+  Survey Team.
+Talk_0014: |
+  <3 Type='0' Data='0700'/>The ground around here is really loose.
+  
+  
+  Sometimes recovering a <0 Type='3' Data='0000'/>Zonai device<0 Type='3' Data='ffff'/> or
+  moving the ruins causes it to <0 Type='3' Data='0000'/>collapse<0 Type='3' Data='ffff'/>.
+Greeting_Rain: |
+  <0 Type='3' Data='0200'/><FontSize Value='80'/><3 Type='0' Data='0a00'/>Truth is,<5 Type='0'/> I'm working this hard because it distracts
+  me from worrying about Mattison.
+  
+  Oh, my sweet little girl... I hope she's not getting
+  soaked by the rain.<FontSize Value='100'/><0 Type='3' Data='ffff'/>
+Talk_0015: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>If anything happened to the folks from
+  <0 Type='3' Data='0000'/>YunoboCo<0 Type='3' Data='ffff'/>, this place would wind up
+  covered in Zonai ruins.
+  And it'd be especially awful since
+  <0 Type='3' Data='0000'/>President Yunobo <0 Type='3' Data='ffff'/>went out of his way
+  to help us.
+  So, no carelessness and no accidents.
+  Oh, and make real sure you <0 Type='3' Data='0000'/>watch<0 Type='3' Data='ffff'/> <0 Type='3' Data='0000'/>where
+  you step<0 Type='3' Data='ffff'/>.
+Talk_0028: |
+  <3 Type='0' Data='0700'/>Well, for starters, those balloons
+  the Zonai Survey Team is using...
+  we made them.
+  You see, there's this Zonai device that
+  floats when you add heat.
+  
+  We attach a basket to these things and
+  then folks can jump in and go for a ride.
+  
+  And right now, we're working on these
+  vehicles that use a wheel-like device...
+  but this device rotates automatically.
+  <3 Type='0' Data='0c00'/>Truthfully, we've got the vehicle base
+  down, but safety and handling is still an
+  issue. Can't say they're practical yet.
+Talk49: |
+  <3 Type='0' Data='0c00'/>I was supposed to meet <0 Type='3' Data='0000'/>Kilton<0 Type='3' Data='ffff'/> here.
+  So where is he?
+  
+  He said he'd come after finishing an
+  errand near <0 Type='3' Data='0000'/>Woodland Stable<0 Type='3' Data='ffff'/>...
+Talk_0016: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>Oh!
+Near_0001: |
+  Break time.
+Talk_0017: |
+  <3 Type='0' Data='0701'/>Sorry about that. We were having a chat,
+  and I didn't notice you there.
+Greeting_Morning: |
+  <0 Type='3' Data='0200'/><FontSize Value='80'/><3 Type='0' Data='0a00'/>Truth is,<5 Type='0'/> I'm working this hard because it distracts
+  me from worrying about Mattison.
+  
+  Oh, my sweet little girl... Will she be OK waking up
+  in the morning without us?<FontSize Value='100'/><0 Type='3' Data='ffff'/>
+Near_0002: |
+  Check in with YunoboCo...
+Greeting_Evening: |
+  <0 Type='3' Data='0200'/><FontSize Value='80'/><3 Type='0' Data='0a00'/>Truth is,<5 Type='0'/> I'm working this hard because it distracts
+  me from worrying about Mattison.
+  
+  Oh, my sweet little girl... Is she getting to bed
+  early enough?<FontSize Value='100'/><0 Type='3' Data='ffff'/>
+Near_0003: |
+  A Zonai device could...
+Near_0004: |
+  What am I going to do?
+Near_0005: |
+  Where is he?
+0000: |
+  Goodbye.
+0002: |
+  Development project?
+Greeting_Noon: |
+  <0 Type='3' Data='0200'/><FontSize Value='80'/><3 Type='0' Data='0a00'/>Truth is,<5 Type='0'/> I'm working this hard because it distracts
+  me from worrying about Mattison.<FontSize Value='100'/><0 Type='3' Data='ffff'/>
+Talk_0040: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>You showed me that picture of my
+  daughter and now I'm in such a good
+  mood, I can't wait to get to work!
+  You'll see, I'm going to make so many
+  monster sculptures, there won't be room
+  enough to hold 'em all.
+  Of course...someone's going to need to
+  bring me some pictures to work off of.
+Greeting_Thunder: |
+  <0 Type='3' Data='0200'/><FontSize Value='80'/><3 Type='0' Data='0a00'/>Truth is,<5 Type='0'/> I'm working this hard because it distracts
+  me from worrying about Mattison.
+  
+  Oh, my sweet little girl... I hope the thunder isn't
+  frightening her.<FontSize Value='100'/><0 Type='3' Data='ffff'/>
+Talk_0041: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>That's enough of that. <5 Type='1'/>I should try to
+  focus on my work.
+Talk_0042: |
+  <3 Type='0' Data='0c00'/>I better check in with the YunoboCo folks
+  to see how the Zonai ruins recovery is
+  going, and then...<5 Type='0'/>hmm...
+Talk_0043: |
+  <3 Type='0' Data='0701'/>If it's not too much to ask, it would mean
+  a lot if I could see a picture of Mattison in
+  Gerudo Town...<5 Type='1'/><0 Type='4'/><4 Type='0' Data='0c005300610064005f0030003100'/>Ah, never mind me. <5 Type='1'/>I should probably
+  try to focus on work right now.
+Talk_0044: |
+  <3 Type='0' Data='0c00'/>We figured out a use for the wheel-like
+  Zonai device, but what else can we do
+  with these things? <5 Type='0'/>Hmmm...
+Talk_0045: |
+  <3 Type='0' Data='0700'/>We set aside the northern end of the
+  construction site for <0 Type='3' Data='0000'/>vehicle development<0 Type='3' Data='ffff'/>.
+  
+  If you're curious about that stuff, chat
+  with Fernison. She's the survey-team
+  member in charge over there.
+  Ah, but you'll have to wait. She's busy
+  working with some experts we invited
+  to help out.
+Talk_0032: |
+  <FontSize Value='125'/><FontSize Value='100'/><3 Type='0' Data='0801'/><4 Type='0' Data='1000480061007000700079005f0030003000'/><FontSize Value='125'/>Oh! Mattison! There you are!<FontSize Value='100'/><0 Type='4'/>I didn't think I'd get to see you so soon.
+  
+  
+  Aw, I can see it in this picture...you're
+  working hard and doing your very best.
+  
+  Your papa will try to work hard and do
+  his best too. I've gotta keep up with you,
+  after all!<FontSize Value='125'/><FontSize Value='100'/>
+Talk_0033: |
+  <3 Type='0' Data='0700'/>The balloons the Zonai Survey Team uses
+  are made out of a basket attached to a
+  Zonai device that floats when heated.
+  Now we're working on a vehicle that uses
+  a wheel-like device that rotates by itself.
+  
+  But...well...there are still a few handling
+  and safety issues, and that's slowing
+  down our work on it.
+Talk_0046: |
+  <3 Type='0' Data='0700'/>We've set aside the northern end of the
+  construction site for <0 Type='3' Data='0000'/>vehicle development<0 Type='3' Data='ffff'/>.
+  
+  Sounds like they've finally found a way to
+  control the vehicles. That means we can
+  start testing them out for real.
+  If you're curious, go chat with Fernison.
+  She's the survey-team member in charge
+  of that area.
+Talk_0034: |
+  <3 Type='0' Data='0c00'/>Let's see, while I've got a spare minute
+  to think, what else should I get
+  done? <5 Type='0'/>Hmm...
+Talk_0035: |
+  <3 Type='0' Data='0700'/>I hope it inspires Mattison to see her
+  papa working so hard.<5 Type='1'/>
+  
+  I've partnered up with the Zonai Survey
+  Team on a<0 Type='3' Data='0000'/> project<0 Type='3' Data='ffff'/>. I'm trying to come up
+  with ways to put the Zonai devices to use.
+Talk43: |
+  <3 Type='0' Data='0701'/>I appreciate you helping me with Mattison.
+  That was a rough patch there, but I feel
+  a lot better about things thanks to you.
+Talk_0036: |
+  <3 Type='0' Data='0c00'/>There has to be something I can do for
+  Mattison. I'm her papa, after all. <5 Type='0'/>Hmm...
+Talk44: |
+  <3 Type='0' Data='0001'/>I admit, hearing about the sand shroud
+  that Gerudo Town is dealing with... Well,
+  it's had me pretty worried.
+  But she's safe with her Gerudo escort.
+  I'm sure they'll take good care of her.
+Talk_0037: |
+  <3 Type='0' Data='0701'/>Oh, hey there. You here to check up
+  on me?
+Talk45: |
+  <3 Type='0' Data='0700'/>Rhondson is back to working on those
+  dream homes, so I better get back to
+  work too.
+  Ah, sorry. If you don't watch out, I'll start
+  talking your ear off again. You've been a
+  good listener. Thanks for that.
+Talk46: |
+  <3 Type='0' Data='0700'/>I'm supposed to meet a customer here,
+  but he hasn't showed up.
+  
+  <3 Type='0' Data='0c01'/>His name is <0 Type='3' Data='0000'/>Kilton<0 Type='3' Data='ffff'/>. I hope he hasn't run
+  into any trouble.
+  
+  He said he'd head this way after finishing
+  an errand near <0 Type='3' Data='0000'/>Woodland Stable<0 Type='3' Data='ffff'/>. 
+Talk_0038: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='08004500610073006500'/>Ah, <5 Type='0'/>Mattison... Your papa will be brave
+  and strong, just like you.

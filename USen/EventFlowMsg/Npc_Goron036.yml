@@ -1,0 +1,191 @@
+Talk_0019: |
+  <3 Type='0' Data='0501'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003100'/>Wait, you don't know <0 Type='3' Data='0000'/>Hudson
+  Construction<0 Type='3' Data='ffff'/>? So you weren't
+  sent here to help?
+  <3 Type='0' Data='0201'/><4 Type='0' Data='100041006e006700720079005f0030003100'/>As the leader of the <0 Type='3' Data='0000'/>YunoboCo<0 Type='3' Data='ffff'/>
+  workers out here, I've sworn to
+  keep my mouth shut!
+  You're not gettin' nothing outta me!
+Greeting_Evening: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='10004700720065006500740069006e006700'/>So it's already night... <5 Type='0'/>Time sure goes
+  quick when you're working.
+Talk_0007: |
+  <3 Type='0' Data='0201'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Hey, hang on. You need to quit standin'
+  around, and change into your YunoboCo
+  uniform—on the double.
+Greeting_Rain: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='100041006e006700720079005f0030003100'/>Time to work, rain or shine. I'll work till
+  I can't work no more!
+Talk_0008: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>Ever try gettin' info outta a boulder? Well,
+  that boulder's ME.
+Near_0001: |
+  Gotta watch where I step...
+Greeting_Thunder: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='100041006e006700720079005f0030003100'/>Time to work, lightning or shine. I'll work
+  till I can't work no more!
+Near_0002: |
+  The support's not comin'...
+Talk_0009: |
+  <3 Type='0' Data='0501'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>You again?
+  
+  
+  If you're dallyin' around here while we're
+  all workin',<5 Type='0'/> you prob'ly don't have much
+  to do,<5 Type='0'/> do ya?
+Near_0003: |
+  I'm beat...
+Talk_0020: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>Wait, you don't know <0 Type='3' Data='0000'/>YunoboCo<0 Type='3' Data='ffff'/>? So you
+  weren't sent here to help?
+  
+  If you head northwest from here, you'll hit
+  <0 Type='3' Data='0000'/>Goron City<0 Type='3' Data='ffff'/>, and <0 Type='3' Data='0000'/>YunoboCo<0 Type='3' Data='ffff'/> is—
+  
+  <3 Type='0' Data='0201'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003100'/>Hold it. As the leader of the YunoboCo
+  workers takin' on the task of clearing this
+  place for <0 Type='3' Data='0000'/>Hudson Construction<0 Type='3' Data='ffff'/>...
+  I've sworn to keep my mouth shut!
+  You're not gettin' nothin' outta me!
+Talk_0021: |
+  <3 Type='0' Data='0501'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003100'/>Wait, you don't know <0 Type='3' Data='0000'/>YunoboCo<0 Type='3' Data='ffff'/>? So you
+  weren't sent here to help?
+  
+  If you head northwest from here, you'll hit
+  <0 Type='3' Data='0000'/>Goron City<0 Type='3' Data='ffff'/>, and <0 Type='3' Data='0000'/>YunoboCo<0 Type='3' Data='ffff'/> is—
+  
+  <3 Type='0' Data='0201'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003100'/>Hold it. As the leader of the YunoboCo
+  workers, I've sworn to keep my trap shut!
+  
+  You're not gettin' nothin' outta me!
+Talk_0022: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>Wait, you don't know <0 Type='3' Data='0000'/>Hudson
+  Construction<0 Type='3' Data='ffff'/>? So you weren't
+  sent here to help?
+  <3 Type='0' Data='0201'/><4 Type='0' Data='100041006e006700720079005f0030003100'/>As the leader of the <0 Type='3' Data='0000'/>YunoboCo<0 Type='3' Data='ffff'/>
+  workers out here, I've sworn to
+  keep my mouth shut!
+  You're not gettin' nothin' outta me.
+Talk_0023: |
+  <FontSize Value='80'/><0 Type='3' Data='0200'/><3 Type='0' Data='0c01'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>He's so tiny... Pretty sure I asked for them to send a
+  Goron to help...<0 Type='3' Data='ffff'/>
+  
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1000480061007000700079005f0030003100'/><FontSize Value='100'/>Ah, whatever!<5 Type='1'/> The more worker's helpin',
+  the better.
+  
+  <0 Type='3' Data='0000'/>Hudson Construction<0 Type='3' Data='ffff'/>'s<0 Type='3' Data='0000'/> <0 Type='3' Data='ffff'/>workshop is
+  getting a lot of attention. Some call
+  it the "Zonai Treasure Trove"!
+  And there's still more stuff fallin' from the
+  sky. They'll be buried if we don't clear
+  it soon!
+  <3 Type='0' Data='0101'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>We here at <0 Type='3' Data='0000'/>YunoboCo <0 Type='3' Data='ffff'/>don't know the
+  meanin' of rest, so it works out.
+Talk_0010: |
+  <3 Type='0' Data='0501'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>You again?
+Talk_0024: |
+  <0 Type='3' Data='0000'/><FontSize Value='80'/><3 Type='0' Data='0700'/><4 Type='0' Data='0a0048006100700070007900'/><FontSize Value='100'/>Hudson Construction<0 Type='3' Data='ffff'/>'s<0 Type='3' Data='0000'/> <0 Type='3' Data='ffff'/>workshop is
+  getting a lot of attention. Some call
+  it the "Zonai Treasure Trove"!
+  And there's still more stuff fallin' from the
+  sky. They'll be buried if we don't clear
+  it soon!
+  <3 Type='0' Data='0101'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>We here at <0 Type='3' Data='0000'/>YunoboCo <0 Type='3' Data='ffff'/>don't know the
+  meanin' of rest, so it works out.
+0000: |
+  Hudson Construction?
+Talk_0011: |
+  <3 Type='0' Data='0501'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>You again?
+  
+  
+  If you're coming here in the pourin' down
+  rain,<5 Type='0'/> you prob'ly don't have much to do,
+  <5 Type='0'/>do ya?
+Talk_0025: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>I'm sure I asked HQ to send a Goron to
+  come help...
+  
+  Ah, whatever! Someone's helpin', and
+  that's all that matters for now.
+  
+  Name's Sanson. I'm the leader of the
+  <0 Type='3' Data='0000'/>YunoboCo <0 Type='3' Data='ffff'/>boys here that <0 Type='3' Data='0000'/>Hudson
+  Construction <0 Type='3' Data='ffff'/>tasked with cleanin' up!
+  <4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>This place is gathering a lot of attention.
+  I heard it's being referred to as the
+  "Zonai Treasure Trove"!
+  And there's still more stuff fallin' from the
+  sky. It's not showing any signs of slowin'!
+0001: |
+  YunoboCo?
+Talk_0012: |
+  <3 Type='0' Data='0501'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>You again?
+  
+  
+  If you're coming here when there's about
+  to be lightning,<5 Type='0'/> you prob'ly don't have
+  much to do, <5 Type='0'/>do ya?
+Greeting_Morning: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='10004700720065006500740069006e006700'/>So it's already morning... <5 Type='0'/>Time sure goes
+  quick when you're working.
+Talk_0026: |
+  <FontSize Value='80'/><0 Type='3' Data='0200'/><3 Type='0' Data='0c01'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>He's so tiny... Pretty sure I asked for them to send a
+  Goron to help...<0 Type='3' Data='ffff'/>
+  
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1000480061007000700079005f0030003100'/><FontSize Value='100'/>Ah, whatever!<5 Type='1'/> <0 Type='3' Data='0000'/>Hudson Construction<0 Type='3' Data='ffff'/>'s<0 Type='3' Data='0000'/><0 Type='3' Data='ffff'/>
+  workshop is gathering a lot of attention.
+  Some call it the "Zonai Treasure Trove"!
+  And there's still more stuff fallin' from the
+  sky. They'll be buried if we don't clear
+  it soon!
+  <3 Type='0' Data='0101'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>We here at <0 Type='3' Data='0000'/>YunoboCo <0 Type='3' Data='ffff'/>don't know the
+  meanin' of rest, so it works out.
+0002: |
+  Goodbye.
+Talk_0013: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>This place has so many <0 Type='3' Data='0000'/>Zonai devices<0 Type='3' Data='ffff'/>
+  and <0 Type='3' Data='0000'/>valuable objects <0 Type='3' Data='ffff'/>that it's called the
+  "Zonai Treasure Trove."
+  It's YunoboCo's job to gather the
+  precious parts.
+  
+  Then Mr. Hudson and everyone on the
+  Zonai Survey Team work together to
+  develop various things. 
+  <4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>A lot of which is top secret!<5 Type='1'/> The top-
+  secret stuff is<5 Type='1'/> TOP SECRET.
+  
+  <3 Type='0' Data='0201'/><4 Type='0' Data='100041006e006700720079005f0030003100'/>I'm leadin' the YunoboCo workers here,
+  and I've got a reputation to keep. I've
+  sworn to keep my mouth shut!
+Talk_0016: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003100'/>Huh?
+Talk_0017: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>Huh. <5 Type='0'/>I'm sure I asked HQ to send a Goron
+  to come help...
+  
+  Ah, whatever! <5 Type='0'/>The name's Sanson.
+  
+  
+  I'm the leader of the <0 Type='3' Data='0000'/>YunoboCo <0 Type='3' Data='ffff'/>boys
+  here that <0 Type='3' Data='0000'/>Hudson Construction <0 Type='3' Data='ffff'/>tasked
+  with clearing out this area.
+  <4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>This place is gathering a lot of attention.
+  I heard it's being referred to as the
+  "Zonai Treasure Trove"!
+  And there's still more stuff fallin' from the
+  sky. <5 Type='0'/>It's not showing any signs of slowin'!
+Talk_0004: |
+  <3 Type='0' Data='0501'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>You again? If you're coming here this
+  early,<5 Type='0'/> you prob'ly don't have much to do,<5 Type='0'/>
+  do ya?
+Greeting_Noon: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Time sure goes quick when
+  you're working.
+Talk_0005: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0600530061006400'/>We were told that support was comin'
+  from <0 Type='3' Data='0000'/>YunoboCo<0 Type='3' Data='ffff'/>.
+  
+  When are they gonna get here...
+Talk_0018: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>Whoa. Was I talkin' just now?

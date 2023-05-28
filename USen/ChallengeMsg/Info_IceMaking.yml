@@ -1,0 +1,15 @@
+Name: |
+  Keys Born of Water
+Step1: |
+  Near some ruins at the foot of Dueling Peaks,
+  a Steward Construct said this riddle would guide
+  you to a sacred shrine:
+  
+  <0 Type='3' Data='0000'/>Give keys born of water to the three altars.
+  The sacred shrine will appear.<0 Type='3' Data='ffff'/>
+Complete: |
+  There were three altars of differing sizes
+  placed in the ruins. You inserted ice sheets
+  into the openings in each of them.
+  
+  A Shrine of Light appeared above the ruins.

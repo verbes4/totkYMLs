@@ -1,0 +1,216 @@
+Near_02: |
+  Always a pleasure!
+Talk_1110: |
+  <3 Type='0' Data='0800'/>You sure buy a lot, friend!
+Talk_1000: |
+  <3 Type='0' Data='0800'/>Always a pleasure!
+Talk_3011: |
+  <3 Type='0' Data='0700'/>Aw, I'm real sorry. We're out of that.<0 Type='4'/>But we have lots of other goods harvested
+  from right here in Hateno Village, so take
+  your pick! It's all delicious!
+Talk_3012: |
+  <3 Type='0' Data='0700'/>Aw, I'm real sorry. Looks like I'm sold out.<0 Type='4'/>Well, we get fresh stock delivered daily
+  from around Hateno Village, so it won't
+  be long before they're full again!
+Talk_1130: |
+  <3 Type='0' Data='0800'/>You sure know how to spend 'em, friend!
+Com_Talk_13: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0000'/><0 Type='3' Data='ffff'/>You wanna sell that? How many
+  ya thinkin'?
+Talk_3013: |
+  <3 Type='0' Data='0700'/>Are ya headed on a trip somewhere
+  from here?<0 Type='4'/>If ya have travel plans, we recommend
+  not only a hearty meal before you go but
+  also some supplies to keep yourself safe!
+Com_Talk_14: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0000'/><0 Type='3' Data='ffff'/>So... I'll give you <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/> for 'em.
+  That OK with you?
+Talk_3014: |
+  <3 Type='0' Data='0700'/>Well, you've cleaned me out. If you're not
+  set to travel now, I guess you'll never be!
+Com_Talk_15: |
+  <3 Type='0' Data='0a00'/>Sorry, friend. Even I balk at buyin' a thing
+  like that.
+Talk_3015: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Our li'l East Wind general store carries all
+  of <0 Type='3' Data='0000'/>Hateno Village's local specialties<0 Type='3' Data='ffff'/>.<0 Type='4'/>Ever since <0 Type='3' Data='0000'/>Cece <0 Type='3' Data='ffff'/>set up shop in the place
+  across the way, Hateno has made a name
+  for itself with fresh fashion.<0 Type='4'/>Before that, though, this was a farming
+  community from way back.<0 Type='4'/>We're a self-sufficient li'l burg. We eat
+  what we harvest and sell the rest.<0 Type='4'/><3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>Ya know what you should try? The fresh
+  new dairy product from <0 Type='3' Data='0000'/>Hateno Pasture<0 Type='3' Data='ffff'/>,
+  <0 Type='3' Data='0000'/>Hateno cheese<0 Type='3' Data='ffff'/>!<0 Type='4'/>We do stock it here, and I hope you'll
+  buy from us. But if that don't tickle your
+  fancy, the pasture offers <0 Type='3' Data='0000'/>another way<0 Type='3' Data='ffff'/>.<0 Type='4'/>Head on up to the <0 Type='3' Data='0000'/>pasture<0 Type='3' Data='ffff'/>, and they'll
+  swap you a hunk of Hateno cheese for
+  a bottle of fresh milk.<0 Type='4'/>Between those <0 Type='3' Data='0000'/>Cece-brand clothes<0 Type='3' Data='ffff'/> and
+  <0 Type='3' Data='0000'/>the new signature staples<0 Type='3' Data='ffff'/>, this village has
+  been hoppin'!
+Talk_1020: |
+  <3 Type='0' Data='0800'/>Thanks for stopping by!
+Com_Talk_16: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>I'm not opposed to buyin' those clothes,
+  mind. What I'm havin' trouble with is that
+  you're still wearin' them.
+5510: |
+  Goodbye.
+0001: |
+  What's that hat?
+Com_Talk_31: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>And how many do you need?
+SagonoHat: |
+  Very chic!
+Com_Talk_33: |
+  <3 Type='0' Data='0000'/>Well, I'll give you...<0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/> for it.
+  That OK with you?
+Com_Talk_05b: |
+  <3 Type='0' Data='0101'/>I'm in no hurry. Curious to see what
+  you're selling!
+Com_Talk_34: |
+  <3 Type='0' Data='0000'/>All of 'em, eh? That'll be <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>.
+  That OK?
+Talk_2010: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Friend, this is your lucky day! We just
+  started stocking Hateno cheese!<0 Type='4'/>The credit for this beauty doesn't belong
+  to only Hateno Pasture—it's a <0 Type='3' Data='0000'/>labor of
+  love from all of Hateno Village<0 Type='3' Data='ffff'/>!<0 Type='4'/><3 Type='0' Data='0700'/>We do stock it here, and I hope you'll
+  buy from us. But if that don't tickle your
+  fancy, the pasture offers <0 Type='3' Data='0000'/>another way<0 Type='3' Data='ffff'/>.<0 Type='4'/>Head on up to the <0 Type='3' Data='0000'/>pasture <0 Type='3' Data='ffff'/>and they'll
+  swap you a hunk of Hateno cheese for
+  a bottle of fresh milk.<0 Type='4'/>Between those <0 Type='3' Data='0000'/>Cece-brand clothes<0 Type='3' Data='ffff'/> and
+  <0 Type='3' Data='0000'/>the new signature staples<0 Type='3' Data='ffff'/>, this village has
+  been hoppin'!
+Com_Talk_00: |
+  <3 Type='0' Data='0700'/>Oooh! What are you selling?
+Com_Talk_05c: |
+  <3 Type='0' Data='0101'/>No need to hurry. Take your time!
+Com_Talk_35: |
+  <3 Type='0' Data='0000'/>You're selling <2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/>? I'll give you
+  <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>. That OK with you?
+Talk_3000: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Here to pick up breakfast? Might I
+  recommend a bottle of <0 Type='3' Data='0000'/>fresh milk<0 Type='3' Data='ffff'/>?<0 Type='4'/>It's delivered direct from <0 Type='3' Data='0000'/>Hateno Pasture<0 Type='3' Data='ffff'/>
+  up the hill!
+Talk_2011: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a0048006100700070007900'/>Friend, you chose the right day to pay
+  our store a visit!<0 Type='4'/>Why, we just began stocking <0 Type='3' Data='0000'/>Hateno
+  Village<0 Type='3' Data='ffff'/>'s original, genuine <0 Type='3' Data='0000'/>sun pumpkins<0 Type='3' Data='ffff'/>!<0 Type='3' Data='0000'/><0 Type='4'/><0 Type='3' Data='ffff'/>They're a masterpiece developed by our
+  mayor, Reede, and his farmer buddy Nack
+  through very careful breeding.<0 Type='4'/>Don't leave without one!
+Com_Talk_01: |
+  <3 Type='0' Data='0001'/>If you wanna part with that, I can probably
+  go as high as <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>. That OK?
+Com_Talk_05d: |
+  <3 Type='0' Data='0101'/>Keep it comin', and I'll keep buyin'!
+Talk_3001: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Here to pick up lunch? Can I recommend
+  <0 Type='3' Data='0000'/>Hylian rice<0 Type='3' Data='ffff'/>?<0 Type='4'/>It's top-notch grain, raised with loving
+  care by our own farmers!
+Com_Talk_02: |
+  <3 Type='0' Data='0800'/>A pleasure! Anything else?
+Talk_3002: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Here to pick up dinner? Can I recommend
+  a <0 Type='3' Data='0000'/>bird egg<0 Type='3' Data='ffff'/>?<0 Type='4'/>We get ours straight from a local Cucco
+  farmer, as well as from the folks at
+  <0 Type='3' Data='0000'/>Hateno Pasture<0 Type='3' Data='ffff'/> up the hill!
+Talk_1120: |
+  <3 Type='0' Data='0800'/>If you need more, we'll restock soon!
+Talk_3003: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Here to pick up an evening snack?
+  Can I recommend a <0 Type='3' Data='0000'/>Hylian tomato<0 Type='3' Data='ffff'/>?<0 Type='4'/>We just started stocking these, and the
+  folks around town can't get enough!
+  They're a Hateno Village specialty!
+Com_Talk_02b: |
+  <3 Type='0' Data='0800'/>Gotcha! Anything else?
+Com_Talk_04: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='0a005400680069006e006b00'/>Well, that there's a real shame.
+Com_Talk_50: |
+  <3 Type='0' Data='0700'/>That'll be <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>. That OK
+  with you?
+Talk_3004: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Our li'l East Wind general store carries all
+  of <0 Type='3' Data='0000'/>Hateno Village's local specialties<0 Type='3' Data='ffff'/>.<0 Type='4'/>Ever since <0 Type='3' Data='0000'/>Cece <0 Type='3' Data='ffff'/>set up shop in the place
+  across the way, Hateno has made a name
+  for itself with fresh fashion.<0 Type='4'/>Before that, though, this was a farming
+  community from way back.<0 Type='4'/>We're a self-sufficient li'l burg. We eat
+  what we harvest and sell the rest.<0 Type='4'/><3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>I tell you what, you haven't lived until
+  you've tried a bottle of <0 Type='3' Data='0000'/>fresh milk<0 Type='3' Data='ffff'/> straight
+  from <0 Type='3' Data='0000'/>Hateno Pasture<0 Type='3' Data='ffff'/>.<0 Type='4'/>Head on up to the <0 Type='3' Data='0000'/>pasture<0 Type='3' Data='ffff'/> when you get
+  a minute. You'll be glad you did.
+Com_Talk_02c: |
+  <3 Type='0' Data='0800'/>Got it! Anything else you wanna unload?
+Com_Talk_05: |
+  <3 Type='0' Data='0101'/>If you show me the right stuff, I'll pay you
+  the right price!
+NakedPlayer: |
+  This customer's not right.
+Talk_1010: |
+  <3 Type='0' Data='0800'/>Thanks, friend.
+Com_Talk_02d: |
+  <3 Type='0' Data='0800'/>Thanks for your business! Say, is that all
+  you brought to sell?
+Com_Talk_52: |
+  <3 Type='0' Data='0000'/>So that would be <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>.
+  OK with you?
+5500: |
+  Yes.
+Talk_3006: |
+  <3 Type='0' Data='0700'/>That all ya needed, then?
+Com_Talk_53: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0a005400680069006e006b00'/>Changed your mind? Well, I guess there's
+  nothing I can say to that.
+5501: |
+  No.
+Talk_3007: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004e006f007400690063006500'/>Oh, this? <0 Type='3' Data='0000'/>Cece <0 Type='3' Data='ffff'/>made it. She's set up shop
+  in the place across the way.<0 Type='4'/>She left a long while back to practice
+  her craft, but she perfected it and came
+  back as a famous fashion designer.<0 Type='4'/>Now, <0 Type='3' Data='0000'/>Cece fever<0 Type='3' Data='ffff'/> is sweeping the village.
+  You can't throw a rock without hitting
+  someone wearing this hat.<0 Type='4'/><3 Type='0' Data='0a00'/><FontSize Value='80'/>I don't know the first thing about fashion myself.
+  My wife, Amira, cares much more about that stuff.<FontSize Value='100'/>
+Com_Talk_54: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='0c004e006f007400690063006500'/>Wait a tick... You don't have the rupees
+  to cover that!
+5502: |
+  I'll buy.
+Talk_3008: |
+  <3 Type='0' Data='0700'/>Still curious about that hat? <0 Type='3' Data='0000'/>Cece <0 Type='3' Data='ffff'/>made it.
+  She's set up shop in the place across
+  the way.<0 Type='4'/>She left a long while back to practice
+  her craft, but she perfected it and came
+  back as a famous fashion designer.<0 Type='4'/>Now, <0 Type='3' Data='0000'/>Cece fever<0 Type='3' Data='ffff'/> is sweeping the village.
+  You can't throw a rock without hitting
+  someone wearing this hat.<0 Type='4'/><3 Type='0' Data='0a00'/><FontSize Value='80'/>I don't know the first thing about fashion myself.
+  My wife, Amira, cares much more about that stuff.<FontSize Value='100'/>
+Com_Talk_55: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Huh? You're already carrying a heavy
+  load, friend. If you feel like lightening it,
+  I'll buy some of it off ya.
+5503: |
+  Never mind.
+Talk_3009: |
+  <3 Type='0' Data='0701'/>That wraps up the sales pitch, I figure.<0 Type='4'/><3 Type='0' Data='0700'/>Sorry for the song and dance, but I got
+  a business to run. Anyhoo, you were
+  sayin'? Something I can do ya for?
+Com_Talk_56: |
+  <3 Type='0' Data='0000'/>That'll run you <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>. How's
+  that strike ya?
+Talk_1140: |
+  <3 Type='0' Data='0800'/>I'd call that a win-win deal, friend!
+Talk_1141: |
+  <3 Type='0' Data='0700'/>Anything else?
+5507: |
+  I'll take 'em all!
+Talk_2000: |
+  <3 Type='0' Data='0700'/>The veggies out in the field aren't for
+  sale. If you're in the market for produce,
+  come see us!
+5508: |
+  I'll sell them all.
+Talk_1030: |
+  <3 Type='0' Data='0800'/>Got it!
+5509: |
+  I'm here to sell.
+Near_01: |
+  Hiya!

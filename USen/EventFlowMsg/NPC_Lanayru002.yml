@@ -1,0 +1,160 @@
+Near01: |
+  Always up for shield talk...
+Talk26: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>Hmm?<5 Type='0'/> Hold on there. Your shield...<5 Type='1'/><0 Type='4'/>You've attached a cart. Has anyone even
+  done that before? Crafting a shield that
+  way will make it really fast!
+  <3 Type='0' Data='0800'/>You've got the ol' shield-surfing fire in
+  you, doing things no one's done.<5 Type='0'/> The
+  future of our sport is bright!
+Talk10: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>Oooh.<5 Type='0'/> I see you're sporting a
+  <0 Type='3' Data='0000'/>radiant shield<0 Type='3' Data='ffff'/>!
+  
+  Yeah, for sure. Shredders consider that
+  a <0 Type='3' Data='0000'/>ridiculously rare shield<0 Type='3' Data='ffff'/>. If you're gonna
+  be fearless out there, that's a good one.
+  <3 Type='0' Data='0701'/>Very sturdy. Slides like a dream!
+Talk11: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Nice!<5 Type='0'/> Every surfer recognizes a <0 Type='3' Data='0000'/>shield of
+  the mind's eye<0 Type='3' Data='ffff'/> when they see one.<5 Type='1'/><0 Type='4'/>It's really good for sliding—easy to jump
+  on and get goin' too.
+NakedPlayer: |
+  At least get dressed.
+Talk13: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Oh...<5 Type='0'/> Got yourself a <0 Type='3' Data='0000'/>Gerudo shield<0 Type='3' Data='ffff'/>, huh?
+  Good shield. Seems pretty sturdy. 
+  
+  I've heard the Gerudo use these all the
+  time to slide on sand dunes.
+  
+  <3 Type='0' Data='0701'/>Should be great for us shield surfers
+  then too.
+Talk14: |
+  <3 Type='0' Data='0701'/>Is that shield on your back the one Teach
+  gave you as thanks for saving her?
+  
+  Whoa. In the shield-surfing world, there's
+  talk that it fell from the sky, and that it's
+  made of a mysterious material.<5 Type='1'/>
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>From the looks of it, seems harder to
+  believe that it's nice and solid. But it is.
+  Easy to slide on too.
+  Mysterious! But it's a good shield for
+  those who really want to slide with ease.
+Talk20: |
+  <3 Type='0' Data='0b01'/>Hmm?<5 Type='0'/> Hang on. That shield...<5 Type='1'/><0 Type='4'/>It's been modified! Yeah, that's going
+  to be its own thing out there.
+  
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>I see...<5 Type='0'/> Less friction. Easier to slide on.
+  Good choice for a beginner too.
+Talk15: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Oh...<5 Type='0'/> You're rocking the <0 Type='3' Data='0000'/>Daybreaker<0 Type='3' Data='ffff'/>!<5 Type='1'/>
+  Quite the stylish choice.
+  
+  <3 Type='0' Data='0701'/>Super sturdy. Sophisticated look.
+  Good at what it does.
+  
+  Oh yeah, it's an excellent one for
+  shredding on the slopes.
+Talk21: |
+  <3 Type='0' Data='0b01'/>Hmm?<5 Type='0'/> Hold on. That shield...<5 Type='1'/> It's been
+  modified, but...<5 Type='1'/>
+  
+  <3 Type='0' Data='0c00'/>I gotta say...<5 Type='1'/>I think the change makes it
+  harder to slide on. The reverse of
+  what you'd want.
+  <3 Type='0' Data='0701'/>Well, no one in shield surfing's gonna
+  tell you not to use that. So, I guess you
+  can see how it goes out there.
+Talk16: |
+  <3 Type='0' Data='0701'/>Hey, I know that thing.<5 Type='0'/> Oh yeah. It's a
+  <0 Type='3' Data='0000'/>steel Lizal shield<0 Type='3' Data='ffff'/>.<0 Type='4'/>Sturdier than sturdy. That's what it's
+  really known for.
+  
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>That shield won't break easily if you
+  hit the slopes with it fiercely. Good one
+  for really shredding like a maniac.
+Talk22: |
+  <3 Type='0' Data='0b00'/>Hmm?<5 Type='0'/> Hold on. That shield...<0 Type='4'/>Looks like it's been modified! <5 Type='1'/>So you
+  made some tweaks for speed, huh?<5 Type='0'/><0 Type='4'/><3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Doesn't look like it's any less slick, at
+  least. You should keep experimenting
+  until you get it perfect!
+Talk23: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>What, what, whaaat?!<5 Type='0'/> No way.<5 Type='1'/> No!<5 Type='0'/> Way!
+  
+  
+  That's a real <0 Type='3' Data='0000'/>Hylian shield<0 Type='3' Data='ffff'/>?!<0 Type='4'/>Oh, yeah. A <0 Type='3' Data='0000'/>legendary shield<0 Type='3' Data='ffff'/>. Hey, you
+  did good, gettin' your hands on that.
+  
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>You should be able to slide really fast
+  with it. Even when you're not on snow.
+  On sand too—and sand's a beast.
+  That shield is super sturdy and will take
+  a lot of damage on the slopes. It won't
+  break for a long, long time.
+  <3 Type='0' Data='0701'/>You'll enjoy that beauty for sure.
+Talk17: |
+  <3 Type='0' Data='0701'/>That a <0 Type='3' Data='0000'/>royal guard's shield <0 Type='3' Data='ffff'/>I see on
+  your back?
+  
+  It's not a bad shield. But yeah, maybe
+  not the best for shield surfing. It's
+  not sturdy enough to last.
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>Hmm...<5 Type='0'/> It's just plain too breakable.
+  
+  
+  <3 Type='0' Data='0001'/>Nope. Can't recommend it to anyone
+  who's tryin' to get the hang of how to
+  shield surf.
+Talk01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>OK, here's the straight shot on
+  shield surfing—the most important thing
+  is which shield you choose.
+  So, my man, here's what I'll do for you.
+  I'll give you shield advice. Consider it
+  more thanks for rescuing Teach.
+Talk18: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Oh?<5 Type='0'/> Let's see, you're carrying a
+  <0 Type='3' Data='0000'/>royal shield<0 Type='3' Data='ffff'/>, right?
+  
+  <3 Type='0' Data='0001'/>Good shield. Handsome design. A fine
+  balance between sturdiness and its
+  ability to sliiide.
+  <3 Type='0' Data='0701'/>Might be too refined for a starter shield,
+  but yeah, good overall.
+Talk30: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1200530075007200700072006900730065004d00'/>Hey, maaan!<5 Type='0'/> You're missin' the most
+  critical thing. The shield!<5 Type='1'/>
+  
+  <3 Type='0' Data='0701'/>You DO know these are pretty sacred
+  slopes for shield surfers, right? You
+  can't come in here empty-handed.<5 Type='1'/>
+  No shield, no surfing. Come back when
+  you get your hands on a shield.
+Talk02: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Always up for shield talk, my man. Count
+  on me for advice. Got plenty to say!
+Talk19: |
+  <3 Type='0' Data='0701'/>Hmm...<5 Type='0'/> That shield you're carrying is
+  pretty decent.
+  
+  Looks sturdy and seems like it'd slide
+  pretty OK.
+  
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Yeah, solid choice in general for anyone
+  startin' out with shield surfing.
+Talk25: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>Hmm?<5 Type='0'/> Wait a minute. Your shield...<5 Type='1'/><0 Type='4'/>Whoa. You've attached a sled. Way to
+  expand what's possible! Crafting a shield
+  that way will really make it slide.
+  <3 Type='0' Data='0800'/>That's a shield surfer for you—stayin'
+  flexible. Yeah, forget the old ways of
+  doing things if you need to!
+Talk31: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1200530075007200700072006900730065004d00'/>Can't believe anyone would come to
+  these most sacred slopes for shield
+  surfers...<5 Type='0'/>without a shield.<5 Type='1'/>
+  <3 Type='0' Data='0701'/>If you're itchin' to hit the slopes, my
+  man, come back after you get your
+  hands on a shield.

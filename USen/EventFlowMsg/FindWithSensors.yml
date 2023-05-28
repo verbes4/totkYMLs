@@ -1,0 +1,260 @@
+Near2001: |
+  We must get to that lab...
+Talk_1081: |
+  <3 Type='0' Data='0a01'/>But for now, Josha's investigations are
+  my main priority.<5 Type='0'/>
+  
+  So until she gets further along, I'll be
+  staying here for a while.
+Talk_74: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>What?! <5 Type='0'/>You already found it?
+  
+  
+  <3 Type='0' Data='0100'/>I'd expect nothing less from you.
+  
+  
+  That <0 Type='3' Data='0000'/>sensor <0 Type='3' Data='ffff'/>will still be invaluable.
+  It's the product of my brilliance, after all.
+  I'd expect nothing less from ME.
+Talk_1082: |
+  <3 Type='0' Data='0c00'/>People have been saying the princess has
+  been sighted in the castle, but I have a
+  hard time believing that.
+  Anyway, Purah's on top of that. She'll be
+  looking into the castle herself.
+  
+  <3 Type='0' Data='0001'/>I intend to look for clues regarding the
+  princess using my OWN methods.
+Near2002: |
+  Did you find the shrine?
+Talk_75: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004c0061007500670068005300'/>My design of the <0 Type='3' Data='0000'/>sensor<0 Type='3' Data='ffff'/> is beyond
+  perfection!<0 Type='4'/>Just listen to its sounds and you'll find
+  your way to that nearby <0 Type='3' Data='0000'/>shrine<0 Type='3' Data='ffff'/>.
+Talk_1083: |
+  <3 Type='0' Data='0700'/>I'm interested in where Josha's research
+  is headed.
+  
+  So I'll stay here a bit longer.
+Near2003: |
+  Welcome!
+Talk_76: |
+  <3 Type='0' Data='0700'/>When the <0 Type='3' Data='0000'/>Shrine Sensor<0 Type='3' Data='ffff'/> responds, then
+  there should be a shrine nearby.
+  
+  More precisely, it'll react <0 Type='3' Data='0000'/>when you are
+  moving in the direction of a shrine<0 Type='3' Data='ffff'/>.
+  
+  If it's not reacting stably, try <0 Type='3' Data='0000'/>changing the
+  direction you're facing<0 Type='3' Data='ffff'/>.
+Talk_1084: |
+  <3 Type='0' Data='0900'/><4 Type='0' Data='100041006e006700720079005f0030003000'/>Come on!<5 Type='0'/> Act more impressed!
+  
+  
+  <3 Type='0' Data='0801'/>I'm the first one in ALL of Hyrule who
+  noticed the shrines after the Upheaval.
+  So I created a <0 Type='3' Data='0000'/>sensor <0 Type='3' Data='ffff'/>to detect them!
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0c005300610064005f0030003000'/>Only thing is, I can't set it up here at
+  Lookout Landing.
+  
+  It'd be nearly impossible unless I'm
+  at the <0 Type='3' Data='0000'/>Purah Pad Research Lab <0 Type='3' Data='ffff'/>in
+  <0 Type='3' Data='0000'/>Hateno Village<0 Type='3' Data='ffff'/>.
+0018: |
+  Purah Pad Research Lab?
+Near2004: |
+  A rainy welcome to you!
+Talk_77: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1200530075007200700072006900730065005300'/>Hey, you. Where are you going?
+Talk_1085: |
+  <3 Type='0' Data='0800'/>Great job getting the picture of the <0 Type='3' Data='0000'/>figure<0 Type='3' Data='ffff'/>
+  that Josha was looking for! She was pretty
+  happy to see that statue.
+  <3 Type='0' Data='0800'/>And I was thrilled to show you how to
+  use the <0 Type='3' Data='0000'/>camera<0 Type='3' Data='ffff'/>. Inspired, even!
+  
+  <3 Type='0' Data='0701'/>The Purah Pad has even more potential
+  functions, you know.
+Talk_78: |
+  <3 Type='0' Data='0701'/>OK, that wraps up my chatting about it.<5 Type='0'/>
+  Try testing out the <0 Type='3' Data='0000'/>sensor<0 Type='3' Data='ffff'/>.
+  
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>Hm?<5 Type='0'/> That's odd.<5 Type='1'/>
+  
+  
+  The <0 Type='3' Data='0000'/>sensor <0 Type='3' Data='ffff'/>reacts <0 Type='3' Data='0000'/>when you're moving
+  toward a shrine<0 Type='3' Data='ffff'/>...
+  
+  There's a shrine in the cave at the
+  bottom of this hill. But the <0 Type='3' Data='0000'/>sensor<0 Type='3' Data='ffff'/> isn't
+  reacting to it whatsoever!
+Near2005: |
+  It should be around here.
+Talk_1086: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Hey, you!<5 Type='0'/> Listen up!
+  
+  
+  Now that Josha has solved the mystery
+  of that slate...
+  
+  <3 Type='0' Data='0800'/>I can return to the <0 Type='3' Data='0000'/>Purah Pad Laboratory<0 Type='3' Data='ffff'/>
+  in <0 Type='3' Data='0000'/>Hateno Village<0 Type='3' Data='ffff'/>!
+  
+  If you go there, I can make even more 
+  improvements to your Purah Pad, starting
+  with the <0 Type='3' Data='0000'/>sensor<0 Type='3' Data='ffff'/>.
+  <3 Type='0' Data='0c00'/>You'll find the lab in East Necluda, off in
+  the southeast corner of Hyrule. On its
+  far side is Hateno Village.
+  <3 Type='0' Data='0800'/>Go a bit farther than that and you'll see a
+  mighty peculiar place. Don't let the looks
+  fool you. It's a cutting-edge lab!
+Talk_79: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>WHAT?! <5 Type='0'/>You found it?
+  
+  
+  <3 Type='0' Data='0100'/>I'd expect nothing less from you.
+  
+  
+  Anyway, how about that <0 Type='3' Data='0000'/>sensor<0 Type='3' Data='ffff'/>? <5 Type='0'/>Handy,
+  huh? I'd expect nothing less from ME!
+Talk_0001: |
+  Need to get inside? Come find me at
+  Lookout Landing near Hyrule Castle.
+                                                    -Robbie
+0020: |
+  Goodbye.
+Talk_82: |
+  <3 Type='0' Data='0701'/>All right! Now that I've installed that
+  <0 Type='3' Data='0000'/>sensor<0 Type='3' Data='ffff'/> for you...
+  
+  How about you walk around the lab to
+  test out how it reacts?
+Talk_1073: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Listen up! Big update here.
+  
+  
+  Your Purah Pad can be equipped with a
+  <0 Type='3' Data='0000'/>sensor <0 Type='3' Data='ffff'/>that <0 Type='3' Data='0000'/>detects shrines<0 Type='3' Data='ffff'/>.
+Talk_14: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hey, you!
+  
+  
+  The Purah Pad Laboratory is ready for us
+  to do some great things together! First,
+  let's get that <0 Type='3' Data='0000'/>sensor <0 Type='3' Data='ffff'/>up and running.
+  Come on, let me see that <0 Type='3' Data='0000'/>Purah Pad<0 Type='3' Data='ffff'/>.
+  This will only take a moment.
+Talk_83: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>Now you begin to see the true potential
+  of the Purah Pad!
+  
+  But I'm nowhere NEAR done yet.
+  I created new features for that device
+  while I was waiting here for you.
+  Yes! I whipped up some <0 Type='3' Data='0000'/>prototypes<0 Type='3' Data='ffff'/> of
+  these extra features and can get them
+  on your Purah Pad at any time!
+  That is, with some help from you,
+  getting some final data I need in order
+  to activate them perfectly.
+  Let's talk if you want those upgrades.
+  Enjoy that <0 Type='3' Data='0000'/>sensor<0 Type='3' Data='ffff'/>—a taste of great
+  things to come. <5 Type='0'/>Until then!
+Talk_1005: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>I knew you'd be dying of curiosity over
+  the <0 Type='3' Data='0000'/>sensor<0 Type='3' Data='ffff'/>.
+  
+  Follow me, would ya?
+Talk_1074: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068004c00'/>That's right. It's a lab dedicated to the
+  enhancement of the Purah Pad, which
+  Purah and I developed.
+  Once I'm in that lab, and you join me
+  there, I can further <0 Type='3' Data='0000'/>improve <0 Type='3' Data='ffff'/>your Purah
+  Pad, <0 Type='3' Data='0000'/>starting with the sensor<0 Type='3' Data='ffff'/>.
+  You'll find the lab in <0 Type='3' Data='0000'/>East Necluda<0 Type='3' Data='ffff'/>, off in
+  the southeast corner of Hyrule. On its
+  far side is <0 Type='3' Data='0000'/>Hateno Village<0 Type='3' Data='ffff'/>.
+  Go a bit farther than that and you'll see
+  a mighty peculiar place. Don't let the
+  looks fool you. It's a cutting-edge lab!
+Talk_84: |
+  <3 Type='0' Data='0b00'/>What's the problem? Do you need help
+  with the <0 Type='3' Data='0000'/>sensor<0 Type='3' Data='ffff'/>?
+  
+  <3 Type='0' Data='0701'/>It'll react <0 Type='3' Data='0000'/>when you're moving toward a
+  shrine<0 Type='3' Data='ffff'/>. The more strongly, the more
+  you're pointed in the right direction!
+  So, if it's not responding much—or at
+  all—try <0 Type='3' Data='0000'/>moving in another direction<0 Type='3' Data='ffff'/>.
+  
+  It seemed to go off more when you were
+  pointed toward a section <0 Type='3' Data='0000'/>of the slope
+  outside<0 Type='3' Data='ffff'/>. Try going right down there!
+Talk_1075: |
+  <3 Type='0' Data='0800'/>The Purah Pad will prove to be absolutely
+  essential for finding the princess! I'm sure
+  of it.
+  So, you'll want the pad upgraded to be
+  of even MORE use, starting with that
+  <0 Type='3' Data='0000'/>shrine sensor<0 Type='3' Data='ffff'/>.
+  <3 Type='0' Data='0a01'/>But I can't do it at Lookout Landing,
+  not with the meager equipment we have
+  on hand here.
+  Even with my genius for these things,
+  I need to upgrade it at the <0 Type='3' Data='0000'/>Purah Pad
+  Research Lab <0 Type='3' Data='ffff'/>in <0 Type='3' Data='0000'/>Hateno Village<0 Type='3' Data='ffff'/>.
+Talk_85: |
+  <3 Type='0' Data='0900'/>We need to finish <0 Type='3' Data='0000'/>testing<0 Type='3' Data='ffff'/> your new
+  <0 Type='3' Data='0000'/>sensor<0 Type='3' Data='ffff'/>. Come back here, will ya?!
+Talk_1076: |
+  <3 Type='0' Data='0800'/>I really appreciate you fixing up my
+  balloon.<5 Type='0'/> Ultra thanks!
+  
+  That "Autobuild" thing is pretty
+  darn amazing.
+  
+  <3 Type='0' Data='0c01'/>Hmm, I should have a good think about
+  all the practical uses of that someday.<5 Type='0'/>
+  
+  <3 Type='0' Data='0b00'/>Oh! That reminds me...<5 Type='1'/>
+Talk_17: |
+  <4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>One<5 Type='0'/>-and-a-two<5 Type='0'/>-and-a-three<5 Type='0'/>-and-a-four!
+Talk_86: |
+  <3 Type='0' Data='0900'/>Hey, you! How long you gonna make
+  me wait?
+Talk_1077: |
+  <3 Type='0' Data='0701'/>...<5 Type='1'/>
+Talk_18: |
+  <FontSize Value='125'/><3 Type='0' Data='0800'/>Done-zo!<FontSize Value='100'/>
+  
+  
+  <3 Type='0' Data='0701'/>Now this <0 Type='3' Data='0000'/>sensor <0 Type='3' Data='ffff'/>will make a sound if
+  there are <0 Type='3' Data='0000'/>shrines<0 Type='3' Data='ffff'/> near you.
+Talk_87: |
+  <3 Type='0' Data='0700'/>We're still testing that <0 Type='3' Data='0000'/>sensor<0 Type='3' Data='ffff'/>, so hold off
+  on the rushing around for now.<0 Type='4'/>Just <0 Type='3' Data='0000'/>walk <0 Type='3' Data='ffff'/>in the direction you're moving<0 Type='3' Data='0000'/>
+  when you hear the sensor react<0 Type='3' Data='ffff'/>.
+Talk_1078: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>All right, I'm going to head over there.
+  I'll be waiting for you to arrive.
+  
+  See you in <0 Type='3' Data='0000'/>Hateno Village<0 Type='3' Data='ffff'/>! Don't keep
+  me waiting!
+Talk_73: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>What's this? The <0 Type='3' Data='0000'/>sensor <0 Type='3' Data='ffff'/>that I installed
+  on your Purah Pad is reacting to
+  something—right here and now!
+  It reacts <0 Type='3' Data='0000'/>when you're moving toward
+  a shrine<0 Type='3' Data='ffff'/>.
+  
+  <3 Type='0' Data='0c01'/>The <0 Type='3' Data='0000'/>sensor<0 Type='3' Data='ffff'/> must be detecting a shrine
+  down the slope in front of the lab. Is there
+  really one THAT close by?
+  <3 Type='0' Data='0700'/>There must be, because my creations
+  are perfect.<5 Type='1'/> Unless they get broken in
+  some way.
+  Now, why don't you go check <0 Type='3' Data='0000'/>down the
+  slope<0 Type='3' Data='ffff'/>, in the direction that the <0 Type='3' Data='0000'/>sensor<0 Type='3' Data='ffff'/>
+  was indicating?

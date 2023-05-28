@@ -1,0 +1,16 @@
+Talk_00: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Ha! There we go! <5 Type='0'/>Now let's try something
+  a little trickier...
+Talk_01: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='2000440065007400650072006d0069006e006100740069006f006e005f0030003000'/>Aim for those dummies over there...
+  Maybe we can hit them all with a <0 Type='3' Data='0000'/>single
+  lightning strike<0 Type='3' Data='ffff'/>?
+  Here's an idea... Don't try to hit a
+  specific dummy.
+  
+  Instead, aim for the area in the middle of
+  all three, <5 Type='1'/>like <0 Type='3' Data='0000'/>right around where that
+  rock<0 Type='3' Data='ffff'/> is jutting out.
+  Oh!<5 Type='0'/> But keep in mind that the <0 Type='3' Data='0000'/>farther
+  away<0 Type='3' Data='ffff'/> a target is from me, the <0 Type='3' Data='0000'/>longer<0 Type='3' Data='ffff'/> it will
+  take me to build up the energy to hit it.

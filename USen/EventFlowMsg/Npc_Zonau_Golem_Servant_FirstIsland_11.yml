@@ -1,0 +1,126 @@
+talk_01: |
+  <3 Type='0' Data='0700'/>Oh. <5 Type='0'/>You are unfamiliar to me.<0 Type='4'/>My apologies. <5 Type='0'/>Among my tasks is to
+  explain anything that first-time visitors
+  might require knowledge of.<0 Type='4'/>You may have questions about this place.<5 Type='0'/>
+  Please rest assured that a construct can
+  answer them.<0 Type='4'/><3 Type='0' Data='0700'/>I recall that your question was about
+  roasting food. <5 Type='1'/>I <0 Type='3' Data='0000'/>roast <0 Type='3' Data='ffff'/>ingredients by
+  placing them beside the <0 Type='3' Data='0000'/>fire<0 Type='3' Data='ffff'/>.<0 Type='4'/>I do not eat. <5 Type='0'/>But I am given to understand
+  that it improves the taste.<0 Type='4'/>Our creators <0 Type='3' Data='0000'/>roasted<0 Type='3' Data='ffff'/> ingredients in order
+  to enhance their nutritional value.<0 Type='4'/><3 Type='0' Data='0700'/><4 Type='0' Data='0a0048006100700070007900'/>Do you have ingredients? <5 Type='0'/>I invite you to
+  use this <0 Type='3' Data='0000'/>fire <0 Type='3' Data='ffff'/>to roast them.
+talk_14: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0e005000610069006e00660075006c00'/>Ah. I <0 Type='3' Data='0000'/>roasted <0 Type='3' Data='ffff'/>that. <5 Type='1'/>But it is yours
+  if you want.
+0030: |
+  You roast them?
+talk_02: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Good evening. Were you lured in by the
+  delicious smells? <5 Type='0'/>I assume so.<0 Type='4'/>Ingredients are especially fragrant when
+  <0 Type='3' Data='0000'/>roasted<0 Type='3' Data='ffff'/> by a fire. <5 Type='0'/>They may also be tastier
+  and more nutritious. I would not know.
+talk_15: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0e005000610069006e00660075006c00'/>Careful. That is already <0 Type='3' Data='0000'/>roasted<0 Type='3' Data='ffff'/>.<5 Type='1'/> It will
+  burn if left by the fire any longer.
+0031: |
+  Sorry about that.
+talk_04: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>You are welcome to visit again.
+0020: |
+  You roast them?
+talk_05: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Oh dear. It has already grown late.<5 Type='0'/>
+  I will rest.<0 Type='4'/>I will return to my daily duties when the
+  morning-time bell chimes.
+0021: |
+  Thanks.
+talk_06: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>You are welcome to warm yourself by
+  the <0 Type='3' Data='0000'/>fire<0 Type='3' Data='ffff'/>.<0 Type='4'/>I encourage you to <0 Type='3' Data='0000'/>roast<0 Type='3' Data='ffff'/> any ingredients
+  that you have brought with you.
+talk_41: |
+  <3 Type='0' Data='0700'/>Oh? <5 Type='0'/>I had not noticed before that you
+  were unfamiliar to me. <5 Type='0'/>My apologies.<0 Type='4'/>Among my tasks is to explain anything
+  that visitors might require knowledge of.<0 Type='4'/>You may have questions about this place.<5 Type='0'/>
+  Please rest assured that a construct can
+  answer them.<0 Type='4'/><3 Type='0' Data='0700'/>I recall that your question was about
+  roasting food. <5 Type='1'/>I <0 Type='3' Data='0000'/>roast <0 Type='3' Data='ffff'/>ingredients by
+  placing them beside the <0 Type='3' Data='0000'/>fire<0 Type='3' Data='ffff'/>.<0 Type='4'/>I do not eat. <5 Type='0'/>But I am given to understand
+  that it improves the taste.<0 Type='4'/>Our creators <0 Type='3' Data='0000'/>roasted<0 Type='3' Data='ffff'/> ingredients in order
+  to enhance their nutritional value.<0 Type='4'/><3 Type='0' Data='0700'/><4 Type='0' Data='0a0048006100700070007900'/>Do you have ingredients? <5 Type='0'/>I invite you to
+  use this <0 Type='3' Data='0000'/>fire <0 Type='3' Data='ffff'/>to roast them.
+talk_07: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Thank you for visiting me again. <5 Type='1'/>You are
+  welcome to warm yourself by the <0 Type='3' Data='0000'/>fire<0 Type='3' Data='ffff'/>.<0 Type='4'/>I encourage you to <0 Type='3' Data='0000'/>roast<0 Type='3' Data='ffff'/> any ingredients
+  that you have brought with you.
+0010: |
+  You roast them?
+talk_42: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Oh? <5 Type='0'/>I had not noticed before that you
+  were unfamiliar to me. <5 Type='0'/>My apologies.<0 Type='4'/>Among my tasks is to explain anything
+  that visitors might require knowledge of.<0 Type='4'/>You may have questions about this place.<5 Type='0'/>
+  Please rest assured that a construct can
+  answer them.<0 Type='4'/>An example of a question you might have
+  is how to roast food. <5 Type='0'/>This would be an
+  especially good thing to ask me about.
+0011: |
+  Maybe another time.
+talk_08: |
+  <3 Type='0' Data='0700'/>Yes. <5 Type='0'/>I <0 Type='3' Data='0000'/>roast <0 Type='3' Data='ffff'/>ingredients by placing them
+  beside the <0 Type='3' Data='0000'/>fire<0 Type='3' Data='ffff'/>.<0 Type='4'/>I am given to understand that roasting<0 Type='3' Data='0000'/><0 Type='3' Data='ffff'/>
+  enhances the flavor. A roasted ingredient
+  is also more nutritious.<0 Type='4'/>I do not eat. <5 Type='0'/>So this information comes to
+  me secondhand.<0 Type='4'/><3 Type='0' Data='0700'/>Do you have ingredients? <5 Type='0'/>I invite you to
+  use this <0 Type='3' Data='0000'/>fire <0 Type='3' Data='ffff'/>to roast them.
+talk_43: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Oh dear. Look at the time. <5 Type='0'/>I must rest.<0 Type='4'/>I will return to my daily tasks again when
+  the time bell rings in the morning.
+talk_09: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Oh? <5 Type='0'/>I had not noticed before that you
+  were unfamiliar to me. <5 Type='0'/>My apologies.<0 Type='4'/>Among my tasks is to explain anything
+  that visitors might require knowledge of.<0 Type='4'/>You may have questions about this place.<5 Type='0'/>
+  Please rest assured that a construct can
+  answer them.<0 Type='4'/>An example of a question you might have
+  is how to roast food. <5 Type='0'/>This would be an
+  especially good thing to ask me about.
+talk_31: |
+  <3 Type='0' Data='0700'/>Oh? <5 Type='0'/>I had not noticed before that you
+  were unfamiliar to me. <5 Type='0'/>My apologies.<0 Type='4'/>Among my tasks is to explain anything
+  that visitors might require knowledge of.<0 Type='4'/>You may have questions about this place.<5 Type='0'/>
+  Please rest assured that a construct can
+  answer them.<0 Type='4'/><3 Type='0' Data='0700'/>I recall that your question was about
+  roasting food. <5 Type='1'/>I <0 Type='3' Data='0000'/>roast <0 Type='3' Data='ffff'/>ingredients by
+  placing them beside the <0 Type='3' Data='0000'/>fire<0 Type='3' Data='ffff'/>.<0 Type='4'/>I do not eat. <5 Type='0'/>But I am given to understand
+  that it improves the taste.<0 Type='4'/>Our creators <0 Type='3' Data='0000'/>roasted<0 Type='3' Data='ffff'/> ingredients in order
+  to enhance their nutritional value.<0 Type='4'/><3 Type='0' Data='0700'/><4 Type='0' Data='0a0048006100700070007900'/>Do you have ingredients? <5 Type='0'/>I invite you to
+  use this <0 Type='3' Data='0000'/>fire <0 Type='3' Data='ffff'/>to roast them.
+talk_32: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Oh? <5 Type='0'/>I had not noticed before that you
+  were unfamiliar to me. <5 Type='0'/>My apologies.<0 Type='4'/>Among my tasks is to explain anything
+  that visitors might require knowledge of.<0 Type='4'/>You may have questions about this place.<5 Type='0'/>
+  Please rest assured that a construct can
+  answer them.<0 Type='4'/>An example of a question you might have
+  is how to roast food. <5 Type='0'/>This would be an
+  especially good thing to ask me about.
+0001: |
+  You're roasting them?
+talk_33: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Oh dear. Look at the time. <5 Type='0'/>I must rest.<0 Type='4'/>I will return to my daily tasks again when
+  the time bell rings in the morning.
+0002: |
+  Maybe another time.
+talk_11: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>I will return to my duties when the dawn-
+  time bell chimes.<0 Type='4'/>I encourage you to use this fire to <0 Type='3' Data='0000'/>roast
+  any ingredients<0 Type='3' Data='ffff'/> you have brought.
+talk_12: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>The evening-time bell has chimed.<5 Type='0'/>
+  My duties today are complete.<0 Type='4'/>I encourage you to use this fire to <0 Type='3' Data='0000'/>roast
+  any ingredients<0 Type='3' Data='ffff'/> you have brought.
+talk_00: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hello. Were you lured in by the delicious
+  smells? <5 Type='0'/>I assume so.<0 Type='4'/>Ingredients are especially fragrant when
+  <0 Type='3' Data='0000'/>roasted<0 Type='3' Data='ffff'/> by a fire. <5 Type='0'/>They may also be tastier
+  and more nutritious. I would not know.
+talk_13: |
+  <3 Type='0' Data='0700'/>I myself must resume resting now.

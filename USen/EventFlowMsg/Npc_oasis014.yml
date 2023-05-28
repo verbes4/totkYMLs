@@ -1,0 +1,172 @@
+1002: |
+  Gibdos?
+talk0014: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0600530061006400'/>...<0 Type='4'/>Sav'otta...<5 Type='0'/> What do you need from me this
+  early in the morning?
+1003: |
+  Goodbye.
+talk0002: |
+  <3 Type='0' Data='0700'/>What do you need?<5 Type='0'/> Are you looking
+  for someone?
+talk0015: |
+  <3 Type='0' Data='0a00'/>I finally have the peace of mind to be able
+  to relax and get a good night's sleep.
+  Please, let me sleep just a bit longer...
+near0000: |
+  I can't believe they lost...
+talk0003: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>I hear you took part in the effort to
+  repel those Gibdo things that were
+  attacking the town.<5 Type='0'/> Sarqso...
+  But it's not over yet, is it?
+talk0016: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Ah, at last we can finally see the sky
+  again. I'm not going to miss the sand
+  shroud one bit.
+  I've heard all there is to hear about
+  what happened. You were involved,
+  weren't you?
+  The chief must've foreseen what was
+  going to happen early on. That would
+  explain why she invited you here.
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>She was only a vehvi when I was in charge
+  of protecting her predecessor.
+  
+  But sometime between then and now, she
+  grew into the best vai among all of us.
+  
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>It looks like maybe, <5 Type='0'/>just maybe, <5 Type='0'/>this old
+  soldier might just be able to finally relax...
+1004: |
+  Training area?
+talk0017: |
+  <3 Type='0' Data='0700'/>Hey. Don't even think about looking down
+  on our noble guards, understand?
+  
+  Not only have they adapted to a
+  <0 Type='3' Data='0000'/>brand-new training regimen<0 Type='3' Data='ffff'/>—one
+  focused on mobility...
+  but they dove straight into battle without
+  hesitation against the <0 Type='3' Data='0000'/>Gibdos<0 Type='3' Data='ffff'/>. <5 Type='0'/>They have
+  nothing if not their pride.
+talk0004: |
+  <3 Type='0' Data='0700'/>There's been talk of the new training
+  regimen getting started again once the
+  sand shroud clears up.
+  I need to come up with something to help
+  revitalize our noble guards...
+talk0018: |
+  <3 Type='0' Data='0700'/>I've only heard about it secondhand,
+  but the guards have been training hard
+  to improve their desert mobility.
+  You see, <5 Type='0'/>some time ago,<5 Type='0'/> right when <0 Type='3' Data='0000'/>Lady
+  Riju<0 Type='3' Data='ffff'/> had become chief...
+  
+  Gerudo Town faced a major crisis.
+  
+  
+  After it was resolved, <0 Type='3' Data='0000'/>Lady Riju<0 Type='3' Data='ffff'/> swore that
+  our military forces would be prepared to
+  face any new threats that came along.
+  <3 Type='0' Data='0000'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>Unfortunately, that was a tougher task
+  than anyone thought.<5 Type='1'/> Luckily, <0 Type='3' Data='0000'/>Lady Riju<0 Type='3' Data='ffff'/>'s
+  close friend Princess Zelda came to visit.
+  The princess suggested that the Gerudo
+  learn to be more in touch with the
+  desert itself.
+  This inspired <0 Type='3' Data='0000'/>Lady Riju<0 Type='3' Data='ffff'/>, and she proposed
+  a new training regimen. At least, that's
+  what I heard.
+near0002: |
+  What're they fighting over?
+talk0019: |
+  <3 Type='0' Data='0701'/>I don't want to see any more injured
+  people in need of care. <5 Type='1'/>That includes
+  you, so be careful.
+near0004: |
+  If I wasn't retired...
+talk0030: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1200570061006b006500750070005f0030003000'/>What?
+talk0008: |
+  <3 Type='0' Data='0700'/>Ugh, they are so loud. What could Pokki
+  be refusing to drop this time...
+  
+  It's none of my business, really. Just an
+  old habit...
+  
+  When I was an active guard, I had to be
+  aware of everything that was going on.
+  It's a tough habit to break.
+talk0009: |
+  <3 Type='0' Data='0700'/>The soldiers are all restless and ready to
+  get back to the training regimen now that
+  the <0 Type='3' Data='0000'/>training area<0 Type='3' Data='ffff'/> is open again.
+  I understand though. The recent events
+  were pretty rough on everyone, and they
+  want to be ready for what comes next.
+  <3 Type='0' Data='0800'/>If I wasn't retired, I'd be right there with
+  them. "In the vanguard," so to speak.
+talk0032: |
+  <3 Type='0' Data='0a00'/>Unfortunately, it doesn't seem to have
+  helped against those <0 Type='3' Data='0000'/>Gibdo<0 Type='3' Data='ffff'/> things.
+talk0020: |
+  <3 Type='0' Data='0700'/>The <0 Type='3' Data='0000'/>Gibdos<0 Type='3' Data='ffff'/> are strange monsters.
+  
+  
+  Our spears didn't even scratch them when
+  the guards tried to fight.
+  
+  <3 Type='0' Data='0c00'/>I can't think of a time where monsters as
+  ferocious as these prowled the desert...
+  
+  <3 Type='0' Data='0701'/>Even with the new training regimen the
+  troops went through, these monsters are
+  too tough.
+  Brute force won't help much if you run
+  into them. Be clever. Better yet, <0 Type='3' Data='0000'/>think up
+  some kind of new weapon to fight them<0 Type='3' Data='ffff'/>.
+talk0033: |
+  <3 Type='0' Data='0700'/>Hey... Isn't Kara Kara Bazaar in trouble
+  right now? Were you planning on heading
+  there, by chance?
+talk0034: |
+  <3 Type='0' Data='0700'/>Are you planning to go? I ask because I'm
+  tired of caring for the injured, so...
+  
+  Be careful.
+talk0035: |
+  <3 Type='0' Data='0700'/>If you want, you could go chat with
+  Sudrey. She should be up at the barracks,
+  I believe.
+talk0023: |
+  <3 Type='0' Data='0701'/>In case you're wondering, the soldiers all
+  went to face the <0 Type='3' Data='0000'/>Gibdos<0 Type='3' Data='ffff'/>.<0 Type='4'/><3 Type='0' Data='0c00'/>Despite them being elite soldiers who
+  completed the <0 Type='3' Data='0000'/>new training regimen<0 Type='3' Data='ffff'/>...
+  some still aren't healed from the last fight.
+  <3 Type='0' Data='0000'/>I'd have jumped in if I were still on active
+  duty, but all I can do nowadays is wait
+  and pray for their safe return...
+talk0010: |
+  <3 Type='0' Data='0700'/>I understand that you are free to make
+  use of whatever you find around here.
+  
+  If you get hungry, you can use the
+  cooking pot to prepare something.
+talk0036: |
+  <3 Type='0' Data='0700'/>If you're interested in checking it out,
+  it's located <0 Type='3' Data='0000'/>south<0 Type='3' Data='ffff'/> of town.
+  
+  Be aware though... It's right in the middle
+  of the harsh desert, so make sure you're
+  prepared before you head out there.
+talk0000: |
+  <3 Type='0' Data='0c00'/>Not even the <0 Type='3' Data='0000'/>new training regimen <0 Type='3' Data='ffff'/>could
+  prepare our noble guards for all the
+  recent events...
+  What's going to happen the next time
+  those <0 Type='3' Data='0000'/>Gibdo<0 Type='3' Data='ffff'/> things show up?
+1001: |
+  A training regimen?
+talk0013: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0600530061006400'/>...<0 Type='4'/>Sav'saaba...<5 Type='0'/> What do you need from me at
+  this hour?

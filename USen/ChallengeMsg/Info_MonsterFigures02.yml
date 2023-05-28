@@ -1,0 +1,34 @@
+Name: |
+  A Monstrous Collection II
+Reward: |
+  Kilton called the villagers together to show
+  off the Horriblin sculpture and then treated
+  everyone to a presentation about the monster.
+  
+  Now he wants to give you a reward for all your
+  help. Be sure to make room for Kilton's present
+  among your belongings, and then go see him.
+Photo: |
+  Kilton wants Hudson to make a Horriblin
+  sculpture for him, but he's finding it difficult to
+  describe what a Horriblin looks like.
+  
+  Hudson explained that he'd have no problem
+  making the sculpture if he had a <0 Type='3' Data='0000'/>detailed picture<0 Type='3' Data='ffff'/>
+  of the monster to look at for reference.
+Display: |
+  You showed Hudson a picture of a Horriblin,
+  and he made a sculpture of it. Now Kilton
+  wants the sculpture moved to a stage.
+  
+  Let Kilton know once you have <0 Type='3' Data='0000'/>placed it on
+  the stage<0 Type='3' Data='ffff'/>.
+Complete: |
+  Kilton called the villagers together to show
+  off the Horriblin sculpture and then treated
+  everyone to a presentation about the monster.
+  
+  Hudson was so happy with how the project
+  turned out, he wants to make more sculptures.
+  If you bring him a <0 Type='3' Data='0000'/>picture of a monster<0 Type='3' Data='ffff'/>, he's
+  likely to use it as reference for a sculpture.

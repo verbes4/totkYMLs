@@ -1,0 +1,199 @@
+BackRange_01: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0a0048006100700070007900'/>Some meats you can't buy in a store.
+  You have to find them for yourself out in
+  the wild.
+  <3 Type='0' Data='0801'/>I'm like a treasure hunter, but instead of
+  precious jewels, I find precious flavors.<5 Type='0'/>
+  Mezer, the meat hunter!
+BackRange_02_2: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0a0048006100700070007900'/>A <0 Type='3' Data='0000'/>mysterious beast<0 Type='3' Data='ffff'/>... <5 Type='0'/>Mm! I wanna taste
+  the mystery meat!<0 Type='4'/><3 Type='0' Data='0700'/>But anyone who dares to take life must
+  be willing to nurture it too.<0 Type='4'/>If this beast is one of the last of its kind,
+  then I'm not about to eat it.<0 Type='4'/>We've got to create an environment that
+  would allow their population to grow
+  before we even think about that.
+Near_RestPoint_01: |
+  Just up ahead...
+BackRange_02: |
+  <3 Type='0' Data='0c00'/>There's somethin' kinda romantic about
+  hunting the unknown.<5 Type='0'/> But just what sort
+  of creature is this <0 Type='3' Data='0000'/>rumored beast<0 Type='3' Data='ffff'/>?
+  There's so much we don't know. <5 Type='0'/>What
+  does it look like? <5 Type='0'/>How does it live?<0 Type='4'/>Does it taste better as a skewer, stew,
+  or roast?<5 Type='0'/><0 Type='4'/><3 Type='0' Data='0a00'/>No, no, you don't gotta tell me. I know it's
+  terrible that's where my brain goes.<0 Type='4'/><3 Type='0' Data='0700'/>If you're going to take life, you need to
+  be willing to nurture it too.<0 Type='4'/>If this beast's one of the last of its kind,
+  I'm not about to eat it, no matter how
+  much I love meat.
+  <4 Type='0' Data='12004c00610075006700680053005f0030003100'/>I'd wanna help build an environment that
+  would allow it to thrive and reproduce.
+  Maybe then I'd sample one.
+GoRange_01: |
+  <3 Type='0' Data='0c00'/>I've heard every rumor the stables have
+  to offer, and I'm sure of it—the beast is
+  here in <0 Type='3' Data='0000'/>Faron<0 Type='3' Data='ffff'/>.
+  No need to go way out east to <0 Type='3' Data='0000'/>Lurelin <0 Type='3' Data='ffff'/>for
+  a bite.<5 Type='0'/> That critter's close, and I plan on
+  cooking it up.
+  <3 Type='0' Data='0801'/><4 Type='0' Data='0c004c0061007500670068005300'/>How do I know? Call it intuition.<5 Type='0'/> Or maybe
+  just my nose for meat!<5 Type='1'/> Either way, I've
+  got its scent now.
+GoRange_02: |
+  <3 Type='0' Data='0700'/>You might've already picked up on this,
+  but I love meat.
+  
+  <3 Type='0' Data='0c01'/>Used to go around selling it, but every
+  time I handed it over to a customer,
+  my stomach growled something fierce.
+  <3 Type='0' Data='0800'/>That's when I realized I'd rather eat it
+  than give it away.
+RainPoint_01_2: |
+  <3 Type='0' Data='0700'/>Based solely on the size of the <0 Type='3' Data='0000'/>footprints<0 Type='3' Data='ffff'/>
+  hanging at the <0 Type='3' Data='0000'/>stables<0 Type='3' Data='ffff'/>...<0 Type='4'/><3 Type='0' Data='0801'/>this <0 Type='3' Data='0000'/>rumored beast <0 Type='3' Data='ffff'/>has gotta be massive!<0 Type='4'/>Tell ya what—if I find it, I'll split it with
+  ya. Just make sure you've got room in
+  your stomach!
+Near_RainPoint_01: |
+  Better to wait it out.
+Guardian00: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='0a0053006300610072006500'/>An un-<5 Type='0'/>un-<5 Type='0'/>unknown monster?!<5 Type='1'/> We gotta
+  run! If we escape with our lives, that's
+  a win in my book!
+Near_GoalPoint_01: |
+  It's not in the sea.
+Near_BackRange_01: |
+  I want some MEAT!
+Near_BackRange_02: |
+  Skewer, stew, or roast?
+SavedLv3_00: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1200530075007200700072006900730065004c00'/>That encounter had me shakin' in my
+  boots.<5 Type='0'/> You're something special if you
+  can walk away from a fight like that.
+Greeting: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>What is it? Ya hungry? Sorry, I don't have
+  any food on me right now.<0 Type='4'/>I swore to myself that I wouldn't eat a
+  thing until I dined on that <0 Type='3' Data='0000'/>rumored beast<0 Type='3' Data='ffff'/>
+  all the stables are talkin' about!
+GoRange_02_2: |
+  <3 Type='0' Data='0800'/>Steaks, skewers... I want 'em all! <5 Type='0'/>Fish and
+  veggies may be enough for some, but only
+  meaty meat satisfies my tummy!
+Near_Rain: |
+  Darn rain!
+Near_GoRange_01: |
+  It's here...
+SavedLv3_01: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='08004500610073006500'/>Tha...<5 Type='0'/>that was a real terror.<5 Type='0'/> Figured I was
+  mincemeat for sure!
+Greeting_00: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='0a005400680069006e006b00'/>Huh? That's weird...
+Near_GoRange_02: |
+  I could go for a steak.
+EnokidaSignboard: |
+  Is that hairstyle in now?
+Thanks00: |
+  <3 Type='0' Data='0101'/>Thanks to you, my meat-seeking
+  adventures can continue!
+  
+  <4 Type='0' Data='0a0048006100700070007900'/>This is for you, and don't even try to turn
+  it down.<5 Type='0'/> Hope you enjoy!
+StartPoint_01: |
+  <3 Type='0' Data='0401'/>I just saw a <0 Type='3' Data='0000'/>blue animal<0 Type='3' Data='ffff'/> over there. You
+  think it's the <0 Type='3' Data='0000'/>rumored beast<0 Type='3' Data='ffff'/> everyone's
+  goin' on about?
+  <3 Type='0' Data='0c01'/>Nah, can't be.<5 Type='0'/> It's too different from all
+  the stories.<0 Type='4'/>Still, can't say I've ever seen a creature
+  quite like it.<0 Type='4'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>I'd love to get a taste of—<5 Type='1'/> Er, a better
+  look at it...
+SavedLv2_00: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='08004500610073006500'/>Phew...<5 Type='0'/> I love eatin' meat, but I draw the
+  line at getting eaten.
+GoalPoint_01: |
+  <3 Type='0' Data='0a00'/>Still...<5 Type='0'/>I don't see any trace of the
+  <0 Type='3' Data='0000'/>rumored beast <0 Type='3' Data='ffff'/>on the beach.
+RestPoint_01_2: |
+  <3 Type='0' Data='0700'/>If you're hungry, it's best to look for a
+  settlement.<5 Type='1'/> There's <0 Type='3' Data='0000'/>Lurelin Village<0 Type='3' Data='ffff'/> down
+  the road to the <0 Type='3' Data='0000'/>east<0 Type='3' Data='ffff'/>...
+  But it's been taken over by pirates. Worse
+  yet, it's a fishing town!<0 Type='4'/>Full of pirates, no meat...<5 Type='1'/> Yeah, I don't
+  think <0 Type='3' Data='0000'/>Lurelin<0 Type='3' Data='ffff'/>'s for me.
+SavedLv2_01: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='08004500610073006500'/>That was horrifying.<5 Type='0'/> I thought I was
+  dead meat!
+RestPoint_01_3: |
+  <3 Type='0' Data='0700'/>If you're hungry, finding a settlement's a
+  quick way to get some good food.<5 Type='1'/> Closest
+  option's <0 Type='3' Data='0000'/>Lurelin Village<0 Type='3' Data='ffff'/> to the <0 Type='3' Data='0000'/>east<0 Type='3' Data='ffff'/>.
+  I'm not much of a seafood eater though.
+  I like my meat meaty.
+BackRange_01_2: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068004c00'/>Find meat, eat meat. <5 Type='0'/>That's my
+  carnivorous credo!
+SavedLv1_00: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='08004500610073006500'/>That was dicey.<5 Type='0'/> I thought I was gonna end
+  up a monster meal!
+Failed00: |
+  <3 Type='0' Data='0b00'/>L-<5 Type='0'/>look at that, I'm saved...<5 Type='0'/>I think?<5 Type='1'/>
+  Yeah, guess you must've saved me.
+SavedLv1_01: |
+  <3 Type='0' Data='0201'/><4 Type='0' Data='0a0041006e00670072007900'/>I hate monsters.<5 Type='0'/> Bet their meat isn't even
+  worth cooking.
+Failed01: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='08004500610073006500'/>Thanks...<5 Type='0'/> I almost got chewed up there.
+RestPoint_01: |
+  <3 Type='0' Data='0700'/>If I take the road <0 Type='3' Data='0000'/>east<0 Type='3' Data='ffff'/>, I'll come up on
+  <0 Type='3' Data='0000'/>Lurelin Village<0 Type='3' Data='ffff'/>.<0 Type='4'/>No quicker way to get a bite to eat than
+  finding a settlement, after all.<0 Type='4'/><3 Type='0' Data='0c00'/>But that's a fishing town, and me? <5 Type='0'/>I'm a
+  meat man!<0 Type='4'/><3 Type='0' Data='0001'/>On top of that, I heard they got attacked
+  by <0 Type='3' Data='0000'/>pirates<0 Type='3' Data='ffff'/>. <5 Type='1'/>Yeah, think I'll steer clear.
+Atacked00: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='0a0053006300610072006500'/>H-help!<5 Type='0'/> Don't let 'em eat me! I'm all
+  gristle, anyway!
+RestPoint_02: |
+  <3 Type='0' Data='0700'/>If I take the road <0 Type='3' Data='0000'/>east<0 Type='3' Data='ffff'/>, I'll come up on
+  <0 Type='3' Data='0000'/>Lurelin Village<0 Type='3' Data='ffff'/>.<0 Type='4'/>No quicker way to get a good meal than
+  finding a settlement, after all.<0 Type='4'/><3 Type='0' Data='0c00'/>But that's a fishing town, and me? <5 Type='0'/>I'm a
+  meat man!<0 Type='4'/><3 Type='0' Data='0001'/>I heard that the pirates are gone now,
+  so that's a plus, but...<5 Type='0'/> Maybe there's a
+  hunting town I can visit instead.
+Near_StartPoint_01: |
+  That blue creature...
+Atacked01: |
+  <3 Type='0' Data='0900'/>You gotta be kiddin' me! I<5 Type='1'/> ain't<5 Type='0'/> meat!
+StartPoint_01_2: |
+  <3 Type='0' Data='0c00'/>I could've sworn I caught a glimpse of
+  that <0 Type='3' Data='0000'/>little blue creature<0 Type='3' Data='ffff'/> around here.<5 Type='0'/><0 Type='4'/>Hm... Hmmm...<0 Type='4'/>Mmm... <5 Type='1'/>Wonder how it tastes.
+Near_Thunder: |
+  Darn lightning!
+GoalPoint_01_2: |
+  <3 Type='0' Data='0c00'/>Go to any <0 Type='3' Data='0000'/>stable<0 Type='3' Data='ffff'/> and you'll hear rumors
+  about a <0 Type='3' Data='0000'/>mysterious beast<0 Type='3' Data='ffff'/>.
+GoalPoint_01_3: |
+  <3 Type='0' Data='0701'/>If I look at the common threads between
+  all <0 Type='3' Data='0000'/>stable chatter<0 Type='3' Data='ffff'/> I've heard...<0 Type='4'/>it's clear that the beast's somewhere in
+  the <0 Type='3' Data='0000'/>Faron<0 Type='3' Data='ffff'/> region.
+RainPoint_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a005400680069006e006b00'/>Y'know...<5 Type='1'/>whenever the rain puts a damper
+  on my adventures, my mind always
+  wanders to what I wanna eat.
+  You ever get a chance to see the
+  footprints of the <0 Type='3' Data='0000'/>rumored beast<0 Type='3' Data='ffff'/> in those
+  <0 Type='3' Data='0000'/>stables<0 Type='3' Data='ffff'/>? The pictures of 'em, I mean.
+  <3 Type='0' Data='0800'/>Anything that leaves tracks like that has
+  gotta be HUGE.<0 Type='4'/>That's why I'm trying to keep my stomach
+  nice and empty for it!
+FriendGreet_00: |
+  <3 Type='0' Data='0b00'/>Huh?<5 Type='0'/> Well, we meet again, friend!<5 Type='0'/> You
+  really pulled me out of the fire back at
+  that Goron restaurant.
+  <3 Type='0' Data='0101'/>Since then, my hunt for this <0 Type='3' Data='0000'/>mysterious<0 Type='3' Data='ffff'/>,
+  <0 Type='3' Data='0000'/>rumored beast<0 Type='3' Data='ffff'/> has led me down here to
+  the Faron tropics.
+  I've been keepin' my ear to the ground in
+  <0 Type='3' Data='0000'/>stables all across Hyrule<0 Type='3' Data='ffff'/>, and the stories
+  all point in this direction.
+  <3 Type='0' Data='0c00'/>And when I find that creature, hm...<0 Type='4'/>Do I wanna make a steak out of it or chop
+  it up for a stew?<5 Type='1'/> Decisions, decisions...
+GoRange_01_2: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>I smell it...<5 Type='1'/> *sniff* Yeah, I smell it!<5 Type='1'/><0 Type='4'/>The <0 Type='3' Data='0000'/>rumored beast <0 Type='3' Data='ffff'/>is close by.<5 Type='0'/> My nose
+  is never wrong!

@@ -1,0 +1,232 @@
+StartPoint_01: |
+  <3 Type='0' Data='0700'/><0 Type='3' Data='0000'/><4 Type='0' Data='10004700720065006500740069006e006700'/><0 Type='3' Data='ffff'/>To get to <0 Type='3' Data='0000'/>Dueling Peaks Stable<0 Type='3' Data='ffff'/>, you'd
+  usually cross the <0 Type='3' Data='0000'/>bridge <0 Type='3' Data='ffff'/>here.
+  
+  I'm sorry to say it's been destroyed.
+  Something...fell on top of it.<0 Type='4'/><3 Type='0' Data='0701'/>There are disaster measures in place, but
+  they're far from perfect. Be extra careful
+  if you try to cross through there.
+GoalPoint_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>A massive hole—indeed, a <0 Type='3' Data='0000'/>chasm<0 Type='3' Data='ffff'/>—has
+  opened in the <0 Type='3' Data='0000'/>outpost<0 Type='3' Data='ffff'/> to the <0 Type='3' Data='0000'/>west<0 Type='3' Data='ffff'/>.
+  
+  As if that weren't enough, they say the
+  area near the <0 Type='3' Data='0000'/>chasm<0 Type='3' Data='ffff'/> is filled with this
+  creepy haze called <0 Type='3' Data='0000'/>gloom<0 Type='3' Data='ffff'/>.<0 Type='4'/>If you touch that, it's all over! It will sap
+  your strength in an instant, and leave
+  you listless...<5 Type='0'/>
+  <3 Type='0' Data='0500'/><4 Type='0' Data='0a005400680069006e006b00'/>A hole and haze...<5 Type='1'/> If it wasn't part of my
+  job on the <0 Type='3' Data='0000'/>survey team<0 Type='3' Data='ffff'/> to investigate
+  such things, I'd never go near that.
+GoRange_03_2: |
+  <3 Type='0' Data='0000'/><0 Type='3' Data='0000'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/><0 Type='3' Data='ffff'/>I hear there's a <0 Type='3' Data='0000'/>chasm <0 Type='3' Data='ffff'/>near <0 Type='3' Data='0000'/>Proxim Bridge<0 Type='3' Data='ffff'/>
+  that's so deep, it goes down to the depths
+  of the earth.
+  Careful near there. <5 Type='1'/>If you fall in, that's a
+  one-way ticket to the afterlife.
+SavedLv2_00: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>That enemy was a bit difficult. I'm glad
+  you came to help.
+RestPoint_01_2: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>I'd like to get a good night's sleep in an
+  <0 Type='3' Data='0000'/>inn<0 Type='3' Data='ffff'/>'s bed every now and again.
+  
+  It'd get rid of all my fatigue in one go!
+SavedLv2_01: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>Thanks! You're really strong. You must
+  work out a lot, huh?
+RestPoint_01: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0600530061006400'/>Me on the other hand, I'm exhausted...
+  Researching the Zonai sure is tiring.<5 Type='1'/>
+  
+  To tell you the truth, I'd rather crawl into
+  a soft bed than rest in a place like this.
+  
+  <3 Type='0' Data='0100'/><0 Type='3' Data='0000'/><4 Type='0' Data='0c004c0061007500670068005300'/><0 Type='3' Data='ffff'/>When you sleep in an <0 Type='3' Data='0000'/>inn<0 Type='3' Data='ffff'/>'s bed, you wake
+  up one hundred times more energetic!
+  Far more refreshed!
+GoRange_01_2: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0600530061006400'/>You've got to cross a bridge to get to
+  <0 Type='3' Data='0000'/>Dueling Peaks Stable <0 Type='3' Data='ffff'/>to the <0 Type='3' Data='0000'/>east<0 Type='3' Data='ffff'/>.
+  Well, normally.<0 Type='3' Data='0000'/><0 Type='3' Data='ffff'/>
+  The bridge has been destroyed by <0 Type='3' Data='0000'/>ruins<0 Type='3' Data='ffff'/>
+  that fell from the sky.
+  
+  That would have been fine...if it'd been
+  the ruins of a bridge.
+Near_RestPoint_01: |
+  Rest is key for work!
+GoalPoint_01_2: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>I doubt anyone would willingly approach
+  the <0 Type='3' Data='0000'/>outpost<0 Type='3' Data='ffff'/> to the <0 Type='3' Data='0000'/>west<0 Type='3' Data='ffff'/> of here.
+  
+  It's not just the hole—that huge, creepy
+  <0 Type='3' Data='0000'/>chasm<0 Type='3' Data='ffff'/>. The area is also full of that
+  troubling <0 Type='3' Data='0000'/>gloom<0 Type='3' Data='ffff'/>.<5 Type='0'/>
+Greeting_00: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>You must have a lot of energy if you can
+  go all night without any rest.
+Greeting_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>What is it?<5 Type='1'/> You sure seem enthusiastic
+  about something.
+Greeting_02: |
+  Are you headed that way too, buddy?
+Atacked00: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0a0048006100700070007900'/>Oh! Help arrives!<5 Type='0'/> Reassuring!
+Greeting_03: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>You must have a lot of energy, tromping
+  around in the rain without a care.
+BackRange_02_2: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>I wonder why the <0 Type='3' Data='0000'/>mechanical figures <0 Type='3' Data='ffff'/>are
+  at odds with the <0 Type='3' Data='0000'/>monsters<0 Type='3' Data='ffff'/>?<5 Type='1'/>
+  
+  They can't be fighting over food, after all.
+Atacked01: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0a0048006100700070007900'/>Thanks! You came at just the right time!
+StartPoint_01_2: |
+  <3 Type='0' Data='0000'/><0 Type='3' Data='0000'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/><0 Type='3' Data='ffff'/>This <0 Type='3' Data='0000'/>bridge<0 Type='3' Data='ffff'/> to <0 Type='3' Data='0000'/>Dueling Peaks Stable<0 Type='3' Data='ffff'/> has
+  been destroyed. So, take care if you plan
+  on crossing.
+Guardian00: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0a0053006300610072006500'/>Too dangerous for me, no matter how
+  you slice it. <5 Type='0'/>How would you even fight
+  something like that?!
+Near_GoalPoint_01: |
+  I'd rather not get close.
+Failed00: |
+  <3 Type='0' Data='0200'/><4 Type='0' Data='0c005300610064005f0030003000'/>Really...<5 Type='0'/> If you were right here, you could
+  have protected me.
+SavedLv3_00: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0a0048006100700070007900'/>You've got some skills! I'd ask you to be
+  my bodyguard if I could!
+Failed01: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='1000540069007200650064005f0030003100'/>Phew...<5 Type='0'/> I thought that was it for me.<5 Type='1'/> I'm
+  lucky to even be alive.
+Thanks00: |
+  <3 Type='0' Data='0100'/>Here's a token of my gratitude! Take this.
+SavedLv1_00: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Thanks! I would've been in real trouble
+  without you. I don't even have a weapon!
+SavedLv3_01: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='08004500610073006500'/>That was pretty close just now.<5 Type='0'/> I'd have
+  been done for if not for your help!
+GoRange_02_2: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='0a005400680069006e006b00'/>There have been sightings of strange,
+  <0 Type='3' Data='0000'/>mechanical figures<0 Type='3' Data='ffff'/> near the <0 Type='3' Data='0000'/>ruins<0 Type='3' Data='ffff'/> that fell
+  nearby. What are those guys, really...<5 Type='0'/>
+  You should be careful around here.
+SavedLv1_01: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>Thanks! I hope you'll help me out if we
+  meet like this in the future!
+Near_Rain: |
+  Ugh...rain.
+Near_GoRange_01: |
+  Such problematic ruins!
+GoRange_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>You can find <0 Type='3' Data='0000'/>Dueling Peaks Stable<0 Type='3' Data='ffff'/> to the
+  <0 Type='3' Data='0000'/>east<0 Type='3' Data='ffff'/>, but unfortunately the bridge near
+  there has been destroyed.
+  What's more, they say it's because of
+  <0 Type='3' Data='0000'/>ruins <0 Type='3' Data='ffff'/>that fell from the sky!
+  
+  <3 Type='0' Data='0200'/><4 Type='0' Data='0a0041006e00670072007900'/>What are the odds? This is such a vast
+  land, and it fell on the bridge?!
+Near_GoRange_02: |
+  The mechanical figures...
+RainPoint_01_2: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0a005400680069006e006b00'/>Ugh, this rain... <5 Type='0'/>What bad luck.<0 Type='4'/>It'd be rough if lightning hit, so maybe I'll
+  just take shelter from the rain and see if
+  this clears up a little.
+GoRange_02: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>There are lots of <0 Type='3' Data='0000'/>ruins<0 Type='3' Data='ffff'/> that fell from the
+  sky scattered around this area.
+  
+  And there have been strange sightings of
+  <0 Type='3' Data='0000'/>mechanical figures<0 Type='3' Data='ffff'/> just kind of hanging
+  around these <0 Type='3' Data='0000'/>ruins<0 Type='3' Data='ffff'/>...
+  Just what are those guys? Be cautious if
+  you go near any of them.
+Near_GoRange_03: |
+  Got to be quite a hole...
+RainPoint_01: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0600530061006400'/>I was in the mood to really put in some
+  good work today too.
+  
+  Of course, that's when the rain would
+  start pouring. <5 Type='1'/>Maybe it's a sign to stick
+  to what I'm good at?
+  <3 Type='0' Data='0000'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>I'd rather not get done in by lightning, so
+  I'll just take shelter from the rain and see
+  how the weather goes.
+GoRange_03: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>I'm told that there's a massive, deep
+  <0 Type='3' Data='0000'/>chasm <0 Type='3' Data='ffff'/>on the other side of <0 Type='3' Data='0000'/>Proxim Bridge<0 Type='3' Data='ffff'/>.
+  
+  From what I hear, it's so deep, it goes all
+  the way to the depths of the earth.
+  
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>Well, it's possible that's an exaggeration.
+  Or is that...<5 Type='1'/>an excavation?
+  
+  <3 Type='0' Data='0000'/>Either way, be careful if you go near that
+  <0 Type='3' Data='0000'/>chasm<0 Type='3' Data='ffff'/>. You wouldn't want to fall in!
+Near_RainPoint_01: |
+  Bad luck, this rain.
+BackRange_03_2: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>I hear there's a <0 Type='3' Data='0000'/>chasm <0 Type='3' Data='ffff'/>at the <0 Type='3' Data='0000'/>outpost
+  ruins <0 Type='3' Data='ffff'/>to the<0 Type='3' Data='0000'/> west<0 Type='3' Data='ffff'/> that's so massive, it
+  stretches into the depths of the earth.
+  Don't fall into that. Be careful if you go
+  anywhere near there.
+EnokidaSignboard: |
+  They build houses, right?
+BackRange_01_2: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>The <0 Type='3' Data='0000'/>bridge<0 Type='3' Data='ffff'/> to <0 Type='3' Data='0000'/>Dueling Peaks Stable <0 Type='3' Data='ffff'/>was
+  destroyed by <0 Type='3' Data='0000'/>ruins<0 Type='3' Data='ffff'/> that fell from the sky.
+  
+  They say that disaster measures have
+  been put into effect, but still, be careful
+  near there.
+Near_StartPoint_01: |
+  The bridge is really out...
+BackRange_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Looking for <0 Type='3' Data='0000'/>Dueling Peaks Stable<0 Type='3' Data='ffff'/>?
+  I should tell you about something
+  serious that's happened there.
+  Some <0 Type='3' Data='0000'/>ruins<0 Type='3' Data='ffff'/> fell from the sky, and they
+  landed right on top of the <0 Type='3' Data='0000'/>bridge<0 Type='3' Data='ffff'/> that
+  crosses to the stable!<5 Type='1'/>
+  The <0 Type='3' Data='0000'/>bridge<0 Type='3' Data='ffff'/> has been...destroyed.<0 Type='4'/>Disaster measures have been put into
+  effect near there, but it's not completely
+  safe,<5 Type='0'/> so be careful.
+Near_Thunder: |
+  Not today, lightning!
+Near_BackRange_01: |
+  Got to cross the bridge...
+Greeting: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Morning.<5 Type='1'/> You're looking bright-eyed
+  and bushy-tailed, if I may say so.
+BackRange_02: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>There are <0 Type='3' Data='0000'/>mechanical figures<0 Type='3' Data='ffff'/> just hanging
+  around the <0 Type='3' Data='0000'/>ruins<0 Type='3' Data='ffff'/> that fell from the sky.
+  Very strange.
+  Even stranger, they don't seem to get
+  along with monsters. <5 Type='0'/>They're fighting with
+  each other all over the place.<5 Type='1'/>
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='0a005400680069006e006b00'/>If I encounter that, I wonder if I could
+  figure out some way to get them to finish
+  each other off?
+  That'd certainly make my work easier.
+Near_BackRange_02: |
+  Monsters and...figures...
+BackRange_03: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>You should stay here, and steer clear of
+  the <0 Type='3' Data='0000'/>outpost ruins<0 Type='3' Data='ffff'/> to the<0 Type='3' Data='0000'/> west<0 Type='3' Data='ffff'/>.
+  
+  A massive <0 Type='3' Data='0000'/>chasm <0 Type='3' Data='ffff'/>opened up near there,<5 Type='0'/>
+  and it's apparently so deep, it stretches
+  into the depths of the earth.
+  If you fell in, that'd be curtains for you!<5 Type='1'/>
+  Seriously, you want no part of that.
+Near_BackRange_03: |
+  Fall in and that's curtains.

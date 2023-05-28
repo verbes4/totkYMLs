@@ -1,0 +1,17 @@
+Name: |
+  Feathered Fugitives
+Search: |
+  Teli lost five <0 Type='3' Data='0000'/>Cuccos<0 Type='3' Data='ffff'/>. He has to find them all
+  and get them back <0 Type='3' Data='0000'/>inside the fence <0 Type='3' Data='ffff'/>before the
+  stable staff find out what he's done.
+  
+  You've returned <0 Type='3' Data='0000'/><2 Type='2' Data='3e00430061007400630068004b006f006b006b006f005f0048006f0072007300650049006e006e004300680061006c006c0065006e0067006500300030003500ffff00cd'/><0 Type='3' Data='ffff'/> of them.
+Report: |
+  Teli was scrambling to find five missing Cuccos.
+  You searched the stable, found the <0 Type='3' Data='0000'/>Cuccos<0 Type='3' Data='ffff'/>,
+  and put them all back <0 Type='3' Data='0000'/>inside the fence<0 Type='3' Data='ffff'/>.
+Complete: |
+  Teli was relieved to see that the five Cuccos
+  he'd lost were back inside the fence. He gave
+  you <0 Type='3' Data='0000'/>100 rupees<0 Type='3' Data='ffff'/> to keep quiet about the
+  Cuccos going missing.

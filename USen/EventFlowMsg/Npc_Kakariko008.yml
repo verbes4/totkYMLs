@@ -1,0 +1,294 @@
+Talk01_29: |
+  <3 Type='0' Data='0700'/>Ah, hello again...
+  
+  
+  Now, I don't care how young you are,
+  you're gonna catch a cold running around
+  looking like a Cucco who fell in a lake.
+Talk01_30: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>The previous chief planted these beautiful
+  plum trees on the day I was born.
+  
+  They're...<5 Type='0'/>a part of me. I take care of them
+  like I would take care of my own children.
+  
+  Cori over with that survey team shows
+  my trees proper respect, so I let her use
+  part of my garden for her research.
+  <3 Type='0' Data='0701'/>She uses it to grow something called a
+  <0 Type='3' Data='0000'/>sundelion<0 Type='3' Data='ffff'/>. It seems important, so I keep
+  careful watch and don't fuss with it.
+Talk01_31: |
+  <3 Type='0' Data='0500'/><4 Type='0' Data='0e0043006800610074005f0030003000'/>Sometimes I wonder if I care too much.
+  But this place is important, so I'll take
+  care of it the best I can.
+Talk01_04: |
+  <3 Type='0' Data='0000'/>My watch over the plum garden is done
+  for the evening. If I don't head home
+  soon, my old man will fret away.
+WakkaCharm: |
+  What a good purchase!
+Talk01_34: |
+  <3 Type='0' Data='0700'/>I'm heading home. Cori, that sweet
+  girl, is watching the plum garden for me.
+Talk01_35: |
+  <3 Type='0' Data='0700'/>How's your <0 Type='3' Data='0000'/>sundelion <0 Type='3' Data='ffff'/>research coming
+  along, hm?
+Talk01_36: |
+  <3 Type='0' Data='0800'/>Oho, you really do like these <0 Type='3' Data='0000'/>sundelions<0 Type='3' Data='ffff'/>!
+  
+  
+  I can't say I understand all this <0 Type='3' Data='0000'/>sky island<0 Type='3' Data='ffff'/>
+  and <0 Type='3' Data='0000'/>gloom<0 Type='3' Data='ffff'/> business.
+  
+  But if this plum garden is helping your
+  research, I'm pleased as can be.
+ReturnHome_01: |
+  <3 Type='0' Data='0900'/><4 Type='0' Data='100041006e006700720079005f0030003000'/>Thief!
+Talk01_37: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Very well! Evidence indicates that
+  <0 Type='3' Data='0000'/>sundelions<0 Type='3' Data='ffff'/> come from the <0 Type='3' Data='0000'/>sky islands<0 Type='3' Data='ffff'/>, so
+  it would be a triumph to grow them here.
+  Even better, our research also indicates
+  that consuming them may impart a
+  resistance to <0 Type='3' Data='0000'/>gloom<0 Type='3' Data='ffff'/>, so—
+ReturnHome_02: |
+  <3 Type='0' Data='0901'/>You won't get away with this! <5 Type='0'/>We have
+  guard Cuccos here!
+  
+  <3 Type='0' Data='0000'/>Hm? Oh...it's that traveler. <5 Type='1'/>Good grief!
+  You scared the life out of me.
+NakedPlayer: |
+  How gauche.
+Talk01_38: |
+  <3 Type='0' Data='0800'/>Early test results indicate that consuming
+  sundelions may provide resistance
+  to <0 Type='3' Data='0000'/>gloom<0 Type='3' Data='ffff'/>.
+  Perhaps there's some connection to their
+  native habitat on the <0 Type='3' Data='0000'/>sky islands<0 Type='3' Data='ffff'/>...
+ReturnHome_03: |
+  <3 Type='0' Data='0000'/>Or not. <5 Type='0'/>Good grief, don't you know what
+  this looks like?
+Talk01_39: |
+  <3 Type='0' Data='0800'/>Oho, nothing can stop you when you get
+  going about <0 Type='3' Data='0000'/>sundelions<0 Type='3' Data='ffff'/>!
+  
+  I can't say all this <0 Type='3' Data='0000'/>sky island<0 Type='3' Data='ffff'/> and <0 Type='3' Data='0000'/>gloom<0 Type='3' Data='ffff'/>
+  business makes a lick of sense to me...
+  
+  But it does my heart good to know this
+  plum garden is helping your work. Just
+  goes to show what a bit of care can do.
+Talk01_12: |
+  <3 Type='0' Data='0800'/>I know, I know. The moment someone
+  tells you not to do something, that's all
+  you want to do.
+  I was young once. I've been there.
+  But let me tell you,<5 Type='1'/> sonny,<5 Type='1'/> you have
+  to grow up eventually...
+Talk01_42: |
+  <3 Type='0' Data='0a00'/>I know monsters don't come into the
+  village, but going out at night still gives
+  me the willies.
+0000: |
+  Plum garden?
+Talk01_43: |
+  <3 Type='0' Data='0c00'/>I'd dearly love to visit a friend who's
+  <0 Type='3' Data='0000'/>laid up in bed<0 Type='3' Data='ffff'/>, but <0 Type='3' Data='0000'/>Lasli<0 Type='3' Data='ffff'/> is taking care of
+  her. I don't want to be a bother.
+Talk01_14: |
+  <FontSize Value='125'/><3 Type='0' Data='0200'/><4 Type='0' Data='20005100750065007300740069006f006e0041006e006700720079005f0030003100'/>You got that, idiot?!<FontSize Value='100'/><1 Type='2'/>
+0001: |
+  Goodbye.
+Talk01_44: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004c0061007500670068005300'/>Hmph. If I want to have the energy to
+  keep an eye out tomorrow, I gotta call
+  it a day today.
+Talk01_15: |
+  <FontSize Value='125'/><3 Type='0' Data='0200'/><4 Type='0' Data='100041006e006700720079005f0030003000'/>So get your act together!<FontSize Value='100'/><1 Type='2'/>
+Talk01_45: |
+  <3 Type='0' Data='0800'/>When you get to be my age, you'll see
+  how much of a blessing it is to have a
+  comfortable life with no surprises.
+  Seeing my plums every day is the only
+  thing that keeps me going.
+Talk01_16: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1600540061006c006b00440065006e0079005f0030003000'/>Get away from my plums!<5 Type='1'/> Go on...
+  Shoo... Mmmph...
+PlumGarden_Kakariko008_Water_01: |
+  <3 Type='0' Data='0900'/><4 Type='0' Data='100041006e006700720079005f0030003100'/>Hey! Just WHAT are you doing? Hm?
+Talk01_46: |
+  <3 Type='0' Data='0500'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Hm? Maybe it's my age showing, but I
+  thought we already talked about this...
+Talk01_17: |
+  <3 Type='0' Data='0000'/>I'm glad our village has gotten livelier now
+  that Paya is our chief.
+  
+  <3 Type='0' Data='0c01'/>But with all of these new faces, I'm
+  worried sick someone will mess with
+  my <0 Type='3' Data='0000'/>plum garden<0 Type='3' Data='ffff'/>...
+Talk01_47: |
+  <3 Type='0' Data='0500'/><4 Type='0' Data='0e0043006800610074005f0030003000'/>With all the new folks flitting about visiting
+  the Ring Ruins, this plum garden isn't just
+  for me anymore.
+  I'm pleased it's gonna bring smiles to a
+  lot of new faces...but that means there's
+  a lot of new faces to keep an eye on.
+PlumGarden_Kakariko008_Water_03: |
+  <5 Type='0'/><3 Type='0' Data='0701'/>Were you... <5 Type='0'/>Were you trying to water my
+  plum garden?
+  
+  <3 Type='0' Data='0c00'/>I've had so many rowdy hooligans
+  come through here and show these
+  trees nothing but disrespect...
+  <3 Type='0' Data='0800'/>Turns out some young people actually do
+  care about plant life.
+Talk01_48: |
+  <FontSize Value='80'/><3 Type='0' Data='0c00'/>Oh, yes! I should go see <0 Type='3' Data='0000'/>Nanna<0 Type='3' Data='ffff'/> today. I hope she's
+  not still <0 Type='3' Data='0000'/>laid up in bed<0 Type='3' Data='ffff'/>...
+  
+  And that sweet granddaughter of hers, <0 Type='3' Data='0000'/>Lasli<0 Type='3' Data='ffff'/>, has
+  been run ragged. Poor dear.<FontSize Value='100'/>
+Talk01_19: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003100'/>You've taken quite the fancy to these
+  trees, haven't you?
+  
+  It's not often a young fellow like yourself
+  takes an interest.
+PlumGarden_Kakariko008_Water_04: |
+  <3 Type='0' Data='0700'/>But with Cori and me here, the trees are
+  well taken care of, so no need to worry.
+Balloon01: |
+  Lookit them grow...
+Talk01_20: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='12004c0061007500670068004c005f0030003100'/>Oh ho ho!<5 Type='0'/> Surprised?
+  
+  
+  I've been training Cuccos to swoop on
+  any rapscallions who try to mess with
+  these trees!
+  You heard of guard dogs?<5 Type='0'/> Well, try
+  guard Cuccos!
+  
+  Hurting my garden isn't a mistake
+  someone will make more than once.
+  Oh ho ho...<5 Type='0'/> No indeed...
+Talk01_49: |
+  <3 Type='0' Data='0901'/>Any scoundrel who tries to mess with my
+  plum trees will learn their lesson.
+  
+  Now stand up straight and listen up!
+PlumGarden_Kakariko008_Water_05: |
+  <3 Type='0' Data='0701'/>But since it's raining today, there's really
+  no need to water the garden.
+Talk01_21: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0600530061006400'/>I sure hope Nanna's doing OK. At least
+  she's getting some rest at <0 Type='3' Data='0000'/>home<0 Type='3' Data='ffff'/>.
+Balloon02: |
+  How're they doing?
+Talk01_50: |
+  <3 Type='0' Data='0500'/><4 Type='0' Data='0e0043006800610074005f0030003000'/>Ahem. Plums symbolize endurance
+  and prosperity.
+  
+  The way they persevere through the
+  harshness of winter and flower at the
+  first sign of spring...
+  We Sheikah were once driven out of the
+  kingdom. We strive to live in harmony with
+  the world around us.
+  We consider plum trees the silent
+  guardians of our village.
+  
+  These trees were planted by the previous
+  chief on the day I was born.
+  
+  Here is the story...
+Item_Plant_R_Kakariko008_Angry: |
+  <3 Type='0' Data='0900'/><4 Type='0' Data='100041006e006700720079005f0030003100'/>Hey! What are you doing?! <5 Type='1'/>Cori has put
+  a lot of work into raising that plant.<0 Type='4'/>Don't mess with it!
+Talk01_22: |
+  <3 Type='0' Data='0700'/>I was so worried about vandals, <5 Type='0'/>I've been
+  out there every night keeping watch.
+  
+  But with Cori there, that sweet girl, I can
+  go get some shut-eye.
+  
+  <3 Type='0' Data='0100'/>Thank Hylia for the Zonai Survey Team.
+Talk01_51: |
+  <3 Type='0' Data='0701'/>So, what I've been trying to say is that
+  these plum trees are full of the
+  previous chief's devotion.
+  Get it?<5 Type='1'/> Well?<5 Type='1'/>
+Talk01_52: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1000540061006c006b00440065006e007900'/>Well, I never!<5 Type='1'/> Thank goodness I keep
+  watch over my <0 Type='3' Data='0000'/>plum garden<0 Type='3' Data='ffff'/>!<5 Type='1'/>
+  
+  <3 Type='0' Data='0000'/>I'm glad our village has gotten livelier with
+  Paya as chief...
+  
+  But now I have to watch out for
+  delinquents like you!
+Balloon04: |
+  They're growing nicely!
+Item_Plant_R_Kakariko008_Angry_00: |
+  <3 Type='0' Data='0900'/><4 Type='0' Data='100041006e006700720079005f0030003100'/>Hey! Cut it out!
+  
+  
+  These plum trees are a precious gift from
+  our former chief!
+  
+  Don't you mess with them!
+Talk01_53: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='08004500610073006500'/>Well, I never!<5 Type='1'/> Thank goodness I keep
+  watch over my <0 Type='3' Data='0000'/>plum garden<0 Type='3' Data='ffff'/>!<5 Type='1'/>
+  
+  Are you one of those tourists who've
+  come to poke around the <0 Type='3' Data='0000'/>Ring Ruins<0 Type='3' Data='ffff'/>?
+  
+  A lot of older folks live around here.
+  We used to be a quiet little town.
+  
+  But since our Paya became chief, we're
+  neck-deep in young folks running around.
+  I'm glad we have some new blood...
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1000540061006c006b00440065006e007900'/>But I'll keep my eye out for hooligans
+  like you!
+Talk01_24: |
+  <3 Type='0' Data='0700'/>I'm going to keep watch over my <0 Type='3' Data='0000'/>plum
+  garden<0 Type='3' Data='ffff'/>. Would you like to join me?
+Talk01_25: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Hm? Are you one of those tourists who've
+  come to poke around the <0 Type='3' Data='0000'/>Ring Ruins<0 Type='3' Data='ffff'/>?
+  
+  <3 Type='0' Data='0000'/>A lot of older folks live around here.<5 Type='0'/>
+  This little village used to be as quiet
+  as a dusty old tomb.
+  But then Paya became chief, and lots of
+  you youthful types have been coming
+  around. Now it's quite lively!
+  <3 Type='0' Data='0c01'/>I just worry that with all the new folks
+  running around, something might happen
+  to my <0 Type='3' Data='0000'/>plum garden<0 Type='3' Data='ffff'/>...
+Talk01_54: |
+  <3 Type='0' Data='0900'/><4 Type='0' Data='100041006e006700720079005f0030003100'/>Hey! Are you even listening?
+  
+  
+  <3 Type='0' Data='0701'/>Fine then. I guess I have been going on
+  and on about it.
+  
+  But from now on, you'd better not hurt
+  something others hold dear. And not
+  just plum trees!
+Item_Plant_R_Kakariko008_Angry_02: |
+  <3 Type='0' Data='0900'/><4 Type='0' Data='100041006e006700720079005f0030003100'/>That's it. You'd better start listening when
+  people talk to you.<0 Type='4'/><FontSize Value='125'/>Don't mess with my plum garden!<FontSize Value='100'/>
+Talk01_26: |
+  <3 Type='0' Data='0700'/>You again? Well...mornin'!
+Talk01_55: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='0c004e006f007400690063006500'/>Now, I don't care how young you are,
+  you're gonna catch a cold running around
+  looking like a Cucco who fell in a lake.
+Item_Plant_R_Kakariko008_Angry_03: |
+  <FontSize Value='125'/><3 Type='0' Data='0b00'/><4 Type='0' Data='1200530075007200700072006900730065004d00'/>E-eeek! <5 Type='0'/>It's on fire!<0 Type='4'/>Put it out! <5 Type='1'/>Put it out quick!<5 Type='1'/><FontSize Value='100'/>
+Talk01_27: |
+  <3 Type='0' Data='0700'/>You again?

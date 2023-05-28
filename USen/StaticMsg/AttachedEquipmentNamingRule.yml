@@ -1,0 +1,16 @@
+AddAttachment: |
+  <2 Type='24'/> <2 Type='25'/>
+EssenceWithConvertWeaponType: |
+  <2 Type='26'/> <2 Type='27'/>
+OfAttachment: |
+  <2 Type='24'/> <2 Type='25'/>
+AttachmentAndWeapon: |
+  <2 Type='24'/> <2 Type='25'/>
+ConvertWithEssenceAndWeaponType: |
+  <2 Type='24'/> <2 Type='27'/>
+MasterSword: |
+  Master Sword
+AddAttachmentAndConvertWeaponType: |
+  <2 Type='24'/> <2 Type='27'/>
+AddEssence: |
+  <2 Type='26'/> <2 Type='25'/>

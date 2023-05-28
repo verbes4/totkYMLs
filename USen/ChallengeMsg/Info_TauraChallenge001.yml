@@ -1,0 +1,15 @@
+Name: |
+  Ruffian-Infested Village
+Step01: |
+  Lurelin Village has been captured by monsters.
+  The residents were able to flee, but Rozel, the 
+  village head, is worried because he can't get
+  near the village <0 Type='3' Data='0000'/>as long as any monsters
+  remain in their home<0 Type='3' Data='ffff'/>.
+Complete: |
+  You've defeated the monsters that invaded
+  Lurelin Village. The village head is delighted
+  that he's able to return. He plans to rebuild the
+  homes the monsters destroyed so the rest
+  of the villagers can return too. But rebuilding
+  the village will not be a quick or easy task.

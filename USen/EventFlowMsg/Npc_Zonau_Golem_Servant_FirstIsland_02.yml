@@ -1,0 +1,114 @@
+talk_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>Yes. I hunt <0 Type='3' Data='0000'/>wild creatures<0 Type='3' Data='ffff'/> that inhabit
+  the forest.
+talk_14: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/><5 Type='1'/>Time has passed while I hunted. <5 Type='1'/>I seem to
+  have failed to hear the time bell.<0 Type='4'/>I will rest now. <5 Type='0'/>Let me know if I am
+  needed. But do so quietly.
+0008: |
+  No, thanks.
+talk_02: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a0053006c00650065007000'/>Hunt the quarry. <5 Type='0'/>Remain quiet. <5 Type='0'/>Silence
+  is paramount.
+talk_03: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>Yes. <5 Type='0'/>I hunt <0 Type='3' Data='0000'/>wild creatures<0 Type='3' Data='ffff'/> that inhabit
+  this region.
+talk_16: |
+  <3 Type='0' Data='0701'/>Do not worry if you are uncertain on any
+  of these points. <5 Type='0'/>I am here to help. Do you
+  want any tips?
+talk_04: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a005400680069006e006b00'/>A bow can be used to strike from afar.<5 Type='0'/>
+  Aiming for weak spots is best.<0 Type='4'/>I will give you the bow placed over there.<5 Type='0'/>
+  Use it as you please.
+talk_17: |
+  <3 Type='0' Data='0700'/>Very well.<0 Type='4'/>Our prey is wary. You must <0 Type='3' Data='0000'/>crouch <0 Type='3' Data='ffff'/>to
+  approach without making noise. <5 Type='0'/>This step
+  is crucial.
+talk_05: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>Yes. I hunt <0 Type='3' Data='0000'/>wild creatures<0 Type='3' Data='ffff'/> that inhabit
+  the forest.<0 Type='4'/>Hmm? <5 Type='0'/>I do not remember seeing you
+  here before.<0 Type='4'/>We constructs fulfill several roles. One is
+  to provide any necessary explanations to
+  newcomers such as yourself.<0 Type='4'/>Other constructs you meet will be able
+  to answer questions you may have about
+  other subjects.<0 Type='4'/><3 Type='0' Data='0700'/>My specialty is hunting. <5 Type='0'/>To <0 Type='3' Data='0000'/>hunt<0 Type='3' Data='ffff'/> is to
+  dispatch wild creatures. Many of them
+  dwell within this forest.
+talk_18: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Do not worry if you forget these lessons.
+  You can review them from the <0 Type='3' Data='0000'/>System<0 Type='3' Data='ffff'/>
+  option on the pause menu.
+talk_06: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a0053006300610072006500'/>Shhh.
+talk_19: |
+  <3 Type='0' Data='0700'/>Taking aim with a bow from afar is also
+  effective. Do not forget to always carry
+  a bow and arrow when hunting.
+talk_07: |
+  <3 Type='0' Data='0701'/>These creatures are wary of noise. It is
+  important to <0 Type='3' Data='0000'/>crouch<0 Type='3' Data='ffff'/> and stay quiet.<0 Type='4'/>It is acceptable if you forget this lesson.
+  Simply check <0 Type='3' Data='0000'/>System<0 Type='3' Data='ffff'/> on the pause menu
+  for a helpful diagram.
+talk_08: |
+  <3 Type='0' Data='0800'/>I see you took down your quarry.<5 Type='0'/>
+  Very well done.<0 Type='4'/>You can eat ingredients obtained from
+  your prey as is. <5 Type='0'/>Or you may prefer to
+  cook them.
+talk_09: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>I have finished my hunting for today.
+0001: |
+  Hunting?
+talk_20: |
+  <3 Type='0' Data='0a00'/>I see that your prey escaped you. <5 Type='0'/>Would
+  you like some tips on hunting?
+0002: |
+  Goodbye.
+talk_21: |
+  <3 Type='0' Data='0700'/>Do not worry if you are uncertain on the
+  finer points of hunting. <5 Type='0'/>I am always
+  available for lessons.
+0003: |
+  Hunt?
+talk_22: |
+  <3 Type='0' Data='0700'/>The essential first step in bringing down
+  prey is to <0 Type='3' Data='0000'/>crouch<0 Type='3' Data='ffff'/> and approach quietly. <5 Type='0'/><0 Type='4'/>A long-distance weapon such as a bow
+  also works to maintain stealth.
+0004: |
+  Goodbye.
+talk_10: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a0053006300610072006500'/>Chatter should be limited to
+  the essentials.
+talk_23: |
+  Do not worry if you forget these lessons.
+  You can review them from the <0 Type='3' Data='0000'/>System<0 Type='3' Data='ffff'/>
+  option on the pause menu.
+talk_11: |
+  <3 Type='0' Data='0701'/>They are highly nutritious to organic life.
+  They are also extremely wary.<0 Type='4'/>A hunter must not make noise. <0 Type='3' Data='0000'/>Crouching<0 Type='3' Data='ffff'/>
+  is essential for silence.
+talk_24: |
+  <3 Type='0' Data='0700'/>You may fail at first. <5 Type='0'/>Keep trying. I am
+  certain you can do it with practice.
+0005: |
+  Hunting?
+talk_25: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a0053006300610072006500'/>Shhh.<0 Type='4'/>Hmm? <5 Type='0'/>I do not remember seeing you
+  here before. <5 Type='0'/>That would explain your
+  inability to be silent.<0 Type='4'/>I apologize. <5 Type='0'/>It is my duty to provide any
+  necessary explanations to newcomers
+  such as yourself.<0 Type='4'/>My specialty is hunting. <5 Type='0'/>Other constructs
+  you meet will be able to answer questions
+  you may have about other subjects.
+0006: |
+  Goodbye.
+talk_12: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Yes. <5 Type='0'/>I hunt <0 Type='3' Data='0000'/>wild creatures<0 Type='3' Data='ffff'/> that inhabit
+  that forest. But only by day.
+talk_00: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a0053006c00650065007000'/>Shhh. Quiet. <5 Type='0'/>I am engaged in hunting.
+0007: |
+  Let's hear 'em!
+talk_13: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Many <0 Type='3' Data='0000'/>wild creatures<0 Type='3' Data='ffff'/> inhabit this region.<5 Type='0'/>
+  Be careful not to alarm them.

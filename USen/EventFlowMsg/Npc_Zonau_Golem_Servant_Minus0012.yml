@@ -1,0 +1,137 @@
+1016: |
+  Go on.
+talk0070: |
+  <3 Type='0' Data='0700'/>That is all I have on hand. Please wait
+  until I have processed more.
+talk0071: |
+  <3 Type='0' Data='0800'/>Thank you.<0 Type='4'/>I will process this zonaite later.<0 Type='4'/>The resulting materials will be available to
+  you once the processing is complete.
+Com_Talk_50a: |
+  <3 Type='0' Data='0700'/>I will require <0 Type='3' Data='0000'/><2 Type='2' Data='4a00530068006f0070005f00540072006100640065004900740065006d005000610079006d0065006e0074004d006100740065007200690061006c0054006f00740061006c004e0075006d00ffff01cd'/> <201 Type='6' Data='0a00700069006500630065000c007000690065006300650073000000'/> <0 Type='3' Data='ffff'/>of<0 Type='3' Data='0000'/>
+  <201 Type='4'/><2 Type='11' Data='3a00530068006f0070005f00540072006100640065004900740065006d005000610079006d0065006e0074004d006100740065007200690061006c00ffff'/> <0 Type='3' Data='ffff'/>for that.
+5500: |
+  Yes.
+Com_Talk_56a: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0701'/><0 Type='3' Data='ffff'/>One of those will cost <0 Type='3' Data='0000'/><2 Type='2' Data='4a00530068006f0070005f00540072006100640065004900740065006d005000610079006d0065006e0074004d006100740065007200690061006c0054006f00740061006c004e0075006d00ffff01cd'/> <201 Type='6' Data='0a00700069006500630065000c007000690065006300650073000000'/><0 Type='3' Data='ffff'/>
+  of <0 Type='3' Data='0000'/><201 Type='4'/><2 Type='11' Data='3a00530068006f0070005f00540072006100640065004900740065006d005000610079006d0065006e0074004d006100740065007200690061006c00ffff'/><0 Type='3' Data='ffff'/>.
+5501: |
+  No.
+talk0132: |
+  Shall I explain anything else?
+5502: |
+  It's a deal!
+5503: |
+  Never mind.
+talk0020: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>I <0 Type='3' Data='0000'/>process zonaite<0 Type='3' Data='ffff'/> here into other
+  materials.<0 Type='4'/>I am willing to accept <0 Type='3' Data='0000'/>zonaite<0 Type='3' Data='ffff'/> in exchange
+  for processed materials.
+talk0050: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>These materials are being processed now.
+Com_Talk_50: |
+  <3 Type='0' Data='0700'/>I will require <0 Type='3' Data='0000'/><2 Type='2' Data='4a00530068006f0070005f00540072006100640065004900740065006d005000610079006d0065006e0074004d006100740065007200690061006c0054006f00740061006c004e0075006d00ffff01cd'/> pieces <0 Type='3' Data='ffff'/>of<0 Type='3' Data='0000'/>
+  <201 Type='4'/><2 Type='11' Data='3a00530068006f0070005f00540072006100640065004900740065006d005000610079006d0065006e0074004d006100740065007200690061006c00ffff'/> <0 Type='3' Data='ffff'/>for that.
+5507: |
+  I'll take them all!
+talk0080: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a0048006100700070007900'/><0 Type='3' Data='0000'/>Zonaite <0 Type='3' Data='ffff'/>is <0 Type='3' Data='0000'/>processed<0 Type='3' Data='ffff'/> by smelting it in
+  a furnace. <5 Type='0'/>It is thereby converted into
+  materials with useful properties.<0 Type='4'/><0 Type='3' Data='0000'/>Zonai charges<0 Type='3' Data='ffff'/> and <0 Type='3' Data='0000'/>crystallized charges<0 Type='3' Data='ffff'/>
+  are two such examples.
+talk0110: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0700'/>Crystallized charges <0 Type='3' Data='ffff'/>are a solidified form
+  of Zonai charges.<0 Type='4'/>We mainly use them as raw material in the
+  construction of <0 Type='3' Data='0000'/>Energy Cells<0 Type='3' Data='ffff'/>.
+Com_Talk_52: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0701'/><0 Type='3' Data='ffff'/>You want<0 Type='3' Data='0000'/> <0 Type='3' Data='ffff'/><2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/>? I will require <0 Type='3' Data='0000'/><2 Type='2' Data='4a00530068006f0070005f00540072006100640065004900740065006d005000610079006d0065006e0074004d006100740065007200690061006c0054006f00740061006c004e0075006d00ffff01cd'/> pieces<0 Type='3' Data='ffff'/>
+  of <0 Type='3' Data='0000'/><201 Type='4'/><2 Type='11' Data='3a00530068006f0070005f00540072006100640065004900740065006d005000610079006d0065006e0074004d006100740065007200690061006c00ffff'/><0 Type='3' Data='ffff'/>.
+talk0140: |
+  <3 Type='0' Data='0700'/>Please visit again once this batch has
+  been processed.
+Com_Talk_53: |
+  <3 Type='0' Data='0700'/>Very well.
+1000: |
+  Processing?
+talk0141: |
+  <3 Type='0' Data='0700'/>A selection of processed materials is
+  arrayed on the nearby shelves.<0 Type='4'/>See if any of them catch your interest.
+Com_Talk_54: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004e006f007400690063006500'/>You do not have enough zonaite.
+  Please come again once you have
+  brought enough.
+1001: |
+  Goodbye.
+Com_Talk_55: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004e006f007400690063006500'/>I am detecting a large number of items in
+  your possession. I recommend disposing
+  of some of them.
+1002: |
+  What's zonaite?
+Com_Talk_34a: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0701'/><0 Type='3' Data='ffff'/>All that are available?<0 Type='4'/>The <2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/> here will cost you <0 Type='3' Data='0000'/><2 Type='2' Data='4a00530068006f0070005f00540072006100640065004900740065006d005000610079006d0065006e0074004d006100740065007200690061006c0054006f00740061006c004e0075006d00ffff01cd'/> pieces<0 Type='3' Data='ffff'/>
+  of <0 Type='3' Data='0000'/><201 Type='4'/><2 Type='11' Data='3a00530068006f0070005f00540072006100640065004900740065006d005000610079006d0065006e0074004d006100740065007200690061006c00ffff'/><0 Type='3' Data='ffff'/>.
+Com_Talk_56: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0701'/><0 Type='3' Data='ffff'/>One of those will cost <0 Type='3' Data='0000'/><2 Type='2' Data='4a00530068006f0070005f00540072006100640065004900740065006d005000610079006d0065006e0074004d006100740065007200690061006c0054006f00740061006c004e0075006d00ffff01cd'/> pieces<0 Type='3' Data='ffff'/>
+  of <0 Type='3' Data='0000'/><201 Type='4'/><2 Type='11' Data='3a00530068006f0070005f00540072006100640065004900740065006d005000610079006d0065006e0074004d006100740065007200690061006c00ffff'/><0 Type='3' Data='ffff'/>.
+talk0000: |
+  <4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Authorizer verified.
+talk0001: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Welcome. I am a <0 Type='3' Data='0000'/>Forge Construct<0 Type='3' Data='ffff'/>.<0 Type='4'/>I <0 Type='3' Data='0000'/>process zonaite <0 Type='3' Data='ffff'/>here into other
+  materials.
+talk0030: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Welcome.
+talk0002: |
+  <3 Type='0' Data='0700'/>These are materials that have been
+  processed from the ore.<0 Type='4'/>I am willing to accept <0 Type='3' Data='0000'/>zonaite <0 Type='3' Data='ffff'/>in exchange
+  for processed materials.
+talk0060: |
+  <3 Type='0' Data='0800'/>Thank you.<0 Type='4'/>I will process this zonaite into
+  new materials.
+Com_Talk_31: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0700'/><0 Type='3' Data='ffff'/>How many do you require?
+near_1000: |
+  This does not bode well.
+talk0003: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0700'/><4 Type='0' Data='0a0048006100700070007900'/>Zonaite <0 Type='3' Data='ffff'/>is a substance that can be mined
+  in great quantities in this land.<0 Type='4'/>I am capable of <0 Type='3' Data='0000'/>processing <0 Type='3' Data='ffff'/>this substance
+  and converting it into a variety of things.<0 Type='4'/>Here. <5 Type='0'/>Allow me to show you what can be
+  processed from zonaite.
+talk0090: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0700'/>Zonaite <0 Type='3' Data='ffff'/>is a green substance that can be
+  mined in great quantities in this land.<0 Type='4'/>I am capable of <0 Type='3' Data='0000'/>processing <0 Type='3' Data='ffff'/>this substance
+  and converting it into a variety of things.
+talk0004: |
+  <3 Type='0' Data='0700'/>Please wait one moment.
+talk0091: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a0048006100700070007900'/>There is also a concentrated form called
+  <0 Type='3' Data='0000'/>large zonaite<0 Type='3' Data='ffff'/>. <5 Type='0'/>It is extremely useful.
+talk0120: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0700'/>Zonai charges<0 Type='3' Data='ffff'/> are what <0 Type='3' Data='0000'/>power <0 Type='3' Data='ffff'/>Zonai<0 Type='3' Data='0000'/><0 Type='3' Data='ffff'/>
+  devices and constructs.<0 Type='4'/>A charge can be consumed to <0 Type='3' Data='0000'/>replenish
+  your Energy Cell<0 Type='3' Data='ffff'/>.<0 Type='4'/>It can also be fed into device dispensers
+  to <0 Type='3' Data='0000'/>produce Zonai devices<0 Type='3' Data='ffff'/>.
+Com_Talk_52a: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0701'/><0 Type='3' Data='ffff'/>You want<0 Type='3' Data='0000'/> <0 Type='3' Data='ffff'/><2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/>? I will require <0 Type='3' Data='0000'/><2 Type='2' Data='4a00530068006f0070005f00540072006100640065004900740065006d005000610079006d0065006e0074004d006100740065007200690061006c0054006f00740061006c004e0075006d00ffff01cd'/> pieces<0 Type='3' Data='ffff'/>
+  of <0 Type='3' Data='0000'/><201 Type='4'/><2 Type='11' Data='3a00530068006f0070005f00540072006100640065004900740065006d005000610079006d0065006e0074004d006100740065007200690061006c00ffff'/><0 Type='3' Data='ffff'/>.
+talk0150: |
+  <3 Type='0' Data='0700'/>That is a precious mineral which is already
+  slated for processing.<0 Type='4'/>It would pose difficulties for me if you
+  took it for yourself.
+Com_Talk_34: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0701'/><0 Type='3' Data='ffff'/>All that are available?<0 Type='4'/>The <2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/> here will cost you <0 Type='3' Data='0000'/><2 Type='2' Data='4a00530068006f0070005f00540072006100640065004900740065006d005000610079006d0065006e0074004d006100740065007200690061006c0054006f00740061006c004e0075006d00ffff01cd'/> pieces<0 Type='3' Data='ffff'/>
+  of <0 Type='3' Data='0000'/><201 Type='4'/><2 Type='11' Data='3a00530068006f0070005f00540072006100640065004900740065006d005000610079006d0065006e0074004d006100740065007200690061006c00ffff'/><0 Type='3' Data='ffff'/>.
+1010: |
+  Zonaite?
+talk0151: |
+  <3 Type='0' Data='0701'/>There are examples of processed
+  materials available on the nearby shelves.<0 Type='4'/>I encourage you to examine them to see
+  if there are any you want.
+1012: |
+  Crystallized charges?
+1013: |
+  Zonai charges?
+talk0040: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>I am engaged in processing zonaite into
+  other materials.
+1015: |
+  Thanks.

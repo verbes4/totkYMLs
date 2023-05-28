@@ -1,0 +1,175 @@
+Talk_1107: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>Ah. This is quite the...outfit...you've put
+  together. Although perhaps it could be a
+  little more, um, coordinated.
+  That is, a complete set would really work
+  for you.
+Near_03: |
+  I hope I'll stay dry here...
+Talk_1108: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='0600530061006400'/>My boyfriend went to buy some of the
+  <0 Type='3' Data='0000'/>fire-resistant clothes<0 Type='3' Data='ffff'/> sold in Goron City,
+  but he hasn't come back.
+  I went part of the way with him, but some
+  Gorons with <0 Type='3' Data='0000'/>strange-looking rocks <0 Type='3' Data='ffff'/>started
+  bothering us.
+  I got scared and came back on my own...<0 Type='4'/><3 Type='0' Data='0701'/>Luckily, I hear <0 Type='3' Data='0000'/>Goron City <0 Type='3' Data='ffff'/>is completely
+  safe again.<0 Type='4'/>There shouldn't be anything else keeping
+  him away, but he still hasn't come back.<0 Type='4'/><3 Type='0' Data='0c00'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>I wonder what in the world he's doing...
+Talk_1109: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>Ah! Those clothes! Are they from
+  Goron City?!<0 Type='4'/><3 Type='0' Data='0701'/>Very, very nice. I should get some
+  for myself...
+Talk_1110: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='0600530061006400'/>My boyfriend went to buy some of the
+  <0 Type='3' Data='0000'/>fire-resistant clothes<0 Type='3' Data='ffff'/> sold in Goron City,
+  but he hasn't come back.
+  I've heard that the city is already safe
+  again, so what in the world is taking him
+  so long?
+Talk_1111: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068005300'/>Your clothes! So coordinated! Fabulous.
+  You're clearly well-versed in the ways
+  of fashion.
+SagonoHat: |
+  How stylish!
+Talk_1112: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>Ah! Those clothes! Are they from
+  Goron City?!<0 Type='4'/>It's this season's hottest trend to have
+  the complete three-piece set. You must
+  be made of rupees!
+  <3 Type='0' Data='0801'/>They look fabulous. Just fabulous!
+  <FontSize Value='80'/>I'm so jealous.<FontSize Value='100'/>
+Player: |
+  That attire...
+Talk_1113: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>Yes, yes. Can I help you? Or did you come
+  to show off to me again?<0 Type='4'/><3 Type='0' Data='0100'/>*sigh* I can't even stay upset. No matter
+  how many times I see the set, it still looks
+  absolutely marvelous.
+  I want it too...
+Talk_00: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Sorry. My eye for fashion can't help but
+  see what it sees.<5 Type='1'/><0 Type='4'/>I'm forever tempted by the latest styles.
+  The same is true for my boyfriend.<0 Type='4'/>The two of us were going to Goron City to
+  buy their trendy <0 Type='3' Data='0000'/>fire-resistant clothes<0 Type='3' Data='ffff'/>...
+  
+  <3 Type='0' Data='0a00'/>But when we were about to arrive, we
+  got tangled up with some Gorons with
+  <0 Type='3' Data='0000'/>strange-looking rocks<0 Type='3' Data='ffff'/>.
+  I got scared and came back on my own.<0 Type='4'/><3 Type='0' Data='0701'/>If you're going to <0 Type='3' Data='0000'/>Goron City<0 Type='3' Data='ffff'/>, then you
+  should be very careful.
+Talk_1100: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='1200570061006b006500750070005f0030003100'/>...Kanny? You're back? I was waiting
+  and waiting and just shut my eyes for
+  a moment...<5 Type='1'/>
+  <3 Type='0' Data='0401'/>...Oh, I'm sorry. You're definitely not
+  my boyfriend.
+Talk_1114: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>Ah! Those clothes! Are they from
+  Goron City?!<0 Type='4'/>And you're only one piece away from a
+  complete set?!<0 Type='4'/><3 Type='0' Data='0701'/>Very, very nice. I should get some
+  for myself...
+Talk_01: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>Wait, this isn't the time to be thinking
+  about fashion.<0 Type='4'/>My boyfriend went to go buy <0 Type='3' Data='0000'/>fire-resistant
+  clothes<0 Type='3' Data='ffff'/> in Goron City. He still hasn't
+  come back...
+  <FontSize Value='80'/><3 Type='0' Data='0c00'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>I hope he's not still caught up with those Gorons
+  with the <0 Type='3' Data='0000'/>strange-looking rocks<0 Type='3' Data='ffff'/>.<FontSize Value='100'/><0 Type='4'/><3 Type='0' Data='0701'/>If you're going to <0 Type='3' Data='0000'/>Goron City<0 Type='3' Data='ffff'/>, then you
+  should be very careful.
+Talk_1115: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='1200530075007200700072006900730065004c00'/>Oh my! That's hardly appropriate attire for
+  polite company, is it?<0 Type='4'/>I'm not interested in conversation with
+  someone who can't be bothered to dress
+  properly, so will you please leave me be?
+Talk_02: |
+  <3 Type='0' Data='0a00'/>It's so strange. I thought the Gorons were
+  gentle and kind.<5 Type='1'/><FontSize Value='80'/><0 Type='4'/><3 Type='0' Data='0c00'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>I wonder if it has something to do with those
+  <0 Type='3' Data='0000'/>strangely shaped rocks<0 Type='3' Data='ffff'/>...<0 Type='4'/><FontSize Value='100'/><3 Type='0' Data='0701'/>I'm glad that my boyfriend went to buy<FontSize Value='80'/><FontSize Value='100'/>
+  the <0 Type='3' Data='0000'/>fire-resistant clothes<0 Type='3' Data='ffff'/>, but I am a
+  little worried...
+  If you're going to <0 Type='3' Data='0000'/>Goron City<0 Type='3' Data='ffff'/>, then you
+  should be very careful.
+Talk_1102: |
+  <3 Type='0' Data='0900'/>Excuse you! Don't you see the rain?
+  I'm not interested in talking where my
+  precious clothes will get wet!
+StableHostelPicture: |
+  What a stylish picture!
+Talk_1116: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='1200530075007200700072006900730065004c00'/>E-<5 Type='1'/>excuse you! You ARE persistent!<0 Type='4'/>I already told you that I'm not interested
+  in conversation with someone who isn't
+  dressed properly. So go away!
+Talk_1103: |
+  <3 Type='0' Data='0a00'/>My boyfriend went to buy some of the
+  <0 Type='3' Data='0000'/>fire-resistant clothes<0 Type='3' Data='ffff'/> available in Goron
+  City, but he hasn't come back.
+  I went part of the way with him, but some
+  Gorons with <0 Type='3' Data='0000'/>strange-looking rocks<0 Type='3' Data='ffff'/>
+  started bothering us.
+  I got scared and came back on my own.<0 Type='4'/><3 Type='0' Data='0300'/>If you're going to <0 Type='3' Data='0000'/>Goron City<0 Type='3' Data='ffff'/>, then you
+  should be very careful.
+Talk_03: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Sorry. My eye for fashion can't help but
+  see what it sees.<5 Type='1'/><0 Type='4'/>I'm forever tempted by the latest styles.
+  The same is true for my boyfriend.<0 Type='4'/>The two of us were going to go buy
+  the <0 Type='3' Data='0000'/>fire-resistant clothes<0 Type='3' Data='ffff'/> sold in
+  Goron City, but...
+  <3 Type='0' Data='0a00'/>Just when we were about to arrive, we
+  got tangled up with some Gorons with
+  <0 Type='3' Data='0000'/>strange-looking rocks<0 Type='3' Data='ffff'/>.
+  I got scared and came back on my own.<0 Type='4'/><3 Type='0' Data='0c01'/>Luckily, I hear <0 Type='3' Data='0000'/>Goron City <0 Type='3' Data='ffff'/>is completely
+  safe again.<0 Type='4'/>There shouldn't be anything else keeping
+  him away, but he still hasn't come back.<0 Type='4'/><3 Type='0' Data='0c00'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>I wonder what in the world he's doing...
+Talk_1117: |
+  <0 Type='3' Data='0200'/><FontSize Value='80'/><3 Type='0' Data='0000'/><4 Type='0' Data='0c005300610064005f0030003100'/>Is he really trying to talk to me from up on the table?
+  And I try so hard not to associate with oddballs...<FontSize Value='100'/><0 Type='3' Data='ffff'/>
+Talk_04: |
+  <3 Type='0' Data='0a00'/>Wait, this isn't the time to be thinking
+  about fashion.<0 Type='4'/>My boyfriend went to go buy the
+  <0 Type='3' Data='0000'/>fire-resistant clothes<0 Type='3' Data='ffff'/> sold in Goron City,
+  but he still hasn't come back.
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>I hear the city is completely safe again,
+  so I wonder what in the world is taking
+  him so long...
+Talk_1104: |
+  <3 Type='0' Data='0900'/>Excuse you! Are you seriously that against
+  wearing damp clothes?
+NakedPlayer: |
+  No interest in fashion?
+Talk_1118: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='1200530075007200700072006900730065005300'/>Wait a minute... <5 Type='1'/>On your head! Is that the
+  fabled <0 Type='3' Data='0000'/>Cece hat<0 Type='3' Data='ffff'/>?!
+  
+  Cece fans everywhere covet that item with
+  every fashionable fiber of our beings.
+  
+  I've never seen one up close, but...<5 Type='0'/>
+  assuming it isn't a knockoff, I am so
+  incredibly jealous right now!
+Talk_1105: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0600530061006400'/>My boyfriend went to buy some of the
+  <0 Type='3' Data='0000'/>fire-resistant clothes <0 Type='3' Data='ffff'/>available in Goron
+  City, but he hasn't come back yet.
+  If we hadn't gotten tangled up with those
+  Gorons with the <0 Type='3' Data='0000'/>strangely shaped rocks<0 Type='3' Data='ffff'/>,
+  I would be with him right now...
+  If you're going to <0 Type='3' Data='0000'/>Goron City<0 Type='3' Data='ffff'/>, then you
+  should be very careful.
+Talk_05: |
+  <3 Type='0' Data='0a00'/>I'm looking forward to having a set of the
+  <0 Type='3' Data='0000'/>fire-resistant clothes <0 Type='3' Data='ffff'/>from Goron City...
+  
+  But I'm starting to worry that my
+  boyfriend won't be coming back.<0 Type='4'/><3 Type='0' Data='0c00'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>I've heard that the city is already safe
+  again, so what in the world is taking him
+  so long?
+Talk_1106: |
+  <3 Type='0' Data='0c01'/>...Kanny? You're back? I was waiting
+  and waiting and just shut my eyes for
+  a moment...<5 Type='1'/>
+  <3 Type='0' Data='0a01'/>...Oh, you again. I thought you were
+  my boyfriend.
+Near_02: |
+  Nooo! Not my clothes!

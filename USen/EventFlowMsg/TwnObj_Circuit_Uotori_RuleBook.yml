@@ -1,0 +1,50 @@
+Talk_0012: |
+  To successfully complete this rally race,
+  you must touch <0 Type='3' Data='0000'/>all of the lights <0 Type='3' Data='ffff'/>and return
+  to the starting point within the time limit.
+  You'll be disqualified if you <0 Type='3' Data='0000'/>take your
+  hands off the steering stick <0 Type='3' Data='ffff'/>or <0 Type='3' Data='0000'/>go too
+  far off course<0 Type='3' Data='ffff'/>.
+  You can compete with any vehicle you like
+  as long as you use the steering stick that
+  was provided.
+  Once your vehicle is ready, make sure it's
+  floating on the water at the starting line,
+  and then speak to the race organizer.
+  The rally begins when the gate opens!
+Talk_0006: |
+  Intermediate Course: <0 Type='3' Data='0000'/><2 Type='19' Data='420043006900720063007500690074005f0055006f0074006f00720069005f0043006f00750072007300650042005f004200650073007400540069006d0065005f004c00ffff00cd'/>:<2 Type='19' Data='420043006900720063007500690074005f0055006f0074006f00720069005f0043006f00750072007300650042005f004200650073007400540069006d0065005f004d00ffff00cd'/>.<2 Type='19' Data='420043006900720063007500690074005f0055006f0074006f00720069005f0043006f00750072007300650042005f004200650073007400540069006d0065005f005300ffff00cd'/><5 Type='0'/><0 Type='3' Data='ffff'/>
+0003: |
+  Stop reading.
+Talk_0007: |
+  Expert Course: <0 Type='3' Data='0000'/><2 Type='19' Data='420043006900720063007500690074005f0055006f0074006f00720069005f0043006f00750072007300650043005f004200650073007400540069006d0065005f004c00ffff00cd'/>:<2 Type='19' Data='420043006900720063007500690074005f0055006f0074006f00720069005f0043006f00750072007300650043005f004200650073007400540069006d0065005f004d00ffff00cd'/>.<2 Type='19' Data='420043006900720063007500690074005f0055006f0074006f00720069005f0043006f00750072007300650043005f004200650073007400540069006d0065005f005300ffff00cd'/><5 Type='0'/><0 Type='3' Data='ffff'/>
+Talk_0013: |
+  1. Take a look at the route in advance to
+  visualize your path through the course.
+Talk_0008: |
+  Beginner Course: No record
+Talk_0014: |
+  2. Your vehicle will not perform as well if it
+  is tilting on the water. Balance is key!
+Talk_0009: |
+  Intermediate Course: No record
+Talk_0015: |
+  3. Since you can't make sharp turns or
+  decelerate, it's important to steer
+  carefully and not rush through the course.
+Talk_0016: |
+  4. Trial and error is essential to building a
+  good vehicle. If you're struggling to finish
+  the race, try changing up your design.
+Talk_0001: |
+  Read the Lurelin Water Rally rulebook?
+0000: |
+  Rules.
+0001: |
+  Current Records.
+Talk_0010: |
+  Expert Course: No record
+Talk_0005: |
+  Beginner Course: <0 Type='3' Data='0000'/><2 Type='19' Data='420043006900720063007500690074005f0055006f0074006f00720069005f0043006f00750072007300650041005f004200650073007400540069006d0065005f004c00ffff00cd'/>:<2 Type='19' Data='420043006900720063007500690074005f0055006f0074006f00720069005f0043006f00750072007300650041005f004200650073007400540069006d0065005f004d00ffff00cd'/>.<2 Type='19' Data='420043006900720063007500690074005f0055006f0074006f00720069005f0043006f00750072007300650041005f004200650073007400540069006d0065005f005300ffff00cd'/><5 Type='0'/><0 Type='3' Data='ffff'/>
+0002: |
+  Racing Tips.

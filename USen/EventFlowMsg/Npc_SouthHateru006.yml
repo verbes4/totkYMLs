@@ -1,0 +1,102 @@
+Talk_1000: |
+  <3 Type='0' Data='0801'/>If you need a <0 Type='3' Data='0000'/>guide to the roads<0 Type='3' Data='ffff'/> around
+  here, I can let you know what's what.
+Talk_1010: |
+  <3 Type='0' Data='0c00'/>Things have changed around here lately,
+  haven't they? Even the towns
+  are different.
+  There's been a lot of changes around
+  <0 Type='3' Data='0000'/>Kakariko Village<0 Type='3' Data='ffff'/> and <0 Type='3' Data='0000'/>Hateno Village<0 Type='3' Data='ffff'/>
+  in particular.
+Talk_1020: |
+  <3 Type='0' Data='0c00'/>Do we protect the old or embrace
+  the new?
+  
+  <3 Type='0' Data='0701'/><0 Type='3' Data='0000'/>Kakariko Village<0 Type='3' Data='ffff'/> and <0 Type='3' Data='0000'/>Hateno Village<0 Type='3' Data='ffff'/> seem
+  like they're at a major turning point.
+0001: |
+  Kakariko Village?
+Talk_1030: |
+  <3 Type='0' Data='0700'/>Kakariko Village is a Sheikah village
+  to the <0 Type='3' Data='0000'/>north<0 Type='3' Data='ffff'/>.
+  
+  It used to be a quiet town. That all
+  changed when <0 Type='3' Data='0000'/>strange, ring-shaped
+  Zonai ruins<0 Type='3' Data='ffff'/> fell from the sky.
+  Now it's crowded with both researchers
+  and tourists.
+Talk_1050: |
+  <3 Type='0' Data='0700'/>Hateno Village is at the edge of Hyrule,
+  far to the <0 Type='3' Data='0000'/>east<0 Type='3' Data='ffff'/>.
+  
+  It used to be known primarily for its <0 Type='3' Data='0000'/>milk<0 Type='3' Data='ffff'/>
+  and its <0 Type='3' Data='0000'/>local produce<0 Type='3' Data='ffff'/>.
+  
+  Then, out of nowhere, a woman from the
+  clothes shop became a famous designer.
+  
+  Now the town has become a <0 Type='3' Data='0000'/>center
+  for fashion<0 Type='3' Data='ffff'/>, of all things.
+Talk_1060: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>If you're looking to do something special,
+  I recommend visiting Dueling Peaks'
+  stone statues.
+  There's no road up to the summit, so it's
+  no easy trek...
+  
+  But the view of Hyrule at the top is a
+  true wonder.
+LargeHorse: |
+  You tamed that thing?
+Talk_1001: |
+  <3 Type='0' Data='0800'/>Welcome to <0 Type='3' Data='0000'/>Dueling Peaks Stable<0 Type='3' Data='ffff'/>,
+  right at the foot of the <0 Type='3' Data='0000'/>Dueling Peaks<0 Type='3' Data='ffff'/>!
+  
+  Thank you for returning to our stable.
+  We appreciate your business.
+  
+  If you need a <0 Type='3' Data='0000'/>guide to the roads<0 Type='3' Data='ffff'/> around
+  here, I'm happy to help!
+Talk_1031: |
+  <3 Type='0' Data='0800'/>If you're that interested, then you should
+  take a look!
+0002: |
+  Hateno Village?
+Talk_1061: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>If you're up for a hard climb, I recommend
+  visiting Dueling Peaks' stone statues.
+  
+  The view of Hyrule from up there is
+  something special!
+Talk_1002: |
+  <3 Type='0' Data='0800'/>Well, well, traveler. I'm glad you made it
+  here to <0 Type='3' Data='0000'/>Dueling Peaks Stable<0 Type='3' Data='ffff'/> despite the
+  bad weather.
+Talk_1032: |
+  <3 Type='0' Data='0701'/>And that's not the half of it! Apparently
+  that ruin crumbled, and there was some
+  sort of big discovery.
+0003: |
+  Goodbye.
+Talk_1062: |
+  <3 Type='0' Data='0701'/>That said, I would wait until it stops
+  raining. The mountain will be too slippery
+  to climb safely.
+  Please feel free to relax at our inn until
+  the weather calms down.
+GoldHorse: |
+  That's Princess Zelda's...
+Talk_1003: |
+  <3 Type='0' Data='0800'/>Well, well, traveler. Welcome to <0 Type='3' Data='0000'/>Dueling
+  Peaks Stable<0 Type='3' Data='ffff'/>, right at the foot of the
+  <0 Type='3' Data='0000'/>Dueling Peaks<0 Type='3' Data='ffff'/> themselves.
+WakkaCharm: |
+  That's so popular now!
+Near_0001: |
+  Need a guide? Anyone?
+Near_0002: |
+  Want to rest for the night?
+Near_2000: |
+  Come in from the rain!
+BoneHorse: |
+  Is that a monster, or...

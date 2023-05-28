@@ -1,0 +1,83 @@
+talk_1020: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003000'/>Really?! You're not going to give me an
+  answer? That's horrible!<0 Type='4'/>I've spent so long agonizing over this...<5 Type='1'/>
+talk_1021: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>A way to defeat that wretched hero!
+talk_1010: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003000'/>Hey! I'm clearly struggling here! Aren't
+  you supposed to swoop in and help?<0 Type='4'/>I've spent so long agonizing over this...<5 Type='1'/>
+talk_1011: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>A way to defeat that awful hero!
+near_0000: |
+  Which to do?
+talk_1000: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>Hmm... Just which combination <5 Type='0'/>will let
+  me win?<5 Type='0'/>
+0010: |
+  I don't like burny.
+near_0001: |
+  Burny?
+talk_1001: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Huh. Odd to see anyone else down here.<5 Type='1'/><0 Type='4'/>I'm drawing up schematics for things that
+  use Zonai devices.<0 Type='4'/>I was trying to figure out the perfect
+  combination of gadgets...
+  
+  <3 Type='0' Data='0500'/>But I just keep coming up empty.<5 Type='0'/>
+  
+  
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Oh, I know!<5 Type='0'/>
+  
+  
+  What do you hate more? Things that are
+  burny or things that are freezy?
+0011: |
+  I don't like freezy.
+near_0002: |
+  Freezy?
+0012: |
+  I'd rather not say.
+talk_1002: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='0e0043006800610074005f0030003100'/>Interesting. <5 Type='1'/>Hmm...<5 Type='1'/> Yes! Now I KNOW
+  I can make something good!<5 Type='0'/><0 Type='4'/><3 Type='0' Data='0700'/>Wait right there and I'll put it together!
+0000: |
+  What are you doing?
+talk_1003: |
+  <3 Type='0' Data='0c00'/>You connect the flame emitter here, and...
+  last but not least, drive a stake here.<5 Type='0'/>
+0001: |
+  I'll leave you be.
+talk_1004: |
+  <3 Type='0' Data='0800'/><FontSize Value='125'/>Ta-da! It's done!<FontSize Value='100'/>
+talk_1005: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Thank you!<5 Type='0'/> I'm not sure I ever would have
+  finished it on my own!<5 Type='1'/><0 Type='4'/><3 Type='0' Data='0000'/>Honestly, your feedback was exactly what
+  I needed...
+talk_1040: |
+  <3 Type='0' Data='0900'/><FontSize Value='125'/>Your life is mine!<FontSize Value='100'/><1 Type='3' Data='5a000000'/>
+talk_1006: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='0c004c0061007500670068004c00'/>Who better to design a trap to defeat
+  the hero than the hero himself?!
+talk_1041: |
+  <3 Type='0' Data='0900'/><FontSize Value='125'/>Vengeance for Master Kohga!<FontSize Value='100'/><1 Type='3' Data='5a000000'/>
+talk_1007: |
+  <3 Type='0' Data='0c00'/>You connect the frost emitter here, and...
+  last but not least, drive a stake here.<5 Type='0'/> 
+talk_1008: |
+  <3 Type='0' Data='0700'/>Hm?
+talk_1030: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>Hmm... What to use, what to use...<5 Type='1'/>
+talk_1031: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Hm?
+  
+  
+  I'm trying to figure out a trap that'll finally
+  take that guy down.
+  
+  I'm just about done too...<5 Type='0'/> So could you
+  give me some room to think?
+talk_1032: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>What is it?
+  
+  
+  I'm busy trying to whip up a trap that'll
+  take that guy down.<0 Type='4'/>Go away so I can concentrate.<5 Type='0'/>

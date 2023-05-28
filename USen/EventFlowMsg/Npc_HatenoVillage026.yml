@@ -1,0 +1,177 @@
+Talk_7000: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Hm? You lost? There's only my house
+  and <0 Type='3' Data='0000'/>Ms. Zelda's house<0 Type='3' Data='ffff'/> around here.<0 Type='4'/>If you want a shop or inn, maybe go down
+  the road with lots of big mushrooms.
+Talk_8002: |
+  <3 Type='0' Data='0b00'/>Waaahhh!
+Talk_7001: |
+  <3 Type='0' Data='0700'/>If you want a shop or inn, they're on the
+  road with lots of big mushrooms.<0 Type='4'/>Out here, there's only my house and
+  <0 Type='3' Data='0000'/>Ms. Zelda's house<0 Type='3' Data='ffff'/>. Not too interesting
+  for a traveler.
+Talk_8003: |
+  <3 Type='0' Data='0400'/>I thought it was just me here. How'd you
+  sneak up on me like that?
+Talk_8004: |
+  <3 Type='0' Data='0701'/>Wait, what? Professor? What are you
+  doing in my house?!
+Talk_6018: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004e006f007400690063006500'/>You lost or somethin'?<0 Type='4'/>Maybe you oughta go ask Reede for
+  directions. He's the mayor here.<0 Type='4'/><3 Type='0' Data='0c01'/><FontSize Value='80'/>Actually, maybe he'd have better luck talking to
+  Amira and Nikki, those ladies who are always
+  standing around talking.<FontSize Value='100'/>
+Talk_7005: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1400540072006f00750062006c0065005f0030003100'/>Ribbit, ribbit! Hee-hee...wait up for me...
+Talk_1000: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='0c004e006f007400690063006500'/>If you want Hylian tomatoes, don't ask
+  me—ask my dad!<0 Type='4'/>He'll probably be in the field behind
+  Cece's house.<0 Type='4'/><3 Type='0' Data='0200'/>I wanna be first at <0 Type='3' Data='0000'/>school<0 Type='3' Data='ffff'/> today for sure,
+  so get outta my way!
+Talk_6020: |
+  <3 Type='0' Data='0700'/>If you're havin' trouble with somethin',
+  you should ask an adult. I'm just a kid.<0 Type='4'/>I dunno, maybe Reede could help? He is
+  the mayor, after all.<0 Type='4'/><3 Type='0' Data='0c01'/><FontSize Value='80'/>Hmm...or maybe it'd be better to ask Amira.
+  That lady knows an awful lot about what goes
+  on in the village.<FontSize Value='100'/>
+Talk_5106: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>What is it? And can it wait? I'm starving!<0 Type='4'/><0 Type='3' Data='0200'/><FontSize Value='80'/>Some Hylian tomatoes would hit the spot!<FontSize Value='100'/><0 Type='3' Data='ffff'/>
+Talk_7007: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>You lost, Professor? There's only
+  my house and <0 Type='3' Data='0000'/>Ms. Zelda's house<0 Type='3' Data='ffff'/>
+  around here.<0 Type='4'/>If you want a shop or inn, maybe go down
+  the road with lots of big mushrooms.
+Talk_1002: |
+  <3 Type='0' Data='0200'/><4 Type='0' Data='0a0041006e00670072007900'/>I wanna be first at <0 Type='3' Data='0000'/>school<0 Type='3' Data='ffff'/> today for sure,
+  so get outta my way!<0 Type='4'/>If you want <0 Type='3' Data='0000'/>Hylian tomatoes<0 Type='3' Data='ffff'/>, go ask my
+  dad in the field behind Cece's house.
+Talk_5107: |
+  <3 Type='0' Data='0900'/><4 Type='0' Data='100041006e006700720079005f0030003000'/>I told you, I'm too hungry to talk!<0 Type='4'/><0 Type='3' Data='0200'/><FontSize Value='80'/>Gotta get me a Hylian tomato to munch on!<FontSize Value='100'/><0 Type='3' Data='ffff'/>
+Talk_7008: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004e006f007400690063006500'/>Hm? You lost or somethin'? This isn't an
+  inn—it's just my house.<0 Type='4'/>The only thing by it is <0 Type='3' Data='0000'/>Ms. Zelda's house<0 Type='3' Data='ffff'/>
+  over there.<0 Type='4'/>If it's an inn you're lookin' for, maybe try
+  the road with lots of big mushrooms.
+Talk_5108: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>Whatever it is, Professor, can it wait until
+  later? I'm starving!<0 Type='4'/><0 Type='3' Data='0200'/><FontSize Value='80'/>Gotta get me a Hylian tomato to munch on!<FontSize Value='100'/><0 Type='3' Data='ffff'/>
+Talk_6023: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>Oh, shoot! Is this the wrong house?!
+Talk_7009: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004e006f007400690063006500'/>You lost or somethin', Professor? This
+  isn't an inn, it's just my house.<0 Type='4'/>The only thing by it is <0 Type='3' Data='0000'/>Ms. Zelda's house<0 Type='3' Data='ffff'/>
+  over there.<0 Type='4'/>If it's an inn you're lookin' for, maybe try
+  the road with lots of big mushrooms.
+Near_7000: |
+  Too dark to stay out now.
+Talk_1005: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='0c004e006f007400690063006500'/>If you want Hylian tomatoes, ask my dad!<0 Type='4'/>He's always in the field behind Cece's
+  house, even when it's raining.<0 Type='4'/><3 Type='0' Data='0200'/>I wanna be first at <0 Type='3' Data='0000'/>school<0 Type='3' Data='ffff'/> today for sure,
+  so get outta my way!
+Talk_5110: |
+  <3 Type='0' Data='0b00'/>What! No! I didn't snatch any tomatoes!<0 Type='4'/><0 Type='3' Data='0200'/><FontSize Value='80'/>*gulp* Gotta swallow the evidence, quick!<FontSize Value='100'/><0 Type='3' Data='ffff'/>
+Talk_7011: |
+  <3 Type='0' Data='0700'/>If you want a shop or inn, they're on the
+  road with lots of big mushrooms.<0 Type='4'/>Out here, there's only my house and
+  <0 Type='3' Data='0000'/>Ms. Zelda's house<0 Type='3' Data='ffff'/>. Not too interesting
+  for you, Professor.
+Near_7001: |
+  Froggy...
+Talk_1006: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Mornin'!<0 Type='4'/>I mean...<5 Type='1'/>good morning!<0 Type='4'/>Mom says I'm supposed to be polite to
+  grown-ups and teachers.
+Talk_5111: |
+  <3 Type='0' Data='0800'/>It'f fo juify and frumptiouf.
+Talk_1007: |
+  <3 Type='0' Data='0700'/>I've learned a bunch ever since they
+  started the school!<0 Type='4'/>Not every class is fun. <0 Type='3' Data='0000'/>History<0 Type='3' Data='ffff'/> lessons
+  put me to sleep sometimes.<0 Type='4'/><3 Type='0' Data='0100'/>But I love it every time we learn about
+  <0 Type='3' Data='0000'/>farming stuff<0 Type='3' Data='ffff'/>!
+Talk_5112: |
+  <3 Type='0' Data='0b00'/>Professor?! This isn't what it looks like!
+  I'd never snatch veggies from my own
+  dad's fields!<0 Type='4'/><0 Type='3' Data='0200'/><FontSize Value='80'/>*cough* Almost choked on the tomato skin there...<FontSize Value='100'/><0 Type='3' Data='ffff'/>
+Talk_6027: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='1a0055006e006400650072007300740061006e0064005f0030003100'/>From the outside, it still looks like the
+  same house. But on the inside, it's real
+  different than when I lived here.<0 Type='4'/>I wish Dad would make his room cuter,
+  though. Like Cece's!
+Talk_5113: |
+  <3 Type='0' Data='0701'/>You curious about my <0 Type='3' Data='0000'/>Hylian tomatoes<0 Type='3' Data='ffff'/>,
+  Professor?<0 Type='4'/>They're my prize crop. I put a lot of love
+  into growing those.<0 Type='4'/>They're in season now, so help yourself
+  to a few down at the <0 Type='3' Data='0000'/>general store<0 Type='3' Data='ffff'/>.
+Talk_5114: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>Hah! Finish your tomatoes before you
+  talk, girl.<0 Type='4'/>You know why they're that good, right?
+  It's 'cause your dad put so much love and
+  care into growin' 'em.<0 Type='4'/>Folks love 'em so much that they
+  even outsell pumpkins down at the
+  <0 Type='3' Data='0000'/>general store<0 Type='3' Data='ffff'/>.
+Near_1000: |
+  Gotta get there first!
+Talk_5115: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>Haha, it's OK, Aster. You're family.
+Talk_6030: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='0e005000610069006e00660075006c00'/>Eep! I've been spotted!<0 Type='4'/><3 Type='0' Data='0a01'/>I used to live in this house, and I still get
+  absentminded and come here by mistake.<0 Type='4'/><3 Type='0' Data='0701'/>My real home is that colorful house on the
+  outskirts of the village!<0 Type='4'/>There's froggies nearby, and Ms. Zelda
+  lives close to us too.<0 Type='4'/><3 Type='0' Data='0800'/><4 Type='0' Data='1a0055006e006400650072007300740061006e0064005f0030003000'/>I'm real glad we moved there!
+Talk_9005: |
+  <3 Type='0' Data='0c00'/>Hey, question. When catching froggies,
+  you sneak up on 'em without making a
+  sound, right?<0 Type='4'/>It never works for me the way it did for
+  Ms. Zelda. She made it look easy.
+Talk_5117: |
+  <3 Type='0' Data='0701'/>You curious about my <0 Type='3' Data='0000'/>Hylian tomatoes<0 Type='3' Data='ffff'/>?<0 Type='4'/>They're my prize crop. I put a lot of love
+  into growing those.<0 Type='4'/>I sell 'em wholesale to the <0 Type='3' Data='0000'/>general store<0 Type='3' Data='ffff'/>,
+  so go check 'em out there. It'll get you
+  out of the rain, at least.
+Talk_6033: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='0c004e006f007400690063006500'/>Professor? Are you lost or somethin'?<0 Type='4'/>Maybe you oughta go ask Reede for
+  directions. He's the mayor here.<0 Type='4'/><3 Type='0' Data='0c01'/><FontSize Value='80'/>Hmm...or maybe it'd be better to ask Amira.
+  That lady knows an awful lot about what goes
+  on in the village.<FontSize Value='100'/>
+Talk_9007: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='0e0053006900670068005f0030003100'/>Ms. Zelda said this well is where the
+  froggies live.<0 Type='4'/>The way to catch froggies is to sneak up
+  on them without a sound, right?<0 Type='4'/>I try to do that, but I'm still not as good
+  at catching them as Ms. Zelda.
+Talk_6034: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Well, I'm gettin' wet, so bye for now!
+Talk_5120: |
+  <3 Type='0' Data='0701'/>You curious about my <0 Type='3' Data='0000'/>Hylian tomatoes<0 Type='3' Data='ffff'/>,
+  Professor?<0 Type='4'/>They're my prize crop. I put a lot of love
+  into growing those.<0 Type='4'/>I sell 'em wholesale to the <0 Type='3' Data='0000'/>general store<0 Type='3' Data='ffff'/>,
+  so go check 'em out there. It'll get you
+  out of the rain, at least.
+Talk_5121: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003100'/>You curious about my <0 Type='3' Data='0000'/>Hylian tomatoes<0 Type='3' Data='ffff'/>?<0 Type='4'/>They're my prize crop. I put a lot of love
+  into growing those.<0 Type='4'/>They're in season now, so help yourself
+  to a few down at the <0 Type='3' Data='0000'/>general store<0 Type='3' Data='ffff'/>.
+Talk_5122: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>What is it? And can it wait? I'm starving!<0 Type='4'/>Besides, it's raining, so I want to go
+  check on my dad in the fields.<0 Type='4'/><0 Type='3' Data='0200'/><FontSize Value='80'/>I hope he saved me a Hylian tomato...<FontSize Value='100'/><0 Type='3' Data='ffff'/>
+Near_9001: |
+  Ribbit! Riiibbit!
+Near_5100: |
+  Snack time!
+Talk_5123: |
+  <3 Type='0' Data='0900'/><4 Type='0' Data='100041006e006700720079005f0030003000'/>I told you, I'm too busy to talk!<0 Type='4'/><0 Type='3' Data='0200'/><FontSize Value='80'/>Gotta get me a Hylian tomato to munch on!<FontSize Value='100'/><0 Type='3' Data='ffff'/>
+Talk_9012: |
+  <3 Type='0' Data='0400'/>Oh, I forgot to mention the froggies'
+  house is near here too!<0 Type='4'/><3 Type='0' Data='0c01'/>Though it's more like a well than a house.
+Talk_5124: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>Whatever it is, Professor, can it wait until
+  later? I'm starving!<0 Type='4'/>Besides, it's raining, so I want to go
+  check on my dad in the fields.<0 Type='4'/><0 Type='3' Data='0200'/><FontSize Value='80'/>I hope he saved me a Hylian tomato...<FontSize Value='100'/><0 Type='3' Data='ffff'/>
+Near_6000: |
+  Let's go hooome.
+Near_6001: |
+  Huh?
+Talk_8000: |
+  <3 Type='0' Data='0700'/>There were some parts of the Calamity
+  lesson that put me to sleep a little.<0 Type='4'/>But the Ancient Hero class was great!
+  You should come to our class again!
+Talk_8001: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Class has been so much fun since you
+  started teaching, Professor. <5 Type='0'/>Thanks.

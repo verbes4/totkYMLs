@@ -1,0 +1,168 @@
+Com_Talk_13: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0701'/><0 Type='3' Data='ffff'/>How many?
+Com_Talk_14: |
+  <3 Type='0' Data='0001'/>That'll be a total of <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>
+  for <2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/>! That work for ya?
+5500: |
+  Yep.
+Com_Talk_15: |
+  <3 Type='0' Data='0c00'/>We don't buy those.
+5501: |
+  Nope.
+Com_Talk_16: |
+  <3 Type='0' Data='0b00'/>Hey! You gotta change outta your clothes
+  if you wanna sell 'em.
+5502: |
+  Buy.
+5503: |
+  Never mind.
+G005_00: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>You a customer?<5 Type='1'/> Well, shop's closed.
+  
+  
+  I've got better things to do than run
+  a shop. Like eatin' this here marbled
+  rock roast.
+Near: |
+  Rare goods sold here!
+G005_01: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>Well, hellooo!
+  
+  
+  I was sitting on my haunches so long, not
+  workin', that my rupees are all gone...
+  
+  So I'm gonna get crackin' with work
+  again now.
+  
+  Sapphires from YunoboCo stores are
+  half the normal price! If ya don't take
+  advantage, well, your loss.
+Com_Talk_50: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0701'/><4 Type='0' Data='10004700720065006500740069006e006700'/><0 Type='3' Data='ffff'/>That'll be <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>! Sound good?
+5507: |
+  I'd like all of them.
+NakedPlayer: |
+  We never turn folks away!
+G005_02: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>Well, hellooo! I'm gonna get crackin'
+  with work for now.
+5508: |
+  I'll sell them all.
+G005_03: |
+  <3 Type='0' Data='0700'/>I'm busy here.
+Com_Talk_52: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0001'/><0 Type='3' Data='ffff'/>For <2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/>, that comes out to
+  <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>! OK?
+G005_04: |
+  <3 Type='0' Data='0700'/>You want sapphire?
+  
+  
+  Nah. No, ya don't. It's all about marbled
+  rock roast these days.
+Com_Talk_53: |
+  <3 Type='0' Data='0a00'/>Ah, that's too bad.
+G005_05: |
+  <3 Type='0' Data='0700'/>I can't be bothered to sell boring ol'
+  sapphire anymore. It's all about
+  marbled rock roast nowadays.
+Com_Talk_54: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>You don't have enough rupees. Come
+  back when you've done some savin'.
+G005_06: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Customer, huh? Sapphires are old
+  news, yanno.
+  
+  It's all about marbled rock roast.
+  Which I'm busy eatin', as you can
+  see. Shop's closed.
+Com_Talk_55: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0a005400680069006e006b00'/>Looks like your pouch is full? Make some
+  space, then come see me.
+G005_07: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>Welcome, welcome, WELCOME.
+  
+  
+  <3 Type='0' Data='0c01'/>I just realized<5 Type='1'/> that nobody's buyin' ore
+  these days.
+  
+  <3 Type='0' Data='0701'/>So, from this point forward, I'm gonna be
+  aggressive with my business plan.
+  
+  Sapphires from YunoboCo stores are
+  half the normal price! If ya don't take
+  advantage, well, your loss.
+Talk_00: |
+  <3 Type='0' Data='0700'/>Please come again.
+0000: |
+  Buy from me.
+Com_Talk_02b: |
+  <3 Type='0' Data='0800'/>Transaction complete!
+Com_Talk_56: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0701'/><0 Type='3' Data='ffff'/>One, right? That'll be <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>!
+G005_08: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>Well, hellooo!
+  
+  
+  Sapphires from YunoboCo stores are
+  half the normal price! If ya don't take
+  advantage, well, your loss.
+Talk_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>You a customer?<5 Type='1'/> Sorry to be the one to
+  tell ya, but we're all outta stock now.
+  
+  I'll be getting more of my sapphires real
+  soon though!
+0001: |
+  Goodbye.
+Com_Talk_02c: |
+  <3 Type='0' Data='0800'/>Thanks for the business!
+Com_Talk_05b: |
+  <3 Type='0' Data='0701'/>Take your time choosing.
+G005_09: |
+  <3 Type='0' Data='0900'/>Typical Hylian, disruptin' the peace.
+  Yer all the same.
+  
+  I don't have time for the likes of you, so
+  get on outta here!
+Talk_02: |
+  <3 Type='0' Data='0900'/>Hey! That's for displayin' merchandise.
+  Get down, will ya?!
+Com_Talk_00: |
+  <3 Type='0' Data='0700'/>Let's see what ya got.
+Com_Talk_02d: |
+  <3 Type='0' Data='0800'/>OK, got it!
+Com_Talk_05c: |
+  <3 Type='0' Data='0701'/>Wanna sell anything else?
+G005_10: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>You a customer?
+Talk_03: |
+  <3 Type='0' Data='0700'/>Sorry to be the one to tell ya, but we're all
+  outta stock now. I'll be getting more of my
+  sapphires real soon though!
+Com_Talk_01: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0001'/><0 Type='3' Data='ffff'/>That'll be <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>, OK?
+Com_Talk_05d: |
+  <3 Type='0' Data='0701'/>I'll buy loads of stuff!
+Talk_04: |
+  <3 Type='0' Data='0800'/>Thanks for your patronage!<5 Type='1'/> Business is
+  going great!
+Com_Talk_02: |
+  <3 Type='0' Data='0800'/>Thank you!
+Com_Talk_31: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0701'/><4 Type='0' Data='10004700720065006500740069006e006700'/><0 Type='3' Data='ffff'/>Great choice! How many would you like?
+Talk_05: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003000'/>W-<5 Type='1'/>we're sold out! So this is what success
+  feels like...
+Com_Talk_04: |
+  <3 Type='0' Data='0700'/>Ah, that's too bad.
+Com_Talk_33: |
+  <3 Type='0' Data='0701'/>One will be <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>!
+Com_Talk_05: |
+  <3 Type='0' Data='0701'/>Anything else to sell?
+Com_Talk_34: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0701'/><0 Type='3' Data='ffff'/>All of 'em? There's <2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/>, so that would be
+  <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>.
+Com_Talk_35: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0001'/><0 Type='3' Data='ffff'/>You'll sell <2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/>? The whole lot?
+  I'll pay <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>.

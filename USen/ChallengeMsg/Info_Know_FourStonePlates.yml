@@ -1,0 +1,17 @@
+Name: |
+  A Trip through History
+Step01: |
+  Stone slabs have been found in the Ring Ruins
+  that fell around Kakariko Village. Bugut has
+  come to see the writing on the slabs but is
+  afraid of heights and can't visit the ruins.
+  
+  If you read what's written on each slab, let him
+  know what they say. You have <0 Type='3' Data='0000'/><2 Type='2' Data='24004e0075006d004f0066004e006f00740054006f006c00640050006c006100740065007300ffff00cd'/> <0 Type='3' Data='ffff'/>more to
+  tell him about.
+Complete: |
+  You told Bugut about what you read on the
+  stone slabs in each of the four non-floating
+  Ring Ruins. He was delighted to get these
+  insights into the ancient era the ruins
+  came from.

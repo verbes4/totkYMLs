@@ -1,0 +1,32 @@
+SavedLv1_00: |
+  <3 Type='0' Data='0800'/>Whew!<5 Type='0'/> Thanks for the hand there.
+Guardian00: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0a0053006300610072006500'/>I didn't even know monsters like that
+  existed...<5 Type='1'/> I've gotta get out of here.
+Thanks00: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004c0061007500670068005300'/>Here's a little thanks for the save.
+  Take it!
+SavedLv1_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a0041006e00670072007900'/>I totally had that taken care of!<5 Type='0'/> But still,
+  thanks anyway.
+SavedLv2_00: |
+  <3 Type='0' Data='0a00'/>That was scary. <5 Type='0'/>Really glad you showed
+  up when you did.
+Atacked00: |
+  <3 Type='0' Data='0900'/>Quit it! <5 Type='0'/>Get away from me, monster!
+SavedLv2_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0e0043006800610074005f0030003000'/>Hmm. Y'know, you're pretty OK!
+SavedLv3_00: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0a0048006100700070007900'/>That was amazing! <5 Type='0'/>With skills like that,
+  you must have suitors lining up to ask
+  you on dates, huh?
+Atacked01: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='0e00520075006e006100770061007900'/>Mommyyy! Help meee!
+EnokidaSignboard: |
+  Isn't that in Tarrey Town?
+SavedLv3_01: |
+  <3 Type='0' Data='0800'/>Y-you saved my life! <5 Type='0'/>Thank you!
+Failed00: |
+  <3 Type='0' Data='0900'/>Couldn't you have helped me sooner?!
+Failed01: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0600530061006400'/>Owww... <5 Type='1'/>That one really smarts...

@@ -1,0 +1,28 @@
+0002: |
+  What do you want?
+talk_1000: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='1000530063006100720065005f0030003100'/>*sniffle*
+talk_1001: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='1000530063006100720065005f0030003100'/>*sniffle*<5 Type='1'/> What I really want... What I really
+  need is...
+talk_1010: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='1000530063006100720065005f0030003100'/>*sniffle*<5 Type='1'/> There's one thing I want no
+  matter what...
+talk_1011: |
+  <3 Type='0' Data='0900'/><4 Type='0' Data='0c005300610064005f0030003100'/>Hey! <5 Type='1'/>You're going to just LEAVE a girl
+  crying on her own?<0 Type='4'/>You're just as mean<5 Type='0'/> as everyone says!<0 Type='4'/><3 Type='0' Data='0700'/>Well, <5 Type='1'/>now I won't feel guilty for taking...<5 Type='1'/>
+talk_1020: |
+  <FontSize Value='125'/><3 Type='0' Data='0900'/>the hero's life!<1 Type='3' Data='5a000000'/><FontSize Value='100'/>
+talk_1021: |
+  <FontSize Value='125'/><3 Type='0' Data='0900'/>vengeance for Master Kohga!<1 Type='3' Data='5a000000'/><FontSize Value='100'/>
+talk_1003: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='1000530063006100720065005f0030003100'/>*sniffle*<5 Type='1'/><0 Type='4'/>*sniffle* *sniff* Aw...<0 Type='4'/><3 Type='0' Data='0000'/>Hey...<5 Type='1'/> You're Yiga Clan too, right? You
+  should have realized I was fake-crying.<0 Type='4'/>So, could you...get out of my way?<0 Type='4'/><3 Type='0' Data='0100'/>Anyway, back to business!<5 Type='1'/><0 Type='4'/><3 Type='0' Data='0300'/><4 Type='0' Data='1000530063006100720065005f0030003100'/>Thanks, boo-hoo-hoo...
+0000: |
+  What's the matter?
+talk_1004: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='1000530063006100720065005f0030003100'/>*sniffle*<0 Type='4'/>...<5 Type='1'/><0 Type='4'/><3 Type='0' Data='0000'/>You're in the way! Get out of here!
+near_0000: |
+  *sniffle*
+0001: |
+  I'll give you some space.

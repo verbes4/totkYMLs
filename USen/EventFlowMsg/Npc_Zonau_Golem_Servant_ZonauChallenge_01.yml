@@ -1,0 +1,66 @@
+Talk_008: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0c004e006f007400690063006500'/>You do not have enough zonaite. Please
+  come again when you have the amount
+  I require.
+Talk_009: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0c004e006f007400690063006500'/>Oh? You have no room in your belongings.
+  Create space for the item I want to
+  provide and come again.
+Talk_015: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0a005400680069006e006b00'/>Apologies. We are out of inventory for
+  this item. I cannot exchange for it until
+  more are produced.
+Talk_016: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a0048006100700070007900'/>This exchange is complete.<0 Type='4'/>Ah. I seem to have reached the limits of
+  my inventory. Further exchanges must
+  wait until production catches up.
+0005: |
+  Let's see here...
+Talk_000: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>I am a smithing construct. Mineru created
+  me to try to unlock the hidden potential
+  of Zonai charges.<0 Type='4'/>I was made with the unique ability
+  to temper zonaite for weapons and
+  equipment.<0 Type='4'/><3 Type='0' Data='0a01'/><4 Type='0' Data='0600530061006400'/>I was driven into hiding when a minion
+  of the Demon King occupied the
+  Spirit Temple.<0 Type='4'/><3 Type='0' Data='0801'/>But you and Mineru have cleared the way.
+  I can perform my work once again.<0 Type='4'/><4 Type='0' Data='0a0048006100700070007900'/>You have my wholehearted thanks.<0 Type='4'/><3 Type='0' Data='0701'/>I would ordinarily not work for anyone
+  other than Mineru.<0 Type='4'/>But you are a special case.<0 Type='4'/>I will gladly exchange my special weapons
+  and equipment with you. It will be up to
+  you to provide the zonaite.
+Talk_017: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>There is a slight issue. I have reached the
+  limits of my inventory.<0 Type='4'/>Would you like to review what I am
+  theoretically capable of exchanging?
+0006: |
+  Never mind.
+Talk_001: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Welcome. Mineru has formally directed me
+  to provide you with my finest work.<0 Type='4'/><3 Type='0' Data='0801'/>I will gladly exchange my special weapons
+  and equipment with you. It will be up to
+  you to provide the zonaite.
+Talk_018: |
+  <3 Type='0' Data='0701'/>This is the catalog of what I can exchange.
+Talk_002: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Do you have zonaite for me?<0 Type='4'/>I will gladly exchange my special weapons
+  and equipment with you. But it is up to
+  you to provide the zonaite.
+Near_00: |
+  I am ready to produce.
+Talk_003: |
+  <3 Type='0' Data='0000'/>What would you like in exchange?
+Talk_004: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0000'/><0 Type='3' Data='ffff'/>That will require <0 Type='3' Data='0000'/><2 Type='2' Data='4a00530068006f0070005f00540072006100640065004900740065006d005000610079006d0065006e0074004d006100740065007200690061006c0054006f00740061006c004e0075006d00ffff01cd'/> <201 Type='6' Data='10007000690065006300650020006f006600120070006900650063006500730020006f0066000000'/> zonaite<0 Type='3' Data='ffff'/>.
+Talk_010: |
+  <3 Type='0' Data='0800'/>Thank you. I await further commands.
+0000: |
+  It's a deal.
+0001: |
+  Maybe something else.
+Talk_006: |
+  <3 Type='0' Data='0800'/>This exchange is complete. Would you like
+  anything else?
+Talk_007: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1200530075007200700072006900730065005300'/>You want to cancel this job? As you wish.
+0002: |
+  Let's exchange.

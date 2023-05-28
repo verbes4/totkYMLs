@@ -1,0 +1,135 @@
+SavedLv3_01: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1000540069007200650064005f0030003000'/><FontSize Value='80'/>I screamed so much, I lost my voice.<FontSize Value='100'/><5 Type='0'/> <FontSize Value='80'/>But I can croak
+  out a "thank you."<FontSize Value='100'/>
+Thanks00: |
+  <3 Type='0' Data='0800'/>You really saved me!<5 Type='1'/> I simply must repay
+  you.<5 Type='0'/> Take it, it's the least I can do!
+SavedLv1_00: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>Well, that got my heart racing!<5 Type='0'/> You really
+  are a good fighter!
+Thanks01: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>You saved me! Thank you, thank you,
+  thank you! <5 Type='1'/>Please, take this.
+SavedLv1_01: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='1000540069007200650064005f0030003100'/>Phew! I'm saved...<5 Type='0'/>
+Atacked00: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003100'/>Wait, you're here to help? <5 Type='0'/>My hero!<5 Type='0'/>
+  Or you will be, once you save me!
+Talk01_00: |
+  I'm sure you know that Zonai devices will
+  pop out when you put in stuff related to
+  Zonai civilization...
+  But did you know that the number of
+  devices you'll get varies based on how
+  much stuff you toss in there?
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>You should have seen my face when I
+  put in <0 Type='3' Data='0000'/>a bunch of those sparkling things<0 Type='3' Data='ffff'/>,
+  only to be met with a torrent of devices!
+  <3 Type='0' Data='0800'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>In my book, that's proof positive that
+  those sparkly things contain an incredible
+  amount of power.
+  Should you find yourself in want of Zonai
+  devices, I recommend you give it a try.
+Talk99: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hold on...<5 Type='1'/> I feel like I've seen you
+  somewhere...<5 Type='1'/> Oh, I remember now!
+Talk100: |
+  <4 Type='0' Data='1000480061007000700079005f0030003000'/>I think I'll rest a while, then hit the road.
+  <5 Type='1'/>I'll let you know how my research is
+  proceeding when we meet again!
+Atacked01: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003100'/><FontSize Value='125'/>Wha— <5 Type='0'/>You!<5 Type='1'/><FontSize Value='100'/><0 Type='4'/>Now is REALLY not the time to talk!
+Talk01_01: |
+  I'm sure you know that Zonai devices will
+  pop out when you put in things tied to
+  Zonai civilization...
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>But I was certainly surprised when I put in
+  <0 Type='3' Data='0000'/>a bunch of those sparkling things<0 Type='3' Data='ffff'/> and
+  received a torrent of devices in return!
+  In my book, that's proof positive that
+  those sparkly things contain an incredible
+  amount of power!
+Talk99_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Oh, look who it is!<5 Type='1'/> We meet again!
+AfterFailed: |
+  <3 Type='0' Data='0a00'/>Nuhhh...<5 Type='0'/> Visions of Zonai devices, floating
+  before my eyes...<5 Type='1'/> Please leave me be for
+  a while...
+SavedLv2_00: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1000540069007200650064005f0030003100'/>It's a good thing you showed up when
+  you did—I was about to start sobbing!
+Failed00: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='1c0055006e0063006f006e007300630069006f00750073005f0030003000'/>Ouch... That will leave a mark or two...<0 Type='4'/>Hm.<5 Type='0'/> I know investigations are supposed
+  to be dangerous, but this is starting to
+  seem downright fatal.
+GoodBye00_01a: |
+  There's one east of here in <0 Type='3' Data='0000'/>Kakariko
+  Village<0 Type='3' Data='ffff'/>, so I was thinking I might go to
+  investigate further.
+SavedLv2_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0e0045006100730065005f0030003100'/>Whew! <5 Type='0'/>My heart's still hammering!
+  That sure was a brush with death.
+Failed01: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0c005300610064005f0030003100'/>If only some brave passerby could have
+  helped me out... <5 Type='1'/>I thought I was done for.
+GoodBye00_00: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>You and I met back in Tarrey Town, didn't
+  we?<5 Type='0'/> In front of that <0 Type='3' Data='0000'/>thing that dispensed
+  Zonai devices<0 Type='3' Data='ffff'/>?
+  I'm pretty sure I saw you put stuff into
+  that machine and get Zonai devices out...
+GoodBye00_01b: |
+  There's something similar at <0 Type='3' Data='0000'/>Digdogg
+  Suspension Bridge <0 Type='3' Data='ffff'/>to the southwest, so
+  I thought I might go investigate.
+After00: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>You're the one who got those <0 Type='3' Data='0000'/>Zonai
+  devices <0 Type='3' Data='ffff'/>out of that gadget in Tarrey
+  Town, right?
+Talk02_00: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='12004c0061007500670068004c005f0030003100'/>It seems my hypothesis was correct! The
+  machines in different locations do indeed
+  dispense different <0 Type='3' Data='0000'/>Zonai devices<0 Type='3' Data='ffff'/>!
+  In other words, if you're after a specific
+  Zonai device, you'll need to <0 Type='3' Data='0000'/>choose your
+  dispenser carefully<0 Type='3' Data='ffff'/>.
+  So each time I want to research a
+  different Zonai device, I need to head
+  to a different location.
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>I would normally recommend that you
+  make note of where you can get your
+  preferred Zonai devices...
+  But you look like the sort who already
+  marks that type of info on his map.
+GoodBye00_02: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>If you're so inclined, you might want to
+  go take a look yourself!<0 Type='4'/>You never know, it might contain different
+  <0 Type='3' Data='0000'/>Zonai devices<0 Type='3' Data='ffff'/> than the Tarrey Town one.
+Talk02_01: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>It seems my hypothesis was correct! The
+  machines in different locations do indeed
+  dispense different <0 Type='3' Data='0000'/>Zonai devices<0 Type='3' Data='ffff'/>!
+  I would normally recommend that you
+  make note of where you can get your
+  preferred Zonai devices...
+  <4 Type='0' Data='1000480061007000700079005f0030003100'/>But you look like the sort who already
+  marks that type of info on his map!
+Talk00_00: |
+  It seems like the way to actually get
+  Zonai devices out of them is to <0 Type='3' Data='0000'/>put in
+  something related to Zonai civilization<0 Type='3' Data='ffff'/>.
+  <4 Type='0' Data='1000480061007000700079005f0030003100'/>You'll get <0 Type='3' Data='0000'/>something different every time<0 Type='3' Data='ffff'/>
+  too, so you should try putting different
+  things in to see what will come out!
+SavedLv3_00: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0e0045006100730065005f0030003100'/>Honestly...I feel myself on the verge of
+  tears.<5 Type='0'/> Tears of fear, sure, but also tears
+  of joy over being rescued!
+Guardian00: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1000530063006100720065005f0030003100'/>I know I should r-run, but...<5 Type='1'/>I-I'm so
+  shaken, I can't even m-move!
+ClearTerrorEnemy: |
+  Phew... Safe and sound.
+GoodBye01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>As ever, I'm studying those strange
+  machines that dispense <0 Type='3' Data='0000'/>Zonai devices<0 Type='3' Data='ffff'/>.

@@ -1,0 +1,109 @@
+near0003: |
+  The legendary treasure...
+0001: |
+  Goodbye.
+near0004: |
+  Where's the treasure?!
+0002: |
+  A legend, you say?
+talk0000: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Hello! My name is Nazbi.<5 Type='0'/> I'm a treasure
+  hunter and adventurer extraordinaire,
+  undaunted by even the coldest snow!
+talk0020: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Hey there! <5 Type='0'/>I'm Nazbi, the treasure hunter!<5 Type='0'/>
+  I'm searching these mountains for a
+  treasure based on a <0 Type='3' Data='0000'/>legend <0 Type='3' Data='ffff'/>I heard.
+near0005: |
+  I'll make a fortune!
+talk0030: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Once I get my hands on loads of treasure,
+  I'll spend it on a mountain of carrots!<0 Type='4'/><3 Type='0' Data='0801'/>Nothing but the best for my loyal
+  steed Dauntless!
+talk0021: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Yeah! <5 Type='0'/>Like all the best legends, I'm sure
+  it's 100 percent true!<5 Type='0'/><0 Type='4'/>I feel like I told you this once before, but
+  it's fine! <5 Type='0'/>I'd talk about the legend of this
+  mountain all day if someone would let me!
+talk0031: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003000'/>Huh? <5 Type='0'/>You found it?!<5 Type='0'/><0 Type='4'/>The spring high in the heavens was...<5 Type='0'/>in
+  the sky? <5 Type='0'/>You went through the rings of
+  light and a shrine appeared?!<0 Type='4'/><3 Type='0' Data='0c01'/>How do I put this delicately...<5 Type='0'/><0 Type='4'/><3 Type='0' Data='0101'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Way to go! <5 Type='0'/>That's amazing! <5 Type='0'/>As a kindred
+  spirit, I'm not upset at all that you found
+  the mountain's treasure. <5 Type='0'/>I'm proud!<0 Type='4'/>The treasure is yours, of course. No need
+  to split it with me!<0 Type='4'/><3 Type='0' Data='0801'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Because, you see...<5 Type='0'/>I'm Nazbi, the treasure
+  hunter who knows that the past is the
+  past. I look only to the future!<0 Type='4'/><3 Type='0' Data='0101'/>That said, I think I'll stick around on this
+  mountain a while longer.<5 Type='0'/><0 Type='4'/>Finding one legendary treasure doesn't
+  rule out there being more to discover!<0 Type='4'/><3 Type='0' Data='0101'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Till we meet again, <5 Type='0'/>my kindred spirit in
+  risking life and limb to chase legends!
+talk0012: |
+  <3 Type='0' Data='0701'/>This area is frozen solid and packed
+  with monsters. No one in their right
+  mind would set foot here.<0 Type='4'/><3 Type='0' Data='0101'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Except me, of course! <5 Type='0'/>There surely must
+  be treasure resting here on this mountain,
+  where everyone else fears to tread!<0 Type='4'/><3 Type='0' Data='0701'/>That's what drove me to travel all this way
+  to Mount Lanayru.<0 Type='4'/>Until I saw you, I really thought I'd be the
+  only one.<5 Type='0'/><0 Type='4'/><3 Type='0' Data='0701'/>You must be here for the same reasons
+  I am. <5 Type='0'/>And if you are, you'll be wanting to
+  know what I know about the treasure.
+talk0022: |
+  <3 Type='0' Data='0101'/>My gut tells me this is the <0 Type='3' Data='0000'/>spring high in
+  the heavens<0 Type='3' Data='ffff'/>.<5 Type='0'/><0 Type='4'/><3 Type='0' Data='0901'/>Except... <5 Type='0'/>I don't see the <0 Type='3' Data='0000'/>rings of light <0 Type='3' Data='ffff'/>that
+  the legend mentioned anywhere!<5 Type='1'/><0 Type='4'/><3 Type='0' Data='0c01'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>Hmmm. <5 Type='0'/>Could there be a <0 Type='3' Data='0000'/>spring high in
+  the heavens<0 Type='3' Data='ffff'/> somewhere other than here?<0 Type='4'/>I don't see how. We're standing at pretty
+  much the summit of Mount Lanayru.
+  What's higher than here?<0 Type='4'/><3 Type='0' Data='0c01'/>I guess there's the <0 Type='3' Data='0000'/>Skyview Towers<0 Type='3' Data='ffff'/> and
+  such that you can see above.<0 Type='4'/>But where are these <0 Type='3' Data='0000'/>rings of light <0 Type='3' Data='ffff'/>I was
+  promised? <5 Type='0'/>And more to the point, where's
+  this <0 Type='3' Data='0000'/>Light of Blessing<0 Type='3' Data='ffff'/>?
+talk0013: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>The truth is, by sheer luck I overheard
+  <0 Type='3' Data='0000'/>a legend relating to the treasure <0 Type='3' Data='ffff'/>on this
+  mountain while I was on my way here.<0 Type='4'/>I knew I was a genius for assuming there
+  was treasure on Mount Lanayru!<0 Type='4'/><3 Type='0' Data='0701'/>Do you want to hear the legend too?<5 Type='1'/><0 Type='4'/><3 Type='0' Data='0101'/>Great! <5 Type='0'/>Then listen up!<5 Type='0'/><0 Type='4'/><3 Type='0' Data='0801'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>For I am Nazbi, <5 Type='1'/>the treasure hunter with
+  nothing to hide!
+talk0023: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Gotcha! <5 Type='0'/>Till we meet again, my kindred
+  spirit in risking life and limb for that
+  sweet, sweet treasure!
+talk0024: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>You must be a fiend for treasure, asking
+  me about this again. <5 Type='1'/>That's fine!<5 Type='0'/> I love
+  talking about this stuff!
+talk0013_01: |
+  <3 Type='0' Data='0701'/>The legend goes like this...<5 Type='0'/>
+talk0025: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>I'm Nazbi! Does that answer all your
+  questions? <5 Type='1'/>Or did you want to hear the
+  <0 Type='3' Data='0000'/>legend<0 Type='3' Data='ffff'/> of this mountain?
+talk0026: |
+  <3 Type='0' Data='0101'/>I suspect the <0 Type='3' Data='0000'/>spring high in the heavens<0 Type='3' Data='ffff'/> is
+  referring to these springs. <5 Type='0'/>The treasure
+  is as good as found!<0 Type='4'/><3 Type='0' Data='0a01'/><4 Type='0' Data='0c005300610064005f0030003000'/>All except for the "finding it" part.<5 Type='0'/><0 Type='4'/>I don't know what to do with the "<0 Type='3' Data='0000'/>rings of
+  light<0 Type='3' Data='ffff'/>" bit. <5 Type='0'/>I don't see anything like that
+  around here.<0 Type='4'/><3 Type='0' Data='0901'/>But I won't give up! <5 Type='1'/>Because, you see...<5 Type='0'/><0 Type='4'/><3 Type='0' Data='0800'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>I am Nazbi, the dauntless treasure
+  hunter!<5 Type='1'/> Not to be confused with my
+  noble steed, Dauntless.
+talk0027: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Hey there! <5 Type='1'/>I'm Nazbi, a treasure hunter
+  searching for a legendary haul!
+talk0018: |
+  <3 Type='0' Data='0701'/>"Skim across snow, from the spring high
+  in the heavens to the mountain below.<0 Type='4'/>"Pass through the rings of light to see the
+  Light of Blessing."
+talk0028: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Hey there! <5 Type='1'/>I'm Nazbi, a treasure hunter
+  searching far and wide for the good stuff!
+talk0019: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>What do you think? <5 Type='0'/>That was the real
+  legend of a real treasure, passed down
+  on this very mountain!<0 Type='4'/>And you know that with a name like
+  <0 Type='3' Data='0000'/>Light of Blessing<0 Type='3' Data='ffff'/>, the treasure's gotta
+  be worth a bundle!
+talk0029: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>You wanna know why I do this? <5 Type='0'/>The truth
+  is, it's all for my faithful steed!<0 Type='4'/><3 Type='0' Data='0901'/>Turns out horses eat a lot. <5 Type='0'/>And being a
+  growing horse, mine eats more than most.<5 Type='1'/><0 Type='4'/><3 Type='0' Data='0a01'/><4 Type='0' Data='0c005300610064005f0030003000'/>My loyal steed has chewed right through
+  all my savings. <5 Type='0'/>I've gotta get rich quick.<5 Type='0'/>
+  And for that, I need treasure!

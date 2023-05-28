@@ -1,0 +1,50 @@
+Text_05: |
+  <3 Type='0' Data='0700'/>The <0 Type='3' Data='0000'/>Gibdos<0 Type='3' Data='ffff'/> are strange monsters that
+  recently appeared, right around the same
+  time as the sand shroud.
+  The spears we wield have surprisingly
+  little effect on them. We've been trying to
+  figure out new ways to fight back...
+0002: |
+  Nothing really.
+Text_06: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Lady Riju trusts you, which is more than
+  enough for me. You are free to make use
+  of the inn or any of the shops in town.
+Text_00: |
+  <4 Type='0' Data='100041006e006700720079005f0030003100'/>A voe! <5 Type='0'/>There's a voe here! <5 Type='0'/>Stop him!
+Text_07: |
+  Is there anything else you wanted to ask?
+Text_02: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a005400680069006e006b00'/>Lady Riju is training in the ruins north of
+  here. She traveled there despite the
+  challenges the sand shroud presents...
+  She's proven herself to be an excellent
+  leader... <5 Type='0'/>An excellent chief.<5 Type='1'/> Still, I think
+  I'll always worry about her safety.
+Text_03: |
+  <3 Type='0' Data='0700'/>Everyone in town has been informed of
+  the special exception you've been given.
+  
+  Some may still be shocked to see you, but
+  don't take it personally.
+  
+  And, of course, feel free to make use of
+  the inn or any of the shops.
+  
+  Though <0 Type='3' Data='0000'/>Lady Riju<0 Type='3' Data='ffff'/> is away—seeking a
+  means to defeat the <0 Type='3' Data='0000'/>Gibdo<0 Type='3' Data='ffff'/>—I am sure
+  she would welcome you as I have.
+  <3 Type='0' Data='0700'/>Did you have questions for me?
+0000: |
+  Where is Riju?
+Text_04: |
+  <3 Type='0' Data='0700'/>Some may still be shocked to see you, but
+  don't take it personally. And you are
+  welcome to visit the inn or the shops.
+  Though <0 Type='3' Data='0000'/>Lady Riju<0 Type='3' Data='ffff'/> is away—seeking a
+  means to defeat the <0 Type='3' Data='0000'/>Gibdo<0 Type='3' Data='ffff'/>—I am sure
+  she would welcome you as I have.
+  <3 Type='0' Data='0700'/>Did you have questions for me?
+0001: |
+  Tell me about Gibdos.

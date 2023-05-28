@@ -1,0 +1,21 @@
+Name: |
+  Who Goes There?
+Step02: |
+  Beyond the hole in the wall, there appeared to
+  be a hallway. You followed the voice and dug
+  through some rock to find a <0 Type='3' Data='0000'/>horned statue<0 Type='3' Data='ffff'/>. Go
+  tell Jerrin the truth behind the voice she's
+  been hearing.
+Step01: |
+  Jerrin says that sometimes she hears <0 Type='3' Data='0000'/>a scary
+  voice, like a demon's<0 Type='3' Data='ffff'/>, coming from the
+  opening in the wall.
+  
+  She's afraid that she may have awakened
+  a demon. This mystery seems worth
+  looking into...
+Complete: |
+  You told Jerrin that the voice belonged to a
+  <0 Type='3' Data='0000'/>horned statue<0 Type='3' Data='ffff'/>. Now that Jerrin understands
+  where the voice was coming from, she has
+  returned to work.

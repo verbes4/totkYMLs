@@ -1,0 +1,58 @@
+Near01: |
+  Tulin...
+Npc_Talk005: |
+  <3 Type='0' Data='0001'/>I think you'll find him near the <0 Type='3' Data='0000'/>lone cedar<0 Type='3' Data='ffff'/>
+  on <0 Type='3' Data='0000'/>Talonto Peak<0 Type='3' Data='ffff'/>. It's visible to the <0 Type='3' Data='0000'/>north<0 Type='3' Data='ffff'/>
+  after you leave the cave.
+TerrorSword_02: |
+  Gaaah!
+Near02: |
+  You may pass.
+Near03: |
+  He's still not here...
+Npc_Talk007: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0c005300610064005f0030003000'/>I'm waiting for Tulin. We were supposed
+  to go looking for food together, but he's
+  running late.<0 Type='4'/>Probably still getting ready at <0 Type='3' Data='0000'/>Rito Village<0 Type='3' Data='ffff'/>.
+  I can wait a little longer.
+Npc_Talk008: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0a005400680069006e006b00'/>It's past time for us to get to work.
+  Could Tulin still be at <0 Type='3' Data='0000'/>Rito Village<0 Type='3' Data='ffff'/>?<0 Type='4'/>Nothing to do but keep waiting, I guess.
+Npc_Talk009: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='0a005400680069006e006b00'/>We have no way of knowing what we'll
+  find above those clouds...<0 Type='4'/>If I was going up there, I'd make sure
+  I was prepared for the worst.
+Talk20: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='10004700720065006500740069006e006700'/>After the freak blizzard we just went
+  through, a little rain is nothing.
+Npc_Talk001: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>It's not that Tulin is untalented.
+  Far from it.<0 Type='4'/>Everyone admires his <0 Type='3' Data='0000'/>ability to generate
+  his own gusts<0 Type='3' Data='ffff'/>. No one else in the village
+  can do anything like it.<0 Type='4'/><3 Type='0' Data='0c01'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>The problem is he knows he's talented,
+  and it makes him headstrong and prone
+  to acting rashly. His youth doesn't help.<0 Type='4'/><3 Type='0' Data='0001'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>But I shouldn't be standing around talking
+  to passing travelers about this.<0 Type='4'/>I need to report this to Harth so we can
+  discuss what to do about it.
+Npc_Talk002: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>If you're going after Tulin, you'll want to
+  head into that cave.
+Npc_Talk003: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='0a005400680069006e006b00'/>Our investigations haven't revealed what's
+  above those clouds. You should be ready
+  for anything before you head out.
+Talk18: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>I had half given up on seeing that bridge
+  repaired. There are bright days ahead
+  for Rito Village.<0 Type='4'/><3 Type='0' Data='0800'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>Especially with me on guard duty ensuring
+  that travelers can cross without fear!<0 Type='4'/>Thank you for all you've done.
+TerrorSword_00: |
+  What are you doing?!
+Npc_Talk004: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0600530061006400'/>I hope he's not up to anything reckless.
+Talk19: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='0a0048006100700070007900'/>There are bright days ahead for Rito
+  Village. Feel free to visit us whenever
+  you want.
+TerrorSword_01: |
+  Quit messing around!

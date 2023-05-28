@@ -1,0 +1,49 @@
+3rdSageClear: |
+  Purah suggested investigating the major
+  phenomena in various regions as a next step
+  in the search for Princess Zelda.
+  
+  There are two more regions where these
+  strange phenomena are happening.
+4thSageClear: |
+  Purah suggested investigating the major
+  phenomena in various regions as a next step
+  in the search for Princess Zelda.
+  
+  There is only one more region that is suffering
+  under a strange phenomenon.
+Name: |
+  Regional Phenomena
+Complete: |
+  You investigated the four regions that were
+  troubled by strange phenomena, and the
+  secret stones awakened the four sages.
+  
+  When you went to report the investigation
+  results and sightings of Princess Zelda to
+  Purah, Princess Zelda suddenly appeared at
+  Hyrule Castle along with a blood moon.
+ReturnBCAfter4Sage: |
+  You investigated the four regions that were
+  troubled by strange phenomena, hoping to find
+  clues about Princess Zelda. She appeared each
+  time. And so did someone who looked a lot like
+  her in the ancient memories you saw via the
+  secret stones. Maybe Purah can make sense
+  of this. She's waiting at Lookout Landing.
+1stSageClear: |
+  Purah has directed your search for Princess
+  Zelda into four regions that each suffer under a
+  strange phenomenon: Hebra (northwest),
+  Eldin (northeast), Gerudo (southwest), and
+  Lanayru (east). 
+  
+  Josha heard a rumor that the princess might
+  have been seen in <0 Type='3' Data='0000'/>Rito Village<0 Type='3' Data='ffff'/> off in Hebra.
+2ndSageClear: |
+  Purah suggested investigating the major
+  phenomena in various regions as a next step
+  in the search for Princess Zelda.
+  
+  There are three more regions where these
+  strange phenomena are happening.

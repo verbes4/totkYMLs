@@ -1,0 +1,105 @@
+Talk_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004c0061007500670068005300'/>You aiming for a bow and arrows?<5 Type='0'/> Or for
+  my head?<0 Type='4'/>Heh, kidding.
+Com_Talk_55: |
+  <3 Type='0' Data='0900'/>Your pouch is full? Take a couple steps
+  back and I'll show you what your
+  would-be purchase can do.
+Talk_02: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>Didn't expect you to clear out my stock.
+  Well, as long as I'm getting paid, I'm
+  not complaining.
+Com_Talk_56: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0000'/><0 Type='3' Data='ffff'/>One bundle will run you <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>.
+Talk_03: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>You've got a good eye, newbie.
+Com_Talk_31: |
+  <3 Type='0' Data='0700'/>How many?
+Com_Talk_33: |
+  <3 Type='0' Data='0701'/>Just one, then. Does <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/> hit
+  the mark for you?
+Com_Talk_34: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0000'/><0 Type='3' Data='ffff'/>All of 'em? We've got <2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/> bundles,
+  so that's <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>.
+Talk_07: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a005400680069006e006b00'/>If you're done, get out of my space.
+Com_Talk_35: |
+  <3 Type='0' Data='0701'/>For all <2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/> of 'em... Does <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>
+  make us square?
+Com_Talk_02b: |
+  <3 Type='0' Data='0700'/>Got a reason to be this close?
+Near_00: |
+  Eyes on the target...
+Talk_08: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>There's two things I hate—someone
+  getting too close to me...<5 Type='1'/>
+  
+  <3 Type='0' Data='0901'/>and small talk.
+Com_Talk_02c: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>What else?
+Talk_09: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Ah. The newbie.
+Com_Talk_02d: |
+  <3 Type='0' Data='0700'/>If it's quality, I'll buy it.
+0001: |
+  Buy my stuff!
+5500: |
+  You got a deal.
+Com_Talk_00: |
+  <3 Type='0' Data='0700'/>What are you selling?
+Com_Talk_13: |
+  <3 Type='0' Data='0701'/>How many you selling?
+0002: |
+  Goodbye.
+5501: |
+  Not a chance.
+Com_Talk_01: |
+  <3 Type='0' Data='0701'/>I'll take it off your hands for
+  <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>.
+Com_Talk_14: |
+  <3 Type='0' Data='0701'/>For <2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/>, I can give you <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>.
+5502: |
+  Deal.
+Com_Talk_02: |
+  <3 Type='0' Data='0700'/>And?
+Com_Talk_15: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a005400680069006e006b00'/>Not interested. No sale.
+5503: |
+  Never mind.
+Com_Talk_16: |
+  <3 Type='0' Data='0900'/>What'd you think would happen? That I'd
+  buy our own gear off you in the middle of
+  our hideout? Get real.
+Com_Talk_04: |
+  <3 Type='0' Data='0900'/>A moment of doubt can get you killed.
+Com_Talk_05: |
+  <3 Type='0' Data='0701'/>Show me.
+5507: |
+  I'll take 'em all!
+5508: |
+  I'll sell them all.
+Com_Talk_50: |
+  <3 Type='0' Data='0700'/>OK, that'll be <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>.
+Talk_10: |
+  <3 Type='0' Data='0700'/>Not a bad choice.
+Com_Talk_52: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0000'/><0 Type='3' Data='ffff'/>So, <2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/> bundles, huh? Hope you've got
+  <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/> <0 Type='3' Data='ffff'/>to burn.
+Com_Talk_05b: |
+  <3 Type='0' Data='0701'/>Let's get to it.
+Talk_12: |
+  <3 Type='0' Data='0700'/>Our leader has fallen, and you choose
+  to shop. <5 Type='1'/>All right, then.<5 Type='1'/>
+Com_Talk_53: |
+  <3 Type='0' Data='0700'/>Take your window shopping elsewhere.
+Com_Talk_05c: |
+  <3 Type='0' Data='0701'/>This better be good.
+Talk_00: |
+  <3 Type='0' Data='0700'/>Interest in the bow shows promise.
+  There's no finer option for assassination.<0 Type='4'/>Provided, of course, you aim for the head.
+Com_Talk_54: |
+  <3 Type='0' Data='0900'/>Your wallet's empty. <5 Type='0'/>Is this a joke? Or are
+  you looking for a firsthand demonstration
+  of our sharpest arrows?
+Com_Talk_05d: |
+  <3 Type='0' Data='0701'/>All right. What do you wanna sell?

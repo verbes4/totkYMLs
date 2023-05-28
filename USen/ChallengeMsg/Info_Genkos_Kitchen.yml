@@ -1,0 +1,19 @@
+Name: |
+  Genli's Home Cooking
+HaveFish: |
+  Genli has a passion for culinary research. She
+  wants to make a fish pie to help everyone feel
+  better from the inside out, but she can't get her
+  hands on any <0 Type='3' Data='0000'/>staminoka bass<0 Type='3' Data='ffff'/>.
+GetPresent: |
+  You gave the <0 Type='3' Data='0000'/>staminoka bass <0 Type='3' Data='ffff'/>to Genli, and
+  she's delighted now that she can make fish pie.
+  
+  She wanted to reward you, but your pouch was
+  full, so she asked you to come back after you
+  sort your things.
+Complete: |
+  You gave the staminoka bass to Genli. She is
+  thrilled now that she can make fish pie to cheer
+  everyone up. As a reward, she gave you some
+  biting simmered fruit made with ice fruit.

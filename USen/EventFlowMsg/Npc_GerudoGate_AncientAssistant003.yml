@@ -1,0 +1,118 @@
+0001: |
+  Goodbye.
+Balloon_03: |
+  Zzz... Zzz...
+Greeting_Morning: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>Let's see... What would be a good lunch
+  today? <5 Type='0'/>Everyone relies on my cooking to
+  get them through the day, after all...
+Greeting_Rain: |
+  <3 Type='0' Data='0800'/>On rainy days like this, it's really
+  important for me to cook the perfect
+  meals for everyone.
+Greeting_Evening: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>Hm... What would be good for breakfast
+  tomorrow, I wonder?
+  
+  Breakfast helps everyone wake up in the
+  morning, so it needs to be good...
+Talk_00: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003100'/>Oh, I haven't seen you before, I don't
+  think... Are you here because you've
+  heard about me?
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068005300'/>Well, it's all true—I'm the one in charge of
+  keeping the members of the researching
+  team healthy and happy.
+  And I've figured out the secret to keeping
+  them energized. Want to know what it is?
+Talk_01: |
+  <3 Type='0' Data='0800'/>Ha, of course you do! <5 Type='0'/>And I'll tell you!
+  
+  
+  It's all about what they eat!
+  
+  
+  <3 Type='0' Data='0100'/>When it's hot outside, you should cook up
+  meals using chillshrooms. When it's cold,
+  substitute sunshrooms instead!
+  It's amazing how well the body can hold
+  up to high or low temperatures if you've
+  used the right ingredients.
+  <3 Type='0' Data='0801'/><4 Type='0' Data='0c004c0061007500670068005300'/>Well, want to try it for yourself? I'm sure
+  you do! Feel free to use this pot.
+AssassinEquipment_00: |
+  <3 Type='0' Data='0701'/>I have to say...
+  
+  
+  <3 Type='0' Data='0900'/>Dressing like that to scare me isn't very
+  nice. You should put effort into thinking of
+  others if you want to be a good cook.
+Greeting_EarlyMorning: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>Hmm. What would be a good breakfast
+  today? <5 Type='0'/>I want everyone to start the day
+  off right, after all...
+Greeting_Noon: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>What should I make everyone for dinner?<5 Type='0'/>
+  They're all looking forward to the meal, so
+  I can't disappoint them...
+Greeting_Midnight: |
+  <3 Type='0' Data='0501'/><4 Type='0' Data='100053006c006500650070005f0030003000'/>So sleepy...
+Talk_15: |
+  <3 Type='0' Data='0700'/>Be careful if you head to Gerudo Canyon.
+  It's not a welcoming environment and will
+  almost certainly tax your endurance.
+  If you ask me, the best way to prepare is
+  to bring plenty of good food with you!
+Talk_05: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>Have you forgotten the secret I shared
+  with you? Oh, what am I going to do
+  with you...
+  I can tell you again, since I'm so helpful
+  and all. Want to hear it?
+Talk_16: |
+  <3 Type='0' Data='0800'/>Oh, it's you! <5 Type='1'/>Thanks to you, I was able to
+  safely come back here.
+  
+  I really can't thank you enough.
+  
+  
+  <3 Type='0' Data='0700'/>Oh!<5 Type='1'/> I have a secret trick I use to keep the
+  researchers here healthy and energized.
+  Maybe I could share that with you?
+  <3 Type='0' Data='0100'/>Want to know the secret?
+Talk_17: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>Oh!<5 Type='0'/> Are you interested after all?
+  
+  
+  Do you want me to share the secret to
+  keeping everyone energized?
+Talk_07: |
+  <3 Type='0' Data='0501'/>For you to wake me up out of a deep,
+  restful sleep... Do you miss my cooking so
+  much that you can't wait until morning?
+  <3 Type='0' Data='0000'/>Sleep is as important as eating well, you
+  know. Everyone needs to sleep away the
+  fatigue of the day before.
+  How about we chat in the morning.<5 Type='1'/>
+  Good night...
+Talk_08: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0a005400680069006e006b00'/>It's important to get a good night's rest.<5 Type='1'/>
+  Good night...
+Balloon_00: |
+  The secret is...
+Talk_09: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068005300'/>Awww, did Guspar and Livo really say
+  such nice things about my cooking?
+  
+  <3 Type='0' Data='0101'/>Well, I do my absolute best to pick the
+  perfect ingredients for each meal. It
+  makes sense they would love the results!
+  Thanks for sharing that with me.
+Balloon_01: |
+  My cooking is key.
+0000: |
+  Absolutely!
+Balloon_02: |
+  More cooking tomorrow!
+Balloon_AssassinEquipment_00: |
+  Truly a terrible look...

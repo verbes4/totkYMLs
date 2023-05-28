@@ -1,0 +1,168 @@
+talk_41: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a0048006100700070007900'/>Shall I explain <0 Type='3' Data='0000'/>device dispensers<0 Type='3' Data='ffff'/> too?
+0014: |
+  Zonai capsules?
+talk_12: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a0048006100700070007900'/>Today's maintenance check is complete.
+  The <0 Type='3' Data='0000'/>device dispenser<0 Type='3' Data='ffff'/> is operating
+  without issue.<0 Type='4'/>It is there if you need <0 Type='3' Data='0000'/>Zonai capsules<0 Type='3' Data='ffff'/>.<0 Type='4'/>I will be happy to provide additional
+  information on either if needed.
+talk_42: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a0048006100700070007900'/>Shall I explain <0 Type='3' Data='0000'/>Zonai capsules<0 Type='3' Data='ffff'/> too?
+0015: |
+  Zonai capsules?
+talk_14: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>I will continue my maintenance checks.<5 Type='1'/>
+  This dispenser is available for use.
+talk_43: |
+  <3 Type='0' Data='0700'/>Shall I explain <0 Type='3' Data='0000'/>device dispensers<0 Type='3' Data='ffff'/> too?
+talk_15: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>You can process resources that you hold
+  by dropping them into the receptacle.<5 Type='0'/>
+  It is similar to using a cooking pot.
+talk_44: |
+  <3 Type='0' Data='0700'/>Shall I explain <0 Type='3' Data='0000'/>Zonai capsules<0 Type='3' Data='ffff'/> too?
+talk_16: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>Oh. I have lost track of time. It seems I
+  even missed the time bell.<0 Type='4'/>I will suspend my activities for now. <5 Type='0'/>The
+  dispenser remains available to be used.
+talk_45: |
+  <3 Type='0' Data='0700'/>I will be here in case you need to hear
+  these explanations again.
+talk_17: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1000540069007200650064005f0030003100'/><0 Type='3' Data='0000'/>Device dispenser <0 Type='3' Data='ffff'/>operation confirmed.<5 Type='1'/>
+  On track to meet today's Zonai-capsule
+  production target.
+talk_46: |
+  <3 Type='0' Data='0701'/>My explanations are complete.
+talk_18: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>I will suspend my activities again now.<5 Type='0'/>
+  The <0 Type='3' Data='0000'/>device dispenser<0 Type='3' Data='ffff'/> remains available
+  for your use.
+talk_26: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Do you plan to use the <0 Type='3' Data='0000'/>device dispenser<0 Type='3' Data='ffff'/>?<0 Type='4'/>You are welcome to do so. <5 Type='0'/>I have largely
+  achieved my objectives.
+talk_27: |
+  <3 Type='0' Data='0c00'/>Though there is a problem. <5 Type='0'/>You seem to
+  lack an <0 Type='3' Data='0000'/>Energy Cell<0 Type='3' Data='ffff'/>.<0 Type='4'/>The <0 Type='3' Data='0000'/>device dispenser <0 Type='3' Data='ffff'/>will be no use to
+  you without one.<0 Type='4'/>Find an <0 Type='3' Data='0000'/>Energy Cell<0 Type='3' Data='ffff'/> as soon as you can. <5 Type='0'/>
+  I will then explain this mechanism to you.
+talk_28: |
+  <3 Type='0' Data='0700'/>I have an associate by the shores of the
+  pond at the foot of the mountain. <5 Type='0'/>I believe
+  it should have a spare <0 Type='3' Data='0000'/>Energy Cell<0 Type='3' Data='ffff'/>.
+talk_29: |
+  I suggest visiting it.
+talk_00: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1000540069007200650064005f0030003100'/><0 Type='3' Data='0000'/>Device dispenser <0 Type='3' Data='ffff'/>operation confirmed.<5 Type='1'/>
+  On track to meet today's Zonai-capsule
+  production target.
+talk_01: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>Oh? Do you want to use the
+  <0 Type='3' Data='0000'/>device dispenser<0 Type='3' Data='ffff'/>?<0 Type='4'/>I have nearly met my target. <5 Type='0'/>You are
+  welcome to use it.
+0003: |
+  Device dispenser?
+talk_31: |
+  <3 Type='0' Data='0700'/>It is pointless to use a <0 Type='3' Data='0000'/>device dispenser<0 Type='3' Data='ffff'/>
+  without an <0 Type='3' Data='0000'/>Energy Cell<0 Type='3' Data='ffff'/>.<0 Type='4'/>Find an <0 Type='3' Data='0000'/>Energy Cell<0 Type='3' Data='ffff'/> as soon as you can. <5 Type='0'/>
+  I will then explain this mechanism to you.
+0004: |
+  Goodbye.
+talk_32: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='12004c0061007500670068004c005f0030003100'/>The hour seems to have grown late. <5 Type='1'/>I have
+  heard the time bell ring already.<0 Type='4'/>I am suspending activities for the time
+  being. <5 Type='0'/>Do not let this dissuade you from
+  asking assistance of me.
+talk_03: |
+  <3 Type='0' Data='0700'/>Yes. This is a <0 Type='3' Data='0000'/>device dispenser<0 Type='3' Data='ffff'/>.<5 Type='1'/>
+  It produces Zonai capsules by
+  converting certain resources.<0 Type='4'/>The resources it accepts are things such
+  as <0 Type='3' Data='0000'/>construct horns <0 Type='3' Data='ffff'/>and <0 Type='3' Data='0000'/>Zonai charges<0 Type='3' Data='ffff'/>.
+0005: |
+  Device dispensers?
+talk_33: |
+  <3 Type='0' Data='0700'/>I am taking my evening rest.<0 Type='4'/>You are free to use the <0 Type='3' Data='0000'/>device dispenser<0 Type='3' Data='ffff'/>
+  at any time.<0 Type='4'/>Though there is no point if you do not
+  have an <0 Type='3' Data='0000'/>Energy Cell<0 Type='3' Data='ffff'/>. <5 Type='0'/>You should acquire
+  one as soon as possible.
+talk_04: |
+  <3 Type='0' Data='0700'/><0 Type='3' Data='0000'/>Zonai capsules<0 Type='3' Data='ffff'/> are portable Zonai devices
+  in convenient pocket form.<0 Type='4'/>A device cannot be put back in its capsule
+  after you have removed it. They are
+  intended to be disposable.<0 Type='4'/><3 Type='0' Data='0000'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>They are also plentiful. You can extract
+  many <0 Type='3' Data='0000'/>Zonai capsules<0 Type='3' Data='ffff'/> from a single
+  <0 Type='3' Data='0000'/>device dispenser<0 Type='3' Data='ffff'/>.<0 Type='4'/>There is no harm in converting your spare
+  resources into <0 Type='3' Data='0000'/>Zonai capsules<0 Type='3' Data='ffff'/>. It ensures
+  you will always have a few.
+0006: |
+  Goodbye.
+talk_34: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='0a0048006100700070007900'/>Oh! <5 Type='0'/>You are in possession of an
+  <0 Type='3' Data='0000'/>Energy Cell<0 Type='3' Data='ffff'/>.<0 Type='4'/>Allow me to explain briefly about this
+  <0 Type='3' Data='0000'/>device dispenser<0 Type='3' Data='ffff'/>.
+talk_05: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>The <0 Type='3' Data='0000'/>device dispenser<0 Type='3' Data='ffff'/> is yours to use
+  at any time. You need only feed it the
+  requisite materials.
+0007: |
+  Device dispensers?
+talk_35: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1000540069007200650064005f0030003100'/>I am currently taking my nightly rest.<0 Type='4'/><3 Type='0' Data='0b01'/><4 Type='0' Data='0a0048006100700070007900'/>Oh! <5 Type='0'/>You are in possession of an
+  <0 Type='3' Data='0000'/>Energy Cell<0 Type='3' Data='ffff'/>.<0 Type='4'/>Allow me to explain briefly about this
+  <0 Type='3' Data='0000'/>device dispenser<0 Type='3' Data='ffff'/>.
+talk_06: |
+  <3 Type='0' Data='0700'/><0 Type='3' Data='0000'/>Device dispensers<0 Type='3' Data='ffff'/> produce portable Zonai
+  devices in the form of <0 Type='3' Data='0000'/>Zonai capsules<0 Type='3' Data='ffff'/>.<0 Type='4'/>They can process <0 Type='3' Data='0000'/>construct horns<0 Type='3' Data='ffff'/> and
+  <0 Type='3' Data='0000'/>Zonai charges<0 Type='3' Data='ffff'/>.
+0008: |
+  Goodbye.
+talk_36: |
+  <3 Type='0' Data='0700'/>The mechanism before you is a
+  <0 Type='3' Data='0000'/>device dispenser<0 Type='3' Data='ffff'/>.<0 Type='3' Data='0000'/><5 Type='1'/><0 Type='4'/><0 Type='3' Data='ffff'/>It uses resources such as <0 Type='3' Data='0000'/>construct
+  horns <0 Type='3' Data='ffff'/>and <0 Type='3' Data='0000'/>Zonai charges <0 Type='3' Data='ffff'/>to produce
+  <0 Type='3' Data='0000'/>Zonai capsules<0 Type='3' Data='ffff'/>.
+talk_07: |
+  <3 Type='0' Data='0700'/><0 Type='3' Data='0000'/>Zonai capsules<0 Type='3' Data='ffff'/> are portable Zonai devices
+  in convenient pocket form.<0 Type='4'/>A device cannot be put back in its capsule
+  after you have removed it. More capsules
+  are always available at <0 Type='3' Data='0000'/>device dispensers<0 Type='3' Data='ffff'/>.<0 Type='4'/>Converting spare resources into <0 Type='3' Data='0000'/>Zonai
+  capsules<0 Type='3' Data='ffff'/> ensures you always have a few.
+talk_08: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>You are welcome to use the <0 Type='3' Data='0000'/>device
+  dispenser<0 Type='3' Data='ffff'/> if you need Zonai <0 Type='3' Data='0000'/>capsules<0 Type='3' Data='ffff'/>.<0 Type='4'/>I can explain how either of them work if
+  you need a primer.
+talk_37: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a0048006100700070007900'/>Use them by dropping any resources held
+  in your hands into the receptacle. It is
+  similar to using a cooking pot.
+talk_38: |
+  <3 Type='0' Data='0701'/>It is easy to use. <5 Type='0'/>Simply hold the required
+  resources and drop them into the
+  receptacle. <5 Type='0'/>The dispenser does the rest.
+talk_09: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Shall I explain <0 Type='3' Data='0000'/>device dispensers <0 Type='3' Data='ffff'/>and
+  <0 Type='3' Data='0000'/>Zonai capsules<0 Type='3' Data='ffff'/> again?
+talk_39: |
+  <3 Type='0' Data='0700'/><0 Type='3' Data='0000'/>Zonai capsules<0 Type='3' Data='ffff'/> are a form of portable
+  Zonai devices. They are immensely
+  convenient.<0 Type='4'/>I recommend that you actively convert
+  surplus resources into them. <5 Type='0'/>Then you
+  will always have some with you.<0 Type='4'/><3 Type='0' Data='0000'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>A device cannot be returned to its
+  capsule once open. <5 Type='0'/>They are meant
+  to be disposable.<0 Type='4'/>Note that there is no need to hoard them.
+  The <0 Type='3' Data='0000'/>device dispenser<0 Type='3' Data='ffff'/> can produce many
+  <0 Type='3' Data='0000'/>Zonai capsules<0 Type='3' Data='ffff'/> at once.
+talk_10: |
+  <3 Type='0' Data='0700'/>There are many types of <0 Type='3' Data='0000'/>Zonai capsules<0 Type='3' Data='ffff'/>.<5 Type='0'/>
+  I recommend carrying a few with you at
+  all times.
+talk_40: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='0a0048006100700070007900'/>That explanation was not as brief as
+  advertised. My apologies. <5 Type='0'/>But I am willing
+  to repeat it if you want.
+0013: |
+  Zonai capsule?
+talk_11: |
+  <3 Type='0' Data='0700'/>I am always available to explain the use of
+  <0 Type='3' Data='0000'/>device dispensers<0 Type='3' Data='ffff'/>.

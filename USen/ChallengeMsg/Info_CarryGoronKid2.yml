@@ -1,0 +1,31 @@
+Name: |
+  The Ancient City Gorondia?
+Carry: |
+  The young Dugby is searching for the city of
+  Gorondia, where the Gorons of old once lived.
+  
+  He says he's found the mine-cart tracks leading
+  to Gorondia, but he can't figure out how to
+  move the cart. Also, <0 Type='3' Data='0000'/>rocks have fallen <0 Type='3' Data='ffff'/>on top of
+  the tracks.
+ToStation: |
+  The young Dugby is searching for the city of
+  Gorondia, where the Gorons of old once lived.
+  
+  He says he's found the mine-cart tracks
+  leading to Gorondia, but there's a problem
+  with them... He told you <0 Type='3' Data='0000'/>not to follow him<0 Type='3' Data='ffff'/>.
+Reach: |
+  The young Dugby searches for Gorondia,
+  where the Gorons of old once lived. You
+  brought him to the end of the mine-cart track.
+  
+  Dugby wants to reward you, so organize your
+  belongings and go get that reward.
+Complete: |
+  Little Dugby is searching for the city of
+  Gorondia, where the Gorons of old
+  once lived.
+  
+  You delivered him to his destination, and he ran
+  off smiling, excited about what lay ahead.

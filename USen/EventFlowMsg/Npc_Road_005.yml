@@ -1,0 +1,160 @@
+Talk_22: |
+  <3 Type='0' Data='0a00'/>I'm glad I made it to Goron City, but geez.<5 Type='0'/>
+  Who knew <0 Type='3' Data='0000'/>fire-resistant clothes <0 Type='3' Data='ffff'/>would be
+  so expensive?
+  My girlfriend's waiting for me at
+  Woodland Stable, so I have to make
+  my purchase and head back fast.
+  Otherwise she'll just say I was dragging
+  my feet again...
+Near_06: |
+  Greetings!
+Talk_23: |
+  <3 Type='0' Data='0a00'/>I'm glad I made it to Goron City and that
+  the Gorons are all back to normal.
+  
+  Geez though.<5 Type='0'/> Who knew <0 Type='3' Data='0000'/>fire-resistant
+  clothes <0 Type='3' Data='ffff'/>would be so expensive?
+  
+  <3 Type='0' Data='0300'/>My girlfriend's waiting for me at
+  Woodland Stable, so I have to make
+  my purchase and head back fast.
+  Otherwise she'll just say I was dragging
+  my feet again...
+Talk_06: |
+  <3 Type='0' Data='0700'/>I came here from very far away to buy
+  <0 Type='3' Data='0000'/>fire-resistant clothes <0 Type='3' Data='ffff'/>in <0 Type='3' Data='0000'/>Goron City<0 Type='3' Data='ffff'/>, but
+  it didn't work out.<0 Type='4'/><3 Type='0' Data='0a00'/><4 Type='0' Data='0c005300610064005f0030003000'/>I was expecting the temperatures to
+  be high—<5 Type='0'/>not the prices. Yeowch!
+  
+  My girlfriend back at Woodland Stable
+  will be gutted to see me come home
+  empty-handed.
+  She always said I don't follow through
+  on things,<5 Type='0'/> and I don't want to prove
+  her right.<0 Type='4'/>On second thought, maybe I'll try to make
+  some rupees and come back.
+Near_07: |
+  Evening!
+SagonoHat: |
+  That's a dashing hat.
+Talk_07: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Nice clothes, by the way. You look really—
+  <5 Type='1'/>wait a minute.<0 Type='4'/><3 Type='0' Data='0b00'/>That thing you're wearing! That's it!
+  That's what I wanted to buy!<0 Type='4'/><3 Type='0' Data='0801'/>It looks rugged! And a little bit old
+  fashioned, if I'm being honest?<0 Type='4'/>But that's what makes it GREAT! Now I
+  know I have to buy clothes like that!
+Near_08: |
+  I just can't afford them.
+Near_09: |
+  Mine-Cart Land?
+Talk_11: |
+  <3 Type='0' Data='0700'/>I've come from very far away to buy
+  <0 Type='3' Data='0000'/>fire-resistant clothes <0 Type='3' Data='ffff'/>in <0 Type='3' Data='0000'/>Goron City<0 Type='3' Data='ffff'/>.<0 Type='4'/>My girlfriend is waiting for me back at
+  Woodland Stable, so I'm trying to make
+  it quick.
+  She always says I drag my feet...but I
+  won't this time!
+SavedLv1_00: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Phew... Might not have made it through
+  that without you.
+Talk_12: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0a005400680069006e006b00'/>I need to go buy <0 Type='3' Data='0000'/>fire-resistant clothes<0 Type='3' Data='ffff'/>
+  from <0 Type='3' Data='0000'/>Goron City<0 Type='3' Data='ffff'/>.<0 Type='4'/>My girlfriend is waiting for those clothes
+  back at Woodland Stable, and I won't
+  let her down, not again!
+SavedLv1_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a0048006100700070007900'/>That was a close one... You saved me!
+SavedLv2_00: |
+  <3 Type='0' Data='0700'/>Thanks to you, I can see my girlfriend
+  again!<5 Type='1'/> I sure owe you.
+Talk_13: |
+  <3 Type='0' Data='0a00'/>I can't believe <0 Type='3' Data='0000'/>fire-resistant clothes<0 Type='3' Data='ffff'/>
+  from <0 Type='3' Data='0000'/>Goron City<0 Type='3' Data='ffff'/> are that expensive.<0 Type='4'/>My girlfriend back at Woodland Stable
+  will be gutted to see me come home
+  empty-handed.
+  I don't want to her to think I can't follow
+  through on things...again...
+SavedLv2_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='08004500610073006500'/>Thank you for handling that for me.<5 Type='1'/>
+  I wouldn't have had a chance on my own.
+SavedLv3_00: |
+  <3 Type='0' Data='0800'/>You're...<5 Type='0'/>incredible. I'm safe thanks to you.
+SavedLv3_01: |
+  <3 Type='0' Data='0b00'/>You...<5 Type='0'/>you can beat monsters like THAT?
+  You're amazing.
+Talk_16: |
+  <3 Type='0' Data='0a00'/>The <0 Type='3' Data='0000'/>fire-resistant clothes<0 Type='3' Data='ffff'/> in <0 Type='3' Data='0000'/>Goron City<0 Type='3' Data='ffff'/>
+  are just too expensive. I can't afford them.
+  
+  My girlfriend, she's waiting for me at
+  Woodland Stable. She'll be gutted when I
+  come back empty-handed.
+  <FontSize Value='80'/><3 Type='0' Data='0c01'/>Maybe I should try cheering myself up at
+  <0 Type='3' Data='0000'/>Mine-Cart Land<0 Type='3' Data='ffff'/>...<FontSize Value='100'/>
+Talk_17: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0e0045006100730065005f0030003100'/>Hey there! I'm glad to see someone out
+  here. <5 Type='0'/>It's been a long, lonely journey.
+Talk_18: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0e0045006100730065005f0030003100'/>Hey there! Glad to see someone out here.<5 Type='0'/>
+  It's hard, braving the dark on my own.
+Talk_00: |
+  <3 Type='0' Data='0701'/>Been a while since I saw another Hylian.
+  Around here, it's Gorons as far as the
+  eyes can see.
+  I'm en route to Goron City. I hear that's
+  the place to go if you want <0 Type='3' Data='0000'/>fire-resistant
+  clothes<0 Type='3' Data='ffff'/>.<0 Type='4'/><3 Type='0' Data='0a00'/>Hopefully they're not too pricey.
+Atacked00: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>You came at the right time!<5 Type='1'/> I'm hopeless
+  on my own.
+Guardian00: |
+  <3 Type='0' Data='0b00'/>I've never even heard of monsters like
+  this! Come on, we need to run!
+Talk_01: |
+  <3 Type='0' Data='0a00'/>I'm en route to Goron City. I hear that's
+  the place to go if you want <0 Type='3' Data='0000'/>fire-resistant
+  clothes<0 Type='3' Data='ffff'/>.
+  Hopefully they're not too pricey.
+Talk_19: |
+  <3 Type='0' Data='0700'/>Travelers like us gotta keep marching
+  forward, day and night.<0 Type='4'/>Thank goodness it's safer here now, so
+  we can travel after dark without fear.
+Failed00: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0a0054006900720065006400'/>I'm fine...<5 Type='0'/> Honestly, if disappointing my
+  girlfriend's a 10 on the pain scale, I'd give
+  that a six...
+  Ugh...<5 Type='0'/> OK, maybe a seven...
+Atacked01: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='1000530063006100720065005f0030003000'/>My nicest clothes are going to be ruined
+  if this keeps up...
+ComNakedCheck_W_001: |
+  <3 Type='0' Data='0b00'/>Whoa!<5 Type='1'/> I can forgive a lot of fashion sins,
+  but not this one! Put something on before
+  you talk to me!
+Failed01: |
+  <3 Type='0' Data='0a00'/>Ugh...<5 Type='0'/> My whole body hurts... I want to go
+  rest in a hot spring for a while...
+EnokidaSignboard: |
+  Is that hairstyle in now?
+Talk_20: |
+  <3 Type='0' Data='0700'/>Travelers like us gotta keep marching
+  forward, day and night.<0 Type='4'/>Thank goodness it's safer out here now,
+  so we can travel at any time of day
+  without fear.
+Thanks00: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a0048006100700070007900'/>This is all I have to offer,<5 Type='0'/> but I want you to
+  have it. Consider it a thank-you.
+NakedPlayer: |
+  Down to the skivvies, hm?
+Talk_21: |
+  <3 Type='0' Data='0a00'/>I kept my girlfriend waiting, and now
+  I'm coming back to her without the
+  fire-resistant clothes.
+  She's not going to be happy. But it's not
+  my fault they're so expensive! Ugh...
+  This has really got me feeling down.
+  <3 Type='0' Data='0300'/>Maybe I should try cheering myself up at
+  <0 Type='3' Data='0000'/>Mine-Cart Land<0 Type='3' Data='ffff'/>...
+Near_05: |
+  Morning, morning!

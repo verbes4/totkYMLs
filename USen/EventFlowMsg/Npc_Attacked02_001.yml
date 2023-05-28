@@ -1,0 +1,218 @@
+Thanks02: |
+  <3 Type='0' Data='0800'/>How can I ever thank you?<5 Type='1'/> Oh! Everyone
+  likes money! It isn't much, but I hope it
+  conveys my gratitude.
+Talk01_00: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>To start...<5 Type='1'/>did you know that there's
+  actually a <0 Type='3' Data='0000'/>cave<0 Type='3' Data='ffff'/> right nearby?<0 Type='4'/><3 Type='0' Data='0001'/>There's an opening in the ground north
+  of us that leads into it.<0 Type='4'/>I didn't find many ingredients in there
+  when I poked my head in, but I did see
+  a fair share of <0 Type='3' Data='0000'/>ore deposits<0 Type='3' Data='ffff'/>.
+  <3 Type='0' Data='0800'/>Break one of those with a <0 Type='3' Data='0000'/>hammer<0 Type='3' Data='ffff'/> or
+  something and you're in for a treat.<0 Type='4'/>There's flint for starting fires, <5 Type='0'/>rock salt
+  for seasoning your cooking...<5 Type='0'/>and luminous
+  stones and gems to sell for high prices!
+  <4 Type='0' Data='1a0055006e006400650072007300740061006e0064005f0030003000'/>Around here, caves are the only place
+  to find <0 Type='3' Data='0000'/>ore deposits<0 Type='3' Data='ffff'/> too. <5 Type='1'/>If you find a
+  cave, don't think twice about going in.
+Thanks03: |
+  <3 Type='0' Data='0800'/>Here's a little something to thank you for
+  saving me.<5 Type='0'/> It's the least I can do!
+Talk01_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1a0055006e006400650072007300740061006e0064005f0030003000'/>There's an opening in the ground north
+  of here that leads into a<0 Type='3' Data='0000'/> cave<0 Type='3' Data='ffff'/>.<0 Type='4'/>If you break one of the ore deposits in
+  there with a <0 Type='3' Data='0000'/>hammer<0 Type='3' Data='ffff'/> or something, you're
+  in for a treat.<0 Type='4'/>There's flint for starting fires, rock salt for
+  seasoning your cooking...<5 Type='0'/>and luminous
+  stones and gems to sell for high prices!
+  <4 Type='0' Data='12004c00610075006700680053005f0030003100'/>Around here, caves are the only place
+  to find <0 Type='3' Data='0000'/>ore deposits<0 Type='3' Data='ffff'/> too. <5 Type='1'/>If you find a
+  cave, don't think twice about going in.
+Talk02_00: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>For instance, ah... <5 Type='1'/>There's an opening in
+  the ground north of here that leads into
+  a<0 Type='3' Data='0000'/> cave<0 Type='3' Data='ffff'/>.<0 Type='4'/><3 Type='0' Data='0000'/>If you break one of the ore deposits in
+  there with a <0 Type='3' Data='0000'/>hammer<0 Type='3' Data='ffff'/> you can get ore,
+  obviously. But more than that...<0 Type='4'/>There's flint for starting fires, rock salt for
+  seasoning your cooking...<5 Type='0'/>and luminous
+  stones and gems to sell for high prices!
+  <4 Type='0' Data='1a0055006e006400650072007300740061006e0064005f0030003000'/>So if you find an <0 Type='3' Data='0000'/>ore deposit<0 Type='3' Data='ffff'/> in a cave,
+  make sure to break it!
+Talk02_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1a0055006e006400650072007300740061006e0064005f0030003000'/>If you see an ore deposit in a cave and
+  break it with a <0 Type='3' Data='0000'/>hammer<0 Type='3' Data='ffff'/>, I think you'll be
+  pleased with what you'll get.<0 Type='4'/>There's flint for starting fires, rock salt for
+  seasoning your cooking...<5 Type='0'/>and luminous
+  stones and gems to sell for high prices!
+  <4 Type='0' Data='12004c00610075006700680053005f0030003100'/>So if you find an <0 Type='3' Data='0000'/>ore deposit<0 Type='3' Data='ffff'/> in a cave,
+  make sure to break it!
+SavedLv1_00: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0c005300610064005f0030003000'/>Whew... <5 Type='0'/>These monsters are a real pain
+  in the neck.
+TerrorEnemy_00: |
+  If I must...I must!
+SavedLv1_01: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0e0045006100730065005f0030003100'/>Thanks for the rescue!<5 Type='1'/> Fighting's never
+  really been my thing.
+SavedLv2_00: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>I'm saved!<5 Type='1'/> Good thing you arrived when
+  you did. I may have bitten off more than
+  I could chew there.
+ClearTerrorEnemy: |
+  Phew, I'm saved!
+TerrorEnemy_01: |
+  Don't panic... Stay calm!
+SavedLv2_01: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Thanks!<5 Type='1'/> Things were looking a little dicey,
+  but you pulled me out of the fire!
+SavedLv3_00: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>It's like you eat scary monsters for
+  breakfast.<5 Type='0'/> Your skills are something else!
+TerrorEnemy_02: |
+  Now, it's time to cook!
+SavedLv3_01: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>It's not every day you look death in the
+  face and manage to walk away.<5 Type='1'/> But now
+  my quest for ingredients can continue!
+Talk06_00: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1a0055006e006400650072007300740061006e0064005f0030003000'/>Are you familiar with <0 Type='3' Data='0000'/>hearty truffles<0 Type='3' Data='ffff'/>?
+  They're valuable and delicious fungi.<0 Type='4'/>You used to be able to find them on the
+  surface, but lately, I've only been able to
+  find them in <0 Type='3' Data='0000'/>caves and wells<0 Type='3' Data='ffff'/>.
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='1400540072006f00750062006c0065005f0030003000'/>Hearty truffles are black and tend not to
+  stand out,<5 Type='1'/> so it's important to keep a
+  watchful eye out when searching for them.
+  <3 Type='0' Data='0001'/>Though rumor has it that a few lucky
+  people have stumbled onto <0 Type='3' Data='0000'/>white hearty
+  truffles<0 Type='3' Data='ffff'/> that have grown to a massive size.
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>What a blessing it would be to cook with
+  such a fantastic ingredient!
+Talk99_01: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Oh, hello! <5 Type='1'/>We meet again!<0 Type='4'/>I came here because I heard <0 Type='3' Data='0000'/>there were
+  caves<0 Type='3' Data='ffff'/> in this area. You, too, I imagine?<0 Type='4'/>Well, in any case... <5 Type='1'/>There's no better way
+  to commemorate our reunion than with
+  some fresh cave advice.
+AfterFailed: |
+  <3 Type='0' Data='0a00'/>Stick a fork in me, I'm done. <5 Type='1'/>We can chat
+  when the world stops spinning...
+Talk06_01: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0701'/><4 Type='0' Data='1a0055006e006400650072007300740061006e0064005f0030003000'/>Hearty truffles<0 Type='3' Data='ffff'/> are rare fungi that only
+  grow in <0 Type='3' Data='0000'/>caves and wells<0 Type='3' Data='ffff'/>.<0 Type='4'/>They're black and tend to blend into their
+  surroundings, <5 Type='1'/>so you have to keep your
+  eyes peeled when searching for them.
+  That said, I've heard some people have
+  found even bigger <0 Type='3' Data='0000'/>white hearty truffles<0 Type='3' Data='ffff'/>!<0 Type='4'/><3 Type='0' Data='0801'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Cooking with an ingredient like that would
+  be the dream of any chef.
+Atacked00: |
+  <3 Type='0' Data='0900'/>Seriously? You wanna talk now?! <5 Type='1'/>Help me
+  get through this, and then we can chat!
+Guardian00: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003000'/>Wh-what is this monster?!<5 Type='1'/> I can't fight it...<5 Type='0'/>
+  I need to run!
+Failed00: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0c005300610064005f0030003000'/>Urgh... <5 Type='0'/>It feels like I...<5 Type='0'/>just caught a little
+  glimpse of the afterlife there.
+  
+  I should've prepared for monsters before
+  I headed out.
+Atacked01: |
+  <3 Type='0' Data='0800'/>Oh! <5 Type='1'/>My prayers have been answered!<5 Type='1'/>
+  I've got a little monster problem here.
+  Would you lend me a hand?
+GoodBye00: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>My name is Savrey. <5 Type='1'/>I'm a traveling chef,
+  constantly on the lookout for the freshest
+  ingredients the <0 Type='3' Data='0000'/>caves<0 Type='3' Data='ffff'/> can offer.<0 Type='4'/>If you need to do some cooking yourself,<5 Type='1'/>
+  you're welcome to use my pot.<5 Type='1'/> I'm not
+  sure how else to repay you.
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1a00410064006d00690072006100740069006f006e005f0030003100'/>Wait, maybe I do! <5 Type='1'/>I can share all that I've
+  learned while going through the caves!<0 Type='4'/>Caves are full of valuable ingredients and
+  ores.<5 Type='0'/> Think of them as Hyrule's natural
+  treasure chests!
+  Trust me, knowing your caves can be a
+  major boon for travelers.
+Talk03_00: |
+  <3 Type='0' Data='0c00'/>Caves are tricky things. <5 Type='0'/>Sometimes
+  passages—or even the entrance—can
+  be completely blocked by rocks.
+  <3 Type='0' Data='0001'/>If that happens, the only way through is
+  through. You just have to <0 Type='3' Data='0000'/>smash those
+  pesky rocks<0 Type='3' Data='ffff'/>!
+  <4 Type='0' Data='1a0055006e006400650072007300740061006e0064005f0030003000'/>Regular swords and spears won't do
+  you any good though. You'll need a
+  <0 Type='3' Data='0000'/>hammer<0 Type='3' Data='ffff'/>-like implement with a blunt tip.
+  <3 Type='0' Data='0701'/>So it never hurts to be prepared to smash
+  some rocks before you enter a cave.<0 Type='4'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>And hey, a blocked path isn't all bad.
+  Sometimes you'll even find ore in the
+  rocks you've smashed!
+Talk100: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>I hope our paths will cross again
+  somewhere. <5 Type='1'/>So long, and safe travels!
+Failed01: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0c005300610064005f0030003000'/>Owww... <5 Type='0'/>That one is definitely going
+  to bruise.<5 Type='1'/>
+  
+  I never thought I'd miss washing
+  dishes. <5 Type='0'/>Urgh...
+Talk03_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1a0055006e006400650072007300740061006e0064005f0030003000'/>If you're exploring a cave and find your
+  path blocked by <0 Type='3' Data='0000'/>rocks<0 Type='3' Data='ffff'/>, you need to <0 Type='3' Data='0000'/>smash<0 Type='3' Data='ffff'/>
+  your way through!
+  And to do so, a <0 Type='3' Data='0000'/>hammer<0 Type='3' Data='ffff'/>-like implement
+  with something blunt on the end is
+  absolutely essential.
+  <4 Type='0' Data='12004c00610075006700680053005f0030003100'/>Sometimes you'll even find weapons and
+  ore in the rocks you've smashed. <5 Type='1'/>So it
+  never hurts to have a hammer on hand!
+Talk04_00: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>Funny thing about the rocks that block
+  off the passages in a cave... Different
+  <0 Type='3' Data='0000'/>rocks have different toughness<0 Type='3' Data='ffff'/>.
+  <3 Type='0' Data='0701'/>The harder ones take multiple hammer
+  blows to break through.<0 Type='4'/><3 Type='0' Data='0c01'/>Given that, I should probably prepare a
+  more <0 Type='3' Data='0000'/>powerful hammer<0 Type='3' Data='ffff'/> for myself.<0 Type='4'/><4 Type='0' Data='1400540072006f00750062006c0065005f0030003000'/>Maybe I could replace the head of my
+  hammer with something else. <5 Type='1'/>Is there
+  some <0 Type='3' Data='0000'/>hard material<0 Type='3' Data='ffff'/> I could use?
+Thanks00: |
+  <3 Type='0' Data='0800'/>Maybe this home-cooked meal can convey
+  my gratitude! <5 Type='1'/>It's not much, but I hope
+  you'll enjoy it.
+Talk05_00: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1a0055006e006400650072007300740061006e0064005f0030003000'/>Have you ever seen <0 Type='3' Data='0000'/>glowing cave fish<0 Type='3' Data='ffff'/>
+  flitting about in cave pools? How about
+  <0 Type='3' Data='0000'/>brightcap<0 Type='3' Data='ffff'/> mushrooms?
+  Both are rare organisms found only in
+  caves and wells.<0 Type='4'/><3 Type='0' Data='0c00'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>Though I suppose their rarity is less
+  important than their glowiness.<0 Type='4'/>If you cook and eat either one of them,
+  they'll make your body <0 Type='3' Data='0000'/>glow<0 Type='3' Data='ffff'/>!<0 Type='4'/><3 Type='0' Data='0800'/><4 Type='0' Data='12004c0061007500670068004c005f0030003100'/>Isn't that neat? <5 Type='1'/>It's just a slight glow and
+  not very useful for everyday life, but it
+  could be handy for exploring caves!
+Thanks01: |
+  <3 Type='0' Data='0800'/>As a chef, there's no better way for me
+  to thank you than with food. <5 Type='1'/>I hope this
+  tickles your taste buds!
+GoodBye00_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>We meet again.<0 Type='4'/>I'm here because I heard <0 Type='3' Data='0000'/>there are caves<0 Type='3' Data='ffff'/>
+  in this area. <5 Type='0'/>You, too, I take it? <5 Type='0'/>No?<0 Type='4'/>In any case,<5 Type='1'/> I'm happy to see you and
+  ready to share some more cave info!
+Talk05_01: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1a0055006e006400650072007300740061006e0064005f0030003000'/>Have you seen <0 Type='3' Data='0000'/>glowing cave fish<0 Type='3' Data='ffff'/> or
+  <0 Type='3' Data='0000'/>brightcaps<0 Type='3' Data='ffff'/> in your travels?<0 Type='4'/>They're rare ingredients that you can only
+  find in caves and wells. <5 Type='0'/>If you cook and
+  eat them, they'll make your body <0 Type='3' Data='0000'/>glow<0 Type='3' Data='ffff'/>!
+  <3 Type='0' Data='0000'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>The glowing is faint, but it could be useful
+  for navigating in the dark. It's worth a try!
+Talk99: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Hello there! <5 Type='1'/>Are you a traveler too? My
+  name is Savrey. <5 Type='1'/>I'm a wandering chef.<0 Type='4'/>I wander from place to place, searching
+  <0 Type='3' Data='0000'/>caves <0 Type='3' Data='ffff'/>for uniquely delicious ingredients.<0 Type='4'/>As we both seem to be like-minded
+  explorers, you're welcome to use my
+  cooking pot whenever you like.
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1a00410064006d00690072006100740069006f006e005f0030003100'/>Oh! <5 Type='1'/>And I bet the things I've learned in
+  my cave searches could come in handy
+  on your journey! Mind if I share?
+  Caves are chock-full of valuable ores
+  and ingredients. <5 Type='0'/>They're like nature's
+  treasure chests!
+  If you're not savvy to the joys of a good
+  cave, you're not traveling to the fullest!

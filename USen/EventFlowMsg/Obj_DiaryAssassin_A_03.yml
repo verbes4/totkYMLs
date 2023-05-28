@@ -1,0 +1,33 @@
+Talk_000: |
+  Read the Yiga Clan journal?
+0000: |
+  Read.
+Talk_001: |
+  We've received deployment info from the
+  hideout. All interested parties should
+  contact the head of their desired division.
+  Mercantile Division: Manages sale of
+  weapons and provisions to Yiga Clan
+  members.
+  Requirements: Basic counting ability.
+  Conversational aptitude.
+  
+  Research Division: Researches and
+  develops new applications for Zonai parts.
+  
+  Requirements: Crafting skill. An ear
+  for naming.
+  
+  Training Division: Oversees the
+  improvement of all members of the
+  Yiga Clan.
+  Requirements: Resilience. Mastery of the
+  <0 Type='3' Data='0000'/>Earthwake technique<0 Type='3' Data='ffff'/>—training available
+  through the Training Division.
+  Distribution Division: Supplies materials to
+  the Depths hideouts.
+  
+  Requirements: Can read and write.
+  Confident in own strength.
+0001: |
+  Don't read.

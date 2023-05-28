@@ -1,0 +1,89 @@
+Near_0001: |
+  Maintenance is crucial.
+Talk_0010_01: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Is that you again? <5 Type='0'/>Are you here to watch
+  the monster-control crew at work?
+Talk_1052: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Oh, are you interested in that weapon?
+  Feel free to take it. I don't mind at all.<0 Type='4'/>We seized it from the monsters,<5 Type='0'/> and I
+  repaired it just to keep myself busy. But I
+  don't have a use for it.<0 Type='4'/><3 Type='0' Data='0701'/>Your travels take you through dangerous
+  places, I expect. <5 Type='0'/>By all means, take it if
+  you need it.
+Talk_0010_02: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>You're that traveler I met before, right?<5 Type='0'/>
+  Probably don't need me to tell you to be
+  careful on the roads at night.
+Talk_0051: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>All the equipment you see here is well
+  maintained and combat ready, but...
+Talk_1001: |
+  <3 Type='0' Data='0701'/>Captain Hoz's squad of the monster-
+  control crew is engaged in a battle to
+  quell the monsters near here.
+  <4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>The fighting should be in full swing at
+  <0 Type='3' Data='0000'/>Fort Hateno <0 Type='3' Data='ffff'/>down the road to the <0 Type='3' Data='0000'/>east<0 Type='3' Data='ffff'/> by
+  now, so I advise keeping your distance.
+Talk_0010_03: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Hi there. <5 Type='0'/>Some weather we're having, eh?
+  Nothing but gray and murk. <5 Type='1'/>Not that I
+  notice much, with my nose in my work.
+Talk_1002: |
+  <3 Type='0' Data='0000'/>If you're curious how the battle is going,
+  you could go watch. But take care you
+  don't get caught up in the fray.
+Talk_0001: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Sorry, I'm a little preoccupied to deal
+  with travelers right now. <5 Type='1'/>That's what you
+  are, right? A traveler?
+Talk_1003: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>By the way, you wouldn't happen to need
+  any equipment, would you?<0 Type='4'/>There's some gear seized from monsters
+  left over. I've fixed it up as good as I can
+  get it, so it's yours if you want.
+Talk_0002: |
+  <3 Type='0' Data='0701'/>It isn't safe here. <0 Type='3' Data='0000'/>Captain Hoz's squad of
+  the monster-control crew <0 Type='3' Data='ffff'/>is going to
+  engage the monsters around here soon.<0 Type='4'/>I bet you by now, they're already locked
+  in combat with the monsters at the <0 Type='3' Data='0000'/>lair<0 Type='3' Data='ffff'/>
+  to the <0 Type='3' Data='0000'/>south<0 Type='3' Data='ffff'/>.
+Talk_0003: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>I'm not going to stop you if you want to
+  go watch the sparks fly, but at least take
+  some precautions first.
+Talk_1011: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>I wondered if that monster-control crew
+  bunch had it in them, but they look more
+  like proper soldiers now.<0 Type='4'/>And they understand the importance of
+  well-maintained equipment, so they show
+  me a little more appreciation.<0 Type='4'/><3 Type='0' Data='0801'/>If they keep shaping up like this, I bet it
+  won't be long before they clear out all the
+  monsters from Hyrule.
+Talk_0004: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Say, you wouldn't happen to be having
+  any equipment troubles, would you?<0 Type='4'/>The gear I've got laid out here is all
+  repaired and ready to use, but...
+Talk_0010: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Is that you again? <5 Type='0'/>I appreciate a traveler
+  who gets right up and at 'em!
+Talk_1012: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>That monster-control crew bunch has
+  toughened up considerably.<0 Type='4'/>They're taking better care of the gear
+  I maintain for them too. Which is nice,
+  since it makes my job easier.<0 Type='4'/><3 Type='0' Data='0701'/>They still carry farm tools into battle,
+  mind you, but whatever helps them keep
+  the peace is OK by me.
+Talk_0005: |
+  <3 Type='0' Data='0c01'/>The monster-control crew has a lot of
+  amateurs who never really learned how
+  to swing a sword.<0 Type='4'/><3 Type='0' Data='0a00'/><4 Type='0' Data='08005300690067006800'/>They say they're more comfortable with
+  their farm tools, so they left all my nice
+  and shiny gear behind.<0 Type='4'/><3 Type='0' Data='0701'/>From what I've seen, you'd be better
+  suited to use this stuff than that bunch.<0 Type='4'/>Take it with my blessing, and give the
+  monsters one for me, all right?
+Talk_0011: |
+  <3 Type='0' Data='0c00'/>The monster-control crew has a lot of
+  amateurs who never really learned how
+  to swing a sword.<0 Type='4'/><3 Type='0' Data='0000'/>It'd help them out if <0 Type='3' Data='0000'/>someone with more
+  experience fighting monsters<0 Type='3' Data='ffff'/> would
+  pitch in.

@@ -1,0 +1,14 @@
+Name: |
+  Cash In on Ripened Flint
+GetFlintstones: |
+  Gomo the goromand will pay <0 Type='3' Data='0000'/>1,000 rupees<0 Type='3' Data='ffff'/>
+  for ripened flint.
+  
+  It can be found mixed with other flint pieces,
+  but the only way to sort them is through taste.
+Complete: |
+  Gomo the goromand found some ripened flint
+  amid the regular flint you brought him, and he
+  seemed satisfied. He generously paid you
+  <0 Type='3' Data='0000'/>1,000 rupees <0 Type='3' Data='ffff'/>and said he'll gladly pay the
+  same for more ripened flint.

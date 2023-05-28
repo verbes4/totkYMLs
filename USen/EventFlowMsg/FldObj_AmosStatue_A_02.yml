@@ -1,0 +1,150 @@
+near1000: |
+  Poes...
+talk1001: |
+  <0 Type='3' Data='0000'/>Poes<0 Type='3' Data='ffff'/> are pitiful beings who have lost their
+  way home and wander the depths of
+  this land.
+  Good... Evil... That's the futile perspective
+  of narrow-minded beings. There is no
+  such distinction in wandering spirits.
+  You have already obtained <0 Type='3' Data='0000'/>Poes<0 Type='3' Data='ffff'/>...
+talk1014: |
+  Is that so...
+  
+  
+  Visit me again if you decide to offer <0 Type='3' Data='0000'/>Poes<0 Type='3' Data='ffff'/>.
+  
+  
+  I will grant you suitable compensation.
+talk1027: |
+  But it seems one of my brethren cannot
+  make use of his power.
+  
+  What could this mean?
+talk1002: |
+  Yes... Oh, this is indeed a <0 Type='3' Data='0000'/>Poe<0 Type='3' Data='ffff'/>.
+talk1015: |
+  I acknowledge your offering...<5 Type='0'/> I will tell
+  you of the <0 Type='3' Data='0000'/>location of one of my brethren<0 Type='3' Data='ffff'/>
+  in the depths of the land.
+talk1003: |
+  Yes... Oh, this is indeed a <0 Type='3' Data='0000'/>Poe<0 Type='3' Data='ffff'/>.<0 Type='3' Data='0000'/><0 Type='3' Data='ffff'/>
+  
+  
+  What pitiful beings these are. They have
+  lost their way home, and wander the
+  depths of this land.
+talk1016: |
+  Seek out wandering spirits for my
+  brethren in the depths of this land.
+talk1004: |
+  ...
+  
+  
+  I have returned the lost spirit to the
+  afterlife where it belongs.
+  
+  Since I was brought here to the surface,
+  I have been unable to return Poes to the
+  afterlife.
+  Because of you, I can assist them once
+  again. You should take this.
+talk1017: |
+  Farewell...
+talk1018: |
+  I no longer have anything to offer you.
+talk1006: |
+  ...
+  
+  
+  Have you...encountered my brethren in
+  the depths of the land?
+  
+  Wait just a moment...
+talk1019: |
+  It seems you do not have enough Poes
+  to offer...
+talk1007: |
+  My <0 Type='3' Data='0000'/>brethren<0 Type='3' Data='ffff'/>, whose spirits reside in
+  statues far larger than mine, are in the
+  depths of this land.
+  If you encounter my <0 Type='3' Data='0000'/>brethren<0 Type='3' Data='ffff'/>, try offering
+  Poes to them.
+1030: |
+  Where are they?
+talk1008: |
+  Offer <0 Type='3' Data='0000'/><2 Type='2' Data='300041006d006f0073005300740061007400750065005f005700680065007200650049007300500072006900630065003100ffff00cd'/> Poes<0 Type='3' Data='ffff'/> to me... If you do,
+  I will tell you the <0 Type='3' Data='0000'/>location of one of
+  my brethren<0 Type='3' Data='ffff'/>.
+Com_Talk_36: |
+  I no longer have anything to offer you.
+  
+  
+  Others may also be seeking spirits. Visit
+  my brethren in the depths of this land.
+1031: |
+  Bye.
+talk1009: |
+  Offer <0 Type='3' Data='0000'/><2 Type='2' Data='300041006d006f0073005300740061007400750065005f005700680065007200650049007300500072006900630065003200ffff00cd'/> Poes<0 Type='3' Data='ffff'/> to me... If you do,
+  I will tell you the <0 Type='3' Data='0000'/>location of one of
+  my brethren<0 Type='3' Data='ffff'/>.
+Com_Talk_37: |
+  I no longer have anything to offer you.
+  
+  
+  Others may also be seeking spirits. Visit
+  my brethren in the depths of this land.
+1020: |
+  Tell me.
+1021: |
+  Maybe another time.
+1010: |
+  I'll offer Poes.
+1011: |
+  Brethren location?
+1012: |
+  Maybe another time.
+talk1020: |
+  Offer <0 Type='3' Data='0000'/>Poes<0 Type='3' Data='ffff'/> to me. They are spirits that
+  ought to return to the afterlife.
+1000: |
+  Poes?
+1001: |
+  Here's a Poe for you.
+talk1021: |
+  Go to the location indicated on
+  your <0 Type='3' Data='0000'/>map<0 Type='3' Data='ffff'/>...
+talk1022: |
+  Poes...
+1002: |
+  You can't have any.
+talk1023: |
+  If you offer me more <0 Type='3' Data='0000'/>Poes<0 Type='3' Data='ffff'/>, I will give you
+  suitable compensation.
+talk1024: |
+  I can sense the <0 Type='3' Data='0000'/>locations of my brethren<0 Type='3' Data='ffff'/>.
+  
+  
+  If you offer me <0 Type='3' Data='0000'/><2 Type='2' Data='300041006d006f0073005300740061007400750065005f005700680065007200650049007300500072006900630065003100ffff00cd'/> Poes<0 Type='3' Data='ffff'/>, I will tell you
+  <0 Type='3' Data='0000'/>where to find one of them<0 Type='3' Data='ffff'/>.
+talk1011: |
+  You who stand before me... Offer up <0 Type='3' Data='0000'/>Poes<0 Type='3' Data='ffff'/>
+  so that I may return them to the afterlife.
+talk1025: |
+  If you offer me <0 Type='3' Data='0000'/><2 Type='2' Data='300041006d006f0073005300740061007400750065005f005700680065007200650049007300500072006900630065003100ffff00cd'/> Poes<0 Type='3' Data='ffff'/>, I will tell you
+  the <0 Type='3' Data='0000'/>location of one of my brethren<0 Type='3' Data='ffff'/>.
+talk1012: |
+  Seek my brethren in the depths of
+  this land...
+talk1000: |
+  You who stand before me...
+  
+  
+  I am one who returns <0 Type='3' Data='0000'/>Poes<0 Type='3' Data='ffff'/> to the afterlife
+  where they belong.
+talk1026: |
+  You appear to already know the locations
+  of all of my brethren...
+talk1013: |
+  Visit me again when you have an
+  abundance of wandering spirits.

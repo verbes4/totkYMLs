@@ -1,0 +1,15 @@
+SubmitMaterial: |
+  If you wear the Zora armor, you can swim up
+  waterfalls. Yona is certain this will be a useful
+  tool for your adventure.
+  
+  However, it seems an elusive fish called the
+  <0 Type='3' Data='0000'/>ancient arowana <0 Type='3' Data='ffff'/>is needed to finish repairing
+  the Zora armor. If you find an ancient arowana,
+  you should bring it to Yona.
+Name: |
+  Restoring the Zora Armor
+Complete: |
+  Yona used the ancient arowana you gave her
+  to fix the Zora armor. With this armor, you can
+  climb up waterfalls.

@@ -1,0 +1,239 @@
+talk_10: |
+  <3 Type='0' Data='0700'/>Are you interested in the stone
+  tablet too?
+  
+  The letters carved on it are ancient
+  Hyrulean.
+  
+  The only person who can decipher them
+  is a guy named Wortsworth.
+  
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0a005400680069006e006b00'/>But he went to <0 Type='3' Data='0000'/>Kakariko Village<0 Type='3' Data='ffff'/>, talking
+  about documents he needed there. So
+  now I'll never know what this thing says...
+  Truth is, I wanted to go with him...
+  It would've been a great opportunity
+  to learn ancient Hyrulean myself.
+1002: |
+  Kakariko Village?
+talk_28: |
+  <3 Type='0' Data='0c00'/>Finding 12 more stone tablets seems a
+  tall order.
+  
+  <3 Type='0' Data='0801'/>Hm! <5 Type='0'/>This tablet fell from the sky, so
+  maybe searching from above is the way
+  to go!<5 Type='1'/>
+1003: |
+  Goodbye.
+Near_1_4: |
+  Gotta be thorough here.
+talk_11: |
+  <3 Type='0' Data='0800'/>My first job with the Zonai Survey Team is
+  checking out this valuable stone tablet.
+  
+  I'm feeling pretty lucky!
+talk_29: |
+  <3 Type='0' Data='0801'/>Maybe someone like the Rito Harth
+  could help!
+talk_12: |
+  <3 Type='0' Data='0700'/>Wortsworth went back to <0 Type='3' Data='0000'/>Kakariko Village<0 Type='3' Data='ffff'/>.
+  
+  
+  But I think I might be able to get him to
+  teach me ancient Hyrulean if I make an
+  amazing discovery here.
+  So I have to be really thorough with this!
+Near_1_5: |
+  How's the research going?
+Near_1_6: |
+  I want to be able to read it.
+talk_13: |
+  <3 Type='0' Data='0700'/>Are you interested in the ruin too?
+  
+  
+  The letters carved here are ancient
+  Hyrulean.
+  
+  And Wortsworth is the only person who
+  can decipher them...
+  
+  Even if it's just this stone tablet, I want
+  to know what's written on it.
+talk_30: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0600530061006400'/>Except...<5 Type='0'/>it's not like I have wings like a
+  Rito. So that makes it challenging...
+Talk_1_1: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a005400680069006e006b00'/>I finally get accepted into the
+  Zonai Survey Team, and here I am
+  languishing in this place.
+  Guess the best thing to do now is to stay
+  on top of the <0 Type='3' Data='0000'/>news in each region<0 Type='3' Data='ffff'/>, so I'm
+  even more prepared when the call comes.
+Near_1_7: |
+  It sure comes down quick.
+talk_14: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>I've gotta become Wortsworth's
+  number one pupil!
+talk_31: |
+  <FontSize Value='80'/><0 Type='3' Data='0200'/><3 Type='0' Data='0400'/>Wait, but then where's my job security?
+  
+  
+  <3 Type='0' Data='0c01'/>You know what. I wouldn't be a professional member
+  of the survey team if I couldn't lead my own charge.<0 Type='3' Data='ffff'/><FontSize Value='100'/>
+  
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0e0043006800610074005f0030003100'/>Haha, right!
+  
+  
+  Only an amateur would call it a day just
+  because we know what the stone tablet
+  says now.
+  A PRO investigates that which has already
+  been investigated in search of sparkly
+  new discoveries!
+  <3 Type='0' Data='0800'/>I'll never stop investigating this stone
+  tablet, oh, no. I'll keep investigating
+  from dusk till dawn!
+Talk_1_2: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>Remnants from the Zonai civilization have
+  started popping up all over...
+  
+  This calls for the Zonai Survey Team!
+  
+  
+  <3 Type='0' Data='0a00'/>Well, it should call for that. But instead,
+  they've got me hanging out here until
+  further notice.
+  I even spent loads of hours memorizing
+  everything in the Zonai Survey Team
+  book over there.
+  <3 Type='0' Data='0701'/>Guess the best thing to do now is to stay
+  on top of the <0 Type='3' Data='0000'/>news in each region<0 Type='3' Data='ffff'/>, so I'm
+  even more prepared when the call comes.
+talk_15: |
+  <3 Type='0' Data='0700'/>It's a Sheikah village southeast of here.
+  
+  
+  When the Upheaval happened, some big
+  ring-shaped Zonai ruins fell there.
+  
+  <3 Type='0' Data='0801'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>Right now, it's the hottest investigation
+  spot for the Zonai Survey Team.
+  
+  I bet if you got a high-enough vantage
+  point, you'd probably be able to see
+  those ruins from Lookout Landing.
+talk_32: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>You've come back, I see.
+Talk_1_3: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>"Freezing Temperatures Bring Feathery
+  Shivers to Rito!" The Rito are all over the
+  newspaper lately.
+  They live out in the <0 Type='3' Data='0000'/>Hebra <0 Type='3' Data='ffff'/>region,
+  if I recall.
+  
+  It's in the <0 Type='3' Data='0000'/>snowfields <0 Type='3' Data='ffff'/>of northwest Hyrule.
+  Some surveyors grouse about going there
+  because of how cold it is.
+  <FontSize Value='80'/>When all they need to do is bring proper gear and
+  supplies for <0 Type='3' Data='0000'/>cold resistance<0 Type='3' Data='ffff'/>. And go to the Rito
+  inn to sleep on a luxurious <0 Type='3' Data='0000'/>fluffy down bed<0 Type='3' Data='ffff'/>...
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0a005400680069006e006b00'/><FontSize Value='100'/>*sigh* I know it's important to be on
+  standby here, but I wish they'd send
+  me out on a survey already...<FontSize Value='80'/><FontSize Value='100'/>
+Talk01: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='1200530075007200700072006900730065005300'/>Such magnificent Zonai ruins! Right here
+  in Lookout Landing—can you believe it?
+  
+  Wortsworth is handling the research
+  involved with it.
+  
+  Which means it must have the super-rare
+  ancient Hyrulean that hardly anyone
+  comes across!
+  <3 Type='0' Data='0800'/>This is my first real job with the
+  Zonai Survey Team, so I'm going
+  to put in some serious work!
+talk_16: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003100'/>Oh, have you never visited there before?<5 Type='0'/>
+  It's the Sheikah village southeast of here.
+  
+  <3 Type='0' Data='0701'/>There are some pretty-high vantage
+  points here in Lookout Landing.
+  
+  If you climb up high, I bet you'd be able
+  to see the ring-shaped ruins that fell at
+  Kakariko Village.
+  If you use the ruins as a landmark, you
+  should be able to get there without
+  getting lost.
+talk_33: |
+  <FontSize Value='80'/><3 Type='0' Data='0500'/>They fell from the sky, so there should be some clue
+  up above, in theory.
+  
+  I should talk to Harth later...<FontSize Value='100'/>
+talk_34: |
+  <3 Type='0' Data='0700'/>Wortsworth has already finished
+  deciphering this stone tablet.
+  
+  If you're really that interested, perhaps
+  you ought to search for the other 12?
+talk_18: |
+  <3 Type='0' Data='0b00'/>Huh? <5 Type='0'/>Wortsworth told you about it? <5 Type='0'/>The
+  royal family's daily life, you say!
+  
+  And there are 12 other stone tablets with
+  ancient Hyrulean like this one?!
+talk_35: |
+  <FontSize Value='125'/><3 Type='0' Data='0b00'/>You already found them all?!<FontSize Value='100'/>
+Talk04: |
+  How can I be more useful?
+talk_19: |
+  <FontSize Value='80'/><3 Type='0' Data='0c01'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Maybe I should hurry and wrap up this investigation
+  here so I can go look for the remaining 12...
+  
+  Then I could take a copy of the writing from them
+  straight to Wortsworth in Kakariko Village and
+  become his pupil...<5 Type='1'/> Heh heh heh...<5 Type='1'/><FontSize Value='100'/>
+talk_21: |
+  <FontSize Value='125'/><3 Type='0' Data='0b00'/>And you already found them all?!<FontSize Value='100'/>
+talk_22: |
+  <3 Type='0' Data='0700'/>I know that the inscriptions of ancient
+  Hyrulean have all been gathered in
+  Kakariko Village.
+  But! A professional investigates that
+  which has already been investigated in
+  search of sparkly new discoveries!
+  <3 Type='0' Data='0800'/>I'll never stop investigating this stone
+  tablet, oh no. I'll keep investigating from
+  dusk till dawn!
+  <0 Type='3' Data='0200'/><FontSize Value='80'/>Then Wortsworth will recognize my efforts, and I'll
+  secure my position as his pupil! <5 Type='1'/>Heh heh heh.<FontSize Value='100'/><0 Type='3' Data='ffff'/>
+talk_23: |
+  <3 Type='0' Data='0700'/>I know that the inscriptions of ancient
+  Hyrulean have been gathered in
+  Kakariko Village.
+  <3 Type='0' Data='0801'/>But I'm going to keep investigating this
+  stone tablet further until I discover
+  something new here.
+  <3 Type='0' Data='0100'/>Then Wortsworth will recognize my
+  efforts, and I'll secure my position as
+  his pupil! Heh heh heh.
+  ...<5 Type='1'/>
+  
+  
+  <3 Type='0' Data='0b00'/>AH! Did I say that out loud?! <5 Type='0'/>Please keep
+  this between us...
+talk_25: |
+  <3 Type='0' Data='0700'/>Anyway, I've been told to spend my time
+  with this thing to see if there are any
+  other discoveries to be made.
+  So I guess I should focus on the task
+  at hand.
+Near_1_1: |
+  I want to go on a survey.
+Near_1_2: |
+  Lucky me!
+talk_27: |
+  <3 Type='0' Data='0c01'/><FontSize Value='80'/>Right now I've got to keep my eyes on the prize. I
+  need to focus on this stone tablet right here rather
+  than wasting my time with rumors.<FontSize Value='100'/>

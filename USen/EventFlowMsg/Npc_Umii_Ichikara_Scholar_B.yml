@@ -1,0 +1,58 @@
+Talk_0005: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>You're free to take these Zonai
+  devices. Removing them will not
+  hinder my research.
+  <FontSize Value='80'/><3 Type='0' Data='0c01'/>Hmm. For this concentration of Zonai devices to
+  have fallen, could they still be in production in the
+  sky islands? <5 Type='0'/>Is that even possible?<FontSize Value='100'/>
+Greeting_Morning: |
+  <FontSize Value='80'/><3 Type='0' Data='0c00'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>What could be powering the Zonai devices? Could
+  there really be a tiny spirit inside?<5 Type='0'/> No, that doesn't
+  seem likely...<FontSize Value='100'/>
+Talk_0006: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Ah, apologies. I was lost in thought.
+Greeting_Rain: |
+  <FontSize Value='80'/><3 Type='0' Data='0c00'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>Zonai devices are as solid as metal. I wonder what
+  they're made out of...<FontSize Value='100'/>
+Near_0001: |
+  They're everywhere!
+Talk_0007: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='08004500610073006500'/>We've exhausted the supply here, so we
+  have to request the retrieval of additional
+  Zonai devices.
+  <FontSize Value='80'/><3 Type='0' Data='0c01'/>Still, for this concentration of Zonai devices to have
+  fallen, could they still be in production in the sky
+  islands? <5 Type='0'/>Is that even possible?<FontSize Value='100'/>
+Near_0002: |
+  Now, what's in the sky?
+Greeting_Noon: |
+  <FontSize Value='80'/><3 Type='0' Data='0c00'/><4 Type='0' Data='0e0045006100730065005f0030003100'/>A nuanced understanding of the strange power of
+  the Zonai civilization would broaden the scope of the
+  practical application of the devices.<FontSize Value='100'/>
+Greeting_Evening: |
+  <FontSize Value='80'/><3 Type='0' Data='0c00'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>Could the light pattern on Zonai devices have an
+  application as a form of luminescent guidance?
+  
+  I can only speculate, of course, as verification of my
+  hypotheses is impossible.<FontSize Value='100'/>
+Talk_0003: |
+  <3 Type='0' Data='0701'/>The Zonai devices here all fell from
+  the sky.
+  
+  I've surveyed various regions, but I
+  haven't seen devices in this quantity
+  anywhere but Tarrey Town.
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>My research into practical application is
+  progressing well! I've studied the Zonai
+  civilization for a long time.
+  To us Zonai-obsessed research team
+  members, this place is paradise.
+Talk_0004: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>You're free to take what you please.
+  Removal will not hinder my research.
+  
+  <FontSize Value='80'/><3 Type='0' Data='0c01'/>Hmm. For so many Zonai devices to be concentrated
+  in one area, could they still be in production on the
+  sky islands? <5 Type='0'/>Is that even possible?<FontSize Value='100'/>
+Near_0005: |
+  We'll request more.

@@ -1,0 +1,182 @@
+SavedLv3_01: |
+  <3 Type='0' Data='0700'/>I have to admit, that had me shaking in
+  my boots. <5 Type='1'/>Without you, I could've been
+  sent to that big treasure haul in the sky!
+GoodBye02: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>I'm still traveling the world in search of
+  <0 Type='3' Data='0000'/>Misko's treasure<0 Type='3' Data='ffff'/>.<5 Type='1'/><0 Type='4'/><3 Type='0' Data='0700'/>The rumors say there's a piece hidden in
+  a cave around here.<0 Type='4'/><3 Type='0' Data='0a01'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>But I couldn't find it,<5 Type='1'/> so I think I'll head
+  to my next destination.<0 Type='4'/><3 Type='0' Data='0000'/>That's not to say I don't have time to
+  chat, if you're so inclined.
+Talk03_00: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>How about this? <5 Type='1'/>Did you know that there
+  are <0 Type='3' Data='0000'/>caves where water falls<0 Type='3' Data='ffff'/> like rain from
+  the ceiling?
+  They're tough to explore, since the "rain"
+  makes the walls all slippery and difficult
+  to climb.
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0a0048006100700070007900'/>But the <0 Type='3' Data='0000'/>sticky lizards <0 Type='3' Data='ffff'/>scurrying around
+  the cave can be cooked with monster
+  parts to make a <0 Type='3' Data='0000'/>sticky elixir<0 Type='3' Data='ffff'/>.
+  <3 Type='0' Data='0001'/>With one swig of sticky elixir, you'll be
+  climbing those slick walls in no time.<0 Type='4'/><4 Type='0' Data='0e0043006800610074005f0030003100'/>Don't take my word for it—try it next time
+  you find yourself with monster parts
+  on hand.
+Thanks00: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>This is to show my gratitude. <5 Type='1'/>Perhaps you
+  might find it useful.
+Talk03_01: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>You'll want a sip of <0 Type='3' Data='0000'/>sticky elixir<0 Type='3' Data='ffff'/> before you
+  climb the walls of a <0 Type='3' Data='0000'/>cave where water falls<0 Type='3' Data='ffff'/>
+  like rain from the ceiling.
+  Just catch a <0 Type='3' Data='0000'/>sticky lizard<0 Type='3' Data='ffff'/> creeping around
+  the cave, cook it with monster parts,
+  and...poof! <5 Type='0'/>Your elixir's ready.
+  And it's not just for caves! I personally
+  brew one whenever I have to climb a cliff
+  that's slick with rain.
+  <4 Type='0' Data='0e0043006800610074005f0030003100'/>Plus, you never know when you might get
+  caught climbing in a downpour! <5 Type='1'/>Always
+  keep a <0 Type='3' Data='0000'/>sticky elixir<0 Type='3' Data='ffff'/> on you, just in case.
+SavedLv1_00: |
+  <3 Type='0' Data='0700'/>You never let your guard down, even
+  around weak enemies. <5 Type='0'/>I can tell you're
+  an adept fighter.
+Thanks01: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>It was destiny that brought us together
+  here, and destiny that I give you this as
+  thanks. <5 Type='1'/>Don't fight fate, now!
+Talk100_01: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>Wait... We talked about this before,
+  didn't we? <5 Type='1'/>Sorry about that.<0 Type='4'/>Anyway, that was fun! I hope we run into
+  each other again somewhere. <5 Type='1'/>So long!
+SavedLv1_01: |
+  <3 Type='0' Data='0700'/>I'm a treasure hunter, y'know.<5 Type='1'/> I can take
+  care of wimpy monsters like that myself!
+  
+  That said, It is kind of reassuring to have
+  a little backup.
+Atacked00: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>Oh, perfect timing!<5 Type='1'/> Our meeting here must
+  be fate.<5 Type='0'/> Now fight with me!
+Talk01_00: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Let's see... <5 Type='1'/>Why don't we talk about those
+  Cece-clad fashion enthusiasts?<0 Type='4'/>You must have seen them on the road.
+  The folks wearing those adorable
+  <0 Type='3' Data='0000'/>mushroom-themed outfits<0 Type='3' Data='ffff'/>?
+  <4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Those outfits <5 Type='0'/>are high-end Cece-brand
+  fashion, straight from Hateno Village
+  in Necluda.
+  I guarantee you that anyone dressed like
+  that is after <0 Type='3' Data='0000'/>Misko's treasure<0 Type='3' Data='ffff'/>.<0 Type='4'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>To them, Misko's treasures represent the
+  peak of fashion.<0 Type='4'/><3 Type='0' Data='0701'/>And that has them searching high and low
+  for any pieces they can find.<0 Type='4'/><3 Type='0' Data='0101'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>They're so excited about the whole thing
+  that they're always telling me the latest
+  rumors about caves and treasures.
+  So if you see someone dressed like that
+  during your travels, you should strike up
+  a conversation!
+Talk99: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hm? <5 Type='1'/>Are you traveling too?
+Talk100: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Thank you for keeping me company.<5 Type='1'/>
+  That was a fun chat.
+  
+  See you around!
+Atacked01: |
+  <3 Type='0' Data='0200'/><4 Type='0' Data='180057006f0072006b00480065006100760079005f0030003000'/>We can chat later!<5 Type='0'/> Now's the time to fight!
+Talk01_01: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>The people walking the roads in
+  <0 Type='3' Data='0000'/>mushroom-themed clothes<0 Type='3' Data='ffff'/> are all after
+  <0 Type='3' Data='0000'/>Misko's treasure<0 Type='3' Data='ffff'/>!
+  They're more than just fashion plates.
+  You won't find a better source of cave
+  and treasure rumors anywhere.
+  <4 Type='0' Data='0c004c0061007500670068005300'/>If you meet any of them in your travels,
+  be sure to hear them out!
+Talk99_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Why, <5 Type='1'/>we meet again!
+AfterFailed: |
+  <3 Type='0' Data='0700'/>Though I still breathe, I find myself
+  winded. <5 Type='1'/>We will talk some other time!
+SavedLv2_00: |
+  <3 Type='0' Data='0800'/>Not bad! Not bad at all!<5 Type='1'/> Just watching you
+  move, I can tell you're no ordinary guy.
+Failed00: |
+  <3 Type='0' Data='0a00'/>I am but a lonely wanderer.<5 Type='0'/> It's only fitting
+  that I'd be felled by monsters and left on
+  the roadside...<5 Type='1'/>
+  <3 Type='0' Data='0100'/>Kidding! I'm kidding. I like to be a little
+  dramatic sometimes, but I'm glad to still
+  be alive!
+SavedLv2_01: |
+  <3 Type='0' Data='0700'/>Sheesh... <5 Type='0'/>Gave me a little trouble there.
+  <5 Type='1'/>Goes to show you've always got to stay
+  on your toes!
+Failed01: |
+  <3 Type='0' Data='0a00'/>Life is so fleeting...<5 Type='0'/> Having been bested
+  by monsters, I guess I'm off to the
+  heavens above...
+  Huh, I always thought the clouds would
+  be softer. This just feels like the hard old
+  ground. <5 Type='1'/>Wait. <5 Type='1'/>I'm alive!
+Talk02_00: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>Hmm... <5 Type='1'/>Do you know about the little <0 Type='3' Data='0000'/>blue<0 Type='3' Data='ffff'/>,
+  <0 Type='3' Data='0000'/>glowing mystery creatures<0 Type='3' Data='ffff'/>?<0 Type='4'/><3 Type='0' Data='0000'/>You'll hear the stories everywhere you go.
+  They apparently run away the moment
+  they notice you.
+  <4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Curiously, <5 Type='1'/>a lot of the reported sightings
+  happened<0 Type='3' Data='0000'/> near caves<0 Type='3' Data='ffff'/>.<0 Type='4'/>Now, I don't know what these adorable
+  little guys have to do with caves...<0 Type='4'/><4 Type='0' Data='0c004c0061007500670068005300'/>but I know that if I saw one scampering
+  around, I probably couldn't help but chase
+  after it.
+Talk02_01: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>I've been hearing about sightings of <0 Type='3' Data='0000'/>small
+  mystery creatures that glow pale blue <0 Type='3' Data='ffff'/>all
+  over the land.<0 Type='3' Data='0000'/><0 Type='3' Data='ffff'/>
+  And oddly, <5 Type='1'/>many of the reported sightings
+  <0 Type='3' Data='0000'/>happened near caves<0 Type='3' Data='ffff'/>.
+  
+  <4 Type='0' Data='0c004c0061007500670068005300'/>If I saw one of those cute little critters,
+  <5 Type='0'/>I probably couldn't help but chase after it.
+TerrorEnemy_00: |
+  Try me!
+GoodBye00: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Oh, me?<5 Type='0'/> My name is Kaffi. <5 Type='1'/>I'm just a
+  rootless wanderer, going any way the
+  wind blows.<0 Type='4'/>And right now, it's blown me onto
+  the trail of the <0 Type='3' Data='0000'/>Great Bandit Misko's
+  legendary treasure<0 Type='3' Data='ffff'/>!
+  I've been following a rumor that one piece
+  is in a <0 Type='3' Data='0000'/>cave near here<0 Type='3' Data='ffff'/>...<0 Type='4'/><3 Type='0' Data='0c01'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>Trouble is, the rumor wasn't totally clear
+  on where the cave was...<0 Type='4'/>I traveled a long way only to come up
+  empty.<5 Type='1'/> Maybe I should try searching
+  somewhere else?
+Talk00_01: |
+  <3 Type='0' Data='0700'/>Since I was a wee treasure hunter, I've
+  been captivated by stories of <0 Type='3' Data='0000'/>Misko's
+  famous clothing collection<0 Type='3' Data='ffff'/>.<5 Type='1'/>
+  And I intend to find it with nothing but the
+  whispers on the winds and my carefully
+  honed intuition!<5 Type='1'/>
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>It is not going well.<0 Type='4'/><3 Type='0' Data='0001'/>My treasure sense is insistent that Misko
+  hid something in a cave <0 Type='3' Data='0000'/>nearby<0 Type='3' Data='ffff'/>.<0 Type='4'/><3 Type='0' Data='0300'/><4 Type='0' Data='0c005300610064005f0030003100'/>But it's been wrong before. If I can't find
+  it, maybe I should go somewhere else.
+TerrorEnemy_01: |
+  If it's a fight you want...
+SavedLv3_00: |
+  <3 Type='0' Data='0800'/>You're a strong one!<5 Type='1'/> I wouldn't want to be
+  in their monstrous shoes right now.
+Guardian00: |
+  <3 Type='0' Data='0900'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003100'/>I don't want my journey to end here!
+  <5 Type='1'/>I need to escape!
+ClearTerrorEnemy: |
+  I'm alive...
+GoodBye01: |
+  <3 Type='0' Data='0700'/>I'm still traveling the world in search of
+  <0 Type='3' Data='0000'/>Misko's treasure<0 Type='3' Data='ffff'/>...<5 Type='1'/><0 Type='4'/><3 Type='0' Data='0700'/>The rumors say there's a piece hidden in
+  a cave around here, but I can't find it for
+  the life of me.<0 Type='4'/>Treasure hunting is never as easy as we
+  seekers would like, is it?
+TerrorEnemy_02: |
+  Looks like I'm in it now.

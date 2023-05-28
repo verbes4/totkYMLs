@@ -1,0 +1,108 @@
+talk_14: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003100'/>Pardon me for not noticing you. <5 Type='0'/>I was
+  absorbed in preparing my next meal.<0 Type='4'/>Hmm. <5 Type='0'/>I do not recall having seen you
+  before today. <5 Type='0'/>I must doubly apologize
+  for my inattentiveness.<0 Type='4'/>It is the duty of a construct to field any
+  questions that those such as yourself
+  may have.<0 Type='4'/>You may pose these questions to any
+  construct. <5 Type='0'/>We will answer them as best
+  we can.<0 Type='4'/>Are you interested in my <0 Type='3' Data='0000'/>cooking<0 Type='3' Data='ffff'/>?
+talk_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/><0 Type='3' Data='0000'/>Meals<0 Type='3' Data='ffff'/> will heal your body. They may have
+  other effects as well. <5 Type='0'/>Do not be alarmed
+  when this happens.
+0008: |
+  Goodbye.
+talk_02: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Ah! You seem to be uneducated when it
+  comes to <0 Type='3' Data='0000'/>cooking<0 Type='3' Data='ffff'/>.<0 Type='4'/><3 Type='0' Data='0701'/>Very well. <5 Type='0'/>You will learn how to create a
+  meal on your own.
+0009: |
+  Cooking?
+talk_15: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a0048006100700070007900'/>Yes. Cooking. <5 Type='0'/>I will educate you
+  thoroughly. We will start with the basics.
+talk_16: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>Oh dear. <5 Type='1'/>It is already late. I was too
+  absorbed in cooking to notice.<0 Type='4'/>I will rest until the next time bell.<5 Type='1'/>
+  Do not let that dissuade you if you
+  have questions.
+talk_03: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Our creators <0 Type='3' Data='0000'/>cooked<0 Type='3' Data='ffff'/> to restore
+  themselves. <5 Type='0'/>They crafted elixirs to
+  better themselves.<0 Type='4'/>It is a fundamental rite of life. <5 Type='0'/>I can
+  educate you further if you want.
+talk_04: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/><0 Type='3' Data='0000'/>Cooking <0 Type='3' Data='ffff'/>step one. Hold the ingredients in
+  your arms. Step two. Throw them into a
+  <0 Type='3' Data='0000'/>pot over a lit fire<0 Type='3' Data='ffff'/>. <5 Type='0'/>Cooking complete.<0 Type='4'/>That is the simple version. The world of
+  <0 Type='3' Data='0000'/>cooking<0 Type='3' Data='ffff'/> can be as complex as you want.<5 Type='0'/><0 Type='4'/>There are many possible dishes. <5 Type='0'/>What you
+  make and what <0 Type='3' Data='0000'/>effect<0 Type='3' Data='ffff'/> you gain depends
+  on the ingredients used.<0 Type='4'/>Some meals are <0 Type='3' Data='0000'/>warming<0 Type='3' Data='ffff'/>. <5 Type='0'/>Others may
+  replenish <0 Type='3' Data='0000'/>stamina<0 Type='3' Data='ffff'/>.<0 Type='4'/><3 Type='0' Data='0700'/>Tiny organisms known as "critters" and
+  monster parts are not food. <5 Type='0'/>Save them as
+  the base for <0 Type='3' Data='0000'/>elixirs<0 Type='3' Data='ffff'/>.<0 Type='4'/><3 Type='0' Data='0000'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>This information was provided by our
+  creators. But I cannot eat. So take it with
+  a grain of salt. <5 Type='1'/>Food joke.<0 Type='4'/>I will remain stationed here. <5 Type='0'/>Ask me
+  anytime you have further questions
+  about cooking.
+talk_17: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>You may want to experiment for yourself.
+  That is the purpose of the pot nearby.
+talk_05: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004e006f007400690063006500'/>Well. <5 Type='0'/>Look who is here to be educated
+  about <0 Type='3' Data='0000'/>cooking<0 Type='3' Data='ffff'/>.
+talk_18: |
+  <3 Type='0' Data='0701'/>Do you have any other questions?
+talk_19: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>I have explained all I can. <5 Type='1'/>I could repeat
+  it if you want.
+talk_06: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>There is a pot nearby. <5 Type='1'/>It is there for your
+  use in cooking.
+0010: |
+  Goodbye.
+talk_07: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>Welcome back. <5 Type='0'/>Have you learned what
+  you can on making <0 Type='3' Data='0000'/>meals <0 Type='3' Data='ffff'/>and <0 Type='3' Data='0000'/>elixirs<0 Type='3' Data='ffff'/>?<0 Type='4'/>Both consumables can bestow a variety
+  of <0 Type='3' Data='0000'/>effects<0 Type='3' Data='ffff'/>. <5 Type='0'/>I am here to provide answers
+  to any questions you might have.
+talk_08: |
+  <3 Type='0' Data='0700'/>Hold the ingredients in your arms. Dump
+  those ingredients into a <0 Type='3' Data='0000'/>pot over a lit fire<0 Type='3' Data='ffff'/>.<5 Type='0'/><0 Type='4'/>There are no further steps. There are
+  many potential ingredient combinations.
+  Enjoy cooking.
+talk_09: |
+  <3 Type='0' Data='0700'/>Throw tiny organisms known as "<0 Type='3' Data='0000'/>critters<0 Type='3' Data='ffff'/>"
+  and <0 Type='3' Data='0000'/>monster<0 Type='3' Data='ffff'/> parts into a pot. The process
+  is the same. Only the materials differ.<0 Type='4'/>Do not mix them with cooking ingredients.
+  The results are unappetizing.
+0001: |
+  Cooking?
+talk_20: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Have you learned what you can on making
+  <0 Type='3' Data='0000'/>meals <0 Type='3' Data='ffff'/>and <0 Type='3' Data='0000'/>elixirs<0 Type='3' Data='ffff'/>?<0 Type='4'/>Both consumables can bestow a variety
+  of <0 Type='3' Data='0000'/>effects<0 Type='3' Data='ffff'/>. <5 Type='0'/>I am here to provide answers
+  to any questions you might have.
+0002: |
+  Not really.
+0003: |
+  Educate me!
+0004: |
+  Maybe later.
+talk_10: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a0048006100700070007900'/>Some results are <0 Type='3' Data='0000'/>warming<0 Type='3' Data='ffff'/>. Others may
+  replenish <0 Type='3' Data='0000'/>stamina<0 Type='3' Data='ffff'/>. <5 Type='0'/>What effect you gain
+  will depend on the ingredients.<0 Type='4'/>The <0 Type='3' Data='0000'/>restless crickets<0 Type='3' Data='ffff'/> hopping around here
+  restore vigor when used in elixirs. <0 Type='3' Data='0000'/><5 Type='1'/><0 Type='3' Data='ffff'/>This is
+  one example. There are many others.<0 Type='4'/>The name often expresses the nature.
+0005: |
+  Cooking meals?
+0006: |
+  Brewing elixirs?
+talk_12: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Today's cooking is complete.
+talk_00: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1000540069007200650064005f0030003000'/>My next batch will also be tasty.
+0007: |
+  Potential effects?

@@ -1,0 +1,115 @@
+Near_BackRange_01: |
+  Not up the cliff...
+StartPoint_01_2: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0a005400680069006e006b00'/>My eye always ends up wandering toward
+  ruins or sky islands...
+GoalPoint_01_2: |
+  <3 Type='0' Data='0c00'/>Looks like there's something in those
+  ruins. It's gnawing at me...<5 Type='1'/>
+RainPoint_01_2: |
+  <3 Type='0' Data='0700'/>Our regular clothing stayed dry when we
+  had to wear our underpants uniforms.<5 Type='0'/>
+  Not a good look, though, was it?
+GoRange_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Did you know <0 Type='3' Data='0000'/>Misko's treasure<0 Type='3' Data='ffff'/> isn't gems
+  and such? It's <0 Type='3' Data='0000'/>fashionable clothes<0 Type='3' Data='ffff'/> that
+  have a legendary look.
+  I hear Misko hid a piece in a <0 Type='3' Data='0000'/>cave<0 Type='3' Data='ffff'/> nearby.
+  Personally, I suspect it might be in the
+  cliffs of the <0 Type='3' Data='0000'/>Dueling Peaks<0 Type='3' Data='ffff'/>.
+RainPoint_01: |
+  <3 Type='0' Data='0700'/>Getting clothes wet ruins their fit.<5 Type='0'/> Rain
+  really is the bane of fashion.
+  
+  Maybe our underpants outfits that we
+  formerly wore would endure this weather
+  far better.
+Near_GoalPoint_01: |
+  Is something there?
+Near_StartPoint_01: |
+  The bridge...
+FriendGreet_00: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Oh!<5 Type='0'/> It's you! The master of underpants
+  excellence.<5 Type='0'/> The one who showed us all
+  how to achieve more, wearing less.
+  <3 Type='0' Data='0001'/>Thanks for your help with all that. What?<5 Type='0'/>
+  My new outfit?<0 Type='4'/>I've always been a stylish person—a
+  real cutting-edge sort, not to toot my
+  own horn.
+  <3 Type='0' Data='0c00'/>I joined the Zonai Survey Team purely
+  because I thought their outfit was so
+  unfashionable that it'd BE fashionable.
+  But that whole underpants debacle
+  made me realize I'm not cut out to be
+  a surveyor of ruins.
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068004c00'/>See? I have reinvented myself yet again.
+  Unfashionable fashion is so last year
+  anyway. True chic never goes out of style.
+  <3 Type='0' Data='0101'/>Now, I'm looking for a <0 Type='3' Data='0000'/>certain thing <0 Type='3' Data='ffff'/>near
+  here that I think would make quite a
+  fashion statement. So I hope.
+  I'm also the sole person looking for it,
+  and that makes me...<5 Type='1'/>the one and only
+  member of the Fashion Survey Team!
+Greeting: |
+  <3 Type='0' Data='0800'/>Ah, if it isn't the purveyor of
+  underpants excellence!
+  
+  Incredible that Hyrule is so full of paths,
+  yet ours continue to cross.
+  
+  Ah, the fashionable life truly is a
+  rewarding one!
+Greeting_01: |
+  <3 Type='0' Data='0001'/>At least, that's what I'd like to
+  tell myself...
+StartPoint_01: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0a005400680069006e006b00'/>A ruin big enough to crush a bridge...
+  Which <0 Type='3' Data='0000'/>sky island <0 Type='3' Data='ffff'/>could it've fallen from?
+  
+  I have a feeling that sky island might hold
+  the key to unlocking some of our history's
+  greatest mysteries...
+Greeting_02: |
+  Now, above all else, <5 Type='0'/>I seek the <0 Type='3' Data='0000'/>treasures<0 Type='3' Data='ffff'/>
+  hidden across Hyrule by the fashion
+  pioneer<0 Type='3' Data='0000'/> Misko<0 Type='3' Data='ffff'/>!
+StartPoint_02: |
+  <3 Type='0' Data='0900'/><4 Type='0' Data='0c005300610064005f0030003100'/>No, no, no! No more thinking about ruins!
+  
+  
+  I walked all the way to the <0 Type='3' Data='0000'/>Dueling Peaks<0 Type='3' Data='ffff'/>
+  to find legendarily fashionable clothes!
+  I'm here for <0 Type='3' Data='0000'/>Misko's treasure<0 Type='3' Data='ffff'/>, not history!
+  I intend to use my Zonai Survey Team
+  skills to find those clothes, and
+  nothing else!
+GoRange_01_2: |
+  <3 Type='0' Data='0700'/>There should be a <0 Type='3' Data='0000'/>cave<0 Type='3' Data='ffff'/> near here where
+  <0 Type='3' Data='0000'/>treasure<0 Type='3' Data='ffff'/> is hidden. <5 Type='1'/>Personally, I believe
+  it's in the cliffs of the <0 Type='3' Data='0000'/>Dueling Peaks<0 Type='3' Data='ffff'/>.
+GoalPoint_01: |
+  Hmm...<5 Type='1'/> I don't know what it is, but
+  something about those ruins intrigues me.
+BackRange_01: |
+  <3 Type='0' Data='0c00'/>Some bandits take jewels, but <0 Type='3' Data='0000'/>Misko <0 Type='3' Data='ffff'/>took
+  highly fashionable clothes! One piece of
+  their treasure is hidden in a <0 Type='3' Data='0000'/>cave <0 Type='3' Data='ffff'/>nearby.
+  I'm really curious, but I can't see the
+  <0 Type='3' Data='0000'/>cave<0 Type='3' Data='ffff'/>. Please don't tell me it's at the top
+  of the cliff.
+BackRange_01_2: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a005400680069006e006b00'/>I'm certain the <0 Type='3' Data='0000'/>treasure<0 Type='3' Data='ffff'/> is in a <0 Type='3' Data='0000'/>cave<0 Type='3' Data='ffff'/>
+  around here, <5 Type='0'/>but surely it can't be at
+  the top of the cliff!
+GoalPoint_02: |
+  Those ruins have something inside of
+  them.<5 Type='0'/> Might it be...<5 Type='1'/>a monster?
+Near_RainPoint_01: |
+  Underpants had their use...
+Near_Thunder: |
+  Take shelter!
+Near_Rain: |
+  My clothes will get wet!
+Near_GoRange_01: |
+  That cliff is suspicious.

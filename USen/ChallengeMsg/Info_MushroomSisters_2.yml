@@ -1,0 +1,33 @@
+Name: |
+  The Captured Tent
+Step02: |
+  You eliminated the monsters from Nat and
+  Meghyn's tent at Mount Drena Foothill Cave in
+  northeastern Hebra.
+  
+  <0 Type='3' Data='0000'/>Report to Nat and Meghyn <0 Type='3' Data='ffff'/>at Snowfield Stable
+  to let them know you defeated the monsters.
+GetPresent: |
+  At Snowfield Stable, you told Nat and Meghyn
+  that you defeated the monsters and got the
+  tent back. They want to give you a homemade
+  meal as thanks, but you don't have room for it
+  in your pouch.
+  
+  Report back to Nat when you've <0 Type='3' Data='0000'/>organized
+  your things<0 Type='3' Data='ffff'/>.
+Step01: |
+  The tent that sisters Nat and Meghyn set up
+  in a cave has been overrun with monsters.
+  
+  To learn more about what their mysterious
+  "that" is, <0 Type='3' Data='0000'/>defeat the monsters<0 Type='3' Data='ffff'/> and take
+  back the tent.
+Complete: |
+  As thanks for defeating the monsters and
+  getting their tent back, the sisters Nat and
+  Meghyn told you about a clue that read:
+  "Vapors drift over Sturnida Basin, near a
+  pond in Hebra. At the source of the steam
+  lies a bright mushroom haven." They've set
+  out to find this <0 Type='3' Data='0000'/>mushroom haven <0 Type='3' Data='ffff'/>in Hebra.

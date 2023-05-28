@@ -1,0 +1,15 @@
+talk_1008: |
+  <3 Type='0' Data='0700'/>Greetings.<0 Type='4'/>I will come to you. Please wait a moment.
+talk_1002: |
+  <3 Type='0' Data='0800'/>Thank you for driving out the trespasser.<0 Type='4'/>I watched your battle closely.<0 Type='4'/>It is unlikely he will appear in another
+  abandoned mine. His manner of departure
+  attests to that.
+talk_1003: |
+  <3 Type='0' Data='0700'/>Mines similar to this one can be found
+  <0 Type='3' Data='0000'/>under thriving surface settlements and
+  other places of distinction<0 Type='3' Data='ffff'/>.<0 Type='4'/>There appears to be some connection
+  between the surface and the Depths.
+  Very curious.
+  Perhaps you find this equally intriguing.
+  It may be a good idea for you to explore
+  this connection.

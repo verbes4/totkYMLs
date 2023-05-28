@@ -1,0 +1,212 @@
+Near00: |
+  So, what now?
+Talk00: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='0e0043006800610074005f0030003100'/>I think I've narrowed down where those
+  <0 Type='3' Data='0000'/>old manuscripts<0 Type='3' Data='ffff'/> could be referring to.<5 Type='1'/>
+  Yeah, I'm sure of it!
+Talk18: |
+  <3 Type='0' Data='0800'/>Pleasure doing business with you!
+  
+  
+  <3 Type='0' Data='0701'/>Trust me, that was a steal. If you find the
+  treasure, it'll be worth way more than a
+  measly <0 Type='3' Data='0000'/>100 rupees<0 Type='3' Data='ffff'/>.
+Talk41: |
+  <3 Type='0' Data='0500'/>Hold on, I'm thinking.
+Talk01: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Way to go, Dak! You're a genius!<5 Type='1'/>
+Talk19: |
+  <3 Type='0' Data='0700'/>Dak! The guy's back!
+0010: |
+  Refresh my memory.
+Talk42: |
+  <3 Type='0' Data='0900'/>Listen, you! That's the last morsel of
+  information you're getting out of us!
+Talk02: |
+  <3 Type='0' Data='0900'/><4 Type='0' Data='100041006e006700720079005f0030003100'/>Oh, come on!<5 Type='0'/> Can't we have one brotherly
+  conversation without you listening in?!
+0011: |
+  Never mind.
+Talk43: |
+  <3 Type='0' Data='0700'/>What is it? <5 Type='0'/>We already told you all the
+  old manuscripts had to say.
+Talk03: |
+  <3 Type='0' Data='0900'/><4 Type='0' Data='100041006e006700720079005f0030003100'/>Yeah! <5 Type='0'/>We're not gonna tell you one word
+  about <0 Type='3' Data='0000'/>the bandit Misko's old manuscripts<0 Type='3' Data='ffff'/>!
+0012: |
+  I found the treasure.
+Talk44: |
+  <3 Type='0' Data='0000'/>Wait, are you wearing the treasure now?
+Talk04: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>Hm?<5 Type='0'/> Sorry, what?<5 Type='0'/>
+Talk45: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='0e0043006800610074005f0030003000'/>That's so cool. <5 Type='0'/>Man, I'm jealous...
+Talk46: |
+  <3 Type='0' Data='0000'/>I admit, that kind of stings, but...so be it.
+  There are other treasures out there.
+Talk06: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='180057006f0072006b00480065006100760079005f0030003000'/>Prissen!<5 Type='1'/> Why?! <5 Type='0'/>Why would you say that?!
+Talk07: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0c005300610064005f0030003100'/>I did it again, didn't I?<5 Type='0'/> Sorry, Dak...<5 Type='1'/>
+Talk30: |
+  <3 Type='0' Data='0700'/>We've got your money, so we'll tell you as
+  many times as you want. <0 Type='3' Data='0000'/>Which of the
+  manuscripts<0 Type='3' Data='ffff'/> would you like to hear?
+Talk08: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Eh, it's fine. <5 Type='0'/>The treasure's as good as
+  ours, and this guy'd never work out these
+  riddles, even if we told him.
+Talk31: |
+  <3 Type='0' Data='0800'/>Always a pleasure!
+Talk09: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='0c004c0061007500670068005300'/>Thing is, I'm not about to give that info up
+  for free. <5 Type='1'/>It'll run you <0 Type='3' Data='0000'/>100 rupees<0 Type='3' Data='ffff'/>.
+Talk32: |
+  <3 Type='0' Data='0b00'/>You did? You're kidding me!
+0001: |
+  Tell me.
+Talk33: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003100'/>Did you already solve the riddle from the
+  first old manuscript? You only get one at
+  a time, that's the rule!
+  <3 Type='0' Data='0801'/>We've already solved both of these other
+  ones, haven't we, Dak?
+0002: |
+  No need.
+Talk34: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>Naturally.<5 Type='0'/> There's no riddle that can't be
+  solved once it falls into my hands.
+  
+  <3 Type='0' Data='0701'/>The one I gave you was pretty easy,
+  though. If you think long and hard about
+  it, you might be able to figure it out!
+0003: |
+  You got a deal.
+Talk35: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Not gonna lie, this one's a real doozy
+  of a riddle. It's hard to solve from the
+  manuscript alone.
+  But I'll tell you the answer, if you want!
+0004: |
+  I don't think so.
+Talk36: |
+  <3 Type='0' Data='0900'/><4 Type='0' Data='100041006e006700720079005f0030003000'/>PRISSEN. NO.
+0005: |
+  The twins.
+Talk37: |
+  <3 Type='0' Data='0500'/><4 Type='0' Data='1c0055006e0063006f006e007300630069006f00750073005f0030003000'/>It was a joke, Dak.
+0006: |
+  The heroine statues.
+Talk20: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003100'/>What is it? <5 Type='0'/>Want me to tell you <0 Type='3' Data='0000'/>what the
+  old manuscripts said<0 Type='3' Data='ffff'/>, after all?
+Talk38: |
+  <3 Type='0' Data='0b00'/>You really mean it? Never thought you'd
+  go and find it before we did...
+0007: |
+  The pirate cavern.
+Talk21: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003100'/>What is it? <5 Type='0'/>Want me to tell you <0 Type='3' Data='0000'/>what
+  another manuscript said<0 Type='3' Data='ffff'/>?
+  
+  Or do you want me to refresh your
+  memory on one you've already heard?
+Talk39: |
+  <3 Type='0' Data='0000'/>Yeah, and we'll get the next one!
+  You'll see!
+0008: |
+  I'm good for now.
+Talk22: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>I bet your head's really spinning after all
+  that. An amateur like you probably has no
+  idea where to even begin!
+  <3 Type='0' Data='0801'/>Good thing we've already puzzled
+  everything out, right, Dak?
+Talk23: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='12004c0061007500670068004c005f0030003000'/>I mean, you're welcome to try putting
+  your little rookie brain to the test...
+  
+  <3 Type='0' Data='0801'/>But we've got those treasures in the bag!
+0009: |
+  Tell me a new one.
+Talk24: |
+  <3 Type='0' Data='0701'/>There are <0 Type='3' Data='0000'/>two <0 Type='3' Data='ffff'/>left. Which one next?
+Talk25: |
+  <3 Type='0' Data='0701'/>This is the last <0 Type='3' Data='0000'/>one<0 Type='3' Data='ffff'/>.
+Talk26: |
+  <3 Type='0' Data='0701'/>There are <0 Type='3' Data='0000'/>three <0 Type='3' Data='ffff'/>manuscripts. Which do
+  you want to hear?
+Talk27: |
+  <3 Type='0' Data='0700'/>You're back? <5 Type='0'/>We already told you what all
+  the old manuscripts had to say.
+  
+  <3 Type='0' Data='0c01'/>Oh, I get it. You forgot, huh? Well, fine.
+  Pay attention and I'll tell you again.
+  
+  <3 Type='0' Data='0701'/><0 Type='3' Data='0000'/>Which of the old manuscripts <0 Type='3' Data='ffff'/>did you want
+  to hear?
+Talk10: |
+  <3 Type='0' Data='0900'/>Well, look at this guy! He thinks he can
+  find the treasure without the manuscripts.
+  Yeah, good luck with that.
+Talk28: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Be sure to remember all that!
+Talk11: |
+  <3 Type='0' Data='0701'/>Hey, buddy! <5 Type='0'/>Want me to tell you what the
+  <0 Type='3' Data='0000'/>manuscripts said<0 Type='3' Data='ffff'/>?
+Talk29: |
+  <3 Type='0' Data='0700'/>See ya around!
+Talk12: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>You know the deal. It's <0 Type='3' Data='0000'/>100 rupees <0 Type='3' Data='ffff'/>per
+  manuscript. Cough 'em up.
+Talk13: |
+  <3 Type='0' Data='0700'/>All right, then. *ahem*
+  
+  
+  "I discovered the green clothes of a man
+  who admired fairies and have hidden them
+  away. Solve my riddle to find them anew.
+  "In West Necluda stand twins poised to
+  duel. Each contains a cavern that faces
+  the other.
+  "Show the little twin's sign to the big twin
+  to open the door to my treasure."
+  
+  <3 Type='0' Data='0700'/>That's what it says.
+Talk14: |
+  <3 Type='0' Data='0900'/>Come on, don't be so stingy! This info's
+  so choice, it'd be a crime to let it go for
+  anything cheaper!
+Talk15: |
+  <3 Type='0' Data='0900'/>What are you trying to pull here? You
+  don't have the money! I'm not letting
+  this info slip until you do.
+Talk16: |
+  <3 Type='0' Data='0700'/>OK, listen up and focus.
+  
+  
+  "I discovered the green clothes of a man
+  who admired fairies and have hidden them
+  away. Solve my riddle to find them anew.
+  "Statues of the eight heroines reside in
+  the desert. Enter the valley carved into
+  Hemaar's Descent...
+  "and shine the light of day upon the
+  towering eighth. The path to the
+  treasure will open before you."
+  <3 Type='0' Data='0700'/>The end.
+Talk17: |
+  <3 Type='0' Data='0700'/>Sure thing. Listen close.
+  
+  
+  "I discovered the green clothes of a man
+  who admired fairies and have hidden them
+  away. Solve my riddle to find them anew.
+  "A forgotten pirate cavern lurks at the
+  foot of Cape Cales, overlooking the
+  Necluda Sea.
+  "The short, shrill song of wind through
+  lips will open the way to my treasure."
+  <3 Type='0' Data='0700'/>That's it.
+Talk40: |
+  <3 Type='0' Data='0000'/>Where should we look next, Dak?

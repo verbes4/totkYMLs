@@ -1,0 +1,259 @@
+Horse_03: |
+  <3 Type='0' Data='0700'/>It's dangerous to bring a horse into this
+  area. Much too dangerous to even risk.
+  
+  If I were you, I'd head north of here to the
+  <0 Type='3' Data='0000'/>mini stable<0 Type='3' Data='ffff'/> and leave your horse there.
+Balloon_AssassinEquipment_00: |
+  That is a choice...
+Horse_04: |
+  <3 Type='0' Data='0700'/>Sorry, but I can't let any monsters past...<5 Type='1'/>
+  Why don't you go release it somewhere?
+  Hopefully somewhere very far away...
+Quiz_03_00: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>OK, question number three is very
+  important and more difficult than the
+  last two...
+Quiz_03_01: |
+  What cooking ingredient is effective at
+  fending off high temperatures?
+Horse_06: |
+  <3 Type='0' Data='0700'/>There has been some abnormal weather
+  beyond this point... Blazing heat during
+  the day, freezing cold at night...
+  It's dangerous to bring a horse into this
+  area. Far, far too dangerous to even...<5 Type='1'/>
+  Wait a second...<5 Type='1'/>
+  That's not a horse at all, is it? 
+  
+  
+  Sorry, but I can't let other animals
+  through, either.
+  
+  It's simply too dangerous for them beyond
+  this point.
+Mistake_04_00: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0600530061006400'/>Ooo, so close. Try again.
+Horse_07: |
+  <3 Type='0' Data='0700'/>Sorry, but it's simply too dangerous to
+  let animals past this point.
+  
+  Whether it's a horse or some other kind of
+  animal... I'm not letting any through.
+Mistake_04_01: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>This is the last question, you know. I'll
+  give you another chance, so really think
+  before you answer.
+Quiz_02_00: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>This second question is a bit more
+  difficult, so pay attention.
+Quiz_02_01: |
+  When it is very hot out, where should you
+  go to cool off?
+1020: |
+  A bright, sunny spot!
+Mistake_03_00: |
+  <3 Type='0' Data='0a00'/>Not a bad choice, but not the correct
+  one. Think on it a bit more and try again.
+1021: |
+  A nice, shady spot!
+Mistake_03_01: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Did you get distracted while I was talking?<5 Type='0'/>
+  Your answer would only help you in low
+  temperatures...
+Talk_10: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>OK! Then let's get started...
+1022: |
+  Upwind, of course!
+Talk_11: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0600530061006400'/>Very well.
+  
+  
+  That cautious attitude will serve you
+  well in Gerudo Canyon. But the lack of
+  confidence will not.
+  Come back and speak with me once
+  you've located your nerve.
+0000: |
+  I'm ready!
+Quiz_01_00: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>Question number one...
+Talk_12: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068005300'/>You can pass through. Take care.
+0001: |
+  I don't think so...
+Quiz_01_01: |
+  How can you best warm up when
+  it's cold?
+Talk_13: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>Hmm?<5 Type='1'/> I was going to give you a
+  splash fruit, but it looks like you're
+  carrying a lot of things already.
+  I'm glad to see you well prepared for
+  whatever lies ahead!
+  
+  I'm not sure if this is a fitting substitute,
+  but take it instead.
+Answer_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>Correct... But the first question is the
+  easiest one.
+Answer_02: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>That's exactly right. I'm glad that you
+  appear to have some survival skills...
+  
+  By the way, dousing yourself in water
+  would also be a good way to cool off in
+  the blazing heat. Keep that in mind.
+Talk_16: |
+  <FontSize Value='125'/><3 Type='0' Data='0900'/>Hey! You there!<FontSize Value='100'/>
+  
+  
+  I don't recognize your face.<5 Type='0'/> Come here!
+Answer_03: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Exactly right! I'm impressed—many have
+  had trouble with that question...
+Talk_17: |
+  <FontSize Value='125'/><3 Type='0' Data='0900'/>Hey! You!<FontSize Value='100'/>
+  
+  
+  I didn't let you through! Get over here
+  and answer my questions!<5 Type='0'/>
+1040: |
+  Into a cave!
+Answer_04: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>All right! You pass! With so much
+  knowledge at your disposal, I'm sure
+  you'll be fine out there.
+  Oh, and you can take this with you too.
+1041: |
+  Into the shade!
+Talk_18: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>Hmm?<5 Type='1'/> I was going to give you a
+  spicy pepper, but it looks like you're
+  carrying a lot of things already.
+  I'm glad to see you well prepared for
+  whatever lies ahead!
+  
+  I'm not sure if this is a fitting substitute,
+  but take it instead.
+1042: |
+  Near the ruins!
+Talk_19: |
+  <3 Type='0' Data='0700'/>If you cook using this, you can stay warm
+  for a while, even at night.
+  
+  Anyway, you can head on through.<5 Type='0'/>
+  Take care.
+AssassinEquipment_00: |
+  <3 Type='0' Data='0701'/>So...<5 Type='0'/> While I can tell that you are not
+  actually a member of the Yiga Clan...
+  
+  <3 Type='0' Data='0900'/>wearing such an outfit in Gerudo Town
+  will not end well for you. You'll likely be
+  thrown straight into jail.
+  As pranks go, this is one you should skip.
+Mistake_02_00: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>What was that? There was a...<5 Type='0'/>sound...<5 Type='0'/>and
+  I didn't catch your answer. <5 Type='1'/>Think hard,
+  then answer the question again.
+1010: |
+  Vigorously fan myself!
+Mistake_02_01: |
+  <3 Type='0' Data='0900'/>Are you even taking this seriously?<5 Type='1'/>
+  Try again, and no messing around.
+1011: |
+  Pour water on my head!
+talk0000: |
+  <3 Type='0' Data='0700'/>I trust you.<5 Type='0'/> Go on past.
+Talk_00: |
+  <3 Type='0' Data='0700'/>There has been some abnormal weather
+  beyond this point... Blazing heat during
+  the day, freezing cold at night...
+  It's dangerous to be in the area,
+  though you can take some precautions
+  to prepare yourself.
+  To that end, I am going to ask you a
+  few questions to make sure you can
+  handle yourself.
+  If you aren't able to answer my questions,
+  I will not let you pass.
+1012: |
+  Stay near a fire!
+Quiz_04_00: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Last question!
+talk0001: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='200043007500730074006f006d005300610076006f007400740061005f0030003000'/>Sav'otta.
+Quiz_04_01: |
+  Where in Gerudo Canyon could you go to
+  avoid being affected by the extreme
+  temperatures, day or night?
+talk0002: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1e0043007500730074006f006d005300610076006100610071005f0030003000'/>Sav'aaq.
+talk0003: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='220043007500730074006f006d00530061007600730061006100620061005f0030003000'/>Sav'saaba.
+Talk_03: |
+  <3 Type='0' Data='0700'/>You can cool yourself down temporarily
+  if you split one of these with a weapon
+  and stand in the resulting spray.
+  You may pass, but be careful out there.
+Mistake_01_00: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='0600530061006400'/>Maybe you weren't quite listening to
+  me just then... I'll ask you again—pay
+  attention this time.
+Mistake_01_01: |
+  <3 Type='0' Data='0900'/>That is exactly the opposite of what you
+  should do. Did you answer incorrectly
+  on purpose?
+Talk_06: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004e006f007400690063006500'/>You want to give it another shot? I won't
+  let you through until you get every
+  question right.
+2000: |
+  I give up.
+Talk_07: |
+  <FontSize Value='125'/><3 Type='0' Data='0900'/>Stop right there!<FontSize Value='100'/>
+1030: |
+  Stamella Shroom!
+near0000: |
+  Be careful out there.
+Talk_08: |
+  <3 Type='0' Data='0900'/><FontSize Value='125'/>Hey! Hold it!<FontSize Value='100'/>
+  
+  
+  You haven't passed my test yet! There's
+  no way I'm going to let you just walk
+  on by!
+1031: |
+  Sunshroom!
+Retire_00: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='0600530061006400'/>Very well.
+  
+  
+  Come back and speak with me once
+  you've learned something of surviving...
+  and found more confidence.
+Horse_00: |
+  <3 Type='0' Data='0700'/>There has been some abnormal weather
+  beyond this point... Blazing heat during
+  the day, freezing cold at night...
+  It's dangerous to bring a horse into this
+  area. Far, far too dangerous to even try.
+  
+  If I were you, I'd head north of here to the
+  <0 Type='3' Data='0000'/>mini stable<0 Type='3' Data='ffff'/> and leave your horse there.
+Talk_09: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Well? Ready?
+1032: |
+  Chillshroom!
+Horse_01: |
+  <3 Type='0' Data='0700'/>There has been some abnormal weather
+  beyond this point... Blazing heat during
+  the day, freezing cold at night...
+  It's dangerous to bring a horse into this
+  area. Far, far too dangerous to even...<5 Type='1'/>
+  Wait a second...<5 Type='1'/>
+  That's not a horse at all, is it? It's...some
+  kind of monster?
+  
+  Well, I can't let any...<5 Type='0'/>monsters...<5 Type='0'/>through,
+  either.

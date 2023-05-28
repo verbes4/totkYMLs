@@ -1,0 +1,118 @@
+Talk101: |
+  <3 Type='0' Data='0000'/>Look around! Buy something! Or do you
+  want to sell something?
+Com_Talk_55: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>It looks like your pouch is full.<5 Type='1'/> I'll buy
+  from you if you have anything you
+  don't need.
+Com_Talk_56: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0000'/><0 Type='3' Data='ffff'/>One, right? Then that comes to
+  <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>.
+Talk103: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068005300'/>Thanks for buying so many mushrooms!
+Com_Talk_31: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0700'/><0 Type='3' Data='ffff'/>How many will you buy?
+Talk104: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068005300'/>Bring anything you don't need to me!
+  It doesn't even have to be a mushroom!
+Talk105: |
+  <3 Type='0' Data='0700'/>We're inside the Great Deku Tree's
+  Navel, and this is my shop! I had to
+  relocate recently...
+  <3 Type='0' Data='0a01'/>You see, this big hole opened up right
+  where the Spore Store used to be...
+  
+  <3 Type='0' Data='0700'/>So I grabbed my stuff and moved my
+  shop. It's a little cramped, but I'm making
+  it work!
+Com_Talk_33: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0000'/><0 Type='3' Data='ffff'/>One, right? In that case, that comes to
+  <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>.
+Talk106: |
+  <3 Type='0' Data='0700'/>If you ever want mushrooms, you know
+  where to find me!
+Com_Talk_34: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0000'/><0 Type='3' Data='ffff'/>All of them? OK! It'll be <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>
+  for <2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/> of them.
+Com_Talk_02b: |
+  <3 Type='0' Data='0800'/>Thanks!<5 Type='1'/> Is there anything else you want
+  to sell?
+Com_Talk_35: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0000'/><0 Type='3' Data='ffff'/>Every single one? There's <2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/> of them,
+  so I'll buy them for <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>!
+Talk108: |
+  <3 Type='0' Data='0800'/>Thank you! I'll go pick some more.
+Com_Talk_02c: |
+  <3 Type='0' Data='0800'/>Thanks! In that case, I'll take it.<5 Type='1'/> Is there
+  anything else you'd like to sell?
+Talk109: |
+  <3 Type='0' Data='0800'/>Thanks!
+Com_Talk_02d: |
+  <3 Type='0' Data='0800'/>Thanks!<5 Type='1'/> Is there anything else you'd like
+  to sell?
+0000: |
+  I want to sell.
+Near000: |
+  I've got mushrooms!
+0001: |
+  What is this place?
+Com_Talk_00: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Do you want to sell something?
+Com_Talk_13: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0000'/><0 Type='3' Data='ffff'/>How many will you sell me?
+5500: |
+  Yes.
+Near001: |
+  ...
+0002: |
+  Goodbye.
+Com_Talk_01: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0000'/><0 Type='3' Data='ffff'/>I can offer <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>. Is that OK?
+Com_Talk_14: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0000'/><0 Type='3' Data='ffff'/>Hm, <2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/> of them comes to
+  <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/> in total.
+5501: |
+  No.
+Com_Talk_02: |
+  <3 Type='0' Data='0800'/>Thanks!<5 Type='1'/> Is there anything else you want
+  to sell?
+Com_Talk_15: |
+  <3 Type='0' Data='0a00'/>I'm sorry.<5 Type='1'/> I don't want to buy that.
+5502: |
+  I'll buy.
+Com_Talk_16: |
+  <3 Type='0' Data='0a00'/>Um.<5 Type='1'/> I can buy your clothing once it's not
+  on your body.
+5503: |
+  Never mind.
+Com_Talk_04: |
+  <3 Type='0' Data='0a00'/>I see... But it's OK. I understand.
+Com_Talk_05: |
+  <3 Type='0' Data='0001'/>I'll buy lots of things.
+5507: |
+  I'll take 'em all!
+Com_Talk_50: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0700'/><0 Type='3' Data='ffff'/>That comes to <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>.
+  Ya buying?
+5508: |
+  All of them.
+Talk110: |
+  ...<5 Type='1'/>
+Com_Talk_05b: |
+  <3 Type='0' Data='0001'/>Choose what you want to sell!
+Com_Talk_52: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0000'/><0 Type='3' Data='ffff'/>For <2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/> of them, that comes to
+  <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>.
+Com_Talk_05c: |
+  <3 Type='0' Data='0001'/>I'm in no rush.
+Com_Talk_53: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='0600530061006400'/>Oh, you changed your mind? That's OK.
+Talk100: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Welcome to the Spore Store!
+  My shrooms are delicious, <5 Type='0'/>suspicious,<5 Type='0'/>
+  but never malicious!
+Com_Talk_05d: |
+  <3 Type='0' Data='0001'/>Which will you sell?
+Com_Talk_54: |
+  <3 Type='0' Data='0a00'/>Um.<5 Type='0'/> You don't have enough rupees.
+  I can't just give them away for free...

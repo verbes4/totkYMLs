@@ -1,0 +1,52 @@
+Talk0002: |
+  <3 Type='0' Data='0700'/>If you're in the mood to chat, there are
+  plenty of other travelers here.<0 Type='4'/>See the ones riding on wagons? Those
+  are traveling merchants.<0 Type='4'/>If you're in the market for anything, you
+  might get it at a bargain by asking around.
+Greeting_Noon_M_P: |
+  <3 Type='0' Data='0701'/>I'm having a drumming showdown with
+  the setting sun to see whose passion
+  burns brighter.
+Talk0003: |
+  <3 Type='0' Data='0700'/>If you're in the mood to chat, there are
+  plenty of other travelers here.<0 Type='4'/>Anyone dressed in that Cece-brand stuff
+  is guaranteed to know lots about clothes.<0 Type='4'/>If you're ever having trouble with your
+  outfit, you could do worse than to ask one
+  of them.
+Greeting_Morning_M_P: |
+  <3 Type='0' Data='0701'/>I'm having a drumming showdown with the
+  sun to see which of us is more on fire.
+Talk0004: |
+  <3 Type='0' Data='0700'/>If you're in the mood to chat, there are
+  plenty of other travelers here.<0 Type='4'/>The ones with the impressive equipment
+  are with the Zonai Survey Team.<0 Type='4'/>They're looking into any odd goings-on
+  caused by the Upheaval, as well as those
+  ruins that have been raining from the sky.<0 Type='4'/>If you're curious about anything you see
+  in this area, odds are they're the experts.
+RideSeatCower: |
+  W-watch out!
+Greeting_Evening_M_P: |
+  <3 Type='0' Data='0701'/>I'm having a drumming showdown with the
+  moon to see which of us shines brighter.
+Talk0005: |
+  <3 Type='0' Data='0c00'/>Though if you walk up to them looking like
+  that, I don't know whether they'd talk or
+  lock you up so they can study you.
+RideSeatDrown: |
+  I can't swim!
+Greeting_Morning_M_P_00: |
+  <3 Type='0' Data='0700'/>Couldn't resist my beats, huh? Don't feel
+  bad. No one can.
+Greeting_Snow_M_P: |
+  <3 Type='0' Data='0701'/>I was having a drumming showdown with
+  the snow to see which of us is cooler.
+Greeting_Rain_M_P: |
+  <3 Type='0' Data='0701'/>I was having a drumming showdown with
+  the rain to see who could pound out a
+  rhythm fastest.
+Talk0001: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Oh, hey! <5 Type='1'/>You seem like a man on
+  the move.<0 Type='4'/>It's a shame we've never gotten to
+  perform with you.<0 Type='4'/><3 Type='0' Data='0c00'/>But we're short on instruments, so...hmm.<5 Type='1'/>
+  Oh, I know! <5 Type='1'/>You could be our vocalist.<0 Type='4'/><3 Type='0' Data='0001'/>With our heartfelt rhythm and your
+  strong, clear voice...<0 Type='4'/><3 Type='0' Data='0800'/><4 Type='0' Data='12004c0061007500670068004c005f0030003100'/>We'd REALLY shake up these stables!

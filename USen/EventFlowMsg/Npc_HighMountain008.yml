@@ -1,0 +1,189 @@
+Com_Talk_02c: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='12004c0061007500670068004c005f0030003100'/>A good transaction is one that satisfies
+  both parties. So...are you satisfied?
+  If you're still selling, I'm still buying!
+5508: |
+  I'll sell them all.
+Com_Talk_02d: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Thanks for coming to me! Anything else
+  you want to sell? I'll give you a good deal!
+Talk1028b: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='0a0048006100700070007900'/>It won't warm you up like a <0 Type='3' Data='0000'/>bonfire <0 Type='3' Data='ffff'/>will,
+  but it's hard to beat it for size and
+  sheer brightness.
+Com_Talk_50: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Oooh, OK!<0 Type='3' Data='0000'/> <0 Type='3' Data='ffff'/>That'll be <0 Type='3' Data='0000'/><2 Type='16' Data='2800530068006f0070005f00530065006c006500630074004900740065006d0050007200690063006500ffff0001'/> rupees<0 Type='3' Data='ffff'/>!
+Com_Talk_11: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Right, then. Thanks for the business!
+Talk1028: |
+  <3 Type='0' Data='0700'/>Hey there. <5 Type='0'/>Are you here because you
+  spotted the <0 Type='3' Data='0000'/>bonfires<0 Type='3' Data='ffff'/>?<0 Type='4'/>The blizzard makes it hard to see where
+  you're going, so we keep these bonfires
+  going as a beacon for lost travelers.<0 Type='4'/><3 Type='0' Data='0100'/>They eat up a lot of firewood, but it's
+  worth it—you can spot them even from
+  up in the air!<0 Type='4'/><3 Type='0' Data='0301'/>Though as proud as I am of them, they
+  can't beat the spotlights set up around
+  that fancy <0 Type='3' Data='0000'/>Skyview Tower<0 Type='3' Data='ffff'/>.
+Talk1030b: |
+  <3 Type='0' Data='0001'/>It hurts to admit, but I don't see how our
+  <0 Type='3' Data='0000'/>bonfires <0 Type='3' Data='ffff'/>can compete with that.
+Talk1010: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='10004700720065006500740069006e006700'/>This is the armor shop <0 Type='3' Data='0000'/>Brazen Beak<0 Type='3' Data='ffff'/>.
+  I'm happy to say we're open for business!
+Com_Talk_05b: |
+  <3 Type='0' Data='0001'/>Feel free to take your time picking
+  through your pouch. No pressure.
+Com_Talk_53: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='0a005400680069006e006b00'/>Not buying it after all? That's a shame.
+  Well, feel free to keep looking around.
+Talk1029: |
+  <3 Type='0' Data='0700'/>If you lose your way in the blizzard,
+  you can count on our <0 Type='3' Data='0000'/>bonfires <0 Type='3' Data='ffff'/>to help
+  get you oriented.
+Com_Talk_05c: |
+  <3 Type='0' Data='0000'/>I'll buy basically anything.
+Com_Talk_13: |
+  <3 Type='0' Data='0000'/>How many do you want to sell?
+Talk1011: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>This is the armor shop <0 Type='3' Data='0000'/>Brazen Beak<0 Type='3' Data='ffff'/>.
+  I'm happy to say we're open for business!<0 Type='4'/>Our armor is perfect for <0 Type='3' Data='0000'/>protecting
+  yourself against the cold<0 Type='3' Data='ffff'/>.<0 Type='4'/>If you're heading into the mountains, the
+  cold gets pretty biting there. Prepare for
+  it now or regret it later!
+Talk1029b_01: |
+  <3 Type='0' Data='0700'/>If you lose your way in the blizzard,
+  you can count on our <0 Type='3' Data='0000'/>bonfires <0 Type='3' Data='ffff'/>to help
+  get you oriented...
+Talk1012: |
+  <3 Type='0' Data='0001'/>Now then, was there anything else?
+Com_Talk_05d: |
+  <3 Type='0' Data='0100'/>Go ahead and sell me whatever. It's all
+  stuff you probably don't need anyway.
+Com_Talk_14: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0000'/><0 Type='3' Data='ffff'/>OK, so <2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/> of them...<5 Type='0'/> I'll buy those
+  for <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>!
+Com_Talk_55: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Ah, the thing is... It looks like your bag
+  is full. I'd be happy to buy anything you
+  don't need off of you.
+Talk1029b_02: |
+  <3 Type='0' Data='0500'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>All right, I admit it.<5 Type='0'/><0 Type='4'/>Once that <0 Type='3' Data='0000'/>Skyview Tower<0 Type='3' Data='ffff'/>'s flashy lights
+  get going, it'll make for a way better
+  landmark than my bonfires.<5 Type='1'/>
+Talk1013: |
+  <3 Type='0' Data='0001'/>Is that it for you?
+Com_Talk_15: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0a005400680069006e006b00'/>Sorry to have to tell you this, but...<5 Type='1'/> That's
+  one of the few things I won't buy.
+Com_Talk_11b: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>Thanks for your purchase!
+Talk1029b_03: |
+  <3 Type='0' Data='0701'/>Probably better that you rely on that thing
+  once they switch it on. I know when I'm
+  being outshone.
+Talk1014: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>I might be sold out now, but I'll get more
+  in soon. Buy as many as you like so you
+  can dye 'em up special!
+0001: |
+  I'm here to sell.
+Com_Talk_16: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Wait a minute! I'm not buying anything
+  you're wearing until you take it off first.
+Com_Talk_11c: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='12004c0061007500670068004c005f0030003100'/>Thanks for being a big spender!
+0002: |
+  Goodbye.
+Com_Talk_11d: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='0c004c0061007500670068005300'/>I must say, that suits you.
+Com_Talk_00: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Ahh, looking to sell? We can do that!
+  What are you selling?
+0003: |
+  What is this place?
+near1001: |
+  Armor! Warm clothes!
+Com_Talk_01: |
+  <3 Type='0' Data='0000'/>That'll be <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/><201 Type='6' Data='0c002000720075007000650065000e0020007200750070006500650073000000'/><0 Type='3' Data='ffff'/>. Sound good?
+Com_Talk_02: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>Thanks! Anything else you want to
+  sell me?
+Talk1001: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='1200530075007200700072006900730065005300'/>Wait, do you already have the whole
+  Rito getup?<5 Type='1'/> Thanks for coming back
+  again and again!
+  <3 Type='0' Data='0100'/>I appreciate your business!
+Talk1028b_01: |
+  <3 Type='0' Data='0700'/>Hey there. <5 Type='0'/>Are you here because you
+  spotted the <0 Type='3' Data='0000'/>bonfires<0 Type='3' Data='ffff'/>?<0 Type='4'/>The blizzard makes it hard to see where
+  you're going, so we keep these bonfires
+  going as a beacon for lost travelers.<0 Type='4'/><3 Type='0' Data='0100'/>They eat up a lot of firewood, but it's
+  worth it—you can spot them even from
+  up in the air!<0 Type='4'/><3 Type='0' Data='0301'/>That said, our <0 Type='3' Data='0000'/>bonfires<0 Type='3' Data='ffff'/> might not always
+  be the brightest thing around.<5 Type='0'/><0 Type='4'/>Have you seen what they built over there?
+Talk1002: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>You know, a stylish customer passing
+  through told me there's someplace out
+  there that can <0 Type='3' Data='0000'/>dye <0 Type='3' Data='ffff'/>clothing.<0 Type='4'/>If you buy extra sets and dye them each
+  different colors, you can wear whatever
+  outfits suit you on a given day!<0 Type='4'/>What won't people do in the name of
+  fashion, right?
+Com_Talk_04: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='0600530061006400'/>No? That's a shame.
+Talk1028b_02: |
+  <3 Type='0' Data='0700'/>The Hylians are pretty incredible to have
+  built something so impressive.
+Talk1003: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hey there!<5 Type='0'/> Thanks for your business!
+Com_Talk_05: |
+  <3 Type='0' Data='0000'/>I'll buy anything!
+Talk1028b_03: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='0a0048006100700070007900'/>What were they calling it? A <0 Type='3' Data='0000'/>Skyview
+  Tower <0 Type='3' Data='ffff'/>or something?<0 Type='4'/>It's still dark right now, but when it's
+  turned on, they say it'll light up the sky
+  pretty far out.<5 Type='1'/>
+  <3 Type='0' Data='0701'/>I doubt it'll warm you up like a <0 Type='3' Data='0000'/>bonfire<0 Type='3' Data='ffff'/>,
+  but it'll be hard to beat it for size and
+  sheer brightness.<0 Type='4'/>Pretty soon, my <0 Type='3' Data='0000'/>bonfires <0 Type='3' Data='ffff'/>won't be quite
+  the landmark they are now.
+Talk1028b_04: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>The Hylians are pretty incredible to have
+  built something so impressive.
+Talk1005: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hey, thanks for coming out so late!<0 Type='3' Data='0000'/><0 Type='4'/>Brazen Beak <0 Type='3' Data='ffff'/>is open 24 hours.
+  Stop by whenever!
+Talk1006: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>So then, what can I do for you today?
+Talk1007: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Thanks for stopping by!
+Com_Talk_33: |
+  <3 Type='0' Data='0000'/>Just one? Then I can give you
+  <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/> <0 Type='3' Data='ffff'/>for it.
+Talk1008: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>OK. Hope to see you again!
+Near10: |
+  That works as a landmark.
+Talk1009: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Now then, what else can I do for you?
+Com_Talk_35: |
+  <3 Type='0' Data='0401'/>All <2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/> of them? For that, I could give
+  you <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>.
+5500: |
+  Sure, yeah!
+Talk1029b: |
+  <3 Type='0' Data='0500'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Although... Let's be honest—the <0 Type='3' Data='0000'/>Skyview
+  Tower <0 Type='3' Data='ffff'/>is much easier to spot with all the
+  lights set up around it.
+5501: |
+  Maybe next time.
+5503: |
+  Never mind.
+Talk2001: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>When the blizzard drove off most of the
+  adults, the kids hung in there and kept
+  things going. That includes the shops.<0 Type='4'/><3 Type='0' Data='0101'/>I can't express enough how much we owe
+  the little ones. They're the saviors of
+  this village.
+Com_Talk_02b: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>Thanks for your business! So...is that it?
+  You don't want to sell anything else?

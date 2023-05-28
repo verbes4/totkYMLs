@@ -1,0 +1,262 @@
+Talk01_11_Rain_00: |
+  <3 Type='0' Data='0700'/>This is Olkin's field where he grows his
+  fortified pumpkins.
+  
+  We came up with a new<0 Type='3' Data='0000'/> method of
+  defending while attacking <0 Type='3' Data='ffff'/>right here, as
+  I listened to him talk about pumpkins.
+  Any interest in hearin' about that
+  method? Glad to tell you all about it.
+TerrorEnemy_00: |
+  Whoa!
+TerrorHorse_01: |
+  Gah!
+Talk01_11_Rain: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003100'/>What is it? Still need something?
+  
+  
+  Are you interested in our new <0 Type='3' Data='0000'/>method of
+  defending while attacking<0 Type='3' Data='ffff'/>?
+ReturnHome_01: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003000'/>Wh-who's there?!
+talk24: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1000540069007200650064005f0030003100'/><FontSize Value='80'/>Olkin and I stand united for this village!<FontSize Value='100'/>
+ReturnHome_02: |
+  <3 Type='0' Data='0901'/>You've made your last mistake, sneaking
+  into my house! <5 Type='0'/>I'll give you a taste of the
+  technique that Olkin and I...<5 Type='1'/>
+  ...<5 Type='1'/><0 Type='4'/><3 Type='0' Data='0700'/><4 Type='0' Data='0e0045006100730065005f0030003000'/>Aren't you the one who helped us out?<0 Type='4'/>It's getting late. If there's something you
+  have to discuss with me, I hope it can
+  keep until tomorrow.
+TerrorSword: |
+  Gah!
+NakedPlayer: |
+  Armorless defense, eh?
+talk25: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>You want swift carrots? You gotta go
+  buy 'em at <0 Type='3' Data='0000'/>my old lady's shop<0 Type='3' Data='ffff'/>. The
+  carrots here aren't fully grown anyway.
+ReturnHome_03: |
+  <3 Type='0' Data='0701'/>Oh, it's only you...<0 Type='4'/>It's getting late. If there's something you
+  have to discuss with me, I hope it can
+  keep until tomorrow.
+talk26: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>These swift carrots need more time in
+  the ground. Head to <0 Type='3' Data='0000'/>my old lady's shop<0 Type='3' Data='ffff'/>
+  if you want to eat some of those.
+Talk01_11: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Didn't expect you to come talkin' to
+  me again.
+  
+  I bet you're interested in our new <0 Type='3' Data='0000'/>method
+  of defending while attacking<0 Type='3' Data='ffff'/>.
+Talk01_12: |
+  <3 Type='0' Data='0700'/>I'm gonna be workin' in Olkin's field too,
+  now and then.
+  
+  Olkin and I didn't help much at all with
+  those creatures outside the village. We
+  can help each other now, in our fields.
+  Never thought I'd hoe the same row
+  with Olkin on anything.
+  
+  But I gotta credit him with us comin'
+  up with the <0 Type='3' Data='0000'/>method of defending
+  while attacking<0 Type='3' Data='ffff'/>.
+  <3 Type='0' Data='0100'/>Any interest in hearin' about it?
+CarrotGarden_Npc_Kakariko013_Water_01: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003000'/>Wh-what? What are you up to?
+Talk01_13: |
+  <3 Type='0' Data='0700'/>What is it? I've got work here in Olkin's
+  field to do.
+  
+  But glad to tell you about our <0 Type='3' Data='0000'/>method of
+  defending while attacking<0 Type='3' Data='ffff'/>.
+  
+  <3 Type='0' Data='0100'/>Any interest in hearin' about it?
+Ballon01_03_Rain: |
+  I should sleep soon...
+talk30: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>If you eat a swift carrot cooked into a
+  dish, you can <0 Type='3' Data='0000'/>move more quickly<0 Type='3' Data='ffff'/>.
+  
+  The carrot's essence will race through
+  your body, helping you move like
+  the wind.
+  <3 Type='0' Data='0801'/>I'm sure that if someone like you eats
+  that kind of dish, no one would be able
+  to keep up!
+CarrotGarden_Npc_Kakariko013_Water_03: |
+  <3 Type='0' Data='0700'/>Are you trying to help with my carrots?
+  
+  
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068004c00'/>Haha! That's really something.
+  
+  
+  <3 Type='0' Data='0701'/>Well, I get why. You know how important
+  swift carrots are. What you don't know...<5 Type='0'/>
+  is how tricky this kind of gardening is.
+  So, thank you. But please leave it to me.
+PumpkinGarden_Npc_Kakariko013_Water_03: |
+  <3 Type='0' Data='0701'/>Are you trying to help take care of
+  Olkin's pumpkins?
+  
+  He knows best when it comes to taking
+  care of this garden.
+  
+  So, no need to pitch in here. You can
+  rely on us to handle it.
+Ballon01_02: |
+  Watchin' over my patch...
+Talk01_15: |
+  <3 Type='0' Data='0700'/>Olkin's the one around here who really
+  knows what I'm made of. It's not a
+  stretch to say he's a friend.
+  They say keep your friends close and
+  your enemies closer—but turns out that
+  enemies can turn into friends too.
+  Thanks to him, we've come up with a new
+  <0 Type='3' Data='0000'/>method of defending while attacking<0 Type='3' Data='ffff'/>.
+  
+  Any interest in hearin' about that?
+  Glad to share it.
+CarrotGarden_Npc_Kakariko013_Water_04: |
+  <3 Type='0' Data='0700'/>Are you trying to help with my carrots?
+  
+  
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068004c00'/>Haha! That's really something.
+  
+  
+  <3 Type='0' Data='0701'/>Well, I get why. You know how important
+  swift carrots are.
+  
+  But it's raining, so they're getting the
+  right amount of water as it is.
+  
+  So, there's no need to help here. Please
+  leave it to me.
+PumpkinGarden_Npc_Kakariko013_Water_04: |
+  <3 Type='0' Data='0701'/>Are you trying to help take care of 
+  Olkin's pumpkins?
+  
+  But it's raining, so they're getting the
+  right amount of water as it is.
+  
+  So, no need to pitch in here. You can
+  rely on us to handle it.
+Ballon01_03: |
+  Drenched...
+talk32: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>My old lady's shop sells my carrots and
+  Olkin's pumpkins. I'd say it's always
+  worth payin' her a visit.
+Talk_Greeting_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004c0061007500670068005300'/>Ah, it's you! Training this early in
+  the morning?
+0003: |
+  Swift carrots?
+talk33: |
+  That's an impressive carrot. You might
+  be reprimanded if you take it.
+Talk_Greeting_02: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004c0061007500670068005300'/>Ah, it's you! Splendid weather today. 
+talk05: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Ah, it's you!
+  
+  
+  That battle we were caught up in recently
+  was amazing.
+  
+  You beat those monsters AND opened our
+  eyes. I've gotta thank you for all of that.
+  
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Olkin and I have been at odds for ages.
+  Now we're tending each other's field
+  because of you.
+  I wouldn't have guessed I'd ever find
+  any pleasure in his company.
+  
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>One more thing. When Olkin and I were
+  talkin', we figured out a <0 Type='3' Data='0000'/>method for
+  defending while attacking<0 Type='3' Data='ffff'/>.
+  Any interest in hearin' about it?
+0004: |
+  Goodbye.
+Talk_Greeting_03: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>What do you want at this hour? Be
+  careful, please! Monsters are more
+  active at—
+  Well, I guess I don't need to tell that to
+  a warrior like you.
+Ballon01_06: |
+  My good friend...
+0005: |
+  I am interested!
+TerrorFire_01: |
+  Watch out!
+TerrorIce_02: |
+  Waaaaaah!
+Talk_Greeting_04: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004c0061007500670068005300'/>Ah, it's you! Training even on rainy days?
+0006: |
+  Goodbye.
+Talk_Greeting_05: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>You...dressin' like that...<5 Type='1'/>
+  
+  
+  <3 Type='0' Data='0c01'/>We'd never mistake you for those scum, 
+  but others here aren't gonna look on
+  you kindly.
+Ballon01_03_2: |
+  These look tasty.
+Ballon01_03_3: |
+  Gotta pull all the weeds...
+Ballon01_03_4: |
+  This rain is a blessing.
+talk10: |
+  <3 Type='0' Data='0500'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>With only a weapon in hand, you can't
+  defend yourself...<5 Type='1'/>normally.
+  
+  <3 Type='0' Data='0801'/>But <0 Type='3' Data='0000'/>attach a shield to your weapon<0 Type='3' Data='ffff'/>, then
+  you might be able to defend yourself
+  after all.
+  I'd have never come up with that idea on
+  my own. Groundbreaking stuff! I gotta
+  give most of the credit to Olkin.
+  Combining your strength with that of
+  others is pretty key, in my opinion.
+talk11: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068004c00'/>Ha, but I guess you'd know all about that
+  already, a warrior as skilled as you.
+  
+  Hope my talk here wasn't too much
+  bother. Now, you stay well, all right?
+TerrorArrow_02: |
+  Gah!
+talk12: |
+  <3 Type='0' Data='0700'/>It's more or less what I said before.
+  
+  
+  <3 Type='0' Data='0801'/>You can defend yourself while attacking if
+  you <0 Type='3' Data='0000'/>attach a shield to your weapon<0 Type='3' Data='ffff'/>. It's
+  a new idea, mostly thanks to Olkin.
+  See how useful it is to combine your
+  strength with that of others? A good
+  thing to do, no matter what your goal is.
+talk13: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068004c00'/>Ha, I guess a warrior as skilled as you
+  would know all about this.
+  
+  <3 Type='0' Data='0500'/>But here's another thing. I can't say that
+  I like your look.
+  
+  We'd never mistake you for that scum,
+  but others in this village fear those
+  who wear such things.
+talk14: |
+  <3 Type='0' Data='0c00'/>That look of yours isn't gonna be
+  welcome here.
+  
+  We'd never mistake you for those scum,
+  but others in this village fear those
+  who wear such things.

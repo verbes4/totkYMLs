@@ -1,0 +1,81 @@
+Talk_Greeting_03: |
+  <3 Type='0' Data='0700'/>Evenin'!<5 Type='0'/>
+Talk_Guard_17: |
+  <FontSize Value='80'/><3 Type='0' Data='0c00'/><4 Type='0' Data='1000540069007200650064005f0030003100'/>I wanted to learn to read the Zonai script from<0 Type='3' Data='0000'/>
+  Tauro<0 Type='3' Data='ffff'/>, but I should wait until my current assignment
+  is finished with.<FontSize Value='100'/>
+Talk_Guard_18: |
+  <3 Type='0' Data='0700'/>Did you know five—count 'em, <0 Type='3' Data='0000'/>five<0 Type='3' Data='ffff'/>—ruins
+  fell around here? They're called the
+  <0 Type='3' Data='0000'/>Ring Ruins<0 Type='3' Data='ffff'/>.<0 Type='4'/>We discovered <0 Type='3' Data='0000'/>stone slabs<0 Type='3' Data='ffff'/> inside each
+  of 'em <0 Type='3' Data='0000'/>inscribed with Zonai writing<0 Type='3' Data='ffff'/>.<0 Type='4'/>Each slab tells a different story. The one
+  in this ruin is about...let's see...<0 Type='4'/><3 Type='0' Data='0c01'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>Wind, fire, water, lightning, time...and...<5 Type='1'/><0 Type='4'/><3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Light! That was it. <5 Type='1'/>It says that people with
+  powers like those could amplify them with
+  secret stones to perform great deeds.<0 Type='4'/><3 Type='0' Data='0701'/>If you want more than a synopsis, you
+  can take a look at the <0 Type='3' Data='0000'/>translated text<0 Type='3' Data='ffff'/>
+  posted near the slab.
+Ballon_02: |
+  Right, back to work...
+Talk_Guard_04: |
+  <3 Type='0' Data='0701'/>You come all the way out here to see the
+  Ring Ruins? I'll be!
+  
+  Watch your step so you don't fall into that
+  <0 Type='3' Data='0000'/>chasm<0 Type='3' Data='ffff'/> or get personal with any <0 Type='3' Data='0000'/>gloom<0 Type='3' Data='ffff'/>.
+  
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>If you just can't help yourself gloom-wise,
+  look for our resident gloom specialist,
+  <0 Type='3' Data='0000'/>Ebah<0 Type='3' Data='ffff'/>, by the tents.
+  <3 Type='0' Data='0000'/>Anyhow, the chief here is determined to
+  keep the ruins open for viewing.
+  
+  Just steer clear of the <0 Type='3' Data='0000'/>stone slabs <0 Type='3' Data='ffff'/>in the
+  Ring Ruins. Can't replace those!
+Talk_Guard_05: |
+  <3 Type='0' Data='0701'/>You don't see many travelers come visit
+  the Ring Ruins more than once.
+  
+  Watch your step so you don't fall into that
+  <0 Type='3' Data='0000'/>chasm<0 Type='3' Data='ffff'/> or get personal with any <0 Type='3' Data='0000'/>gloom<0 Type='3' Data='ffff'/>.
+  
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>If you just can't help yourself gloom-wise,
+  look for our resident gloom specialist,
+  <0 Type='3' Data='0000'/>Ebah<0 Type='3' Data='ffff'/>, in his tent.
+  <3 Type='0' Data='0000'/>You're free to look around as you please,
+  but keep your hands off the <0 Type='3' Data='0000'/>stone slabs<0 Type='3' Data='ffff'/>
+  inside the ruins.
+Talk_Guard_11: |
+  <FontSize Value='80'/><3 Type='0' Data='0c00'/>What a shame we <0 Type='3' Data='0000'/>can't enter that floating ring<0 Type='3' Data='ffff'/>. I bet
+  there's a slab in there packed with juicy information.<FontSize Value='100'/>
+Talk_Guard_06: |
+  <3 Type='0' Data='0700'/>You're free to look around as you please,
+  but keep your hands off the <0 Type='3' Data='0000'/>stone slabs<0 Type='3' Data='ffff'/>
+  inside the ruins. Can't replace those!
+  Also, watch your step so you don't fall
+  into that <0 Type='3' Data='0000'/>chasm<0 Type='3' Data='ffff'/> or get personal with
+  any <0 Type='3' Data='0000'/>gloom<0 Type='3' Data='ffff'/>.
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>If you just can't help yourself gloom-wise,
+  look for our resident gloom specialist,
+  <0 Type='3' Data='0000'/>Ebah<0 Type='3' Data='ffff'/>, in his tent.
+Ballon_06: |
+  Research over rain...
+0000: |
+  Stone slabs?
+Talk_Guard_07: |
+  <3 Type='0' Data='0700'/>Did you know five—count 'em, <0 Type='3' Data='0000'/>five<0 Type='3' Data='ffff'/>—ruins
+  fell around here? They're called the
+  <0 Type='3' Data='0000'/>Ring Ruins<0 Type='3' Data='ffff'/>.<0 Type='4'/>We discovered <0 Type='3' Data='0000'/>stone slabs<0 Type='3' Data='ffff'/> inside four
+  of 'em <0 Type='3' Data='0000'/>inscribed with Zonai writing<0 Type='3' Data='ffff'/>.<0 Type='4'/>Each slab tells a different story. The one
+  in this ruin is about...let's see...<0 Type='4'/><3 Type='0' Data='0c01'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>Wind, fire, water, lightning, time...and...<5 Type='1'/><0 Type='4'/><3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Light! That was it. <5 Type='1'/>It says that people with
+  powers like those could amplify them with
+  secret stones to perform great deeds.<0 Type='4'/><3 Type='0' Data='0700'/>If you want more than a synopsis, you
+  can take a look at the <0 Type='3' Data='0000'/>translated text<0 Type='3' Data='ffff'/>
+  posted near the slab.<0 Type='4'/>The writing is so ancient that I couldn't
+  begin to tell you how to read it.<0 Type='4'/>But Tauro is pretty well-versed in Zonai
+  stuff, so I had him write it down for me.
+Talk_Greeting_01: |
+  <3 Type='0' Data='0700'/>Mornin'!<5 Type='0'/>
+Talk_Greeting_02: |
+  <3 Type='0' Data='0700'/>Hi there.<5 Type='0'/>
+0002: |
+  Goodbye.

@@ -1,0 +1,77 @@
+talk_14: |
+  <3 Type='0' Data='0700'/>Worry not if you are unskilled at <0 Type='3' Data='0000'/>starting
+  fires<0 Type='3' Data='ffff'/> or <0 Type='3' Data='0000'/>cooking<0 Type='3' Data='ffff'/>. <5 Type='0'/>I am here to help.
+0008: |
+  Teach me about fire!
+talk_15: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Oh. <5 Type='0'/>Are you going this direction?
+0009: |
+  Teach me to cook!
+talk_16: |
+  This mountain path is especially rugged.<5 Type='0'/>
+  You must take your environment into
+  account when traveling.<0 Type='4'/><3 Type='0' Data='0c00'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>I have developed <0 Type='3' Data='0000'/>guidelines for traveling
+  this mountain path<0 Type='3' Data='ffff'/>. <5 Type='0'/>Shall I tell you them?
+talk_03: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>Very well.<5 Type='0'/><0 Type='4'/><0 Type='3' Data='0000'/>Fire <0 Type='3' Data='ffff'/>is a crucial tool when traveling the
+  mountain path. A <0 Type='3' Data='0000'/>fire <0 Type='3' Data='ffff'/>can be used either
+  to <0 Type='3' Data='0000'/>cook<0 Type='3' Data='ffff'/> or to warm yourself.
+talk_04: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>You are back. Perhaps to hear my
+  <0 Type='3' Data='0000'/>guidelines for traveling the mountain path<0 Type='3' Data='ffff'/>.
+talk_17: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/><0 Type='3' Data='0000'/>Starting fires <0 Type='3' Data='ffff'/>and<0 Type='3' Data='0000'/> cooking<0 Type='3' Data='ffff'/> are crucial for
+  surmounting the difficult mountain path.<0 Type='4'/>Do not worry if you forget any of this.<5 Type='0'/>
+  I am not going anywhere.
+talk_18: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Ah. <5 Type='0'/>You are going in this direction again.
+talk_19: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Ah. You are going in this direction again.<5 Type='0'/>
+  It is very late to be traveling.
+talk_06: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Do not worry if you need to hear these
+  explanations again. <5 Type='0'/>I will provide them
+  whenever you want.
+0010: |
+  Goodbye.
+talk_09: |
+  <3 Type='0' Data='0700'/>You can cook anytime and anywhere.
+  All you need is a pot with a lit <0 Type='3' Data='0000'/>fire<0 Type='3' Data='ffff'/>.<0 Type='4'/>One method of cooking is simply to throw
+  random ingredients into the pot.<0 Type='4'/>Others are more careful. This is the best
+  way to make meals that can warm you up.
+  Other <0 Type='3' Data='0000'/>effects<0 Type='3' Data='ffff'/> are also possible.<0 Type='4'/><3 Type='0' Data='0700'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>Insects and monster parts are not edible.
+  Do not cook horns or guts with food.
+  Save these parts as materials for <0 Type='3' Data='0000'/>elixirs<0 Type='3' Data='ffff'/>.<0 Type='4'/>Elixirs are also helpful in the mountains.<5 Type='0'/>
+  They are an alternate way to <0 Type='3' Data='0000'/>warm <0 Type='3' Data='ffff'/>your
+  body or <0 Type='3' Data='0000'/>recover stamina<0 Type='3' Data='ffff'/>.<0 Type='4'/><3 Type='0' Data='0701'/>The first step in all cases is to start a <0 Type='3' Data='0000'/>fire<0 Type='3' Data='ffff'/>.
+0000: |
+  Let's hear them!
+0001: |
+  Goodbye.
+0002: |
+  How do I start a fire?
+talk_21: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>Would you like to hear about <0 Type='3' Data='0000'/>cooking<0 Type='3' Data='ffff'/>?
+0003: |
+  I can cook?
+talk_22: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>That is all I can tell you. <5 Type='0'/>Take care.
+0004: |
+  Goodbye.
+talk_23: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Look after yourself. <5 Type='0'/>Thorough preparation
+  is everything.
+0005: |
+  Teach me about fire!
+talk_12: |
+  <3 Type='0' Data='0700'/>I recommend using <0 Type='3' Data='0000'/>flint<0 Type='3' Data='ffff'/> as a fire starter.<0 Type='4'/>Place <0 Type='3' Data='0000'/>flint<0 Type='3' Data='ffff'/> next to a bundle of wood.<5 Type='0'/> Then
+  strike it with a metallic or stony weapon.
+  This is my recipe for <0 Type='3' Data='0000'/>fire<0 Type='3' Data='ffff'/>.<0 Type='4'/>There are several other methods. <5 Type='0'/>But it
+  is best to internalize the basics first.
+0006: |
+  Teach me to cook!
+talk_13: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Oh. <5 Type='0'/>Are you going this direction? It is very
+  late to be traveling.
+0007: |
+  Goodbye.

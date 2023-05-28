@@ -1,0 +1,249 @@
+Talk14: |
+  <3 Type='0' Data='0c00'/>All right! What to do after this...
+Balloon09: |
+  So...tired...
+Talk43: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>We certainly run into each other often,
+  don't we? Would you like to shelter from
+  this rain together?
+Talk15: |
+  <3 Type='0' Data='0b00'/>Don't mind me! I'm just, heh, definitely
+  leaving everything just as I found it!
+  
+  <3 Type='0' Data='0701'/>Wait!<5 Type='1'/> You're not with the survey team,
+  are you?
+  
+  <3 Type='0' Data='0a00'/>Phew! I thought we were gonna get
+  yelled at again.
+Talk44: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>Hurry! I don't want to be outside when
+  the thunder starts!
+Talk45: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>So, isn't getting close up to this chunk
+  here something at least?
+  
+  We can sweep up some of the fragments
+  and sneak 'em away. We gotta study
+  these ruins somehow...<5 Type='1'/>huh?
+Talk16: |
+  <3 Type='0' Data='0700'/>We really want to become members of
+  the Zonai Survey Team, so we came here
+  to study the ruins.
+  Did you know that <0 Type='3' Data='0000'/>Ring Ruins<0 Type='3' Data='ffff'/> have
+  been found only in <0 Type='3' Data='0000'/>Kakariko Village<0 Type='3' Data='ffff'/>
+  and nowhere else?
+  That's why the Zonai Survey Team sent
+  its <0 Type='3' Data='0000'/>specialists<0 Type='3' Data='ffff'/> to examine them.
+  
+  We figured this was a great opportunity
+  to learn all sorts of things.
+  
+  <3 Type='0' Data='0a00'/>But Letty has been running all over the
+  place to look at this and that, so we've
+  gotten nowhere fast.
+Talk46: |
+  <3 Type='0' Data='0800'/>Naturally! Let's see how many of the <0 Type='3' Data='0000'/>five
+  Ring Ruins<0 Type='3' Data='ffff'/> we can visit to see those!
+Talk17: |
+  <3 Type='0' Data='0700'/>So...hungry...
+  
+  
+  I'm glad there are <0 Type='3' Data='0000'/>five<0 Type='3' Data='ffff'/> ruins around here
+  to study, but it's exhausting running
+  between them all.
+Talk47: |
+  <3 Type='0' Data='0c00'/>But <0 Type='3' Data='0000'/>Princess Zelda gave the order<0 Type='3' Data='ffff'/> for
+  everyone to stay away from it.
+Talk18: |
+  <3 Type='0' Data='0700'/>We should cook up something refreshing.
+  We have <0 Type='3' Data='0000'/>swift carrots<0 Type='3' Data='ffff'/>, so what do you
+  think? <0 Type='3' Data='0000'/>Carrot stew<0 Type='3' Data='ffff'/>?
+Talk48: |
+  <3 Type='0' Data='0c00'/>Well, we can't visit that one, by <0 Type='3' Data='0000'/>order
+  of Princess Zelda<0 Type='3' Data='ffff'/> herself. No one's
+  allowed to go anywhere near it.
+Talk19: |
+  <3 Type='0' Data='0800'/>Oooh! Good idea!
+  
+  
+  We even have all of the ingredients...
+  swift carrots, goat butter, milk, and
+  Tabantha wheat.<5 Type='0'/> Go for it, Totsie!
+Talk49: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Sure, this is only a small chunk, but it's
+  way easier to go hands-on with.
+  
+  We can sweep up some of the fragments
+  here and sneak 'em away. We gotta study
+  these ruins somehow...<5 Type='1'/> Huh?
+Talk20: |
+  <3 Type='0' Data='0b00'/>Huh? You want me to do it? I barely know
+  which end to hold on a ladle.
+Talk21: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='0600530061006400'/>I mean, compare it to the main sites, like
+  that <0 Type='3' Data='0000'/>Ring Ruin<0 Type='3' Data='ffff'/> over there. It's broken in
+  two, but you can still see the full ring.
+Talk50: |
+  <3 Type='0' Data='0700'/>I hear that the village chief insisted on
+  them being open about what they
+  discover.
+  The village is drawing a lot of tourists
+  because of that.
+  
+  She seems pretty smart, despite only
+  recently stepping into her position.
+Talk51: |
+  <3 Type='0' Data='0b00'/>But I barely even know how to start a fire!
+Talk22: |
+  <3 Type='0' Data='0a00'/>Well, darn. I was getting excited about
+  that <0 Type='3' Data='0000'/>carrot stew<0 Type='3' Data='ffff'/>.
+Talk23: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Good evening! We certainly run into each
+  other often.
+Talk52: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>Oh! How do you even get to places that
+  are so high up?
+  
+  I was told there were footholds, but it's
+  basically a cliff!
+  
+  <3 Type='0' Data='0000'/>I've heard that the Zonai Survey Team
+  lets you use their balloons after you
+  become a member.
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068005300'/>After we join up, we'll be able to do that
+  together someday.
+  
+  For now, we'll have to make our way on
+  foot while we study on our own.
+NakedPlayer: |
+  Where's the style in that?
+Talk24: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Morning! We certainly run into each
+  other often.
+Talk53: |
+  <3 Type='0' Data='0800'/>How great!
+  
+  
+  Kind of inspires me to make sure we study
+  these ruins so we become super-smart
+  members of the survey team!
+Talk25: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hello! We certainly run into each
+  other often.
+Talk26: |
+  <3 Type='0' Data='0700'/>Of all the <0 Type='3' Data='0000'/>Ring Ruins<0 Type='3' Data='ffff'/>, I wish we could
+  enter that one—any part of it. And best
+  of all, the section that's <0 Type='3' Data='0000'/>floating<0 Type='3' Data='ffff'/>!
+Talk27: |
+  <3 Type='0' Data='0b00'/>Aha! If the ruins fell here, then they
+  must have come from some place in
+  the sky, right?
+  This is amazing, Totsie!
+Talk28: |
+  <3 Type='0' Data='0c00'/>From the sky... You know, a <0 Type='3' Data='0000'/>sky-island
+  specialist<0 Type='3' Data='ffff'/> works at the huge Ring Ruin
+  on the northwest side of the village...
+Talk30: |
+  <3 Type='0' Data='0501'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Takes all kinds, I guess.
+Talk31: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='0a005400680069006e006b00'/>What is happening? I'll just wait until this
+  little climbing-on-things adventure is over.
+Talk32: |
+  <3 Type='0' Data='0800'/>The sky islands are those things just
+  floating in the sky, right?
+  
+  I really want to ask him about what all
+  that is up there!
+Talk03: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a0053006c00650065007000'/>Ruins... Stone slabs... So much...
+  mystery...
+Talk04: |
+  <3 Type='0' Data='0700'/><0 Type='3' Data='0000'/>Five rings<0 Type='3' Data='ffff'/> fall in a village... <0 Type='3' Data='0000'/>Stone slabs<0 Type='3' Data='ffff'/>
+  bring us words from long ago... What
+  does it all mean?
+  I want to join the Zonai Survey Team so
+  I can help solve this mystery. But that
+  will have to wait...
+  <3 Type='0' Data='0700'/>All the rain makes things slippery, and
+  then there's the thunder too. Scary!
+  Mysteries can wait until better weather.
+Balloon01: |
+  Over here, maybe?
+Balloon02: |
+  *snore*
+Talk07: |
+  <3 Type='0' Data='0700'/>A <0 Type='3' Data='0000'/>stone slab carved with writing<0 Type='3' Data='ffff'/> was
+  discovered in each of the <0 Type='3' Data='0000'/>five Ring Ruins<0 Type='3' Data='ffff'/>
+  that fell around Kakariko Village.
+  <3 Type='0' Data='0800'/>I'm going to see one of them now!
+Talk36: |
+  <3 Type='0' Data='0800'/>The ruins here are hugely important, and
+  the Zonai Survey Team is pretty good
+  about letting you know what's what.
+  They even let people go read the
+  <0 Type='3' Data='0000'/>writing they deciphered <0 Type='3' Data='ffff'/>on each stone
+  slab for themselves. Pretty great!
+Balloon03: |
+  At last...
+Talk37: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a005400680069006e006b00'/>Come on! I'm sorry already.
+  
+  
+  But after we're done here...want to see
+  the <0 Type='3' Data='0000'/>stone slab <0 Type='3' Data='ffff'/>found in each of the Ring
+  Ruins? Huge discoveries, they say!
+Talk08: |
+  <3 Type='0' Data='0700'/>A <0 Type='3' Data='0000'/>stone slab carved with writing<0 Type='3' Data='ffff'/> was
+  discovered in each of the <0 Type='3' Data='0000'/>five Ring Ruins<0 Type='3' Data='ffff'/>
+  around Kakariko Village.
+  I heard the Zonai Survey Team's leader
+  is making sense of all that writing.
+  
+  <3 Type='0' Data='0800'/>It's truly amazing that he can read things
+  that were written long, long ago!
+  
+  I want to learn to read this kind of
+  writing someday too.
+Talk38: |
+  <3 Type='0' Data='0800'/>Then we'll just visit the Ring Ruins that
+  we ARE allowed to enter.
+Balloon04: |
+  Hmm...
+Talk09: |
+  <3 Type='0' Data='0700'/><0 Type='3' Data='0000'/>Five rings<0 Type='3' Data='ffff'/> fall in a village... <0 Type='3' Data='0000'/>Stone slabs<0 Type='3' Data='ffff'/>
+  bring us words from long ago... What
+  does it all mean?
+  I want to join the Zonai Survey Team so
+  I can help solve this mystery. But that
+  will have to wait...
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0a005400680069006e006b00'/>I'm too hungry to think right now.
+Talk39: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Four of the <0 Type='3' Data='0000'/>five Ring Ruins<0 Type='3' Data='ffff'/> that fell
+  around the village are open to visitors.
+  So we'll go to some of those.
+Balloon05: |
+  Exploring is hungry work.
+Talk10: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0a005400680069006e006b00'/>I want to solve the mysteries of the <0 Type='3' Data='0000'/>five
+  ruins<0 Type='3' Data='ffff'/> that fell in this village and of the
+  <0 Type='3' Data='0000'/>stone slabs<0 Type='3' Data='ffff'/> here, but...<5 Type='1'/>
+  <3 Type='0' Data='0a01'/>I can't solve mysteries with an empty
+  stomach.
+Talk11: |
+  <3 Type='0' Data='0700'/><0 Type='3' Data='0000'/>Five rings<0 Type='3' Data='ffff'/> fall in a village... <0 Type='3' Data='0000'/>Stone slabs<0 Type='3' Data='ffff'/>
+  bring us words from long ago... What
+  does it all mean?
+  I want to join the Zonai Survey Team so
+  I can help solve this mystery. But that
+  will have to wait...
+  <3 Type='0' Data='0a00'/>I'm too tired to think right now. I really
+  need to lie down at the inn.
+Talk12: |
+  <3 Type='0' Data='0800'/>We're hands on with the <0 Type='3' Data='0000'/>Ring Ruins<0 Type='3' Data='ffff'/> at
+  last! I can't believe it.
+Balloon07: |
+  *sigh* Rain...
+Talk13: |
+  <3 Type='0' Data='0a00'/>Um, Letty... This chunk is just a small
+  piece of one of the <0 Type='3' Data='0000'/>Ring Ruins<0 Type='3' Data='ffff'/>. Nothing
+  much, really.

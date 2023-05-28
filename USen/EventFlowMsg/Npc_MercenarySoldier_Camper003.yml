@@ -1,0 +1,112 @@
+Talk_0010: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Oho, there you are again! <5 Type='1'/>The day has
+  hardly dawned, and yet the smell of my
+  cooking is impossible to resist.
+Talk_0010_03: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Ah, there you are! <5 Type='1'/>Proof that my cooking
+  can draw a hungry audience even in the
+  foulest weather.
+Talk_0001: |
+  <3 Type='0' Data='0501'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003100'/>Are you...a traveler? <5 Type='0'/>Lured here by the
+  aroma of my cooking, I imagine.
+Talk_0011: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/><0 Type='3' Data='0000'/>Captain Toren's squad of the monster-
+  control crew <0 Type='3' Data='ffff'/>is executing a strike ahead.<5 Type='0'/>
+  Careful you're not caught up in it.
+Talk_0021: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>The captain left that weapon here <5 Type='0'/>so that
+  I might defend myself when left to guard
+  the camp.
+  <3 Type='0' Data='0801'/>But so long as I live, this chef's only
+  weapon will be this ladle! <5 Type='0'/>You're welcome
+  to use that blade as you see fit though.
+Talk_1001: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>Did you...<5 Type='0'/>come here knowing that this
+  is the camp for <0 Type='3' Data='0000'/>Captain Toren's squad of
+  the monster-control crew<0 Type='3' Data='ffff'/>?
+Talk_1011: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/><0 Type='3' Data='0000'/>Captain Toren's squad of the monster-
+  control crew<0 Type='3' Data='ffff'/> is mobilizing nearby. <5 Type='0'/>Tread
+  carelessly and you may get involved.
+Talk_1021: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>The squad members left that weapon
+  behind for my self-defense.<0 Type='4'/><3 Type='0' Data='0801'/>But I've never wielded anything heftier
+  than a ladle! <5 Type='0'/>I'd be grateful if you could
+  put it to good use.
+Talk_0002: |
+  <3 Type='0' Data='0701'/>This camp belongs to <0 Type='3' Data='0000'/>Captain Toren's
+  squad of the monster-control crew<0 Type='3' Data='ffff'/>. <5 Type='1'/>They
+  are executing a major strike as we speak.
+  I recommend you clear the area before
+  things get hectic.
+Talk_0012: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>Sometimes monsters can get the better of
+  even the most elite fighters. <5 Type='0'/>I hope our
+  squad is safely able to claim victory...
+Talk_1002: |
+  <3 Type='0' Data='0701'/>Captain Toren's squad is now leading a
+  dangerous and important strike. Mind that
+  your curiosity doesn't get you involved.
+Talk_1012: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>I've heard they're dealing with some
+  troublesome foes. I can only pray they'll
+  be all right.
+Talk_0003: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='0e0043006800610074005f0030003100'/>The <0 Type='3' Data='0000'/>cave<0 Type='3' Data='ffff'/> that serves as the monsters'
+  base is <0 Type='3' Data='0000'/>up the hill and down the road<0 Type='3' Data='ffff'/>,
+  but even here we might be in danger.
+  Captain Toren is on his way there now
+  to clear those monsters out.
+Talk_0013: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>It was your appetite that brought you
+  here, yes? <5 Type='0'/>Have some of this. It's one
+  of my specialties.
+Talk_1003: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='0e0043006800610074005f0030003100'/><0 Type='3' Data='0000'/>Akkala Span<0 Type='3' Data='ffff'/> is down the road from here.
+  The squad's mission is to strike at the
+  monsters that have taken it over.
+Talk_0004: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>As the squad's chef, I stayed behind.<5 Type='0'/>
+  I may not swing a sword, but my ladle
+  prepares meals worthy of this elite team.
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>If you followed your nose here, you must
+  be hungry. <5 Type='0'/>Take this. It's one of my
+  personal specialties.
+Talk_1004: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Of the three monster-control-crew
+  squads, Captain Toren's is the cream of
+  the crop.
+  I consider myself fortunate to serve them
+  meals befitting their premier status.
+  
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Your growling stomach led you to me, did
+  it not? <5 Type='0'/>I'm happy to share my cooking
+  with you, if you'd like.
+Talk_0005: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>The members of Captain Toren's squad
+  are skilled, but they get hungry quickly.<0 Type='4'/>I'm worried that their hunger may
+  distract them, allowing a monster to
+  catch them unawares.
+  <3 Type='0' Data='0c01'/>How I wish they had <0 Type='3' Data='0000'/>someone to aid them<0 Type='3' Data='ffff'/>
+  should their appetites waylay them...
+Talk_1005: |
+  <3 Type='0' Data='0501'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>It's the duty of an elite squad to confront
+  powerful foes, and I know they're up to
+  the task.<5 Type='0'/>
+  <3 Type='0' Data='0301'/>But this fight comes right on the heels
+  of the one in Eldin, so I worry they might
+  be exhausted.
+  <3 Type='0' Data='0c01'/>I would feel a lot better if they had a
+  <0 Type='3' Data='0000'/>skilled ally<0 Type='3' Data='ffff'/> to assist them.
+Near_0001: |
+  A dish worthy of the elite...
+Talk_0007: |
+  <3 Type='0' Data='0401'/>Hm? <5 Type='1'/>Your pouch is almost spilling over
+  with food. Oh well. I suppose you'll have
+  to wait to try my cooking.
+Talk_0010_01: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Hello again! <5 Type='1'/>Lured back by a craving for
+  my cuisine, I presume?
+Talk_0010_02: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Welcome back! <5 Type='1'/>It's only natural you would
+  dream of my cooking as night falls.

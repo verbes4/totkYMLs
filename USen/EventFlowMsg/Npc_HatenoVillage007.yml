@@ -1,0 +1,71 @@
+Near_0007: |
+  I'm worn out...
+Talk_10: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='0a0053006c00650065007000'/>Zzz... Zzz... Watch and learn...<5 Type='0'/>
+Talk_20: |
+  <3 Type='0' Data='0400'/>Oh! I didn't think anybody else was here.
+Talk_01: |
+  <3 Type='0' Data='0800'/>Oh, you're spy number three, huh?
+Talk_11: |
+  <3 Type='0' Data='0800'/>Hm? Oh, are you from outside?<0 Type='4'/>If you wanna play, tell my brother, Nebb!
+  I'm sure he'll add you to our spy game!
+Talk_02: |
+  <3 Type='0' Data='0700'/>I'm gonna go play spies with my brother,
+  Nebb, now!<0 Type='4'/>Us agents meet up at <0 Type='3' Data='0000'/>school <0 Type='3' Data='ffff'/>every
+  morning, since Nebb wants to go
+  to school.<0 Type='4'/>Me and Nebb still aren't old enough to
+  go to school yet though.<0 Type='4'/>But all of my friends are taking classes!
+  I wanna study tooooo!
+Talk_12: |
+  <3 Type='0' Data='0700'/>It started raining, so me and the others
+  are hiding from the rain in the classroom.<0 Type='4'/><0 Type='3' Data='0200'/><FontSize Value='80'/>I don't really care about the rain. My brother, Nebb,
+  just wanted to see the classroom up close.<FontSize Value='100'/><0 Type='3' Data='ffff'/>
+Talk_03: |
+  <3 Type='0' Data='0700'/>Every day we meet up at <0 Type='3' Data='0000'/>school<0 Type='3' Data='ffff'/> before
+  playing spies!<0 Type='4'/>Me and my brother, Nebb, can't take
+  classes yet, so we're only allowed on
+  the playground right now.
+Talk_13: |
+  <3 Type='0' Data='0800'/>Morning! A spy's job in the morning is to
+  get out of bed without fussing!
+Talk_04: |
+  <3 Type='0' Data='0700'/>Um, I'm in the middle of playing spies
+  now! My job's to investigate the village!<0 Type='4'/>I start at the <0 Type='3' Data='0000'/>school<0 Type='3' Data='ffff'/>, then pass in front of
+  the old mayor Reede's house.<0 Type='4'/>After that, I go by the Ton Pu Inn, <5 Type='0'/>then
+  <0 Type='3' Data='0000'/>Hateno Pasture<0 Type='3' Data='ffff'/> on top of the hill!<0 Type='4'/><3 Type='0' Data='0b00'/>I'd better get going. I don't want spy
+  number one to yell at me!
+Talk_14: |
+  <3 Type='0' Data='0800'/>Hellooo! The rule if you're a spy is that
+  you have to run a lot!
+Talk_15: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a005400680069006e006b00'/>The junior spy is sleepy now. G'night!
+Near_0002: |
+  School meetup time!
+Talk_06: |
+  <3 Type='0' Data='0700'/>I'm working on Sir Vaylence stuff for
+  A-Zoom right now! Wanna do it with me?<0 Type='4'/><3 Type='0' Data='0c01'/>Who's Sir Vaylence? <5 Type='1'/>Um...they're...<0 Type='4'/><3 Type='0' Data='0701'/><4 Type='0' Data='0c004c0061007500670068005300'/>I forgot!<0 Type='4'/>I'll ask my brother. <5 Type='1'/>I mean, spy
+  number one!
+Talk_16: |
+  <3 Type='0' Data='0700'/>It's raining. That's the best time for
+  splashing around!
+Near_0003: |
+  We're playing spies!
+Talk_17: |
+  <3 Type='0' Data='0700'/>Oh, it's spy number three!
+Near_0004: |
+  *pant* *pant*
+Talk_18: |
+  <3 Type='0' Data='0c01'/>My brother, Nebb, is spy number one.
+  Aaand I'm number two!<0 Type='4'/>A spy's job is to keep an eye out and
+  report to the big-time hero, A-Zoom, with
+  Sir Vaylence about any bad people.<0 Type='4'/><3 Type='0' Data='0700'/>But the <0 Type='3' Data='0000'/>lab <0 Type='3' Data='ffff'/>on top of the hill to the <0 Type='3' Data='0000'/>east<0 Type='3' Data='ffff'/>
+  is too far, so I can't go there.
+Talk_09: |
+  <3 Type='0' Data='0700'/>I'm finished playing spies for today.
+  If you wanna play, we're gonna go
+  again tomorrow.<0 Type='4'/>We meet up at the <0 Type='3' Data='0000'/>school<0 Type='3' Data='ffff'/> in the morning.
+  Don't be late!
+Talk_19: |
+  <3 Type='0' Data='0b00'/>Uh-oh! There's someone here!
+Near_0006: |
+  School time!

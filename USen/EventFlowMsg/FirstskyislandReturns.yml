@@ -1,0 +1,141 @@
+Talk_0008: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>Please speak to me again when you
+  are ready.
+Talk_0009: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Are you ready to attempt the ceremony<5 Type='0'/> so
+  that you may hear the <0 Type='3' Data='0000'/>story<0 Type='3' Data='ffff'/>?
+Talk_0039: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Ah. <5 Type='0'/>It is you.<0 Type='4'/>I see you are once again prepared to
+  attempt the ceremony <5 Type='0'/>and hear the story
+  of this island.
+Near_0001: |
+  I have been waiting.
+Talk_0011: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Very well. <5 Type='0'/>I will explain the ceremony.
+Talk_0040: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>As you wish.
+Talk_0012: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>There will be a delay before the ceremony
+  can begin. <5 Type='0'/>Please wait here until the time
+  bell tomorrow <0 Type='3' Data='0000'/>morning<0 Type='3' Data='ffff'/>. We can start then.<0 Type='4'/>Is that acceptable?
+Talk_0041: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>I wish you good fortune.
+Talk_0042: |
+  But you must not <0 Type='3' Data='0000'/>set foot on any surface<0 Type='3' Data='ffff'/>
+  other than the roof of this temple during
+  the ceremony.
+Near_0003: |
+  This island has a rich story.
+0020: |
+  Yes. I'm ready.
+0021: |
+  Not right now.
+Talk_0044: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='0e0045006100730065005f0030003100'/>I will now tell you the <0 Type='3' Data='0000'/>story<0 Type='3' Data='ffff'/> of the
+  Great Sky Island as promised.
+Talk_0015: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Do you want to hear the story again?
+Talk_0045: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Understood. <5 Type='0'/>Perhaps in the future you
+  will be ready. Speak to me again when
+  this happens and we will begin.
+Talk_0046: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>I see that you want to try once again to
+  complete the ceremony.
+Talk_0017: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>We have brought you into our confidence.<0 Type='4'/>Please take good care of the token I have
+  given you for completing the ceremony.
+Talk_0018: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Understood.
+Talk_0047: |
+  Do you want to hear an explanation of
+  the ceremony?
+Talk_0048: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>Let us wait for the islands to rise precisely
+  at the time of the 7:00 AM time bell.
+Talk_0019: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='08004500610073006500'/>Thank you for waiting.<5 Type='0'/> The time has come.
+Talk_0049: |
+  <3 Type='0' Data='0701'/>It is quite simple.
+Talk_0020: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>Light the <0 Type='3' Data='0000'/>three fires<0 Type='3' Data='ffff'/>.<5 Type='0'/> Then return here
+  before the next time bell rings <0 Type='3' Data='0000'/>12 hours
+  from now<0 Type='3' Data='ffff'/>.
+Talk_0050: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Understood. <5 Type='0'/>Let us wait for the islands to
+  rise precisely at the time of the morning-
+  time bell.
+Talk_0021: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='180057006f0072006b00480065006100760079005f0030003100'/>It is now time for the ceremony to begin.
+Talk_0022: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Yes? <5 Type='0'/>Does something trouble you?
+Talk_0023: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>I pray you are successful.
+0030: |
+  Let's hear it!
+Talk_0024: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0600530061006400'/>You want to withdraw? <5 Type='0'/>I see. Please wait
+  a moment.
+0031: |
+  No, thanks.
+Talk_0025: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Please speak to me again if you change
+  your mind.
+0003: |
+  Sounds good.
+Talk_0026: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Well done. <5 Type='0'/>You have proven
+  yourself capable.
+0004: |
+  Not now.
+Talk_0027: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>The <0 Type='3' Data='0000'/>Temple of Time<0 Type='3' Data='ffff'/> and the land it sits
+  upon were once found on the surface of
+  the world.<0 Type='4'/>This has changed. Its land and the lands
+  surrounding it now float in the sky.<0 Type='4'/>There is a reason for this. The hero who
+  will defeat the Demon King will one day
+  awaken at this very site.<0 Type='4'/><3 Type='0' Data='0701'/><4 Type='0' Data='180057006f0072006b00480065006100760079005f0030003100'/>The site must be kept safe from the
+  Demon King and his followers. <5 Type='0'/>It was
+  therefore raised high into the skies.<0 Type='4'/>The tremendous power of the sages
+  accomplished this feat long ago.
+0005: |
+  No. I'll get going.
+Talk_0028: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>That is the story of the Great Sky Island.
+0006: |
+  Can you explain again?
+Talk_0029: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>The sages who raised this land into the
+  sky directed me to give this token to the
+  one who heard my story.<0 Type='4'/>It is now yours.
+0007: |
+  I want to quit.
+Talk_0030: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0c004e006f007400690063006500'/>Your feet touched the ground. <5 Type='0'/>Let us
+  start over.
+Talk_0031: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0c004e006f007400690063006500'/>Your time is up. <5 Type='0'/>The bell has rung again.<5 Type='1'/>
+  Let us start over.
+Talk_0032: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='1200530075007200700072006900730065005300'/>You have left the island. <5 Type='0'/>Let us start over.
+0010: |
+  Yes. Tell me the story.
+Talk_0033: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0600530061006400'/>I am sorry. You have failed the ceremony.<5 Type='0'/>
+  I hope you will attempt it again.
+Talk_0005: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>I have been waiting for you.<0 Type='4'/>My purpose is to conduct a <0 Type='3' Data='0000'/>ceremony <0 Type='3' Data='ffff'/>to
+  test the strength of any visitors.<0 Type='4'/>Those who pass are told the <0 Type='3' Data='0000'/>story <0 Type='3' Data='ffff'/>of the
+  Great Sky Island.<0 Type='4'/><3 Type='0' Data='0701'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>I sense you are qualified to attempt
+  this ceremony.<0 Type='4'/>Please inform me when you are prepared
+  to begin.
+Talk_0034: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>You must light the <0 Type='3' Data='0000'/>three fires <0 Type='3' Data='ffff'/>on this
+  island<5 Type='0'/> and then return here <0 Type='3' Data='0000'/>within the
+  time limit<0 Type='3' Data='ffff'/>.
+0011: |
+  Maybe another time.
+Talk_0035: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='180057006f0072006b00480065006100760079005f0030003000'/>You have <0 Type='3' Data='0000'/>12 hours<0 Type='3' Data='ffff'/>.<0 Type='4'/>The sounding of the <0 Type='3' Data='0000'/>time bell<0 Type='3' Data='ffff'/> will signal
+  the start of the ceremony. <5 Type='0'/>It will end with
+  the sound of the next bell.<0 Type='4'/>This concludes my explanation.

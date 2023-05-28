@@ -1,0 +1,78 @@
+talk0001: |
+  <3 Type='0' Data='0701'/>Are you headed to Gerudo Canyon too?<0 Type='4'/>Just know that after you've crossed the
+  bridge, the guard up ahead is gonna give
+  you a test.
+Shiny_DegudoToGate: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0c004c0061007500670068005300'/>Anyway, I was studying all night, so I'm
+  sure I'll get it right today!
+1002: |
+  That's right.
+talk0002: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004e006f007400690063006500'/>I see! <5 Type='0'/>Sorry to hold you up.
+1003: |
+  Nope.
+Greeting_Evening: |
+  <4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Evenin'.
+talk0003: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0c004c0061007500670068005300'/>Oh, so you want to hear about the test
+  after all?
+Greeting_Day_Rain: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Want to shelter from the rain? There's
+  room for you here.
+talk0004: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Are your studies going well, fella?
+  <5 Type='0'/>Boy, are mine ever not.<0 Type='4'/><3 Type='0' Data='0301'/>I know you can pour water on yourself to
+  keep cool for a while, but that's it. That's
+  all I seem to retain.
+Rain_GateToDegudo: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='1000540069007200650064005f0030003100'/>But I still failed, and now, I'm wet. I'm a
+  wet failure.
+Balloon_Midnight: |
+  Hm.
+Common_00: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>That's right. All the questions are about
+  how to deal with hot and cold weather.<0 Type='4'/><3 Type='0' Data='0a01'/><4 Type='0' Data='0600530061006400'/>But no matter how many times I try,<5 Type='0'/>
+  I can't seem to pass.
+Common_01: |
+  <3 Type='0' Data='0a01'/>I thought I at least had the basics down—
+  splashing yourself with water to cool
+  down, stuff like that.
+Balloon_Evening: |
+  I felt so clueless.
+Shiny_GateToDegudo: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='0a005400680069006e006b00'/>But clearly, I'm not prepared enough.
+  I better get back to studying.
+Sleep_00: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='100053006c006500650070005f0030003000'/>Zzz...
+Passed_01: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>Oh, come on! You passed the test?!
+  That's not fair!
+Greeting_Midnight: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='100053006c006500650070005f0030003100'/>Remembering things hurts... This is why
+  I hate tests...
+Rain_DegudoToGate: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a005400680069006e006b00'/>Which reminds me, did you know there's
+  no rain in Gerudo Canyon?<0 Type='4'/>How can you splash yourself with water
+  when there's no water?! It boggles and
+  bends the mind!
+Passed_02: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0600530061006400'/>What is it, you test passer? Are you here
+  to gloat?
+Greeting_Morning_2: |
+  <4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Mornin'.
+1000: |
+  Test?
+InTent: |
+  <3 Type='0' Data='0701'/>Like, did you know that caves stay the
+  same cool temperature all day and night?<0 Type='4'/>Me neither! I just learned that...which
+  doesn't bode well for the test.
+Balloon_Day: |
+  This time I'll do it!
+talk0000: |
+  <3 Type='0' Data='0c01'/>Hey, wait!<5 Type='0'/> Are you headed to Gerudo
+  Canyon too?<0 Type='4'/>If you are, just know the guard up ahead
+  will give you a test.
+1001: |
+  I'm in a hurry.
+Greeting_Noon: |
+  <4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Hello.

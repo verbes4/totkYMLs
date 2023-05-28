@@ -1,0 +1,114 @@
+Ballon_0001: |
+  Hmmm... Hm hmmm...
+Ballon_0002: |
+  Focus...
+ChallengeTalk_001: |
+  ♪Leave the...♪<1 Type='3' Data='32000000'/>
+ChallengeTalk_002: |
+  ♪Leave the...rms... Leave the...rms...♪<1 Type='3' Data='32000000'/>
+  
+  
+  ♪If no...do you ha...♪<1 Type='3' Data='32000000'/>
+ChallengeTalk_003: |
+  ♪Leave the...rms... Leave the...rms...♪<1 Type='3' Data='32000000'/>
+  
+  
+  ♪If not...do you harm...♪<1 Type='3' Data='32000000'/>
+ChallengeTalk_004: |
+  ♪Leave the arms, leave the arms...
+  For if not, I'll do you harm.♪<1 Type='3' Data='32000000'/>
+Talk_0001: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1400480075006d006d0069006e0067005f0030003000'/>♪Seek the storm, seek the storm...♪
+  
+  
+  ♪Fear it not, you will stay warm.♪
+ChallengeTalk_005: |
+  <4 Type='0' Data='1400480075006d006d0069006e0067005f0030003000'/>♪Seek the storm, seek the storm...♪
+  
+  
+  ♪Fear it not, you will stay warm.♪
+ChallengeTalk_100: |
+  <3 Type='0' Data='0700'/>I'm going to keep practicing my singing in
+  this well! The acoustics are really nice.
+  
+  Maybe I could live here? Then I'd never
+  have to walk to practice my singing!
+  
+  Oh, but all these weapons are in the way.
+  I don't need them, so take as many as
+  you want!
+Talk_0002: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='0c004e006f007400690063006500'/>Oh, it's you! Did you come back to see
+  me? <5 Type='0'/>Or are you a well enthusiast?
+  
+  <3 Type='0' Data='0101'/>I'm sorry, but I'm right in the middle of
+  practicing my song.
+ChallengeTalk_006: |
+  <3 Type='0' Data='0501'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>...Huh?<5 Type='0'/> When did you get here?<5 Type='0'/> Do you
+  need something from me?
+Talk_0003: |
+  <4 Type='0' Data='0a0053006c00650065007000'/>Know the song so well... <5 Type='0'/>Storm-chasing
+  fox... <5 Type='0'/>Hehehe...
+ChallengeTalk_007: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>"Leave the arms"? <5 Type='0'/>What are you
+  talking about?
+  
+  I wasn't singing anything remotely like
+  that! I've never sung a song with
+  those lyrics...
+  <3 Type='0' Data='0101'/>♪Seek the storm, seek the storm...♪<5 Type='0'/>
+  Is that maybe what you heard?
+  
+  Because that's what I was singing!
+  
+  
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>You also heard "for if not, I'll do
+  you harm"?
+  
+  <3 Type='0' Data='0800'/><4 Type='0' Data='12004c0061007500670068004c005f0030003100'/>Leave your arms or I'll kill you? <5 Type='0'/>Hahaha!<5 Type='0'/>
+  What kind of nonsensical song is that?
+  
+  ♪Fear it not, you will stay warm.♪
+  
+  
+  Those are the lyrics I was singing! And if
+  you put it all together...
+  
+  <4 Type='0' Data='1400480075006d006d0069006e0067005f0030003000'/>♪Seek the storm, seek the storm...
+  Fear it not, you will stay warm.♪
+  
+  <3 Type='0' Data='0201'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>It's a song about a cute little fox who is
+  proud of their warm fur coat, and they
+  chase storms since they don't get cold!
+  <3 Type='0' Data='0001'/>Anyway, I'm not trying to cause trouble
+  or anything... <5 Type='1'/>But I don't think it's entirely
+  my fault if people misheard things either.
+  I just like how my voice sounds here.<5 Type='0'/>
+  Prettier. More refined.
+  
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0e0053006900670068005f0030003000'/>Hmph. It sounded fine to me, but
+  everyone else is hearing dire threats.
+  
+  "Leave the arms..." I guess that explains
+  why weapons kept getting thrown in the
+  well every morning.
+Talk_0004: |
+  <3 Type='0' Data='0700'/>I'm going to keep on practicing! It's the
+  only way to keep getting better!
+  
+  Help yourself to these weapons—they just
+  get in my way. <5 Type='1'/>Really, you're doing me a
+  favor by taking them!
+Talk_0010: |
+  <3 Type='0' Data='0201'/><4 Type='0' Data='0a005400680069006e006b00'/>I'm sorry, but could you leave me be?
+  I'm trying to focus right now...
+  
+  <3 Type='0' Data='0001'/>OK, focus. <5 Type='0'/>Fooocusss...
+ChallengeTalk_008: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='0c005300610064005f0030003000'/>They could be dangerous, so I collected
+  them all over there.
+  
+  I've got no interest in them, so feel free
+  to help yourself!
+Ballon_0000: |
+  ♪Seek the storm...♪

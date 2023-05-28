@@ -1,0 +1,223 @@
+near0003: |
+  Wind's good again today.
+Talk1022: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>Sorry, but nothing comes between the
+  two of us, not even you.<0 Type='4'/>I met my wife in <0 Type='3' Data='0000'/>Lurelin Village<0 Type='3' Data='ffff'/>, to the
+  south of here.<0 Type='4'/>She's the most beautiful woman in
+  Hateno Village. Maybe even all of Hyrule!<0 Type='4'/><3 Type='0' Data='0500'/>The two of us have always guarded the
+  windmills in shifts.<0 Type='4'/>Except something bad is happening in her
+  hometown, and she's been pretty broken
+  up about it.<0 Type='4'/>She's at home now resting.<0 Type='4'/><3 Type='0' Data='0100'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>I picked this spot because you can see
+  both the windmills and my house clearly
+  from here.<0 Type='4'/>If anything happens, I can come running
+  at once.
+Comment_03: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hey there. <5 Type='0'/>Good evening.
+near0004: |
+  All's well with the windmills!
+Talk1023: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Sorry. This is the perfect spot to keep an
+  eye both on the windmills and my <0 Type='3' Data='0000'/>darling
+  wife<0 Type='3' Data='ffff'/>. I'm not giving it up.<0 Type='4'/>Your time would be better spent checking
+  out the <0 Type='3' Data='0000'/>farm <0 Type='3' Data='ffff'/>or the <0 Type='3' Data='0000'/>research lab<0 Type='3' Data='ffff'/>.
+Comment_04: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1a00410064006d00690072006100740069006f006e005f0030003100'/>So you're our savior, huh? I thought
+  you'd be tougher looking.<0 Type='4'/>But you must be pretty strong beneath
+  the surface.<0 Type='4'/>Did I tell you before in Hateno Village that
+  my wife is from here?<0 Type='4'/>She'd been feeling awful ever since those
+  pirates attacked.<0 Type='4'/><3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>But after you sent them packing, we
+  decided it was time to move.<0 Type='4'/>Guess I should start learning the ins and
+  outs of the Lurelin dialect.
+near0005: |
+  It's nice even at night.
+Talk1024: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='26005100750065007300740069006f006e00530075007200700072006900730065005f0030003100'/>Oh, were you not on your way to Hateno
+  Pasture up ahead?<0 Type='4'/><3 Type='0' Data='0701'/>I know most folks here are obsessed with
+  <0 Type='3' Data='0000'/>Cece-brand<0 Type='3' Data='ffff'/> fashion right now.<0 Type='4'/>But the best thing about this village
+  is and always will be the bounty of
+  its farmlands.<0 Type='4'/>Have a bottle of our freshly squeezed
+  milk, and you'll know what I mean.
+Comment_05: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='26005100750065007300740069006f006e00530075007200700072006900730065005f0030003100'/>Huh. Are you the one who saved the
+  village? I thought you'd look tougher.<0 Type='4'/>You must be pretty strong beneath
+  the surface.<0 Type='4'/><3 Type='0' Data='0701'/>I'm from Hateno Village, but my wife is
+  from here originally.<0 Type='4'/>She'd been feeling awful ever since those
+  pirates attacked.<0 Type='4'/><3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>But after you sent them packing, we
+  decided it was time to move.<0 Type='4'/>Guess I should start learning the ins and
+  outs of the Lurelin dialect.
+Talk1025: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Huh? So you weren't on your way to the
+  research lab up the hill?<0 Type='4'/><3 Type='0' Data='0701'/>They started that place as a center to
+  research ancient ruins.<0 Type='4'/>Now, though, I've heard they're hard at
+  work on some kind of...padding, I think?<0 Type='4'/><3 Type='0' Data='0700'/>Anyway, for a while the place was quiet,
+  but now Robbie's back again.<0 Type='4'/>So the banging and clanging is as fierce
+  as it ever was.<0 Type='4'/>Whatever this padding they're hard at
+  work on is, my bet is that it'll go down as
+  one of the <0 Type='3' Data='0000'/>great inventions<0 Type='3' Data='ffff'/> of the century.
+Comment_06: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hey there. <5 Type='0'/>Good afternoon.
+Comment_07: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hey there. <5 Type='0'/>Good morning.
+Comment_08: |
+  <3 Type='0' Data='0701'/>Thank you not just for rebuilding this
+  village, but for whatever you did to help
+  my wife with her work.<0 Type='4'/>She's a happier woman for it, I'll tell you
+  that much.
+Talk1010: |
+  <3 Type='0' Data='0700'/>My wife's been fretting over whether
+  there's anything she can do to help make
+  Lurelin Village famous.<0 Type='4'/>She's at <0 Type='3' Data='0000'/>the village head's house<0 Type='3' Data='ffff'/> if you
+  want to hear it directly from her.<0 Type='4'/>It's gotten so bad, I can barely sleep at
+  night next to the sound of her muttering.<0 Type='4'/>I'm here to pray to the sea that she finds
+  the answer she's looking for.
+Talk1029: |
+  <3 Type='0' Data='0700'/>Isn't this spot nice and quiet? Not like
+  the bustle of the village below.<0 Type='4'/>My wife and I like Cece well enough, but
+  all that commotion is a bit much for us.
+Talk1011: |
+  <3 Type='0' Data='0800'/>A beautiful wife, good food, and that
+  breathtaking sea view! What could be
+  better than this?
+Talk1012: |
+  <3 Type='0' Data='0700'/>Oh, Ralera... <5 Type='0'/>You're more beautiful than
+  the lapping waves under the rising sun.
+0000: |
+  What farm?
+Talk1013: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1a0055006e006400650072007300740061006e0064005f0030003000'/>Ah, Ralera... <5 Type='0'/>You're prettier than the sky
+  with all its stars.
+0001: |
+  What research lab?
+Talk1014: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>Hee-hee. You must have said that to me
+  ten thousand times by now.
+NakedPlayer: |
+  What primitive fashion.
+0002: |
+  What darling wife?
+Talk1015: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>Ooh! A shooting star! I wonder what we'd
+  find if we went to where it fell?
+0003: |
+  Goodbye.
+Talk1016: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>Hee-hee. I love you too.
+Talk1040: |
+  <3 Type='0' Data='0700'/>Well then, where are you going? The only
+  other place around here is the <0 Type='3' Data='0000'/>farm<0 Type='3' Data='ffff'/>.
+Talk1017: |
+  <3 Type='0' Data='0800'/>A beautiful wife and that breathtaking sea
+  view! This is the life!
+Talk1018: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hey there. A fellow rain fan, are you?
+  I love it outdoors in the rain. It makes
+  the land smell so rich and alive.
+Talk1041: |
+  <3 Type='0' Data='0700'/>Well then, where are you going?<0 Type='4'/>If you came out here, you must be after
+  either the <0 Type='3' Data='0000'/>farm <0 Type='3' Data='ffff'/>or the <0 Type='3' Data='0000'/>research lab<0 Type='3' Data='ffff'/>.
+SagonoHat: |
+  A new Cece piece?
+Talk1019: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Morning. Nice weather to get some
+  sunlight, isn't it?
+Talk1042: |
+  <3 Type='0' Data='0700'/>If you weren't headed to the <0 Type='3' Data='0000'/>farm<0 Type='3' Data='ffff'/>...maybe
+  you're looking for the <0 Type='3' Data='0000'/>research lab<0 Type='3' Data='ffff'/>?
+Talk1001: |
+  <3 Type='0' Data='0500'/><4 Type='0' Data='0e00540072006f00750062006c006500'/>I thought moving to this village would
+  make my wife happy again.<0 Type='4'/>But she's just been fretting over whether
+  there's anything she can do to help make
+  Lurelin Village famous.<0 Type='4'/><3 Type='0' Data='0701'/>She's at <0 Type='3' Data='0000'/>the village head's house<0 Type='3' Data='ffff'/> if you
+  want to hear it directly from her.<0 Type='4'/>Who knows? Maybe talking it out with
+  someone outside the situation will help
+  her come up with something.
+Talk1043: |
+  <3 Type='0' Data='0700'/>Sorry. Once I start talking about my wife,
+  it's hard to know when to stop.
+Talk1002: |
+  <3 Type='0' Data='0700'/>The menu for the food here changes
+  every time I come. I eat here every day,
+  and I'm still not tired of it.
+Talk1044: |
+  <3 Type='0' Data='0500'/><4 Type='0' Data='0e00540072006f00750062006c006500'/>I thought moving to this village would
+  make my wife happy again.<0 Type='4'/>But she's just been fretting over whether
+  there's anything she can do to help make
+  Lurelin Village famous.<0 Type='4'/><3 Type='0' Data='0701'/>She's <0 Type='3' Data='0000'/>out front<0 Type='3' Data='ffff'/> if you want to hear it
+  directly from her.<0 Type='4'/>Who knows? Maybe talking it out with
+  someone outside the situation will help
+  her come up with something.
+Talk1003: |
+  <4 Type='0' Data='0a0053006c00650065007000'/>Raaaleraaa! I love youuu!
+Comment_10: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hey there. <5 Type='0'/>Good morning. Too bad about
+  this weather, huh?
+Talk1006: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1a0055006e006400650072007300740061006e0064005f0030003000'/>Oh, Ralera...<5 Type='0'/> You're more beautiful than
+  the lapping waves under the setting sun.
+Talk1030: |
+  <3 Type='0' Data='0701'/>It's rare to see travelers out here.<0 Type='4'/>Unless...<5 Type='1'/>uh-oh.<5 Type='1'/>
+Comment_11: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hey there. <5 Type='0'/>Good afternoon. Too bad about
+  this weather, huh?
+Talk1007: |
+  <3 Type='0' Data='0700'/>My wife's been fretting over whether
+  there's anything she can do to help make
+  Lurelin Village famous.<0 Type='4'/>She's at <0 Type='3' Data='0000'/>the village head's house<0 Type='3' Data='ffff'/> if you
+  want to hear it directly from her.<0 Type='4'/>Who knows? Maybe talking it out with
+  someone outside the situation will help
+  her come up with something.
+Talk1031: |
+  <3 Type='0' Data='0100'/>Hah! I'm just kidding you.<0 Type='4'/>No doubt you're here looking for the <0 Type='3' Data='0000'/>farm<0 Type='3' Data='ffff'/>
+  or the <0 Type='3' Data='0000'/>research lab<0 Type='3' Data='ffff'/>.
+Comment_12: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hey there. <5 Type='0'/>Good evening. Too bad about
+  this weather, huh?
+Talk1008: |
+  <3 Type='0' Data='0500'/><4 Type='0' Data='0e00540072006f00750062006c006500'/>I thought moving to this village would
+  make my wife happy again.<0 Type='4'/>But she's just been fretting over whether
+  there's anything she can do to help make
+  Lurelin Village famous.<0 Type='4'/><3 Type='0' Data='0701'/>She's at <0 Type='3' Data='0000'/>the village head's house<0 Type='3' Data='ffff'/> if you
+  want to hear it directly from her.<0 Type='4'/>It's gotten so bad, I can barely sleep at
+  night next to the sound of her muttering.<0 Type='4'/>I'm here to pray to the sea that she finds
+  the answer she's looking for.
+Talk1032: |
+  <3 Type='0' Data='0900'/><4 Type='0' Data='1a005100750065007300740069006f006e0041006e00670072007900'/>You haven't come to steal away my
+  <0 Type='3' Data='0000'/>darling wife<0 Type='3' Data='ffff'/>, have you?
+Talk1009: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Do you mind if I get out of this rain before
+  we talk?
+Talk1033: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Huh? So you weren't on your way to the
+  research lab up the hill?<0 Type='4'/><3 Type='0' Data='0701'/>Just as well, I suppose.<0 Type='4'/>The lab's empty. Purah and Robbie, the
+  researchers who used it, have gone off to
+  <0 Type='3' Data='0000'/>Lookout Landing<0 Type='3' Data='ffff'/> near Hyrule Castle. 
+Talk1034: |
+  <3 Type='0' Data='0701'/>I keep seeing you around here.<0 Type='4'/>Hang on...<5 Type='1'/>uh-oh.<5 Type='1'/>
+Talk1035: |
+  <3 Type='0' Data='0701'/>So...are we done here? I don't want to
+  take my eyes off the windmills or the
+  house for too long.
+Talk1036: |
+  <3 Type='0' Data='0700'/>Next to what my wife's going through,
+  skipping a night's sleep to guard the
+  windmills is nothing.<0 Type='4'/>The hard part is when I'm done and go
+  back home to see her so downhearted.
+near0000: |
+  Getting wet out, huh?
+Talk1020: |
+  <3 Type='0' Data='0700'/>Hello. Nice weather to feel the breeze,
+  isn't it?
+Talk1038: |
+  <3 Type='0' Data='0701'/>I liked life in Hateno Village, but I can't
+  deny how nice it is here in Lurelin.<0 Type='4'/>I'm thinking I might stay here a while,
+  especially since I've got my lovely wife
+  to keep me company.<0 Type='4'/>An easy life where I get to look out to sea
+  whenever I want isn't half bad.
+near0002: |
+  Smell that damp soil...
+Talk1021: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Evening. Nice night to be under the stars,
+  isn't it?
+Talk1039: |
+  <3 Type='0' Data='0700'/>If you weren't headed to the <0 Type='3' Data='0000'/>research
+  lab<0 Type='3' Data='ffff'/>...maybe you're looking for the <0 Type='3' Data='0000'/>farm<0 Type='3' Data='ffff'/>?

@@ -1,0 +1,24 @@
+Name: |
+  Bring Peace to Eldin!
+Move: |
+  Monsters have infested Eldin, and Toren
+  is leading his squad on a mission to attack
+  their stronghold.
+  
+  The squad plans to get closer to the stronghold
+  first and then launch their attack. <0 Type='3' Data='0000'/>Head for the
+  stronghold <0 Type='3' Data='ffff'/>with the monster-control crew.
+Exterminate: |
+  The squad of the monster-control crew led by
+  Toren is fighting monsters in Eldin.
+  
+  Join the squad, and help them <0 Type='3' Data='0000'/>take down every
+  last monster<0 Type='3' Data='ffff'/>!
+Complete: |
+  You helped Toren's squad of the monster-
+  control crew by defeating the monsters in the
+  cave stronghold.
+  
+  The squad's next destination is the <0 Type='3' Data='0000'/>Akkala Span
+  in Akkala<0 Type='3' Data='ffff'/>, which is found in the <0 Type='3' Data='0000'/>northeast<0 Type='3' Data='ffff'/>
+  region of Hyrule.

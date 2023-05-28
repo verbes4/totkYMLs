@@ -1,0 +1,26 @@
+Name: |
+  Bring Peace to Faron!
+Craft: |
+  The squad of the monster-control crew led by
+  Flaxel is having a hard time figuring out how to
+  take out monsters that have infested a ship.
+  
+  The creatures have destroyed the only bridge
+  leading to the ship. Without first <0 Type='3' Data='0000'/>repairing the
+  bridge<0 Type='3' Data='ffff'/>, it'll be difficult for the crew to board
+  the ship.
+Exterminate: |
+  With the bridge to the ship repaired, the
+  monster-control crew began their assault
+  on the monsters.
+  <0 Type='3' Data='0000'/><0 Type='3' Data='ffff'/>
+  Join the crew and help them eliminate
+  <0 Type='3' Data='0000'/>every last monster<0 Type='3' Data='ffff'/>!
+Complete: |
+  All of the monsters aboard the ship moored in
+  the Menoat River have been defeated!
+  
+  Flaxel plans to lead her monster-control-crew
+  squad to the <0 Type='3' Data='0000'/>South Tabantha Snowfield <0 Type='3' Data='ffff'/>next.
+  It's in <0 Type='3' Data='0000'/>Hebra to the northwest<0 Type='3' Data='ffff'/>. She asked you to
+  assist her squad again if you have the chance.

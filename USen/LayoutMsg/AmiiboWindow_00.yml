@@ -1,0 +1,26 @@
+1000: |
+  OK
+0000: |
+  You cannot use amiibo until you've reached
+  a certain point in the game. Try again after
+  you've made some progress.
+1001: |
+  Enable amiibo
+2001: |
+  You can now use the amiibo functionality.
+  (An amiibo can be used only once a day.) You can
+  change this setting on the Options menu at any time.
+0001: |
+  You can use an amiibo to summon something useful.
+  (You never know what's going to come through when
+  you use one!) Would you like to enable this function?
+1002: |
+  Disable amiibo
+2002: |
+  You can no longer use amiibo. You can change
+  this setting on the Options menu at any time. 
+0002: |
+  Your current settings allow the use of the amiibo
+  functionality. Would you like to disable the use of amiibo?
+1003: |
+  Cancel

@@ -1,0 +1,33 @@
+Name: |
+  Homegrown in Hateno
+Step02: |
+  Reede asked you to protect the field from
+  monsters from the middle of the night until
+  daybreak.
+  
+  As he's not a trained fighter, it's up to you to
+  protect Reede and his field from monsters
+  until daybreak.
+ReChallenge: |
+  Reede asked you to protect the field from
+  monsters from the middle of the night until
+  daybreak.
+  
+  You were forced to retreat on your last attempt,
+  but you can try again to keep Reede and the
+  field safe until daybreak.
+Step01: |
+  Reede has been secretly developing Cece-
+  brand vegetables. He's ready to start growing
+  them in earnest, but monsters come at night
+  to wreck his field.
+  
+  Work with Reede to protect the field so his
+  vegetables can ripen.
+Complete: |
+  You routed the monsters invading Reede's
+  field, allowing the vegetables Reede worked so
+  hard on developing to flourish. The vegetables,
+  grown using Cece's principles of style and
+  named <0 Type='3' Data='0000'/>sun pumpkins<0 Type='3' Data='ffff'/>, will be sold as a true
+  Hateno signature staple.

@@ -1,0 +1,28 @@
+New: |
+  New
+0003: |
+  Side Quests
+0004: |
+  Memories
+ClearNum: |
+  <2 Type='14' Data='2600530069006d0070006c00650049006e00740046006f0072004d00650073007300610067006500ffff01cd'/>/<2 Type='14' Data='2800530069006d0070006c00650049006e00740046006f0072004d006500730073006100670065003200ffff01cd'/>
+1000: |
+  Cancel
+1001: |
+  View Memory
+Update: |
+  Update
+Clear_Memory: |
+  Clear:
+T_Clear_00: |
+  Complete
+Pa_NoDestinationMark_00-T_NoDestination_00: |
+  No objective set
+0000: |
+  Main Quests
+0001: |
+  Side Adventures
+Clear: |
+  Complete:
+0002: |
+  Shrine Quests

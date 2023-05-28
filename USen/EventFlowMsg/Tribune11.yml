@@ -1,0 +1,381 @@
+talk0020: |
+  <3 Type='0' Data='0900'/>Princess Zelda has given the order!<5 Type='0'/> So,
+  here we go, Sango!
+talk0021: |
+  <3 Type='0' Data='0900'/>It won't be scary if we both go together,
+  all at once! On the count of three...<5 Type='1'/>
+  One...<5 Type='1'/>two...<5 Type='1'/>three!
+  ...<5 Type='1'/>
+talk0068: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='08004500610073006500'/>What...<5 Type='1'/> Oh, <5 Type='0'/>it's one of us. Just another
+  survey-team member.
+  
+  Sorry. I thought you were a <0 Type='3' Data='0000'/>monster<0 Type='3' Data='ffff'/>.
+0001: |
+  Princess Zelda's orders?
+talk0022: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='08004500610073006500'/>What...<5 Type='1'/> Oh, it's...<5 Type='0'/>you. I thought it was 
+  a <0 Type='3' Data='0000'/>monster<0 Type='3' Data='ffff'/>.
+talk0069: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='08004500610073006500'/>Oh, just you again.<5 Type='0'/> Sorry, I was sure you
+  were a monster this time.
+talk0071: |
+  <3 Type='0' Data='0800'/>Wait, are you serious?!<5 Type='1'/> You're in your
+  underpants, so you look prepared to
+  take this on.
+  <3 Type='0' Data='0701'/>But we'll hold on to <0 Type='3' Data='0000'/>any gear you have<0 Type='3' Data='ffff'/>,
+  all right?
+talk0024: |
+  <3 Type='0' Data='0700'/>We're trying to conduct research on the
+  <0 Type='3' Data='0000'/>monsters <0 Type='3' Data='ffff'/>holed up in this cave.
+  
+  But look at us.<5 Type='0'/> We're hardly geared up
+  to deal with any threats.
+  
+  We can't bring ourselves to go in there.
+  Our research is...<5 Type='0'/>at a standstill.
+talk0072: |
+  <3 Type='0' Data='0700'/>Now then, <5 Type='0'/>I'll hold on to any equipment
+  you may have!
+talk0025: |
+  <3 Type='0' Data='0700'/>Princess Zelda sent out very specific
+  directions for us on the survey team, and
+  it's this, word for word...
+  "We will only find our future if we chart
+  a new course, leaving the safety of
+  indoor study for exploration in the wild.
+  "So, prepare your mind and body, and
+  then explore in underpants!"
+  
+  I know Princess Zelda wants us to do it
+  this way. But we're really only members
+  of the survey team.
+  <3 Type='0' Data='0a00'/>It's scary enough to deal with monsters
+  with equipment. But...without any?
+talk0073: |
+  <3 Type='0' Data='0700'/>Oh...<5 Type='1'/> You must be a new survey-team
+  member, if you're dressed like us.
+  
+  <3 Type='0' Data='0701'/>There are <0 Type='3' Data='0000'/>monsters <0 Type='3' Data='ffff'/>holed up in this cave.<5 Type='1'/>
+  Sorry. This place is off-limits for now.
+talk0026: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0a005400680069006e006b00'/>*sigh*<5 Type='1'/> If only someone could do this,
+  show us how it's done... Well, then we
+  could try to do it without gear too.
+talk0074: |
+  <3 Type='0' Data='0700'/>We'll handle defeating the monsters!
+  
+  
+  That way, you can keep doing your best
+  work in your underpants without fear!
+talk0027: |
+  <3 Type='0' Data='0900'/>All right, Sango! Let's try it again—in the
+  name of superior research!
+talk0075: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0e0047006f006f006400620079006500'/><FontSize Value='125'/>Soar long!<FontSize Value='100'/>
+0007: |
+  Uh, what's going on?
+talk0028: |
+  <3 Type='0' Data='0800'/>Are you serious?!
+  
+  
+  <3 Type='0' Data='0101'/>You'll need to go in<0 Type='3' Data='0000'/> wearing as little as
+  we are<0 Type='3' Data='ffff'/>. You're sure about this?
+talk0029: |
+  <3 Type='0' Data='0a00'/>That's...<5 Type='0'/>disappointing. But if you don't
+  want to do it, I guess that's just how
+  it goes.
+  I hoped you'd show us how it's supposed
+  to be done. It'd be inspiring!
+talk0030: |
+  <3 Type='0' Data='0700'/>Now then, <5 Type='0'/>I'll hold on to your other
+  clothes and any equipment you may have!
+0009: |
+  I'll try it.
+0010: |
+  Good luck!
+talk0031: |
+  <3 Type='0' Data='0700'/>Just give me a shout when you want your
+  equipment back!
+0011: |
+  That's fine.
+talk0032: |
+  <3 Type='0' Data='0700'/>We'll hold back and learn your methods
+  from a distance. We're...<5 Type='0'/>just not confident
+  in the whole physical side of this.
+talk0081: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c005300610064005f0030003000'/>They went to look into a <0 Type='3' Data='0000'/>monster den <0 Type='3' Data='ffff'/>up
+  this mountain road—and haven't come
+  back yet.
+0012: |
+  On second thought...
+talk0033: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Oh! What's up?
+talk0082: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a005400680069006e006b00'/>This spot used to see a lot of travelers
+  coming through here on their way to
+  Goron City.
+  But they're mostly taking a new road now.
+  So monsters have been making their home
+  in the area.
+  I've been telling folks that it's too
+  dangerous around here to walk around
+  in just their underpants.
+  They won't listen to me though.
+  They insist they're following Princess
+  Zelda's orders.
+  <3 Type='0' Data='0c00'/>I've also heard that some of these
+  under-dressed men have set off to
+  explore a place near here.
+0013: |
+  I'm out for now.
+0014: |
+  Never mind.
+talk0084: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='180057006f0072006b00480065006100760079005f0030003100'/>Working in just your underpants...can
+  sound difficult, I know...
+talk0036: |
+  <3 Type='0' Data='0700'/>Well then,<5 Type='0'/> let me return the equipment
+  I was holding for you. Give us a shout if
+  you change your mind!
+talk0037: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Wow!<5 Type='0'/> You survived!
+0016: |
+  I actually beat them.
+talk0038: |
+  <3 Type='0' Data='0b00'/>What?!<5 Type='0'/> You really defeated the monsters
+  wearing only your underpants?
+  
+  <3 Type='0' Data='0801'/>I'm going to tell the other members of the
+  team about your stunning work here.
+  
+  Please, join us back at Foothill Stable!
+talk0039: |
+  <3 Type='0' Data='0800'/>Thank you!
+  
+  
+  <3 Type='0' Data='0701'/>OK then,<5 Type='0'/> I'll return the gear that I was
+  holding for you.
+talk0040: |
+  <3 Type='0' Data='0700'/>We'll head back to <0 Type='3' Data='0000'/>Foothill Stable <0 Type='3' Data='ffff'/>and
+  wait for you there!
+talk0088: |
+  <3 Type='0' Data='0900'/>We'll step into the den for sure this time,
+  Drant! One...<5 Type='0'/>two...<5 Type='0'/>three!<5 Type='1'/>
+talk0041: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Oh, great!<5 Type='0'/> You came!
+talk0100: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a0054006900720065006400'/>*huff* *huff*<5 Type='1'/> Phew! H-hello there,
+  traveler...
+  
+  You have an interest in the...<5 Type='0'/>brilliant
+  guidance of...<5 Type='0'/>Princess Zelda too?
+0021: |
+  I'll leave you to it.
+talk0090: |
+  <3 Type='0' Data='0900'/><4 Type='0' Data='20005100750065007300740069006f006e0053007500720070007200690073006500'/>Y-<5 Type='0'/>you didn't move either, Drant!
+talk0089: |
+  <3 Type='0' Data='0901'/>Er...<5 Type='0'/>four...<5 Type='0'/>five...<5 Type='0'/>six...
+talk0042: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Incredible! Please, tell us how this is
+  actually done!
+talk0101: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a0054006900720065006400'/>*huff* *huff*<5 Type='1'/> Phew! Good morning,
+  traveler...
+  
+  You have an interest in the...<5 Type='0'/>brilliant
+  guidance of...<5 Type='0'/>Princess Zelda too?
+talk0091: |
+  <3 Type='0' Data='0901'/><4 Type='0' Data='08004500610073006500'/>Uh...<5 Type='1'/>maybe I'll count to 100?
+talk0043: |
+  <3 Type='0' Data='0700'/>Um...<5 Type='1'/> Excuse me.<5 Type='0'/>
+  
+  
+  What's all this with wearing only
+  <0 Type='3' Data='0000'/>underpants<0 Type='3' Data='ffff'/>?
+talk0102: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a0054006900720065006400'/>*huff* *huff*<5 Type='1'/> Phew! Good evening,
+  traveler...
+  
+  You have an interest in the...<5 Type='0'/>brilliant
+  guidance of...<5 Type='0'/>Princess Zelda too?
+talk0092: |
+  <FontSize Value='125'/><3 Type='0' Data='0400'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003100'/>Aaaaaah!<5 Type='1'/><FontSize Value='100'/>
+talk0044: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Oh, sorry!<5 Type='1'/> I guess you haven't heard
+  Princess Zelda's order for all of us on
+  the survey team yet.
+  She said we had to leave the comfort
+  of studying indoors. She ended with
+  these words...
+  <3 Type='0' Data='0701'/>"So, prepare your mind and body, and
+  then <0 Type='3' Data='0000'/>explore in underpants<0 Type='3' Data='ffff'/>!"
+talk0103: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a0054006900720065006400'/>*huff* *huff*<5 Type='1'/> Hello... So, given you're
+  dressed in our new uniform, you must
+  be a new member of our survey team.
+talk0093: |
+  Have you decided not to show us the
+  superior skill of fending off threats in
+  only your underpants?
+talk0045: |
+  <3 Type='0' Data='0c00'/>No, I got the order too.<5 Type='0'/> That's why I'm
+  all the way out here doing research.
+  
+  <3 Type='0' Data='0701'/>But what Princess Zelda REALLY said
+  was this...
+  
+  "So, prepare your mind and body, and
+  then<0 Type='3' Data='0000'/> explore all other paths<0 Type='3' Data='ffff'/>!"
+  
+  Not...<5 Type='0'/>what you guys thought.
+talk0046: |
+  <1 Type='2'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003100'/><FontSize Value='125'/>Wh-what's that?!<FontSize Value='100'/>
+talk0095: |
+  <3 Type='0' Data='0800'/>Why not join our efforts here?
+  
+  
+  Our survey work has never felt more
+  adventurous than in our underpants!
+talk0047: |
+  <3 Type='0' Data='0701'/>Then all this time we've spent doing
+  our survey research in our underpants
+  was...<5 Type='0'/>a total waste of time?
+talk0001: |
+  <3 Type='0' Data='0700'/>There you are, partner!<5 Type='0'/> Have you seen all
+  the <0 Type='3' Data='0000'/>men in underpants<0 Type='3' Data='ffff'/> at the stable?
+talk0106: |
+  <3 Type='0' Data='0c00'/>I've heard...<5 Type='1'/>that some of these
+  under-dressed men have set off to
+  explore a place near here.
+talk0096: |
+  <3 Type='0' Data='0900'/>Huh? <5 Type='0'/>Sango? Why didn't you go?
+talk0048: |
+  <3 Type='0' Data='0c00'/>Well, not entirely... 
+  
+  
+  <3 Type='0' Data='0701'/>Princess Zelda did say to strengthen our
+  <0 Type='3' Data='0000'/>mind and body<0 Type='3' Data='ffff'/>, and to go outside to push
+  ourselves. To excel like never before!
+talk0002: |
+  <3 Type='0' Data='0700'/>I've been listening to the chirps and
+  warbles from my sources.
+  
+  They said that <0 Type='3' Data='0000'/>Princess Zelda<0 Type='3' Data='ffff'/> ordered 
+  all the members of the Zonai Survey
+  Team here to dress that way.
+talk0097: |
+  <3 Type='0' Data='0700'/>OK. Dangerous research happening here.
+  Please, stand back.
+talk0050: |
+  <3 Type='0' Data='0c00'/>Uh-huh. I see...<5 Type='1'/> So, the chirps and
+  warbles that started us off here really
+  paid off in the end. What a story!
+  <3 Type='0' Data='0701'/>The team here botched the listening part
+  and went overboard with the doing part.
+  Still, that's commitment!
+  Well, one thing's for sure. Princess Zelda
+  really is a top-notch leader. What a
+  powerful inspiration she is!
+talk0051: |
+  <3 Type='0' Data='0801'/>With that, I'll take wing. This story isn't
+  going to write itself, after all!
+talk0052: |
+  <3 Type='0' Data='0701'/>Everyone! This is the one who did our
+  survey team a great service, defeating
+  the monsters in just his underpants.
+talk0099: |
+  <3 Type='0' Data='0801'/>Is that not the spirit of what we were
+  trying to do?<5 Type='1'/> Our methods as researchers
+  have been truly tested!
+  <3 Type='0' Data='0700'/>Come on! Let's return to our work and
+  keep this high standard forever!
+talk0053: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1400430061006c006c004600610072005f0030003100'/>Hey, traveler! The cave isn't over there!
+talk0054: |
+  <3 Type='0' Data='0700'/>Good luck defeating the monsters!
+Near0001: |
+  Underpants? Hmm...
+talk0055: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='1200530075007200700072006900730065004d00'/>W-wait!<5 Type='0'/> You there. Stop!
+Near0002: |
+  Mind and body, as one!
+talk0008: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='180057006f0072006b00480065006100760079005f0030003100'/>Hah!<5 Type='0'/> Haaah!<5 Type='0'/> From now on, we of the
+  survey team must pursue excellence on
+  two fronts at once! <5 Type='0'/>Mind and body!
+  <3 Type='0' Data='0000'/><0 Type='3' Data='0000'/><4 Type='0' Data='180057006f0072006b00480065006100760079005f0030003000'/>Princess<0 Type='3' Data='ffff'/> <0 Type='3' Data='0000'/>Zelda<0 Type='3' Data='ffff'/>...<5 Type='0'/>in all her brilliance...<5 Type='0'/>
+  has given us our marching <0 Type='3' Data='0000'/>orders<0 Type='3' Data='ffff'/>!<5 Type='0'/> We
+  must live up to her expectations!
+talk0057: |
+  <3 Type='0' Data='0c01'/>I couldn't help noticing, partner...<5 Type='0'/> The
+  way you're dressed...<5 Type='1'/>are you planning to
+  investigate these fellows undercover?
+  <3 Type='0' Data='0800'/>Well, that could be a smart way to get
+  the real story from those men. That
+  takes some guts, kid.
+talk0009: |
+  The order she gave to the survey team
+  was this, word for word...
+  
+  <3 Type='0' Data='0700'/>"We will only find our future if we chart
+  a new course, leaving the safety of
+  indoor study for exploration in the wild.
+  "So, prepare your mind and body, and
+  then <0 Type='3' Data='0000'/>explore in underpants<0 Type='3' Data='ffff'/>!"
+  
+  And, traveler, I will tell you, when
+  Princess Zelda gave our team those
+  marching orders...<5 Type='0'/>we marched!
+  <3 Type='0' Data='0701'/>So, that's why we're here, surveying
+  monsters in our underpants.
+talk0058: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='08004500610073006500'/>Phew!<5 Type='1'/> That was close...<5 Type='0'/>
+  
+  
+  <3 Type='0' Data='0700'/>This cave is <0 Type='3' Data='0000'/>a dangerous place<0 Type='3' Data='ffff'/>, so please
+  don't get close!
+talk0059: |
+  <3 Type='0' Data='0700'/>Oh...<5 Type='1'/>a traveler.
+  
+  
+  <3 Type='0' Data='0701'/>There are <0 Type='3' Data='0000'/>monsters <0 Type='3' Data='ffff'/>holed up in this cave.<5 Type='1'/>
+  Sorry. This place is off-limits for now.
+talk0060: |
+  <3 Type='0' Data='0700'/>We've been asked to survey and defeat
+  the monsters.
+  
+  <3 Type='0' Data='0a00'/>But, er...<5 Type='1'/> Pay no mind to our, hmm,
+  official uniforms here.
+talk0061: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Why would Princess Zelda give such a
+  reckless order to the survey team?<5 Type='1'/>
+  
+  These chirps and warbles are going to
+  give us a real story to report on...<5 Type='0'/>
+  I just know it.
+Near0006: |
+  Here I gooo!
+Near0007: |
+  Aaah!
+talk0063: |
+  <3 Type='0' Data='0000'/>You must have heard <0 Type='3' Data='0000'/>Princess Zelda<0 Type='3' Data='ffff'/>'s<0 Type='3' Data='0000'/><0 Type='3' Data='ffff'/>
+  order, which was this, word for word...<5 Type='0'/>
+  
+  <3 Type='0' Data='0700'/>"We will only find our future if we chart
+  a new course, leaving the safety of
+  indoor study for exploration in the wild.
+  "So, prepare your mind and body, and
+  then <0 Type='3' Data='0000'/>explore in underpants<0 Type='3' Data='ffff'/>!"
+  
+  Take the princess's order to heart. Push
+  your brains and brawn to the limit. Your
+  investigation will exceed expectations!
+Near0008: |
+  He beat the monsters!
+Near0009: |
+  I can wear clothes soon!
+Near0010: |
+  The survey is stuck here.
+Near0011: |
+  With no gear at all?

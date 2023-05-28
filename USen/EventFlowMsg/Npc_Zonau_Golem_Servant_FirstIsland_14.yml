@@ -1,0 +1,73 @@
+0001: |
+  That's a problem.
+talk_09: |
+  <3 Type='0' Data='0a00'/>The <0 Type='3' Data='0000'/>fans<0 Type='3' Data='ffff'/> alone will not suffice to transport
+  people or objects.<0 Type='4'/>We must devise a way of making repairs.
+  I am still considering the matter.
+0002: |
+  Zonai devices?
+0003: |
+  That's a problem.
+0004: |
+  Zonai device?
+talk_00: |
+  <3 Type='0' Data='0a00'/>The rafts are broken. <5 Type='0'/>The <0 Type='3' Data='0000'/>Zonai devices<0 Type='3' Data='ffff'/>
+  will be useless until they are fixed.
+talk_10: |
+  <3 Type='0' Data='0700'/>Yes. They are tools that we employ.<5 Type='0'/>
+  Do you not know of them?<0 Type='4'/>They are necessities here. I recommend
+  that you learn how to use them.<0 Type='4'/>Though I cannot teach you. <5 Type='0'/>I am occupied
+  with figuring out how we can possibly
+  make repairs.
+0005: |
+  That's a problem.
+talk_20: |
+  <3 Type='0' Data='0a00'/>The rafts are seriously damaged. <5 Type='0'/>We are
+  at a loss.<0 Type='4'/>Even the <0 Type='3' Data='0000'/>Zonai device<0 Type='3' Data='ffff'/><5 Type='0'/> cannot salvage
+  the situation.
+talk_21: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Yes. They are special tools that
+  we employ.<0 Type='4'/>They are necessities here. I recommend
+  that you learn how to use them.
+0006: |
+  Zonai device?
+talk_22: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Ask the construct in front of the <0 Type='3' Data='0000'/>fan<0 Type='3' Data='ffff'/>
+  for details.
+0007: |
+  That's a problem.
+talk_13: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Ask the construct next to the <0 Type='3' Data='0000'/>fan <0 Type='3' Data='ffff'/>for
+  more information.
+talk_23: |
+  <3 Type='0' Data='0a00'/>I will return to my rest.
+talk_14: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0a005400680069006e006b00'/>The rafts are broken. <5 Type='0'/>We are exhausted
+  from trying to fix them. <5 Type='0'/>Currently we are
+  resting from this task.<0 Type='4'/>At least the <0 Type='3' Data='0000'/>Zonai device <0 Type='3' Data='ffff'/>is undamaged.
+talk_15: |
+  <3 Type='0' Data='0a00'/>Tomorrow we will again consider possible
+  methods of repair.<0 Type='4'/>Are you a talented technician in a hurry?<5 Type='0'/>
+  You may want to employ the devices by
+  the water.
+talk_16: |
+  <3 Type='0' Data='0700'/>Yes. <5 Type='0'/>They are tools that we employ.<0 Type='4'/>I cannot teach you how to use them.
+  I am occupied with other matters. <5 Type='0'/>Ask
+  the construct near the <0 Type='3' Data='0000'/>fan<0 Type='3' Data='ffff'/> for details.
+talk_07: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>You may want to craft a raft of your own.
+  Feel free to use the devices by the water.
+talk_17: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0a005400680069006e006b00'/>The rafts are seriously damaged. We are
+  at a loss. <5 Type='0'/>Even the <0 Type='3' Data='0000'/>Zonai devices<0 Type='3' Data='ffff'/> are no
+  use in these circumstances.
+0000: |
+  Zonai devices?
+talk_08: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0a005400680069006e006b00'/>Our <0 Type='3' Data='0000'/>Zonai devices <0 Type='3' Data='ffff'/>are not much use to us
+  in this situation. The rafts are in a state
+  of disrepair.
+talk_18: |
+  <3 Type='0' Data='0a00'/>Alas. <5 Type='0'/>We cannot fix the rafts. The <0 Type='3' Data='0000'/>Zonai
+  device<0 Type='3' Data='ffff'/> is undamaged but of no use in
+  this situation.

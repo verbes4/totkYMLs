@@ -1,0 +1,68 @@
+Talk_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Hey! It's good to see you again.
+0003: |
+  Goodbye.
+Talk_02: |
+  <3 Type='0' Data='0800'/>Thanks again for your help when I was
+  stuck in those ruins over in Faron.
+  
+  If you hadn't come by, I'd sure be hungry
+  by now!
+Talk_03: |
+  <3 Type='0' Data='0700'/>Anyway, after that I met up with my
+  friends to wrap up all the Skyview Tower
+  maintenance requests.
+  <3 Type='0' Data='0c01'/>We stayed in all sorts of places, but we
+  kept hearing about the incredible food at
+  Bedrock Bistro.
+  <3 Type='0' Data='0801'/>The timing was perfect, so I had to come
+  give it a try.
+Talk_04: |
+  <3 Type='0' Data='0700'/>And wow! I definitely recommend it.
+  
+  
+  <3 Type='0' Data='0801'/>I can't wait to tell Sawson and Billson
+  how good it is...
+Talk_10: |
+  <3 Type='0' Data='0700'/>OK. <5 Type='0'/>Later!
+NakedPlayer: |
+  Trying the hot springs?
+Talk_11: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0a005400680069006e006b00'/>But I've been waiting for ages, and the
+  food hasn't shown up.
+Talk_06: |
+  <3 Type='0' Data='0700'/>I would have liked to spend some time
+  off with Sawson and Billson.
+Talk_07: |
+  <3 Type='0' Data='0c01'/>I've heard the owner arguing with other
+  customers.<5 Type='0'/> I'm getting kind of worried...
+Near_01: |
+  The food's still not ready?
+Talk_08: |
+  <3 Type='0' Data='0700'/>Sawson is a friend from work. We started
+  climbing Death Mountain together...
+  
+  <3 Type='0' Data='0701'/>But he wanted to continue on to the
+  Goron Hot Springs, so we split up.
+  
+  <3 Type='0' Data='0100'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>I told him there were plenty of hot springs
+  around, but he wasn't having it. <5 Type='0'/>No, only
+  special springs for him!
+Near_02: |
+  Hoo boy. I'm stuffed.
+0000: |
+  Sawson?
+Talk_09: |
+  <3 Type='0' Data='0700'/>Billson is a friend from work. He's a Rito
+  carpenter—if you're looking for him, keep
+  an eye out for his headband.
+  <3 Type='0' Data='0c01'/>I invited him, but he's a picky eater.
+  Said he wasn't interested.
+  
+  <3 Type='0' Data='0800'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>He's a stubborn one. Even if he's
+  starving, there are some things he
+  won't eat.
+  <3 Type='0' Data='0c01'/>He flew off south, saying something about
+  eating fish.
+0001: |
+  Billson?

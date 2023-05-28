@@ -1,0 +1,15 @@
+Name: |
+  One-Hit Wonder!
+TryToDestroy: |
+  Parcy has repeatedly attacked the deposit with
+  her sword, but it's not working all that well.
+  
+  If you can <0 Type='3' Data='0000'/>destroy the ore deposit<0 Type='3' Data='ffff'/> <0 Type='3' Data='0000'/>with a single
+  blow<0 Type='3' Data='ffff'/>, you'll get to keep any gems inside.
+Complete: |
+  You destroyed the ore deposit with a single
+  blow and earned the contents within.
+  
+  Parcy is impressed with your weapon, and
+  she's determined to make one just like it
+  for herself.

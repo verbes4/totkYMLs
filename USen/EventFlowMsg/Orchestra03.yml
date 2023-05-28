@@ -1,0 +1,417 @@
+Talk_1032: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Aaah! <5 Type='0'/>Really? You have them?
+  
+  
+  With your fireflies and some I've also
+  collected, I can attract even MORE
+  fireflies, and then...
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>I can make the glowiest of glowing trees.
+  
+  
+  <3 Type='0' Data='0701'/>Um...<5 Type='0'/>while you're helping, can you do
+  me one more favor?
+0010: |
+  Are you a Stable Trotter?
+Talk_1033: |
+  <3 Type='0' Data='0a00'/>Ah well.<5 Type='0'/> Catching sunset fireflies is hard.
+  
+  
+  <3 Type='0' Data='0501'/>I really need to gather all of those sunset
+  fireflies soon so I can show Haite that
+  glowing tree...
+Talk_1080: |
+  <3 Type='0' Data='0501'/><4 Type='0' Data='0600530061006400'/>Um,<5 Type='0'/> it's raining.<5 Type='0'/> Whatever we're up to,
+  let's do it some other time, OK?
+Talk_1000: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Hiya there!
+  
+  
+  You climbed up here again. So, what's it
+  about this time?
+  
+  <3 Type='0' Data='0101'/>Maybe you want to hear <0 Type='3' Data='0000'/>what happened<0 Type='3' Data='ffff'/>
+  after all.<5 Type='0'/> Or maybe you came back to hear
+  more of my performance?
+Talk_1032_01: |
+  This will only work once the fireflies start
+  glowing. So I'd like you to <0 Type='3' Data='0000'/>bring<0 Type='3' Data='ffff'/> <0 Type='3' Data='0000'/>Haite<0 Type='3' Data='ffff'/> to
+  this spot <0 Type='3' Data='0000'/>once night falls<0 Type='3' Data='ffff'/>.
+Talk_1081: |
+  <3 Type='0' Data='0401'/>Huh?<5 Type='0'/> I'd give you a <0 Type='3' Data='0000'/>big hearty truffle<0 Type='3' Data='ffff'/> as
+  thanks, but looks like you can't carry
+  anything more.
+  <3 Type='0' Data='0101'/>Let's talk again when you've made some
+  space.<5 Type='0'/> I want to thank you right!
+Talk_1001: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Hiya! So, I bet you climbed up here with
+  me for some good reason.
+  
+  <3 Type='0' Data='0c01'/>Need something?<5 Type='1'/> Oh, wait.<5 Type='0'/> I know...
+  
+  
+  <3 Type='0' Data='0101'/>You heard <0 Type='3' Data='0000'/>what happened<0 Type='3' Data='ffff'/>...<5 Type='1'/> Uh, but
+  maybe you just want to hear me play!
+Talk_1032_02: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>This will only work when the fireflies are
+  glowing. So I'd like you to <0 Type='3' Data='0000'/>bring<0 Type='3' Data='ffff'/> <0 Type='3' Data='0000'/>Haite<0 Type='3' Data='ffff'/> to
+  this spot <0 Type='3' Data='0000'/>while it's still dark<0 Type='3' Data='ffff'/>. 
+Talk_1082: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0c004c0061007500670068005300'/>I want to thank you for all your help, and
+  thought you'd like a <0 Type='3' Data='0000'/>big hearty truffle<0 Type='3' Data='ffff'/>.
+  Make some space and it's yours!
+Talk_1002: |
+  <3 Type='0' Data='0501'/><4 Type='0' Data='0c004c0061007500670068005300'/>Hiya again!<5 Type='0'/> I guess you DO want to know
+  <0 Type='3' Data='0000'/>what happened<0 Type='3' Data='ffff'/>...
+Talk_1032_03: |
+  If you don't have time, bring her <0 Type='3' Data='0000'/>on a
+  different night<0 Type='3' Data='ffff'/> instead.
+Talk_1083: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>You made space in your pouch? Then
+  here's that thank-you gift!
+Talk_1003: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Hiya! So, I bet you climbed up here with
+  me for some good reason.
+  
+  <3 Type='0' Data='0c01'/>Need something?<5 Type='0'/> Or, hey, did you come
+  to listen to my performance?
+Talk_1032_04: |
+  If Haite's sleeping,<5 Type='0'/> bring her <0 Type='3' Data='0000'/>on a
+  different night<0 Type='3' Data='ffff'/> instead.
+Talk_1084: |
+  <3 Type='0' Data='0501'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003100'/>*yawn*<5 Type='0'/> I'm heading back inside to get a
+  little sleep. Almost daytime!
+Talk_1004: |
+  <3 Type='0' Data='0501'/><4 Type='0' Data='0c004c0061007500670068005300'/>Hiya again!<5 Type='0'/> Need something from me
+  after all?
+Talk_1032_05: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='0c004c0061007500670068005300'/>Oh! And I want it to be a big surprise!
+  You'll give it away if you say I'm working
+  on this.<5 Type='0'/> OK, see you both later!
+Talk_1050: |
+  <3 Type='0' Data='0500'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003100'/>Right...<5 Type='0'/>here?
+Talk_1085: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Hmm?<5 Type='1'/> Who's that down there?<5 Type='0'/> Climb up
+  the tree if you want to talk to me!
+Talk_1005: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Hiya there! 
+  
+  
+  You climbed up here again. So, what's it
+  about this time?
+  
+  <3 Type='0' Data='0101'/>Need something?<5 Type='0'/> Or, hey, did you come
+  to listen to my performance?
+Talk_1051: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Wow...
+Talk_1052: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='0e0045006100730065005f0030003100'/>Happy...<5 Type='0'/> Did you hear that?
+  
+  
+  <3 Type='0' Data='0100'/>Yep, <5 Type='0'/>finally happy.
+  
+  
+  What a relief.<5 Type='0'/> I knew there was a bright
+  smile in there somewhere. Good for Haite.
+Talk_1053: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0c005300610064005f0030003100'/>Oh... I guess you haven't heard of us.
+  
+  
+  <3 Type='0' Data='0701'/>The Stable Trotters troupe performs music
+  at stables all over the place. I used to play
+  the flute with them.
+  <3 Type='0' Data='0801'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>But I left because I wanted to spend time
+  with Haite.
+Talk_1054: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>The Stable Trotters are getting everyone
+  back together? <5 Type='0'/>Really?
+  
+  Then I've got to find them! No time
+  to waste!
+  
+  <3 Type='0' Data='0801'/>I've got to do my part to make everyone
+  feel a lot better these days—bright smiles
+  for all!
+Talk_1020: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>I'm going to use <0 Type='3' Data='0000'/>sunset fireflies<0 Type='3' Data='ffff'/> to make
+  that glowing tree.
+  
+  That'll definitely make Haite happy!
+Talk_1055: |
+  <3 Type='0' Data='0c01'/>I've wondered how Mastro and the other
+  musicians are doing, wherever they all are
+  these days...
+  <3 Type='0' Data='0801'/>I heard that Mastro is at <0 Type='3' Data='0000'/>Woodland Stable<0 Type='3' Data='ffff'/>.
+  I'd love to put on fun performances in
+  his troupe again.
+Talk_1021: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>Hmm... <5 Type='0'/>They glow <0 Type='3' Data='0000'/>after night falls<0 Type='3' Data='ffff'/>, so
+  they aren't hard to spot.
+  
+  I haven't seen any around the
+  stable though.
+  
+  I've definitely heard that there are a lot
+  around the <0 Type='3' Data='0000'/>deep forest to the north<0 Type='3' Data='ffff'/>...
+  
+  <3 Type='0' Data='0400'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>But which way is north from here?<5 Type='0'/> Maps
+  aren't really my specialty.
+  
+  <3 Type='0' Data='0701'/>Oh, about those fireflies! They'll fly away
+  if they hear you, so sneak up to them.
+  
+  Finding them isn't the hard part. I'm
+  bad at being quiet!
+Talk_1056: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>Well, anyway, thanks a lot!
+  
+  
+  You helped me with all sorts of stuff, so
+  you can have this if you want it.
+Talk_1022: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>With <0 Type='3' Data='0000'/>10<0 Type='3' Data='ffff'/> more of those <0 Type='3' Data='0000'/>sunset fireflies<0 Type='3' Data='ffff'/>,
+  I'm sure I could attract way more of them
+  to the tree to make it glow!
+  If you talk to the guy selling stuff from
+  his wagon, <5 Type='0'/>he might have some fireflies
+  for you.
+Talk_1057: |
+  <3 Type='0' Data='0700'/>I'm heading out soon.
+  
+  
+  <3 Type='0' Data='0801'/>If we meet again somewhere, my music
+  is gonna make you grin from ear to ear!
+0000: |
+  Something...happened?
+Talk_1023: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>I really need to gather all of those
+  <0 Type='3' Data='0000'/>sunset fireflies<0 Type='3' Data='ffff'/> so I can show Haite
+  that glowing tree...
+Talk_1058: |
+  <3 Type='0' Data='0a00'/>The weather's bad tonight.<5 Type='0'/> We should
+  really do this on a nice evening.
+  
+  <3 Type='0' Data='0701'/>So, <0 Type='3' Data='0000'/>bring<0 Type='3' Data='ffff'/> <0 Type='3' Data='0000'/>Haite<0 Type='3' Data='ffff'/> right here <0 Type='3' Data='0000'/>after night falls<0 Type='3' Data='ffff'/>,
+  but only if the <0 Type='3' Data='0000'/>weather is good<0 Type='3' Data='ffff'/>!
+0001: |
+  Where are the fireflies?
+Talk_1059: |
+  This is so much prettier than the one I
+  once saw in a book!
+  
+  It's just like I see it in my dreams!
+Talk_1070: |
+  <3 Type='0' Data='0700'/>I'm going to play here a bit longer.
+  
+  
+  <3 Type='0' Data='0801'/>I'd like to play with the Stable Trotters
+  again someday. That'd make Haite smile.
+  Everyone else too!
+Talk_1025: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>I would still like to surprise her with a
+  "glowing tree" somehow, but safely.
+  
+  So, now I'm collecting fireflies.
+  
+  
+  <3 Type='0' Data='0101'/>I need only <0 Type='3' Data='0000'/>10<0 Type='3' Data='ffff'/> more <0 Type='3' Data='0000'/>sunset fireflies<0 Type='3' Data='ffff'/>, and
+  then I'll have enough to make a whole
+  tree glow.
+  That will make Haite smile!<5 Type='0'/>
+0002: |
+  How many do you need?
+Talk_1026: |
+  <3 Type='0' Data='0800'/>All right!<5 Type='0'/> You look like you could use
+  a smile.<0 Type='4'/>So just for you, I'll put on one of my
+  finest performances!
+0003: |
+  Goodbye.
+Talk_1027: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='0c004e006f007400690063006500'/>Huh? <5 Type='0'/>But—
+  
+  
+  <3 Type='0' Data='0001'/>Nah.<5 Type='0'/> Forget it. See ya!
+0004: |
+  I have fireflies for you.
+Talk_1028: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>Hmm... <5 Type='0'/>I think it's hard to find any
+  around the stable.
+  
+  They <0 Type='3' Data='0000'/>glow as they fly<0 Type='3' Data='ffff'/> at night, so they're
+  easy to spot now, wherever they are.
+  
+  I've definitely heard that there are a lot
+  around the <0 Type='3' Data='0000'/>deep forest to the north<0 Type='3' Data='ffff'/>...
+  
+  <3 Type='0' Data='0400'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>But which way is north from here?<5 Type='0'/> Maps
+  aren't really my specialty.
+  
+  <3 Type='0' Data='0701'/>Oh, about those fireflies! They'll fly away
+  if they hear you, so sneak up to them.
+  
+  <3 Type='0' Data='0301'/>Finding them isn't the hard part. I'm bad
+  at being quiet!
+0005: |
+  Not right now.
+0006: |
+  The Stable Trotters?
+Talk_1041: |
+  <3 Type='0' Data='0700'/>I'm going to make this tree glow with
+  the fireflies.
+  
+  <3 Type='0' Data='0101'/>So, <0 Type='3' Data='0000'/>bring<0 Type='3' Data='ffff'/> <0 Type='3' Data='0000'/>Haite<0 Type='3' Data='ffff'/> right here <0 Type='3' Data='0000'/>after night falls<0 Type='3' Data='ffff'/>.<5 Type='0'/>
+  I really appreciate it!
+0007: |
+  You were in the troupe?
+0008: |
+  I want to hear you play.
+Talk_1042: |
+  <3 Type='0' Data='0700'/>I've got the fireflies in place for the
+  glowing tree!
+  
+  Could you <0 Type='3' Data='0000'/>bring<0 Type='3' Data='ffff'/> <0 Type='3' Data='0000'/>Haite right here<0 Type='3' Data='ffff'/> for the
+  big surprise?
+0009: |
+  Goodbye.
+Talk_1010: |
+  <3 Type='0' Data='0500'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>What happened...<5 Type='0'/>not that you probably
+  haven't heard already...<5 Type='0'/>is that there was
+  a fire in the field.
+  Yeah, right on this spot.<5 Type='0'/> This burned
+  patch around us. There were some
+  flowers here before.
+  It was all my fault.<5 Type='0'/> An accident, but still
+  my fault.
+  
+  <3 Type='0' Data='0c01'/>You see, I have a friend who lives at this
+  stable. Her name's Haite.<5 Type='0'/> Maybe you've
+  met her?<5 Type='0'/>
+  <3 Type='0' Data='0701'/>She's been asking people if she could see
+  a "glowing tree." It's just something from
+  a picture book.
+  You know...<5 Type='0'/>it's not real. But she really,
+  really wishes it was. I promised her that
+  I'd show her one!
+  Not my brightest idea,<5 Type='0'/> uh,<5 Type='0'/> given they
+  don't exist. And then I was stuck.
+  
+  So...I thought I'd use just a little tree...
+  and a little fire...and make a "glowing
+  tree." Really quick, that's all.
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0c005300610064005f0030003000'/>That's how things got burned here, but I
+  was only thinking of my promise to Haite.
+  Besides...<5 Type='0'/>it didn't even work.
+Talk_1011: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Fine, I'll tell you...
+  
+  
+  <3 Type='0' Data='0a01'/>I guessed that's what you came to talk
+  about...<5 Type='0'/>but I wish it was about just
+  wanting to hear me play.
+  <3 Type='0' Data='0701'/>Let's get it over with.<5 Type='0'/> But how about we
+  move it down there where it's safer.
+Talk_1012: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0c005300610064005f0030003100'/>So you want to hear about that, huh?<5 Type='0'/>
+  
+  
+  <3 Type='0' Data='0701'/>Let's get it over with.<5 Type='0'/> But how about we
+  move it down there where it's safer.
+Talk_1013: |
+  <3 Type='0' Data='0500'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>You might hear about this from someone
+  at the stable. But what happened...<5 Type='0'/>is that
+  there was a fire in the field.
+  Yeah, right on this spot.<5 Type='0'/> This burned
+  patch around us. There were some
+  flowers here before.
+  It was all my fault.<5 Type='0'/> An accident, but still
+  my fault.
+  
+  <3 Type='0' Data='0c01'/>You see, I have a friend who lives at this
+  stable.<5 Type='0'/> Her name's Haite. Maybe you've
+  met her?
+  <3 Type='0' Data='0701'/>She's been asking people if she could see
+  a "glowing tree." It's just something from
+  a picture book.
+  You know...<5 Type='0'/>it's not real. But she really,
+  really wishes it was. I promised her that
+  I'd show her one!
+  Not my brightest idea,<5 Type='0'/> uh,<5 Type='0'/> given they
+  don't exist. And then I was stuck.
+  
+  So...I thought I'd use just a little tree...
+  and a little fire...and make a "glowing
+  tree." Really quick, that's all.
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0c005300610064005f0030003000'/>That's how things got burned here, but I
+  was only thinking of my promise to Haite.
+  Besides...<5 Type='0'/>it didn't even work.
+Talk_1014: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>Huh?<5 Type='0'/> You met the Stable Trotters?
+Talk_1015: |
+  <3 Type='0' Data='0800'/>Wow!<5 Type='0'/> The troupe is touring again?<5 Type='0'/> And
+  they want all of us musicians back?
+  That's great!
+  <3 Type='0' Data='0501'/>But...<5 Type='1'/>first I have something to do here.
+  
+  
+  I can't go back to the Stable Trotters
+  until I take care of it.
+  
+  <3 Type='0' Data='0a01'/>Come on. Let's move this down there
+  where it's safer. I need to tell you...<5 Type='0'/>
+  what happened here.
+Talk_1061: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>Thank you.
+  
+  
+  I saw the best glowing tree ever...
+Near_1000: |
+  ♪Hmm hmmm!♪
+Talk_1062: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>I feel...<5 Type='1'/>really happy.
+Near_1001: |
+  Ten fireflies should do it...
+Talk_1063: |
+  <3 Type='0' Data='0901'/><4 Type='0' Data='100041006e006700720079005f0030003000'/>But it's going to take more than that to
+  keep her smiling.<5 Type='0'/> I need to do what I can
+  to make sure that happens...
+Near_1002: |
+  After night falls...
+Talk_1064: |
+  <3 Type='0' Data='0001'/>I've figured it out.<5 Type='0'/> I'm going back to
+  the <0 Type='3' Data='0000'/>Stable Trotters<0 Type='3' Data='ffff'/>!
+  
+  I'll get better and better at playing my
+  flute. More fun, more amazing! <5 Type='0'/>Because
+  if the crowds love my music...
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>then Haite will too, and she'll always
+  smile when she hears it.
+Near_1003: |
+  I still have to thank you!
+Talk_1030: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Huh?! <5 Type='0'/>Do you...<5 Type='0'/>do you have some fireflies
+  with you?<5 Type='0'/> I'm sure I see a glow coming
+  from your pouch.
+  I need <0 Type='3' Data='0000'/>10<0 Type='3' Data='ffff'/> more of those <0 Type='3' Data='0000'/>sunset fireflies<0 Type='3' Data='ffff'/>
+  to make that glowing tree!
+Talk_1065: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>Huh? <5 Type='0'/>You've actually heard of the
+  Stable Trotters?
+  
+  I'm surprised.<5 Type='0'/> The last time I saw them,
+  they were barely drawing crowds. I didn't
+  think anyone liked their music anymore.
+  <3 Type='0' Data='0001'/>I used to be in the Stable Trotters, and
+  played flute in the troupe.
+  
+  But I gave all that up...
+  
+  
+  <3 Type='0' Data='0801'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>Because I wanted to spend lots of time
+  with Haite.
+Talk_1031: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Huh?! <5 Type='0'/>Do you...<5 Type='0'/>do you have some fireflies
+  with you?<5 Type='0'/> I'm sure I see a glow coming
+  from your pouch.
+  I need <0 Type='3' Data='0000'/>10<0 Type='3' Data='ffff'/> more of those <0 Type='3' Data='0000'/>sunset fireflies<0 Type='3' Data='ffff'/>
+  to make that glowing tree!
+Talk_1066: |
+  <3 Type='0' Data='0401'/>Aaah!

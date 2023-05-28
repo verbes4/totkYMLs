@@ -1,0 +1,27 @@
+Name: |
+  A Picture for Dueling Peaks Stable
+Step02: |
+  Tasseren, owner of Dueling Peaks Stable,
+  is quite pleased to have a painting of
+  Hyrule's finest sunrise hung on the wall.
+  
+  He was going to give you a reward, but your
+  inventory was full. Be sure to trim your
+  belongings before you accept his gift.
+Step01: |
+  Tasseren, the owner of Dueling Peaks Stable,
+  wants to hang a painting of Hyrule's finest
+  sunrise, which is said to be visible from <0 Type='3' Data='0000'/>the
+  summit of Tuft Mountain<0 Type='3' Data='ffff'/> to the <0 Type='3' Data='0000'/>southeast<0 Type='3' Data='ffff'/> of
+  the stable.
+  
+  Maybe there's a way to take a picture of it and
+  show it to Tasseren.
+Complete: |
+  Tasseren, owner of Dueling Peaks Stable,
+  is quite pleased to have a painting of
+  Hyrule's finest sunrise hung on the wall.
+  
+  Still, he's happy to replace it with a different
+  image of that sunrise. Just show him a new
+  picture and he'll make a copy to put on display.

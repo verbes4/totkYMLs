@@ -1,0 +1,29 @@
+Name: |
+  An Uninvited Guest
+Report2: |
+  As a reward for defeating the monster,
+  Ami offered you <0 Type='3' Data='0000'/>Pony Points<0 Type='3' Data='ffff'/>.
+  
+  To accept his gift, you'll have to go finish
+  registering with the Stable Association.
+step1: |
+  Ami has been losing sleep since terrifying
+  monsters began lurking in the woods behind
+  Wetland Stable.
+  
+  He planned to creep up and defeat the biggest
+  monster with a sneak attack, but it didn't work
+  out. His options exhausted, he can only hope
+  someone else will step in.
+Report: |
+  You defeated the Moblin living in the woods
+  behind Wetland Stable.
+  
+  Report this to Ami, whose fear of the monster
+  is keeping him awake at night.
+Complete: |
+  You defeated the Moblin living in the
+  woods behind Wetland Stable.
+  
+  Ami's fear of the monster had kept him awake
+  at night, but now he should sleep soundly.

@@ -1,0 +1,51 @@
+talk005: |
+  <3 Type='0' Data='0a00'/>It's covered in lost fog up ahead, so only
+  Koroks can go there...
+  
+  <3 Type='0' Data='0c01'/>You can see an island floating in the sky
+  from there.<5 Type='0'/> I wonder if you could see into
+  the forest <0 Type='3' Data='0000'/>from that sky island<0 Type='3' Data='ffff'/> too...
+talk006: |
+  <3 Type='0' Data='0000'/>It's here!
+talk007: |
+  <3 Type='0' Data='0700'/>You can see an island floating in the sky
+  from there. I wonder if you could see into
+  the forest <0 Type='3' Data='0000'/>from that sky island<0 Type='3' Data='ffff'/> too...
+talk001: |
+  <3 Type='0' Data='0c00'/>It's been a while, so maybe I should go
+  see how it's going over there.
+talk008: |
+  <3 Type='0' Data='0b00'/>Huh?!<5 Type='0'/> You're not even a Korok, and you
+  still got there?! Woooooow!
+  
+  <3 Type='0' Data='0000'/>Isn't it great? It's my secret, even from
+  the other Koroks. Don't tell!
+  
+  I'm gonna go check on it since I haven't
+  visited in a while. See you!
+near001: |
+  I'll go see how it's doing...
+talk002: |
+  <3 Type='0' Data='0800'/>Up ahead, there's a special place just
+  for Maca!
+  
+  <3 Type='0' Data='0701'/>In the forest, there's a wide, open space,
+  and right in the middle, there's a
+  <0 Type='3' Data='0000'/>green swirl<0 Type='3' Data='ffff'/>.
+  <3 Type='0' Data='0801'/>And! You <0 Type='3' Data='0000'/>can see an island floating in the
+  sky<0 Type='3' Data='ffff'/> from there! <5 Type='0'/>Maca loves that place.
+0000: |
+  Over there?
+talk003: |
+  <3 Type='0' Data='0700'/>Bye-bye!
+0001: |
+  Goodbye.
+talk004: |
+  <3 Type='0' Data='0701'/>Oh, but since it's covered in lost fog,
+  only Koroks can go there.
+  
+  <3 Type='0' Data='0a00'/>So you can't come with me. But...<5 Type='1'/>
+  
+  
+  <3 Type='0' Data='0700'/>I'll tell you where to find it.<5 Type='1'/> Could you
+  show me your <0 Type='3' Data='0000'/>map<0 Type='3' Data='ffff'/>?

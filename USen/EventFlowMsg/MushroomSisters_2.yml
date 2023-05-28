@@ -1,0 +1,114 @@
+Talk_01_06: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Who knows? <5 Type='0'/>Maybe it was a joke some
+  prankster scribbled in there.<5 Type='0'/> But if there
+  is a <0 Type='3' Data='0000'/>mushroom haven<0 Type='3' Data='ffff'/>, we have to find it!
+Talk_00_10: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0c005300610064005f0030003000'/>To think that <0 Type='3' Data='0000'/>monsters<0 Type='3' Data='ffff'/> would take over
+  our tent!
+  
+  Just when we'd found a cave that had
+  a trove of mushrooms and who knows
+  what else?
+Talk_01_07: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>This is between us, you understand.
+  Me, my sister...<5 Type='1'/>and now you.
+Near_00_00: |
+  We have to get it back!
+Talk_01_08: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>If the message we saw in that field guide
+  was accurate, <5 Type='0'/>then the haven must be
+  here in <0 Type='3' Data='0000'/>Hebra<0 Type='3' Data='ffff'/>.
+  <3 Type='0' Data='0801'/>We just have to find the <0 Type='3' Data='0000'/>pond<0 Type='3' Data='ffff'/><5 Type='0'/> and follow
+  the <0 Type='3' Data='0000'/>drifting steam<0 Type='3' Data='ffff'/> to its <0 Type='3' Data='0000'/>source<0 Type='3' Data='ffff'/>!
+  
+  <3 Type='0' Data='0100'/>So, we'd better get going.<5 Type='1'/> Thanks, buddy!<5 Type='0'/>
+  For getting our tent back!
+Near_00_01: |
+  What'll we do...
+Talk_01_09: |
+  <3 Type='0' Data='0b01'/>...<4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Oh! Your pouch is full.<0 Type='4'/>I was going to give you some of our home
+  cooking. <5 Type='0'/>Could you organize your things
+  and get back to me?
+Talk_00_00: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Oh, it's you! Here you are again!
+Talk_00_01: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Huh? You defeated them?<5 Type='1'/>
+  
+  
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>There aren't any more monsters?
+Talk_00_02: |
+  <3 Type='0' Data='0701'/>Oooh, Nat! This must be fate.
+Talk_00_03: |
+  <3 Type='0' Data='0900'/><4 Type='0' Data='100041006e006700720079005f0030003000'/>S-stop it!
+  
+  
+  We've got a real problem on our hands,
+  given what's happened to our tent.
+  
+  It's not the time to talk about <0 Type='3' Data='0000'/>that<0 Type='3' Data='ffff'/>.
+Talk_00_04: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0c005300610064005f0030003000'/>You're right.<5 Type='1'/> Still, just when we found
+  a cave that surely had a trove of
+  mushrooms and more...
+Talk_01_10: |
+  <3 Type='0' Data='0700'/>I was going to repay you for retrieving our
+  tent with a nice, home-cooked meal.
+  
+  But your pouch is still full. Why don't you
+  throw something out and get back to me?
+Talk_00_05: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>All right, all right. <5 Type='0'/>So, we found a cave
+  at the bottom of a mountain, along this
+  road for a bit.
+  We pitched our tent there, and then
+  hurried back here to the stable.
+Near_01_00: |
+  No going back to our tent.
+Talk_01_11: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Hey,<5 Type='0'/> you made room!<5 Type='1'/> Here you go, then!
+Talk_00_06: |
+  <3 Type='0' Data='0500'/><4 Type='0' Data='100041006e006700720079005f0030003100'/>Right. And by the time we got back to
+  our tent, we found monsters inside.
+  That's our tent though!
+Near_01_01: |
+  Your reward...
+Talk_00_07: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1000540069007200650064005f0030003100'/>And that's why, despite our bumping
+  into each other again here, this is totally
+  not the time to talk about <0 Type='3' Data='0000'/>that<0 Type='3' Data='ffff'/>.
+  We have to chase off those
+  <0 Type='3' Data='0000'/>monsters <0 Type='3' Data='ffff'/>somehow.
+Talk_01_00: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Oh, amazing! So amazing. And strong.
+Talk_01_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>We owe you. So, here you go.
+Talk_00_09: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0c005300610064005f0030003000'/>I'm sorry, we finally bumped into each
+  other again here. But really, it's no time
+  to talk about <0 Type='3' Data='0000'/>that<0 Type='3' Data='ffff'/>.
+  We have to chase the <0 Type='3' Data='0000'/>monsters <0 Type='3' Data='ffff'/>away
+  from our tent somehow.
+Talk_01_02: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>What a relief. Most of what we packed
+  for our journey is in that tent. Now we
+  can continue to search for <0 Type='3' Data='0000'/>that<0 Type='3' Data='ffff'/>.
+Talk_01_03: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>We're going to bring you into our secret
+  quest to find <0 Type='3' Data='0000'/>that<0 Type='3' Data='ffff'/>, as we promised.
+Talk_01_04: |
+  <3 Type='0' Data='0701'/>We're on the hunt for a fabled place—<5 Type='0'/>a
+  <0 Type='3' Data='0000'/>haven of mushrooms<0 Type='3' Data='ffff'/>.
+  
+  We discovered a note in a field guide to
+  mushrooms that hinted of something
+  spectacular! It said...
+  <3 Type='0' Data='0c01'/>"Vapors drift over Sturnida Basin, near a
+  pond in Hebra. At the source of the steam
+  lies a bright mushroom haven."
+Talk_01_05: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>At the time, we didn't think much of it.<5 Type='1'/>
+  Just a strange little note someone left
+  in the margins.
+  Then the Upheaval happened and caves
+  opened up. And we thought maybe, just
+  maybe...<5 Type='0'/>we could find a haven of our own.

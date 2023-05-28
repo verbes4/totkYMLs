@@ -1,0 +1,23 @@
+Name: |
+  Infiltrating the Yiga Clan
+Enlist: |
+  It sounds like only Yiga Clan members can
+  enter the Yiga Clan hideout. To join the clan,
+  you need to visit the <0 Type='3' Data='0000'/>three branches<0 Type='3' Data='ffff'/> and collect
+  the <0 Type='3' Data='0000'/>clan attire<0 Type='3' Data='ffff'/>.
+  
+  Mimos, who aims to join the clan so he can
+  learn some "cool moves," has his eyes on the
+  tech lab in Akkala to the northeast...
+Equip: |
+  You visited the three branches and collected
+  all of the pieces of <0 Type='3' Data='0000'/>Yiga Clan attire<0 Type='3' Data='ffff'/>.
+  
+  As long as you're wearing it, you should be able
+  to enter the Yiga Clan hideout.
+Complete: |
+  You visited the three branches and collected
+  all of the pieces of <0 Type='3' Data='0000'/>Yiga Clan attire<0 Type='3' Data='ffff'/>. 
+  
+  Now you can come and go from the Yiga Clan
+  hideout as you please.

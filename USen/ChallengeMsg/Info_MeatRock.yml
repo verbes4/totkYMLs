@@ -1,0 +1,22 @@
+Name: |
+  Rock Roast or Dust
+CarryARock: |
+  The Bedrock Bistro is running low on rock roast
+  and is having trouble maintaining a steady
+  supply for their Goron clientele.
+  
+  It's said that if you bring Chef Cooke a rock
+  roast, <0 Type='3' Data='0000'/>he'll treat you to a special dish<0 Type='3' Data='ffff'/>.
+Reward: |
+  You brought Chef Cooke a rock roast, but he
+  wasn't able to give you his special <0 Type='3' Data='0000'/>dish<0 Type='3' Data='ffff'/>
+  because your pouch was full.
+  
+  Make some space, and then speak with
+  Chef Cooke.
+Complete: |
+  You gave Chef Cooke a rock roast, and he
+  gave you <0 Type='3' Data='0000'/>seared gourmet steak<0 Type='3' Data='ffff'/>, his special
+  dish. He said because they are always running
+  low on rock roast, he's willing to take more from
+  you, his new supplier, from now on.

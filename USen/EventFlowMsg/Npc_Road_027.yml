@@ -1,0 +1,283 @@
+Talk_21: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0600530061006400'/>Hopefully <0 Type='3' Data='0000'/>President Yunobo <0 Type='3' Data='ffff'/>comes back
+  from <0 Type='3' Data='0000'/>storage <0 Type='3' Data='ffff'/>soon. I really need to ask
+  him about hiring more staff.
+Talk_22: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0600530061006400'/>Really? <5 Type='0'/>That's too bad.<0 Type='4'/>All the young Gorons are so obsessed
+  with <0 Type='3' Data='0000'/>marbled rock roast <0 Type='3' Data='ffff'/>that they stopped
+  working, so we're badly short-staffed.
+Talk_23: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a0048006100700070007900'/>Oh, hello! All the Gorons are back to
+  work, so I actually don't need your
+  help anymore!
+  <3 Type='0' Data='0c01'/>Now we just have to find something that'll
+  be as popular as marbled rock roast.
+Talk_24: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a0048006100700070007900'/>As long as you're wearing that armor,
+  you can go <0 Type='3' Data='0000'/>into the caves<0 Type='3' Data='ffff'/> without
+  worrying about the heat.
+  You'll still die if you fall in lava though,
+  so...<5 Type='0'/>don't do that.
+Talk_25: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>Come back anytime!
+Talk_27: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='0a0048006100700070007900'/>President Yunobo's policy says you don't
+  have to be an employee to <0 Type='3' Data='0000'/>sell me things<0 Type='3' Data='ffff'/>.
+  Don't be shy, now!
+Talk_28: |
+  <3 Type='0' Data='0700'/>Hey, not for nothing—don't be fooled by
+  the cooler temperatures aboveground.<0 Type='4'/>There's still lava <0 Type='3' Data='0000'/>inside the caves<0 Type='3' Data='ffff'/>. You'll
+  get <0 Type='3' Data='0000'/>burnt to a crisp<0 Type='3' Data='ffff'/> if you go there
+  dressed like that.
+  Unless you're dying to know how a
+  baked apple feels, I'd recommend
+  investing in some <0 Type='3' Data='0000'/>fire-resistant gear<0 Type='3' Data='ffff'/>.
+  The flamebreaker armor I sell would more
+  than do the trick.
+Talk_29: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>Well, well!
+Com_Talk_13: |
+  How many?
+Com_Talk_14: |
+  For <2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/>...how about <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>?
+Com_Talk_15: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='0600530061006400'/>Oh, wow.<5 Type='0'/> That... That I can't buy.<5 Type='0'/> Sorry to
+  disappoint you.
+Com_Talk_16: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>I'm sorry,<5 Type='0'/> but if you want to sell those
+  clothes, you have to take them off first.
+Talk_10: |
+  <201 Type='4'/><3 Type='0' Data='0100'/><4 Type='0' Data='12004c0061007500670068004c005f0030003000'/>Ah, good! <5 Type='0'/>You have no idea how badly
+  you were needed. We have a dire staffing
+  shortage at the moment.
+  <3 Type='0' Data='0301'/>All the young Gorons are so obsessed
+  with <0 Type='3' Data='0000'/>marbled rock roast <0 Type='3' Data='ffff'/>that they can't
+  be bothered to swing a pickax.
+  I hope <0 Type='3' Data='0000'/>President Yunobo <0 Type='3' Data='ffff'/>will address the
+  issue somehow, but in the meantime, we
+  need all the workers we can get.
+Talk_11: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a0048006100700070007900'/>Oh, hello! The Gorons are back to work,
+  so I actually don't need your help!<0 Type='4'/><3 Type='0' Data='0a01'/>...In less-good news, we can't mine
+  marbled rock roast anymore. That was
+  our most popular edible rock.
+0000: |
+  President Yunobo?
+0001: |
+  Marbled rock roast?
+Talk_13: |
+  <3 Type='0' Data='0700'/>Hey, not for nothing—don't be fooled by
+  the cooler temperatures aboveground.<0 Type='4'/>There's still lava <0 Type='3' Data='0000'/>inside the caves<0 Type='3' Data='ffff'/>. You'll
+  get <0 Type='3' Data='0000'/>burnt to a crisp<0 Type='3' Data='ffff'/> if you go there
+  dressed like that.
+  Unless you're dying to know how a
+  baked apple feels, I'd recommend
+  investing in some <0 Type='3' Data='0000'/>fire-resistant gear<0 Type='3' Data='ffff'/>.
+  The flamebreaker armor I sell would more
+  than do the trick.<0 Type='4'/>And if you don't have enough rupees,
+  don't worry. You can make some quick
+  cash by <0 Type='3' Data='0000'/>selling me things you don't need<0 Type='3' Data='ffff'/>.
+Talk_14: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0600530061006400'/>Hopefully <0 Type='3' Data='0000'/>President Yunobo <0 Type='3' Data='ffff'/>comes back
+  from the <0 Type='3' Data='0000'/>city<0 Type='3' Data='ffff'/> soon. I really need to ask
+  him about hiring more staff.
+0002: |
+  Goodbye.
+Talk_15: |
+  <3 Type='0' Data='0100'/><0 Type='3' Data='0000'/><4 Type='0' Data='0a0048006100700070007900'/>President Yunobo<0 Type='3' Data='ffff'/> is the entrepreneurial
+  genius who founded <0 Type='3' Data='0000'/>YunoboCo<0 Type='3' Data='ffff'/>!<0 Type='4'/>He started it as a small mining business to
+  boost Goron City's development. But then
+  out of nowhere, he struck it rich!
+  <3 Type='0' Data='0701'/><0 Type='3' Data='0000'/>YunoboCo <0 Type='3' Data='ffff'/>has since become the world's
+  leading name in mineral mining, with both
+  Gorons and Hylians on its payroll.
+  And it all began with one hard-working
+  Goron. Talk about inspirational!<0 Type='4'/><3 Type='0' Data='0c00'/>I'll admit <0 Type='3' Data='0000'/>President Yunobo <0 Type='3' Data='ffff'/>has been
+  acting a little...<5 Type='0'/>off since <0 Type='3' Data='0000'/>marbled rock
+  roast <0 Type='3' Data='ffff'/>first appeared on the scene.
+  <3 Type='0' Data='0701'/>But you can't argue with all he's
+  accomplished.<5 Type='0'/> The guy made Goron City
+  what it is today.
+Com_Talk_33: |
+  One comes to <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>. That OK?
+0004: |
+  That's right.
+Talk_16: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Yes, loyal worker?
+Com_Talk_05b: |
+  <3 Type='0' Data='0101'/>Please choose what you want to sell.
+0005: |
+  No.
+Talk_17: |
+  <3 Type='0' Data='0700'/>I'm sorry for assuming that you were a
+  worker before.<0 Type='4'/>I guess I was hoping you were. With
+  <0 Type='3' Data='0000'/>marbled rock roast <0 Type='3' Data='ffff'/>on the scene,
+  <0 Type='3' Data='0000'/>YunoboCo <0 Type='3' Data='ffff'/>has been badly understaffed.
+ShopBefore: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>You know, some folks say they don't
+  need <0 Type='3' Data='0000'/>fire-resistant gear<0 Type='3' Data='ffff'/>. How very wrong
+  they are!<0 Type='4'/>Sure, with Death Mountain erupting less,
+  temperatures aboveground are cooler
+  than they once were.<0 Type='4'/>But <0 Type='3' Data='0000'/>inside the caves<0 Type='3' Data='ffff'/>? Forget it. You'll get
+  roasted without adequate protection!
+ShopAfter: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>You want some <0 Type='3' Data='0000'/>fire-resistant gear<0 Type='3' Data='ffff'/>?<5 Type='0'/> Smart.
+  Temperatures have cooled aboveground,
+  but it's still hot <0 Type='3' Data='0000'/>in the caves<0 Type='3' Data='ffff'/>.
+Com_Talk_00: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>Of course.<5 Type='0'/> What are you looking to sell?
+Com_Talk_05c: |
+  <3 Type='0' Data='0101'/>I'm in no rush. Take your time deciding.
+Com_Talk_35: |
+  You want to sell me every last one?
+  For <2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/>, I'll give you <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>.
+  Sound good?
+0006: |
+  Buy from me.
+Com_Talk_01: |
+  <3 Type='0' Data='0701'/>That will be <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>. Sound fair?
+Com_Talk_05d: |
+  <3 Type='0' Data='0101'/>What do you want to sell?
+Talk_19: |
+  <3 Type='0' Data='0701'/>If you're looking for <0 Type='3' Data='0000'/>President Yunobo<0 Type='3' Data='ffff'/>,
+  he's at <0 Type='3' Data='0000'/>YunoboCo Storage <0 Type='3' Data='ffff'/>in front of HQ.
+  
+  I think he's trying to get more marbled
+  rock roast.
+  
+  Oh, or were you here to sell
+  me something?
+Com_Talk_02: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Thank you!<5 Type='0'/> Anything else?
+Talk_31: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>Oh...<5 Type='0'/> Did you come here in hopes of
+  getting a job in the mines?<0 Type='4'/><4 Type='0' Data='0a0048006100700070007900'/>I hate to let you down, but we actually
+  have enough hands.<0 Type='4'/>Since the marbled rock roast disappeared,
+  the young Gorons have come back to
+  work in a big way.
+  We have so many kids lining up to swing
+  pickaxes that we're no longer accepting
+  new applicants.
+  <3 Type='0' Data='0c00'/>It's kinda too bad, because that marbled
+  rock roast was YunoboCo's most popular
+  edible rock...
+  <3 Type='0' Data='0701'/>But what are you going to do? Trends
+  come and go!<0 Type='4'/>And with President Yunobo acting like his
+  old self again, I'm sure he'll sniff out the
+  next big thing when it comes along.
+Talk_32: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a0048006100700070007900'/>President Yunobo opened this office for
+  the benefit of everyone, whether or not
+  they're YunoboCo employees.
+  Please come again!
+Com_Talk_02b: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Thanks!<5 Type='0'/> Is there anything else you'd like
+  to part with?
+Com_Talk_04: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='0c005300610064005f0030003000'/>Ah, fair enough.
+Com_Talk_50: |
+  That's a must for cave work.<5 Type='0'/> It'll run you
+  <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>.<5 Type='0'/> So, what do you say?
+Talk_33: |
+  <3 Type='0' Data='0701'/>I think <0 Type='3' Data='0000'/>President Yunobo<0 Type='3' Data='ffff'/> is at <0 Type='3' Data='0000'/>YunoboCo<0 Type='3' Data='ffff'/>
+  <0 Type='3' Data='0000'/>Storage <0 Type='3' Data='ffff'/>in front of HQ, making a deal for
+  more marbled rock roast.
+Com_Talk_02c: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Pleasure doing business with you!<5 Type='0'/>
+  Anything else you want to sell me?
+Com_Talk_05: |
+  <3 Type='0' Data='0101'/>Whatever it is, I'll buy it! I don't care!
+Talk_34: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='12004c0061007500670068004c005f0030003000'/>I knew it!<5 Type='0'/> I saw you walking around with
+  President Yunobo, and I just knew!
+  
+  The workforce has dried up ever since the
+  younger Gorons got into <0 Type='3' Data='0000'/>marbled rock
+  roast<0 Type='3' Data='ffff'/>, so it's nice to see some new blood!
+NakedPlayer: |
+  Where's the style in that?
+Com_Talk_02d: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Thank you!<5 Type='0'/> And I can buy more stuff,
+  if you're looking to sell.
+5500: |
+  Yes.
+Talk_00: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>Oh. <5 Type='0'/>I don't believe we've met before.<0 Type='4'/>Are you a new worker here? Please tell
+  me you are.
+Talk_35: |
+  <3 Type='0' Data='0700'/>Not only do we deal in fire-resistant
+  equipment but we'll also buy from you.<0 Type='4'/>Come by whenever you need to.
+Com_Talk_53: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>That's fine. Just know you're going to get
+  the same price wherever you go.
+5501: |
+  No.
+Talk_36: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0600530061006400'/>I see.<5 Type='0'/> Well, I'm sure President Yunobo
+  must be with you for some other reason.<0 Type='4'/>The young Gorons are all so into <0 Type='3' Data='0000'/>marbled
+  rock roast<0 Type='3' Data='ffff'/> that they've stopped working.
+  We need all the hands we can get.
+Talk_01: |
+  <3 Type='0' Data='0a00'/><FontSize Value='80'/>We wouldn't be quite so short-staffed if Offrak and
+  Slergo were here. Where have they gone off to?<FontSize Value='100'/>
+Talk_37: |
+  <3 Type='0' Data='0700'/>But worker or not, President Yunobo has
+  a policy that allows anyone to shop here.<0 Type='4'/>If you need fire-resistant gear or want to
+  sell something, come by. Even if nobody
+  else is working, I will be.
+Talk_02: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='12004c0061007500670068004c005f0030003100'/>Aha! You're not the only one who's
+  interested in <0 Type='3' Data='0000'/>marbled rock roast<0 Type='3' Data='ffff'/>.<0 Type='4'/>It's the most popular edible rock the
+  company sells. All the young Gorons are
+  going nuts for it!
+  <3 Type='0' Data='0c01'/>The problem is, marbled rock roast can
+  only be found in really, and I mean
+  REALLY, tough bedrock.
+  <0 Type='3' Data='0000'/>President Yunobo<0 Type='3' Data='ffff'/> is the only one who
+  can mine through such tough stone, so
+  our supply of the stuff is pretty scarce.
+Com_Talk_55: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>Your inventory's full. <5 Type='0'/>I can buy some of
+  that stuff off you, if you'd like.
+5503: |
+  Never mind.
+Talk_38: |
+  <3 Type='0' Data='0700'/>Glad to see President Yunobo has finally
+  taken off that tacky mask.<0 Type='4'/>I'm not sure why, but he seems gentler
+  without it. More like himself.
+Talk_04: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Of course! <5 Type='0'/>I'll be glad to gush some more
+  about <0 Type='3' Data='0000'/>President Yunobo<0 Type='3' Data='ffff'/>!
+Talk_39: |
+  <3 Type='0' Data='0700'/>Hmm. Did you stop by in search of a job?<0 Type='4'/>Sorry to send you home from Goron City
+  with a "no," but we've nearly got more
+  hands than we've got hammers.
+  The young Gorons are working harder
+  than ever now that all the marbled rock
+  roast is gone.
+  We're fully staffed and then some. We've
+  had to stop taking applications!<0 Type='4'/><3 Type='0' Data='0c00'/>Marbled rock roast was YunoboCo's
+  signature snacking rock, so I'm curious
+  what this might mean for the company...
+  <3 Type='0' Data='0701'/>Oh, well. Trends change. We'll just have
+  to be at the forefront of the next one!<0 Type='4'/>And with President Yunobo acting like
+  himself again, I know we'll be ready to
+  meet it.
+Talk_05: |
+  <FontSize Value='80'/><3 Type='0' Data='0c00'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Hm... Didn't I tell Offrak and Slergo to go and guard
+  <0 Type='3' Data='0000'/>YunoboCo Storage<0 Type='3' Data='ffff'/>? I wonder how they're doing...<FontSize Value='100'/>
+Talk_06: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>Hm?<5 Type='0'/> Uh... <5 Type='0'/>Did you not hear me explain it
+  the first time?
+5508: |
+  All of them.
+Talk_08: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='0a0048006100700070007900'/>I see you're interested in the
+  <0 Type='3' Data='0000'/>flamebreaker armor<0 Type='3' Data='ffff'/>. Does that mean
+  you're a new worker here?
+Talk_20: |
+  <3 Type='0' Data='0701'/>I think <0 Type='3' Data='0000'/>President Yunobo<0 Type='3' Data='ffff'/> is in the city
+  inspecting the <0 Type='3' Data='0000'/>marbled rock roast<0 Type='3' Data='ffff'/>.
+Talk_09: |
+  <3 Type='0' Data='0700'/>Trends come and go. I wonder what
+  edible rock will be the next big craze...

@@ -1,0 +1,33 @@
+SavedLv1_01: |
+  <3 Type='0' Data='0800'/>Thanks, fella!
+EnokidaSignboard: |
+  Is that hairstyle in now?
+ComNakedCheck_W_001: |
+  <3 Type='0' Data='0700'/>Hey, whoa!<5 Type='1'/> I'm a free spirit too, but...<0 Type='4'/>You have to put on a shirt or some
+  trousers before you talk to me!
+NakedPlayer: |
+  Where's the style in that?
+SavedLv3_00: |
+  <3 Type='0' Data='0500'/><4 Type='0' Data='08004500610073006500'/>Phew, I'm OK...<5 Type='1'/> Thanks for the save!
+Guardian00: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='0a0053006300610072006500'/>Oh, boy! If that thing knocks me down,
+  I'm not gettin' back up!
+SavedLv3_01: |
+  <3 Type='0' Data='0800'/>Way to go, fella!<5 Type='0'/> I can't even tell you
+  how much I needed your help!
+Atacked00: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003100'/>Aaagh! <5 Type='0'/>Need a hand here!
+SagonoHat: |
+  A new Cece piece?
+SavedLv2_00: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='1400410064006d00690072006100740069006f006e00'/>You're made of tough stuff, fella...<5 Type='0'/>
+  I could learn a thing or five.
+Atacked01: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0c005300610064005f0030003000'/>You have GOT to be kidding me!
+SavedLv2_01: |
+  <3 Type='0' Data='0800'/>Not bad, fella!
+SavedLv1_00: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='08004500610073006500'/>That...<5 Type='0'/>was not my finest moment.<5 Type='1'/> Thanks,
+  fella. That could've been hairy.
+Thanks00: |
+  <3 Type='0' Data='0100'/>Here. It's the least I can do.

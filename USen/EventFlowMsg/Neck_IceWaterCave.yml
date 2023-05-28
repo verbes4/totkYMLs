@@ -1,0 +1,86 @@
+0001: |
+  Cave?
+Talk09: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1a00410064006d00690072006100740069006f006e005f0030003100'/>Now I can make good on all my big talk!<0 Type='4'/>You know, this isn't the only cave in these
+  mountains with pools of freezing water.
+  Be careful where you explore.
+0002: |
+  Where's Tulin?
+0003: |
+  That sounds bad.
+0004: |
+  Is this enough?
+Talk10: |
+  <3 Type='0' Data='0b00'/>Wait... <5 Type='0'/>You didn't actually cross the pond
+  and pick the chillshrooms, did you?!<5 Type='0'/><0 Type='4'/>You weren't worried about falling into
+  the freezing water?<0 Type='4'/>Well, gosh. That's really brave of you.
+  <3 Type='0' Data='0701'/>I can't just take them for free though.
+  Here, why don't I give you this?
+Talk01: |
+  <3 Type='0' Data='0a00'/>What a disaster. I came all this way to
+  scrounge mushrooms, and now this.<0 Type='4'/>I'll never get to the deep parts of the
+  cave with a messed-up wing.
+Talk11: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0e0053006900670068005f0030003000'/>I'm getting nowhere with this. <5 Type='1'/>I guess
+  I should go back for now and give the
+  others the bad news.
+Talk02: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/><0 Type='3' Data='0000'/>Chillshrooms<0 Type='3' Data='ffff'/> grow all over this cave,
+  so I figured it'd be a prime spot for
+  scavenging a little food.<0 Type='4'/>But <0 Type='3' Data='0000'/>cold water<0 Type='3' Data='ffff'/> has built up in here now,
+  and I can't pick any chillshrooms without
+  crossing it.
+Talk12: |
+  <3 Type='0' Data='0701'/>Now, how am I going to cross that pond?
+Talk08_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='08005300690067006800'/>There are still some caves where the cold
+  water lingers. Guess we're not totally free
+  from the blizzard's effects.<0 Type='4'/>You might want to be careful poking your
+  own beak in any caves.
+Talk02_01: |
+  <3 Type='0' Data='0500'/>Ordinarily, my wings would take me right
+  over a little pond like this.
+Talk02_02: |
+  <4 Type='0' Data='1600540061006c006b00440065006e0079005f0030003000'/>But I hurt my wing in a small scrap with
+  monsters. I don't see how I can fly over
+  the pond in this condition.
+Talk04: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>I came to this cave to gather <0 Type='3' Data='0000'/>chillshrooms<0 Type='3' Data='ffff'/>
+  deep inside, but the cold water pooling in
+  there means that's not happening.<0 Type='4'/><3 Type='0' Data='0701'/>If you're going in there, too, careful you
+  don't slip.<0 Type='4'/>Fall in that <0 Type='3' Data='0000'/>cold water<0 Type='3' Data='ffff'/> and your muscles
+  might get too chilled to swim back out.
+Talk02_03: |
+  <3 Type='0' Data='0000'/>The worst part is, I was just bragging to
+  the folks in the village that I'd bring back
+  even more <0 Type='3' Data='0000'/>chillshrooms<0 Type='3' Data='ffff'/> than last time.<0 Type='4'/><3 Type='0' Data='0a00'/>If I don't come back with at least <0 Type='3' Data='0000'/>10<0 Type='3' Data='ffff'/>
+  of them, there'll be egg on my face.
+Talk05: |
+  <3 Type='0' Data='0701'/>Is there anything else you need?
+Near01: |
+  Now how do I get food?
+Talk06: |
+  <3 Type='0' Data='0b00'/>Uh... <5 Type='0'/>You really don't mind giving me this
+  whole heap of mushrooms?<5 Type='0'/><0 Type='4'/>Seems like you must've gone to a lot of
+  trouble collecting this many.<0 Type='4'/>But if you're sure, then thanks a bunch!
+  <3 Type='0' Data='0701'/>I can't just take them for free though.
+  Here, why don't I give you this?
+Talk07: |
+  <3 Type='0' Data='0700'/>You looking for Tulin?<0 Type='4'/>He's out at another <0 Type='3' Data='0000'/>cave<0 Type='3' Data='ffff'/> gathering food
+  with Gesane and them.<0 Type='4'/>There's a <0 Type='3' Data='0000'/>bonfire<0 Type='3' Data='ffff'/> marking the entrance.
+  You'll find it eventually if you <0 Type='3' Data='0000'/>go west
+  down the mountain slope<0 Type='3' Data='ffff'/>.<0 Type='4'/><4 Type='0' Data='1a0055006e006400650072007300740061006e0064005f0030003100'/>If you start freezing on your way there,
+  take a minute by the fire to warm up.
+Talk04_01: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='1600540061006c006b00440065006e0079005f0030003000'/>Ughhh. <5 Type='0'/>If I hadn't hurt my wing in a small
+  scrap with some monsters, I could have
+  crossed that pool in a few short flaps.
+Talk04_02: |
+  <3 Type='0' Data='0300'/>How am I going to face the other villagers
+  without the <0 Type='3' Data='0000'/>10<0 Type='3' Data='ffff'/> chillshrooms I promised I'd
+  bring back?
+Talk08: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='08005300690067006800'/>Feels like every cave I check has pools of
+  cold water building up now. <5 Type='0'/>Probably
+  another effect of the blizzard.<0 Type='4'/>You might want to be careful poking your
+  own beak in there, you know.

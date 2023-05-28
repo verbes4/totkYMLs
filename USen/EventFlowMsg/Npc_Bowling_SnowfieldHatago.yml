@@ -1,0 +1,43 @@
+0002: |
+  What do you mean?
+Talk_02: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>I'm talking about the <0 Type='3' Data='0000'/>blizzard <0 Type='3' Data='ffff'/>outside.<0 Type='4'/>This vicious storm began when so many
+  other terrible things started, and it hasn't
+  stopped yet.
+  It's impossible to walk around in this
+  kind of <0 Type='3' Data='0000'/>blizzard<0 Type='3' Data='ffff'/>, so I've been forced to
+  stay here at the stable.
+Talk_11: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>The vicious <0 Type='3' Data='0000'/>blizzard<0 Type='3' Data='ffff'/> outside started when
+  so many other awful things began going
+  wrong. Maybe it will never stop.
+  But the <0 Type='3' Data='0000'/>village where the Rito live<0 Type='3' Data='ffff'/>—to the
+  west of here—is in a dire situation.
+  
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='0c005300610064005f0030003000'/>They can't get enough food in this
+  extreme cold. There's less and less
+  for them to eat.
+Near02: |
+  The blizzard won't stop...
+Talk_03: |
+  <3 Type='0' Data='0001'/>But the <0 Type='3' Data='0000'/>village where the Rito live<0 Type='3' Data='ffff'/>—off
+  to the west of here—is in an even
+  worse situation.
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='0c005300610064005f0030003000'/>In this extreme cold and in this
+  blizzard, they can't get enough
+  food to feed themselves.
+  The villagers there are desperate to
+  figure out what's gone wrong with the
+  weather and how to feed everyone.
+Talk_12: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Hello there...<5 Type='0'/> Still stranded here, as you
+  can see.
+Talk_04: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>If you're going to head to <0 Type='3' Data='0000'/>Rito Village<0 Type='3' Data='ffff'/>,
+  prepare carefully before you go.
+Near01: |
+  This is awful...
+Talk_01: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0c005300610064005f0030003100'/>Ugh...<5 Type='0'/>what a mess.
+0001: |
+  What's the matter?

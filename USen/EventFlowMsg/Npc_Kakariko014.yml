@@ -1,0 +1,155 @@
+Com_Talk_13: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0801'/><0 Type='3' Data='ffff'/>And how many?
+Near1001: |
+  Welcome!
+Com_Talk_14: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0801'/><0 Type='3' Data='ffff'/>All right, <2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/>... That'll be <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>.
+  Sound OK?
+5500: |
+  OK.
+Talk1001: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Well, if it isn't the customer who brought
+  all those eggs!
+  
+  <3 Type='0' Data='0801'/>We can barely keep them on the shelves.
+  
+  
+  They've been especially popular with the
+  Zonai Survey Team investigating the
+  <0 Type='3' Data='0000'/>Ring Ruins<0 Type='3' Data='ffff'/>.
+  Anyway... What can I do for you?
+Com_Talk_15: |
+  <3 Type='0' Data='0a00'/>That looks important... I couldn't possibly
+  accept that.
+5501: |
+  Never mind.
+Talk1002: |
+  <3 Type='0' Data='0800'/>I have the oddest feeling whenever
+  we chat...
+  
+  It's almost like I've known you for ages.
+  It makes me want to chatter away.
+  
+  Next time we talk, you should just tell me
+  what you want. Maybe that'll stop me
+  from talking your ear off.
+Com_Talk_16: |
+  <3 Type='0' Data='0a00'/>You have to remove it before I can take it.
+  Go on—I won't peek.
+5502: |
+  I'll buy!
+Talk1003: |
+  <3 Type='0' Data='0701'/>So what can I help you with?
+5503: |
+  Never mind.
+Talk1004: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Let's see... Of course I recommend the
+  <0 Type='3' Data='0000'/>swift carrots<0 Type='3' Data='ffff'/> my mister grows. There's
+  nothing better!
+  But Olkin's <0 Type='3' Data='0000'/>fortified pumpkins<0 Type='3' Data='ffff'/> are also a
+  good choice. We didn't use to stock them,
+  you know...
+  Old Olkin and my mister quarreled for
+  years and years.
+  
+  <3 Type='0' Data='0801'/><4 Type='0' Data='12004c0061007500670068004c005f0030003000'/>But now they get on, and we have those
+  pumpkins. It's a miracle!
+WakkaCharm: |
+  Have a friend-filled day!
+Talk1006: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Stop by anytime.
+Talk1007: |
+  <3 Type='0' Data='0800'/>Thanks!<0 Type='4'/>Hey, while you're here, maybe you
+  should take a look around and see
+  if there's anything else you want.
+Com_Talk_50: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0801'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/><0 Type='3' Data='ffff'/>So... That'll be <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>. Does
+  that sound OK?
+5507: |
+  I'll take 'em all!
+Talk1008: |
+  <3 Type='0' Data='0800'/>All of our produce is freshly picked,
+  straight from the field to you.
+  So you KNOW it's gonna be tasty.
+5508: |
+  All of them.
+Talk1009: |
+  <3 Type='0' Data='0800'/>Right now is when everything is at
+  its freshest. Better get it while the
+  gettin's good!
+Com_Talk_52: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0801'/><0 Type='3' Data='ffff'/>For <2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/>... I'd say <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>.
+  How's that?
+Talk1010: |
+  <3 Type='0' Data='0800'/>Thanks much. My mister'll be happy
+  about this too.
+Com_Talk_53: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>There's no hurry.
+Talk1011: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>I can't believe it... <5 Type='1'/>I've got no more of
+  those?
+  
+  <3 Type='0' Data='0801'/>Well, glad to make a sale.<5 Type='0'/> I'm very
+  grateful.
+Com_Talk_54: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0300'/><4 Type='0' Data='0a005400680069006e006b00'/><0 Type='3' Data='ffff'/>Oops! You don't have enough.
+Talk1012: |
+  <3 Type='0' Data='0700'/>I don't get away from this place
+  too often...<0 Type='4'/>So I appreciate your showing me such
+  interesting things.
+Com_Talk_55: |
+  <3 Type='0' Data='0500'/><4 Type='0' Data='0a005400680069006e006b00'/>Oops... Looks like your pouch is full.
+  Come back when you've made room.
+  
+  Of course, if there's anything you don't
+  need, I'm happy to buy.
+Com_Talk_56: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0801'/><0 Type='3' Data='ffff'/>For one,<5 Type='0'/> that'll be <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>.
+Com_Talk_02b: |
+  <3 Type='0' Data='0700'/>I'm really grateful you'd sell me something
+  of this quality! I can barely believe it.
+0001: |
+  Recommendations?
+Com_Talk_02c: |
+  <3 Type='0' Data='0800'/>I enjoy trading with all sorts of travelers.
+Com_Talk_05b: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0801'/><0 Type='3' Data='ffff'/>I do enjoy a good chat! Can I help with
+  anything else?
+Com_Talk_00: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0100'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/><0 Type='3' Data='ffff'/>What are you selling?
+Com_Talk_02d: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='12004c0061007500670068004c005f0030003100'/>If you're looking for something you can't
+  find here in Kakariko Village, you probably
+  didn't need it anyway.
+Com_Talk_05c: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0801'/><0 Type='3' Data='ffff'/>Still have something you want to sell?
+0003: |
+  I want to sell!
+Com_Talk_01: |
+  <3 Type='0' Data='0801'/>I can offer <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/> for that.
+  Is that OK?
+Com_Talk_05d: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0801'/><0 Type='3' Data='ffff'/>Deciding what to sell can be fun, so you
+  just take your time.
+0004: |
+  Bye.
+Com_Talk_02: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0800'/><0 Type='3' Data='ffff'/>To think I'd luck into something as neat
+  as this... My mister will be pleased too.
+Com_Talk_31: |
+  <0 Type='3' Data='0000'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/><0 Type='3' Data='ffff'/>Well then, how many do you want?
+Com_Talk_04: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>There's no hurry. Please take your time.
+Com_Talk_33: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0801'/><0 Type='3' Data='ffff'/>Just one? That'll be <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>.
+  Sound OK?
+Com_Talk_05: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0801'/><0 Type='3' Data='ffff'/>Travelers have been bringing in the most
+  interesting items. I can't wait to show
+  everything to my mister.
+Com_Talk_34: |
+  Well now, all of them will cost you
+  <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>.<5 Type='0'/> Is that OK?
+Com_Talk_35: |
+  All <2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/> of them, eh? I'd say that adds up
+  to <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>. Is that OK?

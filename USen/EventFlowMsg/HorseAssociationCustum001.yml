@@ -1,0 +1,108 @@
+0001: |
+  Dream homes?
+Talk19: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068005300'/><FontSize Value='80'/>Hehe...<5 Type='1'/> One day I'll have my <0 Type='3' Data='0000'/>dream home<0 Type='3' Data='ffff'/>, and I
+  won't ever have to work again!<FontSize Value='100'/>
+LargeHorse: |
+  Will that fit in the stable?
+0002: |
+  Goodbye.
+NakedPlayer: |
+  Where's the style in that?
+GoldHorse: |
+  That horse sure is a beaut.
+Talk10: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Oh!<5 Type='1'/> Oh no. You heard me singing again,
+  didn't you?
+WakkaCharm: |
+  Ah! A fellow romantic.
+Talk21: |
+  <3 Type='0' Data='0700'/>That jingle's been stuck in my head ever
+  since I heard that Hudson Construction
+  started making <0 Type='3' Data='0000'/>dream homes<0 Type='3' Data='ffff'/>.
+  Someday I hope I can make the trip east
+  to <0 Type='3' Data='0000'/>Tarrey Town <0 Type='3' Data='ffff'/>and order a dream home
+  of my own.
+  <3 Type='0' Data='0c01'/>Meeting that special someone, settling
+  down in a nice, big house, and growing
+  gray together... <5 Type='1'/>It's all I ever wanted!
+  <FontSize Value='125'/><3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>I'm smiling just imagining it!<FontSize Value='100'/>
+Talk11: |
+  <3 Type='0' Data='0300'/>I figured it was so early, no one would
+  be around.
+Talk22: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068005300'/>Anyway... You're interested in buying a
+  <0 Type='3' Data='0000'/>dream home<0 Type='3' Data='ffff'/>, huh? Me too!
+  
+  All I know is that Hudson Construction
+  started a new service where they build
+  them for you.
+  If you want to learn more, you should just
+  find them in <0 Type='3' Data='0000'/>Tarrey Town<0 Type='3' Data='ffff'/>. That's to the
+  east of this stable.
+  Here's hoping we both end up in dream
+  homes of our own with amazing partners
+  who smell good and like dogs.
+  <FontSize Value='125'/><3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>There I go again! Ow, my cheeks!<FontSize Value='100'/>
+Talk03: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1400480075006d006d0069006e0067005f0030003000'/>♪Quick and quality, blink and we're done!
+  <0 Type='3' Data='0000'/>Dream homes<0 Type='3' Data='ffff'/>, the envy of everyson...♪
+Talk13: |
+  <3 Type='0' Data='0300'/>I figured it was so late, no one would
+  be around.
+Talk23: |
+  <3 Type='0' Data='0701'/>All I know is that Hudson Construction
+  started a new service where they build
+  <0 Type='3' Data='0000'/>dream homes<0 Type='3' Data='ffff'/>.
+  If you want to learn more, you should go
+  find them in <0 Type='3' Data='0000'/>Tarrey Town<0 Type='3' Data='ffff'/>. That's to the
+  east of this stable.
+  Here's hoping we both end up in dream
+  homes of our own with great partners who
+  never have morning breath.
+  <FontSize Value='125'/><3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>There I go again! Can't not smile!<FontSize Value='100'/>
+Talk04: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>Oh!<5 Type='1'/> Did you hear me singing?
+  How embarrassing...
+Talk14: |
+  <FontSize Value='80'/><3 Type='0' Data='0c00'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>Of course, before I buy a home, I'll need to figure
+  out the "special someone" part of the equation.
+  
+  I told Papa to put up a picture of the Unity Bell for
+  good luck in my dating life... I wonder if he's done it.
+  
+  He's my father. Shouldn't he be doing his best to
+  help me find a partner who has kind eyes and knows
+  how to bake?<FontSize Value='100'/>
+Near00: |
+  <4 Type='0' Data='1400480075006d006d0069006e0067005f0030003000'/>♪Mm-hm! For everyson!♪
+Talk15: |
+  <3 Type='0' Data='0701'/>Anyway... Back to it! I have to earn some
+  money if I'm going to buy a dream home!
+Near01: |
+  It's coming down now.
+Talk16: |
+  <3 Type='0' Data='0300'/>I figured the rain would drown out the
+  sound of my voice.
+Near02: |
+  <4 Type='0' Data='1400480075006d006d0069006e0067005f0030003000'/>♪Dream homes!♪
+Talk07: |
+  <3 Type='0' Data='0700'/>It's raining!<5 Type='0'/> Get inside quick!
+Talk17: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>Huh? The picture of the Unity Bell is
+  already hanging up?
+  
+  I was so busy working, I didn't notice!
+  
+  
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068005300'/>Thanks for letting me know! I'll go and
+  look at it after my shift.
+BoneHorse: |
+  Is that thing a horse?
+Talk08: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1400480075006d006d0069006e0067005f0030003000'/>♪Quick and quality, blink and we're done!
+  <0 Type='3' Data='0000'/>Dream homes<0 Type='3' Data='ffff'/>, the envy of everyson...♪
+  
+  That's the Hudson Construction jingle.
+  Hear it once, and you'll never be able to
+  get it out of your head.

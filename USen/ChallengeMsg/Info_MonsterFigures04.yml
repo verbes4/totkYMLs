@@ -1,0 +1,32 @@
+Name: |
+  A Monstrous Collection IV
+Reward: |
+  The Frox sculpture was placed on the stage,
+  and Kilton treated the villagers to a presentation
+  about the monster.
+  
+  Now he wants to give you a reward for all your
+  help. Be sure to make room for Kilton's present
+  among your belongings, and then go see him.
+Photo: |
+  Now that Hudson is willing to make more
+  monster sculptures, Kilton is asking for a
+  sculpture of a <0 Type='3' Data='0000'/>Frox<0 Type='3' Data='ffff'/>.
+  
+  Hudson said he could make one but only if he
+  had a <0 Type='3' Data='0000'/>detailed picture<0 Type='3' Data='ffff'/> of the monster.
+Display: |
+  You showed Hudson a picture of a Frox, and he
+  made the Frox sculpture. Now Kilton wants the
+  sculpture moved to a stage.
+  
+  Let Kilton know once you have <0 Type='3' Data='0000'/>placed it on
+  the stage<0 Type='3' Data='ffff'/>.
+Complete: |
+  The Frox sculpture was placed on the stage,
+  and Kilton treated the villagers to a presentation
+  about the monster.
+  
+  It's been his dream to teach folks that monsters
+  have good traits too, and he's thrilled to finally
+  see his dream become a reality.

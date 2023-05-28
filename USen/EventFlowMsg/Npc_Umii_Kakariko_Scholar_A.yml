@@ -1,0 +1,165 @@
+0008: |
+  I'll...leave you to it.
+Talk_07: |
+  <3 Type='0' Data='0c00'/>Well, ahem, if I'm honest, even an expert
+  like me doesn't know EXACTLY what
+  gloom really is.
+  The Depths—you know the Depths, don't
+  you? The vast, dark expanse that these
+  chasms lead to?
+  <4 Type='0' Data='0c005300610064005f0030003000'/>Anyway, one can find gloom all over the
+  Depths. It emerges from these chasms to
+  taint the surface.
+  <3 Type='0' Data='0700'/>Just<0 Type='3' Data='0000'/> touching it will steal your vitality<0 Type='3' Data='ffff'/>, so
+  watch out. Dreadful stuff.
+  
+  *sigh* Unfortunately, that's about as far
+  as my research has taken me.
+Talk_55: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='1200530075007200700072006900730065005300'/>The inn owner? <5 Type='1'/>Ah, the spacy-looking
+  fellow.<0 Type='4'/><3 Type='0' Data='0500'/>He made the beds recently, but I haven't
+  seen him since.
+Talk_30: |
+  <3 Type='0' Data='0900'/>You again?! I told you not to startle me!
+  
+  
+  <0 Type='3' Data='0200'/><FontSize Value='80'/>That was dangerous. I almost lost my balance.<FontSize Value='100'/><0 Type='3' Data='ffff'/>
+Talk_08: |
+  <3 Type='0' Data='0c00'/>Well, what is it? I'm busy. Unless you
+  have questions for a <0 Type='3' Data='0000'/>gloom specialist<0 Type='3' Data='ffff'/>,
+  that is...
+  <3 Type='0' Data='0701'/>I suppose I could make time for that.
+Talk_56: |
+  <3 Type='0' Data='0700'/>Perhaps he went to that tent over there?
+  He said he'd have an easy time finding it
+  because of the bizarre ruins on the spot.
+Talk_57: |
+  <3 Type='0' Data='0c00'/>I wonder if he made it. It looked like he
+  was about to fall asleep.
+Talk_45: |
+  <3 Type='0' Data='0900'/>You again?! I told you not to startle me!<0 Type='4'/><0 Type='3' Data='0200'/><FontSize Value='80'/>I almost fell in this strong wind we're getting.<FontSize Value='100'/><0 Type='3' Data='ffff'/>
+Talk_46: |
+  <3 Type='0' Data='0700'/>Yes? What is it?<0 Type='4'/>It's very risky to be standing here with
+  the strong wind coming in from the chasm
+  right now.<0 Type='4'/><3 Type='0' Data='0c01'/>Haven't you heard the legend that strong
+  winds like these happen because there's
+  a dragon nearby?<0 Type='4'/><3 Type='0' Data='0700'/>Haha! Just kidding, of course. But I do
+  wonder why you keep talking to me.<0 Type='4'/>Do you really have that much to ask
+  a <0 Type='3' Data='0000'/>gloom specialist<0 Type='3' Data='ffff'/>?
+Talk_34: |
+  <3 Type='0' Data='0900'/>You again?! I told you not to startle me!
+  
+  
+  <0 Type='3' Data='0200'/><FontSize Value='80'/>That was dangerous. I almost lost my balance.
+  With all this rain, I couldn't hear a thing.<FontSize Value='100'/><0 Type='3' Data='ffff'/>
+Talk_36: |
+  <3 Type='0' Data='0900'/>Don't sneak up on me!
+  
+  
+  <0 Type='3' Data='0200'/><FontSize Value='80'/>Yikes. That was close. I almost fell in this strong
+  wind we're getting.<FontSize Value='100'/><0 Type='3' Data='ffff'/>
+Talk_10: |
+  <3 Type='0' Data='0400'/>Oh, wait...
+  
+  
+  <3 Type='0' Data='0801'/><4 Type='0' Data='0a0048006100700070007900'/>I heard all about your assistance with
+  Tauro's ruins investigation!
+  
+  Now, what brings you here? Have you
+  come for a professional consultation on
+  <0 Type='3' Data='0000'/>gloom<0 Type='3' Data='ffff'/>, perhaps?
+Talk_37: |
+  <FontSize Value='80'/><3 Type='0' Data='0c00'/>My grandma told me a story once about when she
+  was traveling through the Eldin mountain range in
+  the north, long ago.<0 Type='4'/>The wind grew fierce, and when she looked up at
+  the sky, she thought she saw something flying.<0 Type='4'/>Could it be...<FontSize Value='100'/>
+Talk_26: |
+  <FontSize Value='125'/><3 Type='0' Data='0b00'/><4 Type='0' Data='1200530075007200700072006900730065004c00'/>Watch it!<FontSize Value='100'/>
+Talk_01: |
+  <FontSize Value='80'/><3 Type='0' Data='0c00'/>To think that a <0 Type='3' Data='0000'/>chasm<0 Type='3' Data='ffff'/> would open so close to a
+  village. This warrants constant observation.
+  
+  <0 Type='3' Data='0000'/>Xalis <0 Type='3' Data='ffff'/>is leading the Ring Ruins investigation, so
+  that leaves me free to focus on <0 Type='3' Data='0000'/>gloom<0 Type='3' Data='ffff'/>...<FontSize Value='100'/>
+Talk_27: |
+  <FontSize Value='80'/><3 Type='0' Data='0c00'/>Once the Ring Ruins investigation is finished, I can
+  always return to my study of the Depths...<FontSize Value='100'/>
+Talk_50: |
+  <FontSize Value='80'/><3 Type='0' Data='0c00'/>The wind suddenly picked up. Is there something
+  going on nearby? I don't know what could cause it.
+  
+  Though I did once hear a legend that there are
+  dragons in this world. It couldn't be that...<5 Type='0'/>could it?
+  
+  No, no. I mustn't let a little wind spook me.<FontSize Value='100'/>
+Talk_02: |
+  <3 Type='0' Data='0900'/>Don't startle me!
+  
+  
+  <0 Type='3' Data='0200'/><FontSize Value='80'/>Phew. That was close. I could have fallen.<FontSize Value='100'/><0 Type='3' Data='ffff'/>
+0003: |
+  What if you get sick?
+Talk_28: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Eh? You were just sneaking about with no
+  good reason? That...<5 Type='0'/>that...
+  
+  <3 Type='0' Data='0900'/>You can't do that! <5 Type='0'/>I almost fell, you know!
+Ballon_01: |
+  Gently... Gently...
+Talk_51: |
+  <FontSize Value='80'/><3 Type='0' Data='0c00'/>My mom did tell me a story once about when she
+  was traveling through the Faron Grasslands to the
+  south, long ago.<0 Type='4'/>The wind grew fierce, and when she looked up at
+  the sky, she thought she saw something flying.<0 Type='4'/>Could it be...<FontSize Value='100'/>
+Talk_29: |
+  <3 Type='0' Data='0900'/>Don't sneak up on me!
+  
+  
+  <0 Type='3' Data='0200'/><FontSize Value='80'/>Yikes. That was close. With all this rain, I couldn't
+  hear a thing.<FontSize Value='100'/><0 Type='3' Data='ffff'/>
+0004: |
+  Goodbye.
+Talk_03: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068004c00'/>Eh? What's this? Are you asking because
+  you're planning a trip down the <0 Type='3' Data='0000'/>chasm<0 Type='3' Data='ffff'/>?
+  What bravery!
+  If you touch <0 Type='3' Data='0000'/>gloom <0 Type='3' Data='ffff'/>and become unwell,
+  <0 Type='3' Data='0000'/>come to the surface<0 Type='3' Data='ffff'/> right away. <5 Type='1'/>That's the
+  most important thing.
+  <3 Type='0' Data='0c00'/>Certain <0 Type='3' Data='0000'/>foods<0 Type='3' Data='ffff'/> may help. I did feel better
+  when I tried nibbling a <0 Type='3' Data='0000'/>yellow plant <0 Type='3' Data='ffff'/>I
+  found near some fallen ruins...
+  <4 Type='0' Data='10005400680069006e006b005f0030003100'/>I tried researching the plant to confirm my
+  results, but I can't find any records of it.
+  
+  <FontSize Value='80'/>Come to think of it, I heard <0 Type='3' Data='0000'/>Cori<0 Type='3' Data='ffff'/> discovered
+  <0 Type='3' Data='0000'/>a new species of plant<0 Type='3' Data='ffff'/>. Perhaps I'll ask her.<FontSize Value='100'/>
+Ballon_02: |
+  How will the rain react?
+Talk_17: |
+  <3 Type='0' Data='0c00'/>I'm busy, but since you helped Tauro, I'll
+  hear you out.
+  
+  Ah, or perhaps you have questions for a
+  <0 Type='3' Data='0000'/>gloom specialist<0 Type='3' Data='ffff'/>...<0 Type='4'/><3 Type='0' Data='0701'/>I suppose I could make time for that.
+0005: |
+  What is gloom?
+Talk_04: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004c0061007500670068005300'/>Asking questions about <0 Type='3' Data='0000'/>gloom<0 Type='3' Data='ffff'/> while
+  other folks are drawn to the <0 Type='3' Data='0000'/>Ring Ruins<0 Type='3' Data='ffff'/>...
+  
+  The Zonai Survey Team could use
+  inquisitive minds like yours.
+Ballon_03: |
+  The wind's picking up...
+0007: |
+  Ahem...
+Talk_06: |
+  <3 Type='0' Data='0900'/>I'm a <0 Type='3' Data='0000'/>specialist in gloom<0 Type='3' Data='ffff'/>, not defying
+  gravity! One false step and that's the end
+  of my research.
+  <3 Type='0' Data='0701'/>Now, what brings you here? Have you
+  come for a professional consultation on
+  <0 Type='3' Data='0000'/>gloom<0 Type='3' Data='ffff'/>, perhaps?
+1001: |
+  Where's the inn owner?

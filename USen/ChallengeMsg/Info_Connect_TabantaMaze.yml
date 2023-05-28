@@ -1,0 +1,71 @@
+Complete: |
+  The labyrinths in northeast Tabantha were
+  meant to test the talents of those who
+  entered, built by someone calling themself
+  "the ruler of owls."
+  
+  You don't understand any more than that.
+  If anything, this experience has only deepened
+  the mystery.
+Name: |
+  The North Lomei Prophecy
+Sky: |
+  At the entrance to the giant ruin floating in the
+  sky above northeast Tabantha, you heard
+  a voice once again.
+  
+  The voice told you to <0 Type='3' Data='0000'/>activate the four terminals<0 Type='3' Data='ffff'/>
+  hidden within the labyrinth.
+Minus: |
+  You activated the fifth and final terminal
+  atop the labyrinth floating in the sky above
+  northeast Tabantha. A voice said:
+  
+  "<0 Type='3' Data='0000'/>From high above, to far below... Prove your
+  courage by diving into the depths of the earth.
+  The final way shall open to you.<0 Type='3' Data='ffff'/>"
+Sky3rd: |
+  In the labyrinth floating in the sky above
+  northeast Tabantha, a voice told you to 
+  <0 Type='3' Data='0000'/>activate the four terminals<0 Type='3' Data='ffff'/>.
+  
+  You have activated three of the hidden
+  terminals. <0 Type='3' Data='0000'/>One <0 Type='3' Data='ffff'/>remains. If you do as the voice
+  instructed, who knows what may happen?
+Land: |
+  At the entrance to a labyrinth in northeast
+  Tabantha, there is a tablet engraved with words
+  of prophecy. It says whoever wakes the dragon
+  ring deep in the maze will <0 Type='3' Data='0000'/>be rewarded<0 Type='3' Data='ffff'/>.
+  
+  When you reached the deepest part of the
+  labyrinth, a voice told you to <0 Type='3' Data='0000'/>visit the west side
+  of the labyrinth of the sky<0 Type='3' Data='ffff'/>.
+Sky1st: |
+  In the labyrinth floating in the sky above
+  northeast Tabantha, a voice told you to 
+  <0 Type='3' Data='0000'/>activate the four terminals<0 Type='3' Data='ffff'/>.
+  
+  You have activated one of the hidden terminals.
+  <0 Type='3' Data='0000'/>Three<0 Type='3' Data='ffff'/> remain. If you do as the voice instructed,
+  who knows what may happen?
+Land2: |
+  When you reached the deepest part
+  of the northeast Tabantha labyrinth,
+  a voice told you to <0 Type='3' Data='0000'/>visit the west side
+  of the labyrinth of the sky<0 Type='3' Data='ffff'/>.
+Sky2nd: |
+  In the labyrinth floating in the sky above
+  northeast Tabantha, a voice told you to 
+  <0 Type='3' Data='0000'/>activate the four terminals<0 Type='3' Data='ffff'/>.
+  
+  You have activated two of the hidden terminals.
+  <0 Type='3' Data='0000'/>Two <0 Type='3' Data='ffff'/>remain. If you do as the voice instructed,
+  who knows what may happen?
+SkyAll: |
+  In the labyrinth floating in the sky above
+  northeast Tabantha, a voice told you to 
+  <0 Type='3' Data='0000'/>activate the four terminals<0 Type='3' Data='ffff'/>.
+  
+  You did as instructed, and a new terminal
+  appeared on the roof of the labyrinth...

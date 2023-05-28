@@ -1,0 +1,281 @@
+near0002: |
+  They're ready for eating!
+talk0021: |
+  <3 Type='0' Data='0800'/>Sarqso.<5 Type='0'/> Come again!
+near0003: |
+  I've got to restock!
+talk0022: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0a0048006100700070007900'/>Sarqso. I'll make sure to restock for you!
+talk0023: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a005400680069006e006b00'/>I...<5 Type='0'/> I don't want to be harsh, considering
+  you've bought everything I had for sale...
+  
+  But if you have other business, I ask that
+  you wrap it up before my daughter returns
+  from the "<0 Type='3' Data='0000'/>Voe and You<0 Type='3' Data='ffff'/>"<0 Type='3' Data='0000'/> class<0 Type='3' Data='ffff'/>.
+talk0024: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068005300'/>You've bought everything I have to offer.
+  I'm really impressed!
+  
+  <3 Type='0' Data='0701'/>Maybe you wouldn't be the worst
+  influence on my daughter. Perhaps
+  even a good one.
+  She's already learned a lot from Ashai's
+  "<0 Type='3' Data='0000'/>Voe and You<0 Type='3' Data='ffff'/>" <0 Type='3' Data='0000'/>class<0 Type='3' Data='ffff'/>. I'm sure she'll grow
+  into a brilliant beauty—like her mother.
+talk0025: |
+  <3 Type='0' Data='0200'/><4 Type='0' Data='0600530061006400'/>...Ugh. I can't believe the chief is letting
+  you stay in the shelter. She must be
+  playing some kind of joke...
+  You just worry about what fruit you're
+  going to buy, and don't even think about
+  distracting my daughter from her studies!
+talk0026: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>You know... <5 Type='0'/>Maybe you wouldn't be the
+  worst influence on my daughter. Perhaps
+  even a good one.
+  Of course, she's already learned a lot
+  from Ashai's "<0 Type='3' Data='0000'/>Voe and You<0 Type='3' Data='ffff'/>" <0 Type='3' Data='0000'/>class<0 Type='3' Data='ffff'/>.
+  
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>I would bet you anything that she's going
+  to grow up to be a brilliant beauty—just
+  like her mother.
+GreetingBefore03: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='180043007500730074006f006d00560061007300610061007100'/>Vasaaq...<5 Type='0'/>
+Com_Talk_13: |
+  <3 Type='0' Data='0000'/>All right.<5 Type='0'/> How many do you want to sell?
+Com_Talk_14: |
+  <3 Type='0' Data='0000'/>So <2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/> of them would be <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>.
+  How's that sound?
+Com_Talk_15: |
+  <3 Type='0' Data='0b00'/>Is this something people in the outside
+  world actually buy and sell? <5 Type='0'/>Well, we
+  don't really have a use for them here...
+Com_Talk_16: |
+  <3 Type='0' Data='0900'/>Hey, little voe! Trying to sell the clothes
+  you have on is just silly!
+talk0010: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Were you looking for Dalia?
+  
+  
+  She's usually at the "<0 Type='3' Data='0000'/>Voe and You<0 Type='3' Data='ffff'/>"<0 Type='3' Data='0000'/> class
+  underground<0 Type='3' Data='ffff'/> at this time of day.
+  
+  <3 Type='0' Data='0100'/>She's a real hard worker, and I bet she
+  grows up to be a brilliant beauty—just like
+  her mother.
+talk0011: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Don't tell me...<5 Type='0'/> You're here to see my
+  daughter, right?<0 Type='4'/><3 Type='0' Data='0701'/>She's usually with the other kids in town
+  around this time of day, I believe, but
+  she's so busy lately.
+  She attends the "<0 Type='3' Data='0000'/>Voe and You<0 Type='3' Data='ffff'/>"<0 Type='3' Data='0000'/> class<0 Type='3' Data='ffff'/>...
+  She helps look after the little ones... She
+  is growing up more and more every day!
+  <3 Type='0' Data='0800'/>I'm sure she'll be the finest vai
+  Gerudo Town has ever seen.
+talk0012: |
+  <3 Type='0' Data='0800'/>Hey, just a minute...<5 Type='0'/>
+  
+  
+  I hear you and the chief worked together
+  to clear the sand shroud? Is that right?
+  
+  ...I think I was being overly protective of
+  my daughter before.
+  
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Maybe you wouldn't be the worst
+  influence on her. Perhaps even a
+  good one.
+  She's already learned a lot from Ashai's
+  "<0 Type='3' Data='0000'/>Voe and You<0 Type='3' Data='ffff'/>" <0 Type='3' Data='0000'/>class<0 Type='3' Data='ffff'/>. I bet she grows up
+  to be a brilliant beauty—like her mother.
+0001: |
+  Can I sell to you?
+talk0013: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Maybe you wouldn't be the worst
+  influence on my daughter. Perhaps
+  even a good one.
+  She's already learned a lot from Ashai's
+  "<0 Type='3' Data='0000'/>Voe and You<0 Type='3' Data='ffff'/>" <0 Type='3' Data='0000'/>class<0 Type='3' Data='ffff'/>. I'm sure she'll grow
+  into a brilliant beauty—like her mother.
+Com_Talk_31: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Sounds good.<5 Type='0'/> How many do you want?
+GreetingAfter03: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='180043007500730074006f006d00560061007300610061007100'/>Vasaaq!<5 Type='0'/> Come and get some fruit—fresh
+  as it can be!
+0002: |
+  "Voe and You" class?
+talk0014: |
+  <3 Type='0' Data='0700'/>It's a class that Ashai teaches. It's for all
+  the young vai in Gerudo Town so they
+  can learn about voe.
+  <3 Type='0' Data='0c01'/>Class is held <0 Type='3' Data='0000'/>underground<0 Type='3' Data='ffff'/> in a <0 Type='3' Data='0000'/>cave near
+  the Goddess Statue<0 Type='3' Data='ffff'/>, but I can't leave the
+  shop and walk my daughter, Dalia, there.
+  <3 Type='0' Data='0701'/>She takes after me though—smart as
+  they come! She can handle walking to
+  and from class by herself.
+0003: |
+  Goodbye.
+talk0015: |
+  <3 Type='0' Data='0800'/>You picked a good one, didn't you?<5 Type='0'/>
+  They're perfect for eating now, you know.
+Com_Talk_33: |
+  <3 Type='0' Data='0000'/>Just one?<5 Type='0'/> In that case, it'll
+  be <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>, OK?
+talk0016: |
+  <3 Type='0' Data='0700'/>Sarqso...
+Com_Talk_05b: |
+  <3 Type='0' Data='0000'/>Are you holding out on me? I can buy
+  plenty more, you know.
+Com_Talk_34: |
+  <3 Type='0' Data='0000'/>Oh? All of them?<5 Type='0'/> There's <2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/>, so it'll be<5 Type='0'/>
+  <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>. That OK?
+talk0017: |
+  <3 Type='0' Data='0700'/>Sav'orq! I look forward to seeing
+  you again!
+shop_near00: |
+  Buy before you touch!
+Com_Talk_00: |
+  <3 Type='0' Data='0700'/>What do you want to sell?
+Com_Talk_05c: |
+  <3 Type='0' Data='0000'/>I feel like you've got things that are even
+  more rare. Come on, sell me some more!
+Com_Talk_35: |
+  <3 Type='0' Data='0000'/>Oh, all <2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/> of them? I'll buy them for
+  <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>.
+talk0018: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a005400680069006e006b00'/>I...<5 Type='0'/> I don't want to be harsh, considering
+  you've bought everything I had for sale...
+  
+  But my daughter is home from the
+  "<0 Type='3' Data='0000'/>Voe and You<0 Type='3' Data='ffff'/>"<0 Type='3' Data='0000'/> class<0 Type='3' Data='ffff'/> now, so could you
+  wrap up your business quickly?
+shop_near01: |
+  That's my display area!
+Com_Talk_01: |
+  <3 Type='0' Data='0000'/>All right... I'll buy it from you for
+  <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>, OK?
+Com_Talk_05d: |
+  <3 Type='0' Data='0000'/>I can find joy in just looking at
+  things travelers have brought from
+  the outside world...
+talk0019: |
+  <3 Type='0' Data='0700'/>Is there something else you needed?
+Com_Talk_02: |
+  <3 Type='0' Data='0700'/>Sarqso. What about the rest?
+Com_Talk_02b: |
+  <3 Type='0' Data='0700'/>Sarqso!
+Com_Talk_04: |
+  <3 Type='0' Data='0a00'/>You changed your mind? Too bad.
+Com_Talk_50: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='10004700720065006500740069006e006700'/>That'll be <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>. Is that OK?
+Com_Talk_02c: |
+  <3 Type='0' Data='0800'/>Hah, sarqso. My daughter loves these.
+Com_Talk_05: |
+  <3 Type='0' Data='0000'/>I'll buy almost anything!
+Com_Talk_02d: |
+  <3 Type='0' Data='0800'/>Ooh, this is great! Sarqso.
+Com_Talk_52: |
+  <3 Type='0' Data='0000'/>So <2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/> of them would be <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>.
+  How's that sound?
+5500: |
+  Yes.
+talk0000: |
+  <3 Type='0' Data='0900'/>Hold it right there...<5 Type='0'/> Even though the
+  chief gave you special permission to
+  be here...
+  don't think for a minute that means I like
+  you going around, poking your nose into
+  Gerudo life.
+  My daughter is being responsible and
+  diligently attending the "<0 Type='3' Data='0000'/>Voe and You<0 Type='3' Data='ffff'/>"<0 Type='3' Data='0000'/>
+  class<0 Type='3' Data='ffff'/>—don't you distract her!
+Com_Talk_53: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='0a0041006e00670072007900'/>Oh, did you change your mind?
+5501: |
+  Never mind.
+talk0001: |
+  <3 Type='0' Data='0900'/>Was I not clear before?<5 Type='0'/> Even though the
+  chief gave you special permission to
+  be here...
+  don't think for a minute that means I like
+  you going around, poking your nose into
+  Gerudo life.
+  My daughter is being responsible and
+  diligently attending the "<0 Type='3' Data='0000'/>Voe and You<0 Type='3' Data='ffff'/>"<0 Type='3' Data='0000'/>
+  class<0 Type='3' Data='ffff'/>—don't you distract her!
+Com_Talk_54: |
+  <3 Type='0' Data='0900'/>What is this, some kind of statement
+  about the value of my wares?<5 Type='0'/> I'm not
+  lowering the price...
+5502: |
+  I wanna buy.
+talk0002: |
+  <3 Type='0' Data='0200'/><4 Type='0' Data='0600530061006400'/>...Ugh. I can't believe the chief is letting
+  you stay in the shelter. She must be
+  playing some kind of joke...
+  I can't have you bothering my daughter—
+  she'll be the best vai in Gerudo Town after
+  she finishes the "<0 Type='3' Data='0000'/>Voe and You<0 Type='3' Data='ffff'/>"<0 Type='3' Data='0000'/> class<0 Type='3' Data='ffff'/>.
+  You just worry about what fruit you're
+  going to buy, and don't even think
+  about distracting her!
+Com_Talk_55: |
+  <3 Type='0' Data='0a00'/>Your pouch is full right to the limit...
+  Maybe you'd like to sell something
+  to me?
+5503: |
+  Never mind.
+talk0003: |
+  <3 Type='0' Data='0700'/>Just one thing...<5 Type='0'/> 
+  
+  
+  My daughter is attending the "<0 Type='3' Data='0000'/>Voe and
+  You<0 Type='3' Data='ffff'/>" <0 Type='3' Data='0000'/>class<0 Type='3' Data='ffff'/> right now, so if you want to
+  shop, do it quickly.
+Com_Talk_56: |
+  <3 Type='0' Data='0000'/>Just one, right? That will be <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/>
+  rupees<0 Type='3' Data='ffff'/>. Sound OK?
+talk0004: |
+  <3 Type='0' Data='0901'/><4 Type='0' Data='0600530061006400'/>...OK. Hurry it up though.
+talk0005: |
+  <3 Type='0' Data='0700'/>It's a class that Ashai teaches. It's for all
+  the young vai in Gerudo Town so they
+  can learn about voe.
+  <3 Type='0' Data='0c01'/>Class is held in a <0 Type='3' Data='0000'/>cave next to the
+  Goddess Statue<0 Type='3' Data='ffff'/>, but I tend the shop and
+  can't walk my daughter, Dalia, there...
+  <3 Type='0' Data='0100'/>She takes after me though—smart as
+  they come! She can handle walking to
+  and from class by herself.
+  ...
+  
+  
+  <3 Type='0' Data='0200'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Hey!<5 Type='0'/> Don't even think about following her
+  to the class! Understand?
+talk0006: |
+  <3 Type='0' Data='0900'/>Don't forget what I said about
+  my daughter!
+5507: |
+  I'll take 'em all!
+talk0007: |
+  <3 Type='0' Data='0701'/>What?<5 Type='0'/> Did you still need something?
+5508: |
+  All of them.
+near0000: |
+  Ugh...
+talk0008: |
+  <3 Type='0' Data='0900'/>Don't forget what I said about
+  my daughter!
+talk0009: |
+  <3 Type='0' Data='0900'/>You still need something?
+  
+  
+  My daughter is attending the "<0 Type='3' Data='0000'/>Voe and
+  You<0 Type='3' Data='ffff'/>" <0 Type='3' Data='0000'/>class<0 Type='3' Data='ffff'/> right now, so if you want to
+  shop, do it quickly.
+talk0020: |
+  <3 Type='0' Data='0800'/>Oh, that'd be great! Dalia would be so
+  interested in things from far-away places!

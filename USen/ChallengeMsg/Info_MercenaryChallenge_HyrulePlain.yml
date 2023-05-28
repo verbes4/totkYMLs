@@ -1,0 +1,22 @@
+Name: |
+  Bring Peace to Hyrule Field!
+Move: |
+  A monster-control-crew squad led by Hoz is on
+  its way to a monster stronghold in Hyrule Field.
+  
+  Once they approach it, they'll wait for an
+  opportunity to strike. Join the squad as they
+  <0 Type='3' Data='0000'/>head to the stronghold<0 Type='3' Data='ffff'/>.
+Exterminate: |
+  Hoz's squad of the monster-control crew is
+  battling monsters in Hyrule Field.
+  
+  Join the squad and <0 Type='3' Data='0000'/>defeat all of the monsters<0 Type='3' Data='ffff'/>!
+Complete: |
+  You helped Hoz's squad of the monster-
+  control crew by defeating the monsters in
+  the stronghold.
+  
+  The squad's next destination is <0 Type='3' Data='0000'/>Fort Hateno<0 Type='3' Data='ffff'/> in
+  <0 Type='3' Data='0000'/>Necluda<0 Type='3' Data='ffff'/>, which is found in the <0 Type='3' Data='0000'/>southeast <0 Type='3' Data='ffff'/>region
+  of Hyrule.

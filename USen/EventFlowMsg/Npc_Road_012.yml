@@ -1,0 +1,248 @@
+Talk01_03_01: |
+  <4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Shooting stars obviously come from the
+  sky, right? So if <0 Type='3' Data='0000'/>I could fly up there<0 Type='3' Data='ffff'/>, I'd
+  be able to find a lot of them!
+  <4 Type='0' Data='12004c00610075006700680053005f0030003000'/>Heh, flying through the sky, catching
+  <0 Type='3' Data='0000'/>shooting stars<0 Type='3' Data='ffff'/>. Now that's a treasure-
+  hunter's dream!
+Talk01_02_00: |
+  <4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>I mentioned before that I'm hunting for a
+  <0 Type='3' Data='0000'/>shooting star<0 Type='3' Data='ffff'/>, right?
+  
+  Recently, another traveler told me how
+  they almost got their hands on one!
+  
+  They'd spotted the star sailing through
+  the sky one night, but when they followed
+  it to where it landed, monsters attacked!
+  <3 Type='0' Data='0c01'/>Though they eventually chased the
+  monsters off, they didn't reach the place
+  the star had landed until the sun was up.
+  <4 Type='0' Data='0e0045006100730065005f0030003100'/>By then, the <0 Type='3' Data='0000'/>shooting star was nowhere to
+  be seen<0 Type='3' Data='ffff'/>!
+  
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>So fleeting, just like the voe of my
+  dreams. If you see something worth
+  chasing, don't hesitate, right?
+Guardian00: |
+  <3 Type='0' Data='0901'/><4 Type='0' Data='1200530075007200700072006900730065004c00'/>What are you doing?! <5 Type='1'/>You need to flee!
+Talk01_02_01: |
+  <4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Recently, another traveler told me how
+  they almost got their hands on a
+  <0 Type='3' Data='0000'/>shooting star<0 Type='3' Data='ffff'/>.
+  When they reached the spot where it had
+  landed, dawn had already come, and the
+  <0 Type='3' Data='0000'/>shooting star was nowhere to be seen<0 Type='3' Data='ffff'/>.
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>So fleeting, just like the voe of my
+  dreams. If you see something worth
+  chasing, don't hesitate, right?
+TerrorEnemy_00: |
+  Do your worst!
+TerrorEnemy_01: |
+  I won't go easy!
+AssassinClothes: |
+  That look is in bad taste.
+TerrorEnemy_02: |
+  Think you can beat me?
+SavedLv3_00: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>That was no joke!<5 Type='0'/> I let my mind wander
+  for one moment, and they struck...
+Talk02_00: |
+  <4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>As a legendary treasure hunter, I am more
+  than happy to share some tips with you.
+  
+  The key to making new discoveries is
+  being able to get somewhere <0 Type='3' Data='0000'/>high up<0 Type='3' Data='ffff'/>!
+  
+  A cliff, ruins that have fallen from the
+  sky... As long as it's high up, it'll work
+  just fine.
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>So get high up and look around—you're
+  bound to discover all kinds of things!
+SavedLv3_01: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='1000540069007200650064005f0030003100'/>Phew...<5 Type='0'/> That was close.<5 Type='1'/> Feels like I was
+  one wrong move away from the grave.
+Talk02_01: |
+  <4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Making new discoveries is all about being
+  able to get somewhere <0 Type='3' Data='0000'/>high up<0 Type='3' Data='ffff'/>!
+  
+  A cliff, ruins that have fallen from the
+  sky... As long as it's high up, it'll work
+  just fine.
+  <4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>So get high up and look around—you're
+  bound to discover all kinds of things!
+Talk99_01: |
+  <4 Type='0' Data='200043007500730074006f006d005300610076006f007400740061005f0030003000'/>Sav'otta!<5 Type='1'/> So we meet again!
+Thanks00: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='0a0048006100700070007900'/>I've got to give you a little something for
+  saving me, right?<5 Type='0'/> Hope this helps.
+Talk99: |
+  <4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Oh! Are you a traveler? You don't look
+  like any traveling merchant I've ever
+  seen before...
+Talk99_02: |
+  <4 Type='0' Data='1e0043007500730074006f006d005300610076006100610071005f0030003000'/>Sav'aaq!<5 Type='1'/> So we meet again!
+SavedLv2_00: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0e0045006100730065005f0030003100'/>Phew...<5 Type='0'/> I admit, that had me sweating.<5 Type='0'/>
+  Maybe I'm losing my touch.
+Thanks01: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='0a0048006100700070007900'/>Look at you, swooping to save me in the
+  nick of time all over again.<0 Type='4'/>Here, take this as thanks for helping me.
+  I'm sure you'll like it!
+Talk99_03: |
+  <4 Type='0' Data='220043007500730074006f006d00530061007600730061006100620061005f0030003000'/>Sav'saaba!<5 Type='1'/> So we meet again!
+SavedLv2_01: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Sarqso for the help!<5 Type='0'/> That could have gone
+  badly if you hadn't turned up.
+Thanks02: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='0a0048006100700070007900'/>Well, it looks like you saved me again!<5 Type='0'/>
+  I can't let you go without a reward, can I?<5 Type='0'/>
+  Here you go.
+Talk03_00: |
+  <4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>As a legendary treasure hunter, I am more
+  than happy to share some tips with you.
+  
+  If you can reach a place that is really high
+  up, you can see a lot, right? That makes it
+  easy to pick your next destination.
+  <4 Type='0' Data='1000480061007000700079005f0030003000'/>Maybe you want to explore some <0 Type='3' Data='0000'/>strange
+  area<0 Type='3' Data='ffff'/> or <0 Type='3' Data='0000'/>some ruins<0 Type='3' Data='ffff'/>? Or maybe you want
+  to clear out a <0 Type='3' Data='0000'/>monster outpost<0 Type='3' Data='ffff'/>?
+  Hyrule is a vast land with much to explore,
+  and if you've got a destination picked out,
+  you're in good shape.
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>I wish I had a map that I could <0 Type='3' Data='0000'/>mark my
+  destinations<0 Type='3' Data='ffff'/> on...
+  
+  But recent events have really changed the
+  landscape. I doubt any of the <0 Type='3' Data='0000'/>maps<0 Type='3' Data='ffff'/> we
+  used to use are accurate anymore.
+SavedLv1_00: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0e0045006100730065005f0030003000'/>Are we already monster free? <5 Type='0'/>Good.
+  What a pain in the neck.
+Failed00: |
+  <3 Type='0' Data='0a00'/>Sa'oten!<5 Type='0'/> I can't believe a monster got the
+  better of me. <5 Type='0'/>How frustrating...
+Talk00_00: |
+  <4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Lately I've been really interested in the
+  <0 Type='3' Data='0000'/>rubble and stones falling from the sky<0 Type='3' Data='ffff'/>.
+  
+  I've even been dreaming about them!<5 Type='1'/>
+  My latest dream? Hmmm...
+  
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='08004500610073006500'/>This big stone came tumbling out of the
+  sky and hit the ground and then suddenly
+  started to <0 Type='3' Data='0000'/>float back upward<0 Type='3' Data='ffff'/>.
+  I grabbed on to it, and before I knew it, I
+  had arrived at an island in the sky, full of
+  treasure. Can you imagine?!
+  Anyway, that was basically the whole
+  dream. <5 Type='1'/>Too good to be true, of course.
+  
+  Why would I dream about a falling stone
+  flying back up into the sky? Dreams are
+  so strange.
+Talk03_01: |
+  <4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>If you can reach a place that is really high
+  up, you can see a lot, right? That makes it
+  easy to pick your next destination.
+  Maybe you want to explore some <0 Type='3' Data='0000'/>strange
+  area<0 Type='3' Data='ffff'/> or <0 Type='3' Data='0000'/>some ruins<0 Type='3' Data='ffff'/>? Or maybe you want
+  to clear out a <0 Type='3' Data='0000'/>monster outpost<0 Type='3' Data='ffff'/>?
+  Hyrule is a vast land with much to explore,
+  and if you've got a destination picked out,
+  you're in good shape.
+  <4 Type='0' Data='1000480061007000700079005f0030003100'/>It would be nice to have a map that I
+  could <0 Type='3' Data='0000'/>mark my destinations<0 Type='3' Data='ffff'/> on. Oh well!
+SavedLv1_01: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Even if it looks weak, a monster's still a
+  monster. <5 Type='0'/>You've always got to stay on
+  your guard!
+Failed01: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0a005400680069006e006b00'/>Owww...<5 Type='0'/> Those blasted monsters never
+  pull their punches, do they?<5 Type='1'/> But someday,<5 Type='0'/>
+  I swear I'll get my revenge.
+GoodBye00: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>The name's Calisa! I'm a legendary
+  treasure hunter of the Gerudo. Nice to
+  meet you!
+  Have you heard about the strange
+  phenomena going on all over the
+  regions of Hyrule?
+  <4 Type='0' Data='1000480061007000700079005f0030003100'/>Islands floating in the sky and caves
+  opening up everywhere... It's a dream
+  come true for a treasure hunter!
+Talk00_01: |
+  <3 Type='0' Data='0700'/>Do you think there actually is treasure
+  where those <0 Type='3' Data='0000'/>stones that fall from the sky<0 Type='3' Data='ffff'/>
+  come from?
+  After all, I had that dream about a stone
+  that returned to the sky...
+  
+  Heh, I'd cling to a stone if it meant
+  treasure was waiting at the other end
+  of the trip!
+Atacked00: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='0e0057006f0072006b005f0030003100'/>"Don't worry, I can handle this alone!"<5 Type='0'/>
+  Ha, I wish.<5 Type='0'/> I'm glad you're here!
+ClearTerrorEnemy: |
+  If I were in my prime...
+GoodBye01: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>The work of a dedicated treasure hunter
+  never ends, and I wouldn't have it any
+  other way!
+Atacked01: |
+  <3 Type='0' Data='0901'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>When I was young, I used to eat monsters
+  like these for breakfast! <5 Type='0'/>How'd I let my
+  skills get so rusty?!
+Talk01_01_00: |
+  You could call me a treasure hunter, of
+  sorts. I'm after a special treasure right
+  now, in fact...
+  <3 Type='0' Data='0801'/><FontSize Value='125'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>A shooting star!<FontSize Value='100'/><0 Type='4'/>If you travel the roads at night, you'll
+  sometimes see a streak of light falling
+  in the distance.
+  <3 Type='0' Data='0001'/>I've heard stories that those are actually
+  <0 Type='3' Data='0000'/>shooting stars<0 Type='3' Data='ffff'/> that might hit the ground,
+  but I haven't found one myself yet.
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>It seems like they're about as rare as the
+  voe of my dreams.
+  
+  Oh, sorry.<5 Type='1'/> "Voe" is the Gerudo word
+  for "man."
+  
+  <3 Type='0' Data='0700'/>Anyway, I'm not going to just sit around
+  waiting for either one to come to me. I
+  won't find them unless I keep looking!
+Talk01_01_01: |
+  <3 Type='0' Data='0700'/>I'm obsessed with chasing down one of
+  those nighttime shooting stars.
+  
+  I've heard stories that the streaks of light
+  in the night sky are shooting stars that
+  can hit the ground.
+  <3 Type='0' Data='0800'/>But I can't just sit around waiting for
+  one to come to me. I have to look for it
+  and the voe of my dreams!
+AfterFailed: |
+  <3 Type='0' Data='0a00'/>I just got beaten up...<5 Type='1'/> I'm not exactly
+  feeling talkative right now.
+Talk01_03_00: |
+  <4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>I mentioned before that I'm hunting for a
+  <0 Type='3' Data='0000'/>shooting star<0 Type='3' Data='ffff'/>, right?
+  
+  I'm not just wandering around, hoping to
+  stumble on one, you know. I've thought
+  about where they come from.
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>I mean, they obviously come from the sky,
+  right? And if that's the case...
+  
+  <3 Type='0' Data='0001'/>Then if you somehow could fly up into
+  the sky, you'd be able to find a lot of
+  <0 Type='3' Data='0000'/>shooting stars<0 Type='3' Data='ffff'/>!
+  <4 Type='0' Data='10005400680069006e006b005f0030003100'/>I haven't thought of a way to fly up
+  there yet though. I'm still working
+  on that part.
+Talk100: |
+  I'd better get going, but I hope we meet
+  again!<5 Type='0'/> Sav'orq!

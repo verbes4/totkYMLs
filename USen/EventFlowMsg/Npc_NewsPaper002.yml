@@ -1,0 +1,103 @@
+0002: |
+  It's really a Dondon...
+talk0004: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003000'/>What's that? You really saw this at
+  Lakeside Stable?!
+  
+  <3 Type='0' Data='0001'/>Dondons, huh? I guess the rumors about
+  a beast were way off the mark, then.
+  
+  Heh, I'd be lying if I said I wasn't a little
+  sad. The rumors about the beast were a
+  lot to live up to.
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>On the bright side, I now know just a bit
+  more about the world. Thanks for sharing
+  that info with me!
+Goodbye_02: |
+  <3 Type='0' Data='0500'/><4 Type='0' Data='0a005400680069006e006b00'/><5 Type='0'/>Hm. I wonder what is going on with
+  those people in their underpants
+  outside...
+  It's really strange, but I don't want to ask
+  what they're doing. That just seems like
+  it would be incredibly awkward.
+talk0005: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Interested in that picture, traveler? It's
+  actually the tracks of a new species called
+  Dondon, and...
+  Wait a minute...
+  
+  
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003000'/>It's you! I didn't even realize who I was
+  talking to.
+  
+  <3 Type='0' Data='0701'/>I've just been so excited about the
+  Dondon after hearing about it. I can't help
+  but bring it up with everyone.
+  <4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>I mean, I'm not just bringing it up out of
+  the blue or anything.
+  
+  I only mention it to people who check
+  out the picture.
+  
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0c005300610064005f0030003100'/>But... Well, you're the one who told me
+  about it in the first place, so I wouldn't be
+  telling you anything new, huh?
+  <FontSize Value='80'/>So embarrassing.<FontSize Value='100'/>
+Goodbye_03: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Those people who were outside in their
+  underpants seem to have vanished.
+  
+  Maybe it's finally time I try to visit the
+  Lucky Clover Gazette and see what
+  working there is like!
+talk0006: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>You saw one in person, didn't you? And
+  you're still interested in the tracks a
+  Dondon leaves? You must really be a fan!
+  I still can't believe it was around
+  Lakeside Stable...
+  
+  I doubt I'll find any wandering around
+  here, no matter how hard I search...
+talk0000: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>Say, traveler... Excuse my interruption,
+  but you seem interested in that picture.
+  
+  <3 Type='0' Data='0001'/>It is an unusual sight, isn't it?
+talk0007: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>That is, in fact, a picture of the tracks of
+  the <0 Type='3' Data='0000'/>rumored beast<0 Type='3' Data='ffff'/>!
+  
+  Rumors about that creature just keep
+  traveling from stable to stable, and from
+  person to person.
+  You might well find someone at any
+  stable spreading these rumors.
+talk0001: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Are you interested in that picture
+  after all?
+  
+  <3 Type='0' Data='0001'/>It's apparently the footprint of that
+  <0 Type='3' Data='0000'/>rumored beast<0 Type='3' Data='ffff'/>.
+talk0002: |
+  <3 Type='0' Data='0700'/>I've even done a little searching around
+  the Eldin region. I was hoping I'd be the
+  one to discover what this beast is.
+  But I didn't find anything. It must not be
+  around here.
+  
+  <3 Type='0' Data='0800'/>The idea of anything unknown—or that's
+  yet to be identified—makes me excited.
+  Like a new species!
+0001: |
+  Goodbye.
+talk0003: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>Places to be, I imagine! Safe journey to
+  you, traveler.
+Goodbye_01: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='0a0048006100700070007900'/>It's really wonderful to be able to learn
+  about the world just by hanging around in
+  a place like this.
+  Lucky Clover Gazette is a big part of that
+  too! Maybe someday I'll go visit them and
+  see what working there is like.

@@ -1,0 +1,35 @@
+talk010: |
+  <3 Type='0' Data='0a00'/>But...<5 Type='1'/>when I tried to go back to it,
+  there were a bunch of monsters
+  coming out of the woodwork.
+  Tree monsters and bone monsters. So
+  I'm keeping guard here to warn other
+  Koroks, because it's real dangerous.
+  <3 Type='0' Data='0700'/>But I'm not about to stop any Hylians who
+  are feeling brave. <5 Type='0'/>Just be careful.
+  
+  Oh, and the flowers are there to help
+  keep you from getting lost. So don't go
+  picking them!
+talk001: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='100041006e006700720079005f0030003000'/>Heeey! No going past here!
+talk002: |
+  <3 Type='0' Data='0c01'/>Oh, you're a Hylian. Well, since you're not
+  a Korok, I guess I don't need to stop you.
+  
+  <3 Type='0' Data='0000'/>There's this thing beyond here that I can't
+  stop thinking about... I keep wanting to go
+  check it out again.
+near000: |
+  You can't go past here!
+talk003: |
+  <3 Type='0' Data='0700'/>You know<5 Type='0'/> the thing that showed up in
+  Korok Forest?<5 Type='0'/> I saw something similar
+  to that, but it looked kinda different...
+talk009: |
+  <3 Type='0' Data='0700'/>There's lots of monsters past here, so be
+  careful if you continue on.
+  
+  Oh, and the flowers are there to help
+  keep you from getting lost. So don't go
+  picking them!

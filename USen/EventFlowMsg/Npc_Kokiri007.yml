@@ -1,0 +1,63 @@
+Talk106: |
+  <3 Type='0' Data='0801'/>I'm so happy I made it back. I think
+  I might just lounge around the
+  forest awhile.
+Talk100: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>So bad! Real bad! <5 Type='0'/>The <0 Type='3' Data='0000'/>Lost Woods <0 Type='3' Data='ffff'/>just
+  aren't right anymore...<0 Type='4'/>No matter which way I enter, the fog
+  comes and gets me, and then I'm right
+  back at the beginning... 
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='0c005300610064005f0030003100'/>I can't return to Korok Forest<0 Type='3' Data='0000'/> <0 Type='3' Data='ffff'/>like this.<5 Type='0'/>
+  I want to go home...
+  
+  I did hear that a big hole opened up in
+  <0 Type='3' Data='0000'/>Minshi Woods<0 Type='3' Data='ffff'/>.<5 Type='0'/> Kinda scary...
+Talk107: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>It seems like the Great Deku Tree is fine
+  now, but maybe I should double-check to
+  make sure nothing bad's hanging around.
+Talk101: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>No matter which way I enter the Lost
+  Woods, the fog comes and gets me, and
+  then I'm right back at the beginning...
+  It's covering the entire woods, so there's
+  no way to go without the fog getting me...
+  
+  <3 Type='0' Data='0a00'/>I can't return to Korok Forest like this.<5 Type='0'/>
+  I want to go home...
+  
+  I did hear that a big hole opened up in
+  <0 Type='3' Data='0000'/>Minshi Woods<0 Type='3' Data='ffff'/>.<5 Type='0'/> I wonder if my friends who
+  went to check it out are OK...
+Talk110: |
+  <3 Type='0' Data='0701'/>Chio told me that a monster was in the
+  Great Deku Tree's tummy, making trouble.
+  
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>Everything seems OK now, but maybe I
+  should double-check around him to make
+  sure nothing bad's lurking anymore...
+Talk108: |
+  <3 Type='0' Data='0700'/>Oh, you want to talk to the Great Deku
+  Tree, huh? Just head up this root.
+  
+  And then you can talk to the Great Deku
+  Tree from the stump up there!
+Talk102: |
+  <3 Type='0' Data='0800'/>Good morning! This is the best morning
+  ever to be in Korok Forest!
+Talk109: |
+  <3 Type='0' Data='0700'/>If you want to talk to the Great Deku Tree,
+  then go up this root!
+Talk103: |
+  <3 Type='0' Data='0800'/>Hello! Daytime in Korok Forest is the
+  best time!
+Talk104: |
+  <3 Type='0' Data='0800'/>Good evening! Evening in Korok Forest is
+  just the best, huh?
+0000: |
+  The Great Deku Tree...
+Talk105: |
+  <3 Type='0' Data='0800'/>Good evening! Isn't nighttime nice here in
+  Korok Forest?
+0001: |
+  Goodbye.

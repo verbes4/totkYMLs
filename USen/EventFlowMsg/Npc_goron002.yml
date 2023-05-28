@@ -1,0 +1,128 @@
+Com_Talk_13: |
+  How many?
+Com_Talk_14: |
+  For <0 Type='3' Data='0000'/><3 Type='0' Data='0001'/><0 Type='3' Data='ffff'/><2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/> of those, it'll be a total of
+  <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>.<0 Type='3' Data='0000'/> <0 Type='3' Data='ffff'/>That work?
+5500: |
+  OK.
+Com_Talk_15: |
+  <3 Type='0' Data='0c00'/>Sorry, but I can't buy that.
+5501: |
+  Never mind.
+Com_Talk_16: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='1200530075007200700072006900730065005300'/>I'm not gonna buy what you're wearin'.
+5502: |
+  I'll buy.
+5503: |
+  Never mind.
+Com_Talk_50: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0001'/><4 Type='0' Data='0a0048006100700070007900'/><0 Type='3' Data='ffff'/>That's <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>. OK?
+5507: |
+  I'll take 'em all!
+NakedPlayer: |
+  We got a live one!
+5508: |
+  I'll sell all of them.
+Com_Talk_52: |
+  <3 Type='0' Data='0001'/>If you want <2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/>, that's a total of 
+  <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>. OK?
+Com_Talk_53: |
+  <3 Type='0' Data='0a00'/>Aw, that's too bad.
+Com_Talk_54: |
+  <3 Type='0' Data='0c00'/>You don't have enough rupees! Go earn
+  some and come back!
+Near_00: |
+  That Bludo.
+Com_Talk_55: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Your pouch is full. Come back after you've
+  freed up some space.
+Talk_00: |
+  <3 Type='0' Data='0900'/>Sell 'em for high, and buy 'em for low, I
+  always say. That's how it should be!
+Near_01: |
+  Welcome.
+Com_Talk_02b: |
+  <3 Type='0' Data='0800'/>We're all wrapped up here.
+Com_Talk_56: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0701'/><0 Type='3' Data='ffff'/>One of those? It'll be <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>!
+Talk_01: |
+  <3 Type='0' Data='0a00'/>Travelers are finally coming around...
+  
+  
+  But I'm still not gettin' many customers.
+  Maybe because everyone's wary.
+  
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0a005400680069006e006b00'/>I wish I could sell things for cheap, just
+  like the ore.
+  
+  But we're importing all of it, so I just
+  can't cut the prices.
+0001: |
+  Buy my stuff!
+Com_Talk_02c: |
+  <3 Type='0' Data='0800'/>Thanks a bunch!
+Com_Talk_05b: |
+  <3 Type='0' Data='0000'/>Show me what ya got!
+Talk_02: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Customer? Don't you go listening in on
+  me, now.
+  
+  <0 Type='3' Data='0000'/>Bludo <0 Type='3' Data='ffff'/>told me to keep prices as they are,
+  so I can't rip anyone off...
+  
+  ...
+  
+  
+  <3 Type='0' Data='0900'/><4 Type='0' Data='0c005300610064005f0030003100'/>What'd I tell ya?! Quit nosin' in on me!
+0002: |
+  Goodbye.
+Com_Talk_00: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Whaddaya wanna sell?
+Com_Talk_02d: |
+  <3 Type='0' Data='0800'/>Great! Anything else?
+Com_Talk_05c: |
+  <3 Type='0' Data='0000'/>You have anything you wanna sell?
+Com_Talk_01: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0001'/><0 Type='3' Data='ffff'/>That'll be <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>.<0 Type='3' Data='0000'/> <0 Type='3' Data='ffff'/>Work for ya?
+Com_Talk_05d: |
+  <3 Type='0' Data='0000'/>You got it? I'll buy it!
+Talk_04: |
+  <3 Type='0' Data='0700'/>Thanks!
+Com_Talk_02: |
+  <3 Type='0' Data='0800'/>Thanks!
+Com_Talk_31: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0700'/><0 Type='3' Data='ffff'/>You want that? How many?
+Talk_05: |
+  <3 Type='0' Data='0900'/>Sell 'em for high. Buy 'em for low!
+  
+  
+  It's Bludo's fault profits are so low!
+Talk_06: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>Why are you still here?
+Com_Talk_04: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0600530061006400'/>Aw, OK.
+Com_Talk_33: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0701'/><0 Type='3' Data='ffff'/>One of those? Then it'll be
+  <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>!
+Talk_07: |
+  <3 Type='0' Data='0a00'/>I wish I could sell things for cheap, just
+  like the ore.
+  
+  But we're importing all of it, so I just
+  can't cut the prices.
+Com_Talk_05: |
+  <3 Type='0' Data='0000'/>Then what'll you sell?
+Com_Talk_34: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0701'/><0 Type='3' Data='ffff'/>All of those? For <2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/>, it'll be
+  <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>.
+Talk_08: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>Please come again.
+Com_Talk_35: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0001'/><0 Type='3' Data='ffff'/>All <2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/> of those? I'll buy that for a total
+  of <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>!
+Talk_09: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004c0061007500670068004c00'/>Wow, it's been a while since we sold out.
+Talk_10: |
+  <3 Type='0' Data='0700'/>Are you good?
+Talk_11: |
+  <3 Type='0' Data='0700'/>That's the last.

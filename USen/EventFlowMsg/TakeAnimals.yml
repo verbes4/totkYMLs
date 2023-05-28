@@ -1,0 +1,225 @@
+Talk_07: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>I'm glad to see you made it to
+  Outskirt Stable!
+  
+  These horses are quite the charmers, eh?<5 Type='0'/>
+  They used to be stabled southwest of
+  here in <0 Type='3' Data='0000'/>Gerudo Canyon<0 Type='3' Data='ffff'/>.
+  <3 Type='0' Data='0501'/>But when the <0 Type='3' Data='0000'/>weather changed<0 Type='3' Data='ffff'/> after the
+  Upheaval, it took that stable by surprise.
+  
+  <3 Type='0' Data='0001'/>The horses couldn't handle the <0 Type='3' Data='0000'/>extreme
+  temperatures<0 Type='3' Data='ffff'/>, so I took them in.
+Near_03: |
+  I love horses, but...
+Talk_30: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>I'm glad you made it here to
+  Outskirt Stable.
+  
+  I just guard the horses. If you want to
+  use the stable, talk to the stable owner
+  at the counter.
+  Or are you interested in the horses?<5 Type='0'/>
+  
+  
+  These beauties used to be stabled
+  southwest of here in <0 Type='3' Data='0000'/>Gerudo Canyon<0 Type='3' Data='ffff'/>.
+  
+  <3 Type='0' Data='0501'/>But when the <0 Type='3' Data='0000'/>weather changed<0 Type='3' Data='ffff'/> after the
+  Upheaval, it took that stable by surprise.
+  
+  <3 Type='0' Data='0001'/>The horses couldn't handle the <0 Type='3' Data='0000'/>extreme
+  temperatures<0 Type='3' Data='ffff'/>, so I took them in.
+Talk_31: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Look at this fancy new stable member!
+  Now I can give you a little thank-you for
+  humoring me.
+Talk_32: |
+  <3 Type='0' Data='0101'/>Here you go! I added <0 Type='3' Data='0000'/>one point<0 Type='3' Data='ffff'/> to your
+  Pony Points card.
+Talk_20: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='1400430061006c006c004600610072005f0030003100'/><FontSize Value='125'/>Wh...<5 Type='0'/>WHAT?!<FontSize Value='100'/>
+  
+  
+  <3 Type='0' Data='0701'/>Th-that...that valiant creature... Is that a
+  <0 Type='3' Data='0000'/>honeyvore bear<0 Type='3' Data='ffff'/>?!
+Talk_33: |
+  <3 Type='0' Data='0101'/>Here you go! I added <0 Type='3' Data='0000'/>two points<0 Type='3' Data='ffff'/> to your
+  Pony Points card.
+Talk_21: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='1400430061006c006c004600610072005f0030003100'/><FontSize Value='125'/>Wh...<5 Type='0'/>WHAT?!
+  
+  
+  <5 Type='0'/><FontSize Value='100'/><3 Type='0' Data='0701'/>Th-that...that noble beast... Is that a
+  <0 Type='3' Data='0000'/>grizzlemaw bear<0 Type='3' Data='ffff'/>?!
+Talk_22: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='12004c0061007500670068004c005f0030003000'/>What a treat. Thank you!
+  
+  
+  <3 Type='0' Data='0001'/>The last time I tried to ride one of these,
+  it tossed me off quicker than you can say,
+  "Stop, that's a wild animal!"
+  But what an adorable beastie. That cute
+  nose... Those sweet eyes...<5 Type='1'/>
+  
+  <3 Type='0' Data='0401'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>Oh dear. I nearly lost myself. Please,
+  take this.
+Talk_35: |
+  <3 Type='0' Data='0701'/>Anyway, that's enough of that.
+Talk_10: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='12004c0061007500670068004c005f0030003100'/>I've been taking care of horses my whole
+  life, but there are still surprises out there.
+  
+  I guess there's a lot more to the world
+  than what's right in front of your face.
+  
+  If I want to learn everything I can about
+  horses<5 Type='0'/>—and I do—<5 Type='0'/>then I guess I'll have
+  to stick around a long, long time!
+Talk_11: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Say...<5 Type='0'/> Have you heard any rumors about
+  <0 Type='3' Data='0000'/>skeletal horses<0 Type='3' Data='ffff'/>?
+Talk_37: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>Oh, one more thing! Here's <0 Type='3' Data='0000'/>one <0 Type='3' Data='ffff'/>Pony
+  Point for your trouble.
+Talk_24: |
+  <3 Type='0' Data='0101'/>Save up those points to get all kinds
+  of prizes.
+Talk_12: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>Did you come back because you're
+  interested in the <0 Type='3' Data='0000'/>skeletal horses<0 Type='3' Data='ffff'/> too?
+  
+  <3 Type='0' Data='0501'/>Folks say they appear <0 Type='3' Data='0000'/>night after night<0 Type='3' Data='ffff'/>
+  near the <0 Type='3' Data='0000'/>Sanidin Park Ruins<0 Type='3' Data='ffff'/>, up the road
+  north of here.
+  Are they spirits of dead horses that can't
+  move on? <5 Type='0'/>Or cursed horses born in the
+  Upheaval? Or...
+  <3 Type='0' Data='0801'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>Ah, I'm sorry. I lose my head as soon as
+  the conversation turns to horses.
+  
+  Well, I expect it's just a rumor. But if it
+  WERE true, I'd sure like to <0 Type='3' Data='0000'/>meet one<0 Type='3' Data='ffff'/>.
+Talk_25: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>Looks like you aren't a <0 Type='3' Data='0000'/>stable member<0 Type='3' Data='ffff'/> yet!
+  
+  
+  It's worth joining. You can save up <0 Type='3' Data='0000'/>Pony
+  Points<0 Type='3' Data='ffff'/> and earn rewards.
+  
+  You can register at the counter inside.
+  If you do, come see me again.
+Talk_13: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Folks say <0 Type='3' Data='0000'/>skeletal horses<0 Type='3' Data='ffff'/> appear <0 Type='3' Data='0000'/>night
+  after night<0 Type='3' Data='ffff'/> in the <0 Type='3' Data='0000'/>Sanidin Park Ruins<0 Type='3' Data='ffff'/>,
+  which are up the road north of here.
+  I'm sure it's just a rumor. But...what if
+  it isn't? I'd sure like to <0 Type='3' Data='0000'/>meet one<0 Type='3' Data='ffff'/>.
+Talk_26: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003100'/><FontSize Value='125'/>Hmm? <5 Type='0'/>HMM?!<5 Type='0'/><FontSize Value='100'/>
+  
+  
+  <3 Type='0' Data='0701'/>Is that...the skeletal horse?!
+Talk_01: |
+  <3 Type='0' Data='0501'/>If you take the road north, there's a place
+  called the <0 Type='3' Data='0000'/>Sanidin Park Ruins<0 Type='3' Data='ffff'/>. Folks say
+  they appear there <0 Type='3' Data='0000'/>night after night<0 Type='3' Data='ffff'/>.
+  Are they spirits of dead horses that can't
+  move on? <5 Type='0'/>Or cursed horses born in the
+  Upheaval? Or...<5 Type='1'/>
+  <3 Type='0' Data='0800'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>Ah, I'm sorry. I lose my head as soon as
+  the conversation turns to horses.
+  
+  Well, I expect it's just a rumor. But if it
+  WERE true, I'd sure like to <0 Type='3' Data='0000'/>meet one<0 Type='3' Data='ffff'/>.
+Talk_14: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>I can't believe it really exists.
+  
+  
+  Hey, precious, if you're lonely on your
+  own, would you like to stay with me?
+  
+  <3 Type='0' Data='0501'/>Hmm? Are you... So... Ah. I see.
+  
+  
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>You already have plenty of friends.
+Talk_27: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='12004c0061007500670068004c005f0030003000'/>Wow! Thank you, traveler!
+  
+  
+  <3 Type='0' Data='0001'/>In my younger days, I tried to tame a bear
+  or two. Or three. Or... Hm.
+  
+  I'm pretty sure I still have the bumps from
+  all the times they sent me flying.
+  
+  Still, what a gallant creature. So noble...
+  So grand...<5 Type='1'/>
+  
+  <3 Type='0' Data='0401'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>Oh dear. I lost track of time. Please,
+  take this.
+Talk_15: |
+  <3 Type='0' Data='0701'/>Thank you, traveler. I can scarcely believe
+  my own eyes.
+  
+  You know, if I thought this beauty was
+  alone in the world, I'd try to take care of
+  it myself.
+  <3 Type='0' Data='0101'/>But it seems like it has friends <0 Type='3' Data='0000'/>somewhere
+  deep and dark<0 Type='3' Data='ffff'/>, so I'm not worried.
+  
+  <3 Type='0' Data='0801'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>Now take this. It's the least I can do.
+Talk_02: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>With that, I've now seen everyth— Hmm...<5 Type='1'/>
+  
+  
+  <3 Type='0' Data='0401'/>Say, have you ever tamed any <0 Type='3' Data='0000'/>other
+  animals<0 Type='3' Data='ffff'/>? Ones that <0 Type='3' Data='0000'/>aren't horses<0 Type='3' Data='ffff'/>?
+  
+  <3 Type='0' Data='0501'/>When I was young, I tried to tame <0 Type='3' Data='0000'/>forest
+  animals<0 Type='3' Data='ffff'/> like bears and deer, but I was
+  thrown off. Sent flying, in fact.
+  I wonder if it's possible to tame <0 Type='3' Data='0000'/>anything
+  besides horses<0 Type='3' Data='ffff'/>...
+  
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>Wouldn't that be amazing? If someone
+  rode up on a <0 Type='3' Data='0000'/>creature other than a horse<0 Type='3' Data='ffff'/>,
+  then I'd have really seen everything.
+Talk_04: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0c005300610064005f0030003000'/>*sigh* How incredible would it be to see a
+  skeletal horse in the flesh. Er, well...<5 Type='1'/> Hm?
+Talk_17: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Did you come back because you're also
+  interested in <0 Type='3' Data='0000'/>taming wild beasts<0 Type='3' Data='ffff'/>?
+  
+  Back in my youth, I would go into forests
+  and try to tame all sorts of creatures.
+  <3 Type='0' Data='0501'/>They sent me flying every time.
+  I tried so hard, it's a miracle I'm here to
+  talk to you now.
+  
+  <3 Type='0' Data='0701'/><4 Type='0' Data='0a005400680069006e006b00'/>I wonder if it's possible to tame <0 Type='3' Data='0000'/>anything
+  that isn't a horse<0 Type='3' Data='ffff'/>...
+  
+  It might be another of my foolish dreams,
+  but I sure would love to see it.
+Near_01: |
+  Are the rumors true?
+Talk_18: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='0a005400680069006e006b00'/>I wonder if it's even possible to tame
+  <0 Type='3' Data='0000'/>anything that isn't a horse<0 Type='3' Data='ffff'/>.
+  
+  Back in my youth, I'd go into forests and
+  try to tame all sorts of creatures. They'd
+  send me flying every time.
+  <3 Type='0' Data='0a01'/>Maybe it can't be done, but I sure would
+  like to see <0 Type='3' Data='0000'/>a tamed creature that isn't
+  a horse<0 Type='3' Data='ffff'/>.
+Talk_05: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='1400430061006c006c004600610072005f0030003100'/><FontSize Value='125'/>Wh...<5 Type='0'/>WHAT?!
+  
+  
+  <5 Type='0'/><FontSize Value='100'/><3 Type='0' Data='0701'/>Th-that...that beautiful beast... Is that a
+  <0 Type='3' Data='0000'/>mountain deer<0 Type='3' Data='ffff'/>?!
+Near_02: |
+  A...real...skeletal horse?

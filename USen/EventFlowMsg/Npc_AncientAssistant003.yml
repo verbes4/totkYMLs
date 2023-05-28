@@ -1,0 +1,509 @@
+0100: |
+  I'll start building.
+0101: |
+  I'll buy or preview rooms!
+0102: |
+  I'll use a stored room.
+0103: |
+  Never mind.
+Enokida: |
+  President...Hudson?
+Greeting_Noon: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hey!
+0107: |
+  I'll buy it.
+0108: |
+  I'll preview it first.
+talk_1010: |
+  <3 Type='0' Data='0000'/>Please choose which horse you'd like to
+  put there.
+talk_1011: |
+  <3 Type='0' Data='0100'/><0 Type='3' Data='0000'/><201 Type='3'/><2 Type='4'/><0 Type='3' Data='ffff'/>, right?
+talk_1012: |
+  <3 Type='0' Data='0700'/>OK! <5 Type='1'/>Just give me a holler from the
+  <0 Type='3' Data='0000'/>paddock <0 Type='3' Data='ffff'/>to bring a horse inside.
+1001: |
+  What are the rules?
+1002: |
+  Any placement tips?
+Com_Talk_33: |
+  <3 Type='0' Data='0001'/>Just one, then?<5 Type='0'/> I think <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>
+  is a fair price!
+1003: |
+  What's the room limit?
+Near_0001: |
+  Enjoy! It's son and done!
+talk_0160: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>Looks like at least one of your room
+  units is <0 Type='3' Data='0000'/>sticking out <0 Type='3' Data='ffff'/>over the <0 Type='3' Data='0000'/>rope<0 Type='3' Data='ffff'/>.
+  
+  I'm sorry, but that's just not safe.<5 Type='1'/>
+  Please readjust your design so that
+  everything <0 Type='3' Data='0000'/>fits inside <0 Type='3' Data='ffff'/>the rope!
+talk_0161: |
+  <3 Type='0' Data='0501'/>...<4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>Whoops. <5 Type='0'/>This is awkward. There's no
+  room for another room!
+  
+  But if you still want to purchase this, you
+  can, and I'll just hold on to it for you.
+  
+  Sound fair? If so, that'll be <0 Type='3' Data='0000'/><2 Type='2' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> rupees<0 Type='3' Data='ffff'/>.
+Near_0002: |
+  Let's renovate!
+talk_2001: |
+  <3 Type='0' Data='0700'/>Do your walls need an extra something?
+Com_Talk_35: |
+  <3 Type='0' Data='0001'/>I'll buy all those for <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>!
+talk_0162: |
+  <3 Type='0' Data='0501'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>Oh... <5 Type='0'/>There doesn't seem to be enough
+  open space to put the room here.
+  
+  Try adjusting your room placement.
+Near_0003: |
+  It's amazing, isn't it?
+Com_Talk_02b: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>Yeah!
+Com_Talk_13: |
+  <3 Type='0' Data='0101'/>How many will you sell me?
+Near_0004: |
+  Dream homes, son and...
+talk_0140: |
+  <3 Type='0' Data='0c00'/>Huh? You aren't using a single
+  room, but...
+  
+  <3 Type='0' Data='0801'/>It has a certain sense of spaciousness.
+  Just a different kind of vision for a dream
+  home, I suppose!
+talk_2003: |
+  <3 Type='0' Data='0700'/>So this is going to be the inspiration for
+  my painting?
+Com_Talk_02c: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>Good!
+Com_Talk_14: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0001'/><0 Type='3' Data='ffff'/>That's worth a <0 Type='3' Data='0000'/>rupee<0 Type='3' Data='ffff'/> or two.<5 Type='0'/>
+  Let's say...<0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/><0 Type='3' Data='ffff'/>?
+talk_0141: |
+  <3 Type='0' Data='0000'/>We can't start construction yet since
+  something's in the way. Would you mind
+  clearing out the plot of land?
+talk_0164: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='0c004c0061007500670068005300'/>Thank you for your purchase!
+talk_2004: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003100'/>No art today?<0 Type='4'/>Well, if you do come across a picture
+  you'd like to display, just say the word!
+Com_Talk_02d: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>Thank you very much!
+Com_Talk_15: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0600530061006400'/>I'm sorry. <5 Type='0'/>I can't buy that from you.
+Greeting_Morning: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hey! Good morning!
+talk_0165: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='0a0048006100700070007900'/>Now then, I'll get everything ready!
+talk_0142: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='0a0048006100700070007900'/><FontSize Value='125'/>Thank you for your purchase!<FontSize Value='100'/><0 Type='4'/>Please wait a moment <5 Type='0'/>while I clean up
+  the preview room.
+talk_2005: |
+  <3 Type='0' Data='0800'/>OK. <5 Type='0'/>This won't take long!
+Com_Talk_16: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='1200530075007200700072006900730065005300'/>Hey! I can't buy the clothes off your back!
+talk_0120: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0600530061006400'/>Oops. <5 Type='0'/>You haven't stored any rooms. Yet.
+talk_0166: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Thanks for waiting!
+talk_0143: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>OK. <5 Type='1'/>I'm going to clean up the room,
+  so please step back.
+talk_2006: |
+  <3 Type='0' Data='0800'/>Hurrah! <5 Type='0'/>A masterpiece, I must say.<0 Type='4'/>This will certainly liven up your room.
+  Please enjoy!
+Greeting_Rain: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hello! It's a bit wet, eh? But you make
+  your own sunshine, I always say!
+talk_0167: |
+  <3 Type='0' Data='0a00'/>Sorry, but...<5 Type='0'/>the preview space is a
+  bit cluttered.
+  
+  If you want to preview a room, please
+  tidy up the space first!
+talk_0144: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>You got it! What do you want to know?
+talk_0121: |
+  <FontSize Value='125'/><3 Type='0' Data='0b00'/>Whoa! Where are you going?!<FontSize Value='100'/>
+talk_2007: |
+  <3 Type='0' Data='0801'/>I'm not a bad artist. If you show me
+  an example, I can paint a copy for you
+  to display.
+talk_0168: |
+  I'll hold on to the room you purchased.<5 Type='0'/>
+  You'll have to adjust your current rooms
+  before you can place it.
+talk_0145: |
+  <3 Type='0' Data='0700'/>The only things you can place on the plot
+  of land are our proprietary <0 Type='3' Data='0000'/>room units<0 Type='3' Data='ffff'/>.
+  
+  It's a matter of safety, you understand.
+  We can't ensure structural integrity with
+  anything else!
+  Also, you'll want to avoid having anything
+  stick out over the <0 Type='3' Data='0000'/>rope<0 Type='3' Data='ffff'/>, as that tends to
+  cause problems.
+talk_0122: |
+  <3 Type='0' Data='0a00'/>If you up and left during construction,
+  I don't know what I'd do with myself.
+  
+  Just tell me if you want to wrap up, OK?
+talk_0100: |
+  <3 Type='0' Data='0700'/>Do you have a construction request?
+  Well, you're in the right place!
+talk_0123: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0600530061006400'/>Sorry, <5 Type='0'/>but that room is sold out...
+talk_0169: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='0a0048006100700070007900'/>Coming right up!
+talk_0146: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>The trick to placing rooms is trying lots of
+  different things!
+  
+  Just as the name implies, room units are
+  built with a common standard.
+  
+  Which means you can place them
+  vertically, horizontally, diagonally—<5 Type='0'/>
+  however-ally!
+  <3 Type='0' Data='0000'/>But!<5 Type='0'/> You may want to think twice about
+  placing your room units at a <0 Type='3' Data='0000'/>steep angle<0 Type='3' Data='ffff'/>.
+  
+  If you do, you may be <0 Type='3' Data='0000'/>unable to place
+  accessories or use room features<0 Type='3' Data='ffff'/>.
+  So bear that in mind.
+talk_2009: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>No art today?<0 Type='4'/><3 Type='0' Data='0c01'/>Oh, I see. You don't have any pictures to
+  use as a reference.
+  
+  <3 Type='0' Data='0701'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Hmm... <5 Type='0'/>Maybe you should look into
+  getting a <0 Type='3' Data='0000'/>camera<0 Type='3' Data='ffff'/>?
+  
+  It's a great tool that <0 Type='3' Data='0000'/>can record an image
+  of anything you look at<0 Type='3' Data='ffff'/>. My father told me
+  about it!
+  With a <0 Type='3' Data='0000'/>camera<0 Type='3' Data='ffff'/>, you could get a whole lot
+  of pictures to base paintings off of.
+  
+  <3 Type='0' Data='0800'/>If you're interested in getting one, go talk
+  to my father at <0 Type='3' Data='0000'/>Lookout Landing<0 Type='3' Data='ffff'/>.
+talk_0101: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Thanks for waiting! We're all set to
+  begin construction!
+talk_0124: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Would you like a different room?
+talk_0147: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>You can place up to <0 Type='3' Data='0000'/><2 Type='14' Data='38004d00790048006f006d0065004200750069006c006400650072005f004f007500740070007500740048006f007500730065004e0075006d00ffff00cd'/><0 Type='3' Data='ffff'/> <201 Type='6' Data='120072006f006f006d00200075006e0069007400140072006f006f006d00200075006e006900740073000000'/> on the
+  plot of land.
+  
+  If you want to swap rooms, please place
+  rooms you don't want <0 Type='3' Data='0000'/>outside the rope<0 Type='3' Data='ffff'/>.
+  
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>When construction is finished, I'll collect
+  the rooms you put there!
+  
+  Oh, and remember, if I'm holding on to
+  rooms for you, you can ask me to <0 Type='3' Data='0000'/>take
+  them out <0 Type='3' Data='ffff'/>at any time.
+talk_0102: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Which room catches your fancy? You can
+  preview any of them free of charge!
+talk_0148: |
+  <3 Type='0' Data='0000'/>Anything else? You're welcome to ask the
+  same question again! I don't mind!
+talk_0149: |
+  <3 Type='0' Data='0501'/>...<4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>Hold up! <5 Type='0'/>You've hit capacity for <0 Type='3' Data='0000'/>rooms<0 Type='3' Data='ffff'/>
+  on this plot of land.
+  
+  Sorry, but I've already placed <2 Type='14' Data='38004d00790048006f006d0065004200750069006c006400650072005f004f007500740070007500740048006f007500730065004e0075006d00ffff00cd'/> rooms
+  out there, and <0 Type='3' Data='0000'/><2 Type='14' Data='38004d00790048006f006d0065004200750069006c006400650072005f004f007500740070007500740048006f007500730065004e0075006d00ffff00cd'/> is the maximum<0 Type='3' Data='ffff'/>.
+  
+  But tell you what. You can still purchase
+  this room, and I'll hold on to it for you.
+  
+  That'll set you back <0 Type='3' Data='0000'/><2 Type='2' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> rupees<0 Type='3' Data='ffff'/>.
+  What do you say?
+talk_0126: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Understood!
+talk_0127: |
+  That'll be <0 Type='3' Data='0000'/><2 Type='2' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> rupees<0 Type='3' Data='ffff'/>. Deal?
+talk_0104: |
+  <3 Type='0' Data='0000'/>How many shall I prepare?
+talk_0105: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>All right. <5 Type='0'/>It's ready!
+  
+  
+  <3 Type='0' Data='0000'/>I'll remove the room when you're done
+  looking around. Just let me know!
+talk_0106: |
+  <3 Type='0' Data='0800'/>Thank you for your purchase! And look,
+  everything is ready to go.
+talk_0129: |
+  <3 Type='0' Data='0a00'/>I'm sorry. It seems there's another unit
+  in the space meant for previewing rooms.
+talk_0107: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1000540069007200650064005f0030003000'/>I've finished those preparations. Let me
+  know when you're finished!
+talk_0108: |
+  <3 Type='0' Data='0700'/>What do you think? <5 Type='1'/>If you're interested,
+  that'll be <0 Type='3' Data='0000'/><2 Type='2' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> rupees<0 Type='3' Data='ffff'/>!
+talk_0109: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1000540069007200650064005f0030003000'/>Thanks for waiting! <5 Type='0'/>I've removed the
+  preview room.
+0110: |
+  I need more rooms.
+0111: |
+  I'm done.
+0112: |
+  I'll keep building.
+0113: |
+  I've seen all I need to.
+0114: |
+  I'll keep looking.
+0117: |
+  All of them.
+0118: |
+  I want to sell.
+0119: |
+  Any construction tips?
+Greeting_Evening: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hey! Good evening!
+talk_0201: |
+  <3 Type='0' Data='0800'/>Wow!<5 Type='0'/> That was my last room!<5 Type='1'/> Now you've
+  got the complete set!
+  
+  May I say, I'm delighted by your passion
+  for home design.
+  
+  Thank you for choosing Hudson
+  Construction for all your building needs.
+  Now please, enjoy your dream home!
+talk_0202: |
+  <3 Type='0' Data='0800'/>You've already purchased all the rooms
+  in our selection. Now all that's left is to
+  enjoy your dream home!
+talk_1001: |
+  <3 Type='0' Data='0800'/>Great! <5 Type='1'/>I'll contact the Stable Association
+  and make the arrangements.
+talk_1002: |
+  <3 Type='0' Data='0a00'/>Sorry. <5 Type='1'/>You don't seem to have any
+  horses registered.
+  
+  <3 Type='0' Data='0701'/>Let's try this again after you've registered
+  one at a stable!
+talk_1003: |
+  <3 Type='0' Data='0700'/>Shall I put your horse in the paddock?
+Com_Talk_05b: |
+  <3 Type='0' Data='0001'/>I'll keep buying!
+talk_1004: |
+  <3 Type='0' Data='0800'/>You're ready for your horse? OK!
+talk_0170: |
+  <3 Type='0' Data='0000'/>I'll return any boarded horses to
+  the stable.
+Com_Talk_05c: |
+  <3 Type='0' Data='0001'/>Anything else you want to sell?
+talk_0171: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Which room are we looking at today?
+talk_1005: |
+  <3 Type='0' Data='0a00'/>Oh, sorry. <5 Type='1'/>I'm not allowed to handle wild
+  horses. You'll have to register it at a
+  stable first.
+Com_Talk_05d: |
+  <3 Type='0' Data='0001'/>Show me what you've got!
+talk_0172: |
+  <3 Type='0' Data='0700'/>Let me know when you're done building
+  your home.<5 Type='0'/> Then I'll inspect it!
+talk_1006: |
+  <3 Type='0' Data='0800'/>Thanks for waiting! I brought your
+  horse here.
+  
+  Safe and graceful travels to you!
+0001: |
+  This is the one!
+Com_Talk_00: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Very good! <5 Type='1'/>What do you want to sell?
+talk_0150: |
+  <3 Type='0' Data='0501'/>...<4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>Hang on! <5 Type='0'/>You've hit capacity for <0 Type='3' Data='0000'/>rooms<0 Type='3' Data='ffff'/>
+  on this plot of land.
+  
+  Sorry, but I've already placed <2 Type='14' Data='38004d00790048006f006d0065004200750069006c006400650072005f004f007500740070007500740048006f007500730065004e0075006d00ffff00cd'/> rooms
+  out there, and <0 Type='3' Data='0000'/><2 Type='14' Data='38004d00790048006f006d0065004200750069006c006400650072005f004f007500740070007500740048006f007500730065004e0075006d00ffff00cd'/> is the maximum<0 Type='3' Data='ffff'/>.
+  
+  But tell you what. You can still purchase
+  this room, and I'll hold on to it for you.
+  
+  How's that sound? If you're interested,
+  it'll be <0 Type='3' Data='0000'/><2 Type='2' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> rupees<0 Type='3' Data='ffff'/>.
+talk_0173: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>One of the rooms is teetering. It appears
+  to be <0 Type='3' Data='0000'/>unsteady<0 Type='3' Data='ffff'/>. <5 Type='1'/>That's not safe!
+  
+  Please make sure it's stable, and then talk
+  to me again.
+talk_1007: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>I've guided <0 Type='3' Data='0000'/><2 Type='4'/><0 Type='3' Data='ffff'/> to
+  the paddock!
+  
+  If you want to take it out, please call for
+  me again from the <0 Type='3' Data='0000'/>paddock<0 Type='3' Data='ffff'/>.
+0002: |
+  I've changed my mind.
+Com_Talk_01: |
+  <3 Type='0' Data='0000'/>One, huh? I can offer <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>.
+  Is that OK?
+talk_0151: |
+  <3 Type='0' Data='0700'/>So, what can I do for you, then?
+talk_0174: |
+  <3 Type='0' Data='0700'/>So, what'll it be?<5 Type='1'/> You can purchase a
+  room just like this for <0 Type='3' Data='0000'/><2 Type='2' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='00000c007200750070006500650073000a0072007500700065006500'/><0 Type='3' Data='ffff'/>!
+talk_1008: |
+  I'll bring it somewhere safe, away from the
+  construction area.
+Com_Talk_02: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>Thank you!
+5500: |
+  Yes.
+talk_0175: |
+  <3 Type='0' Data='0000'/>So, you'd like to take out the
+  <201 Type='4'/><2 Type='11' Data='2600530068006f0070005f00530065006c006500630074004900740065006d004e0061006d006500ffff'/>, right?
+talk_0152: |
+  <3 Type='0' Data='0000'/>...<4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>Huh?
+5501: |
+  No.
+talk_0153: |
+  <3 Type='0' Data='0000'/>It seems as though <0 Type='3' Data='0000'/>something else is
+  in the way<0 Type='3' Data='ffff'/>, so we can't safely construct
+  anything right now.
+talk_0176: |
+  <3 Type='0' Data='0800'/>Of course!<5 Type='1'/> I'll prepare that for you right
+  away. Just a moment!
+talk_0130: |
+  <3 Type='0' Data='0701'/>Would you like me to move any rooms in
+  the preview space to your storage?
+Com_Talk_04: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Understood!
+talk_0131: |
+  <3 Type='0' Data='0700'/>Hey! Hi! Hello! Are you ready for all your
+  habitation dreams to come true? You're in
+  luck—we're building <0 Type='3' Data='0000'/>dream homes<0 Type='3' Data='ffff'/>!
+  This plot will soon be a first-rate home
+  with sweeping views of Akkala.
+  
+  A dream home of this caliber comes with
+  a hefty price tag, but I assure you every
+  rupee is well worth it.
+  <3 Type='0' Data='0800'/>To learn more about this incredible
+  opportunity, just head northwest to <0 Type='3' Data='0000'/>Tarrey
+  Town<0 Type='3' Data='ffff'/> and visit <0 Type='3' Data='0000'/>Hudson Construction<0 Type='3' Data='ffff'/>!
+Com_Talk_05: |
+  <3 Type='0' Data='0001'/>I'll buy anything!
+5503: |
+  Never mind.
+talk_0132: |
+  <3 Type='0' Data='0700'/>This plot will soon be a first-rate dream
+  home with sweeping views of Akkala!
+  
+  <3 Type='0' Data='0800'/>To learn more about this incredible
+  opportunity, just head northwest to <0 Type='3' Data='0000'/>Tarrey
+  Town<0 Type='3' Data='ffff'/> and visit <0 Type='3' Data='0000'/>Hudson Construction<0 Type='3' Data='ffff'/>.
+talk_0155: |
+  <3 Type='0' Data='0000'/>I picked up your stuff and put it in the
+  room outside. Don't forget to collect it!
+talk_0110: |
+  <3 Type='0' Data='0700'/>I trust construction is going well. Is there
+  anything I can do for you?
+talk_0133: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>Enjoy your fabulous new dream home!
+talk_0156: |
+  <3 Type='0' Data='0000'/>I led your horse away from your plot.
+  Don't forget to pick it up!
+talk_0134: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='0a0048006100700070007900'/>OK! I'll get things ready. Just a
+  moment, please!
+talk_0111: |
+  <3 Type='0' Data='0700'/>Wanna change your rooms? Say no more!
+  What can I do for you?
+talk_0157: |
+  <3 Type='0' Data='0700'/>But don't worry—<5 Type='0'/>I made sure to leave
+  all the items exactly where they were.
+  
+  If you ever want to take out an old room
+  again, just ask!
+talk_0112: |
+  <3 Type='0' Data='0800'/>I've completed my safety inspection, and
+  you're good to go.
+talk_0113: |
+  <3 Type='0' Data='0800'/>Once again, congratulations on having
+  that construction project done.
+  
+  <3 Type='0' Data='0700'/>I hope my introduction to the whole
+  process was clear enough. After all, you
+  can have so much more built!
+  Maybe you'd like your house to have
+  more of the <0 Type='3' Data='0000'/>comforts of home<0 Type='3' Data='ffff'/>? Or maybe
+  <0 Type='3' Data='0000'/>some convenient features<0 Type='3' Data='ffff'/>?
+  <3 Type='0' Data='0800'/>If you want to give any of that a try,
+  don't tarry. Just talk to Grantéson.<5 Type='0'/>
+  That's me!
+  At Hudson Construction, we offer a
+  variety of customization options. Just
+  buy a new room and remodel away!
+talk_0136: |
+  <3 Type='0' Data='0a00'/>Oh, sorry. <5 Type='0'/>You're at the <0 Type='3' Data='0000'/>maximum number
+  of rooms<0 Type='3' Data='ffff'/> and can't take out any more.
+  
+  <3 Type='0' Data='0701'/>You can build your house with up to
+  <0 Type='3' Data='0000'/><2 Type='14' Data='38004d00790048006f006d0065004200750069006c006400650072005f004f007500740070007500740048006f007500730065004e0075006d00ffff00cd'/> rooms<0 Type='3' Data='ffff'/>! So, please adjust your
+  current rooms.
+  Place any rooms you no longer want
+  <0 Type='3' Data='0000'/>outside your plot of land<0 Type='3' Data='ffff'/>.<0 Type='3' Data='0000'/><0 Type='3' Data='ffff'/>
+  
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>I'll collect those when you're done
+  with your house's design.
+talk_0159: |
+  <3 Type='0' Data='0000'/>I went ahead and packed up everything
+  you placed outside the plot.
+5508: |
+  I'll sell them all.
+talk_0114: |
+  <3 Type='0' Data='0701'/>New rooms are an investment, which is
+  why you can <0 Type='3' Data='0000'/>preview <0 Type='3' Data='ffff'/>your options so you
+  make the choice that's right for you.
+  Now then...
+talk_0137: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='0c004c0061007500670068005300'/>Thank you for your purchase!<0 Type='4'/>I'll hold on to the room you purchased.<5 Type='0'/>
+  Before you can place it, you'll have to
+  adjust your current rooms.
+  <3 Type='0' Data='0701'/>Place any rooms you no longer want
+  <0 Type='3' Data='0000'/>outside your plot of land<0 Type='3' Data='ffff'/>.<0 Type='3' Data='0000'/><0 Type='3' Data='ffff'/>
+  
+  <3 Type='0' Data='0800'/>I'll collect those when you're done with
+  your house's design.
+talk_0138: |
+  <3 Type='0' Data='0a00'/>Sorry, <5 Type='0'/>you can't take any more rooms
+  out unless you <0 Type='3' Data='0000'/>adjust your current
+  rooms<0 Type='3' Data='ffff'/> first.
+  Please place any rooms you no longer
+  want <0 Type='3' Data='0000'/>outside your plot of land<0 Type='3' Data='ffff'/>.
+  
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>I'll collect those when you're done with
+  your house's design.
+talk_0115: |
+  <3 Type='0' Data='0700'/>Of course. Just let me know when you're
+  done previewing the room!
+talk_0116: |
+  <3 Type='0' Data='0800'/>Absolutely. I hope you enjoy building your
+  dream home!
+talk_0117: |
+  <3 Type='0' Data='0700'/>Do you have any other requests? I'm at
+  your service!
+talk_0118: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0600530061006400'/>Sorry, <5 Type='0'/>but it looks like you don't have
+  enough rupees...
+talk_0119: |
+  <3 Type='0' Data='0800'/>If you need anything, just let me know!
+0120: |
+  Yep, that's the one.

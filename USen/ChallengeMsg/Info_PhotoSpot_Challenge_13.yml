@@ -1,0 +1,25 @@
+Name: |
+  A Picture for South Akkala Stable
+Step02: |
+  Dmitri, the owner of South Akkala Stable, is
+  pleased to have a painting of the Unity Bell
+  hung on the stable wall.
+  
+  He was going to give you a reward, but your
+  inventory was full. Be sure to trim your
+  belongings before you accept his gift.
+Step01: |
+  Dmitri, the owner of South Akkala Stable,
+  wants to hang <0 Type='3' Data='0000'/>a painting of the Unity Bell in
+  Tarrey Town<0 Type='3' Data='ffff'/>.
+  
+  Maybe there's a way to take a picture of it and
+  show it to Dmitri.
+Complete: |
+  Dmitri, the owner of South Akkala Stable, is
+  happy to have a painting of the Unity Bell
+  hung on the stable wall.
+  
+  Still, he's happy to replace it with a different
+  picture of the bell. Just show him a new image
+  and he'll make a copy and put it on display.

@@ -1,0 +1,246 @@
+Talk_43: |
+  <FontSize Value='80'/><3 Type='0' Data='0c00'/>The boss talks a lot about these ruins. But it's
+  the <0 Type='3' Data='0000'/>Ring Ruins<0 Type='3' Data='ffff'/> he can't get out of his head.
+  
+  He's got to be upset being left here when the
+  big work's being done there.<FontSize Value='100'/>
+Talk_44: |
+  <FontSize Value='80'/><3 Type='0' Data='0c00'/>The boss talks and talks about these ruins. But
+  he can't let this whole <0 Type='3' Data='0000'/>Ring Ruins<0 Type='3' Data='ffff'/> thing go.
+  
+  He's got to be upset being left here when the
+  big work's being done there.
+  
+  Poor guy. Maybe I'll buy him something at Mubs's
+  general store tomorrow and deliver it to him.<FontSize Value='100'/>
+Talk_45: |
+  <3 Type='0' Data='0701'/>If you have questions about Lookout
+  Landing, I'm not your guy.
+  
+  Scorpis? Scorpis is your guy. He's over in
+  the center area.
+Talk_46: |
+  <3 Type='0' Data='0c01'/><FontSize Value='80'/>Poor guy. Maybe I'll buy him some cheese at Mubs's
+  store tomorrow...<FontSize Value='100'/>
+Talk_47: |
+  <3 Type='0' Data='0c01'/><FontSize Value='80'/>Poor guy. Maybe I'll buy him some milk at Mubs's
+  store tomorrow...<FontSize Value='100'/>
+Talk_18: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='0a005400680069006e006b00'/>Our research division has been grateful
+  for the Zonai ruins falling down due to
+  the Upheaval.
+Talk_48: |
+  <3 Type='0' Data='0c01'/><FontSize Value='80'/>Poor guy. Maybe I'll buy him something at Mubs's
+  store tomorrow...<FontSize Value='100'/>
+Talk_19: |
+  <3 Type='0' Data='0a00'/>But if this world gets taken over by the
+  Demon King, all this research would be
+  the last thing we'd be concerned with.
+Talk_49: |
+  <3 Type='0' Data='0c01'/><FontSize Value='80'/>Poor guy. Maybe I'll buy him some Hylian rice at
+  Mubs's store tomorrow...<FontSize Value='100'/>
+Talk_20: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='0600530061006400'/>If only Zelda were here...
+Talk_50: |
+  <3 Type='0' Data='0c01'/><FontSize Value='80'/>Poor guy. Maybe I'll buy him a Hyrule bass at
+  Mubs's store tomorrow...<FontSize Value='100'/>
+Talk_21: |
+  <3 Type='0' Data='0a00'/>If someone capable of bringing about
+  the Upheaval has been revived...
+  
+  Well, even if we run away in a balloon,
+  we'll be caught up in all of it.
+Talk_22: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Could we ask Hudson from <0 Type='3' Data='0000'/>Tarrey Town<0 Type='3' Data='ffff'/>
+  to make us a balloon that could fight
+  back? I'm just spitballing here.
+BlackZelda_01: |
+  <3 Type='0' Data='0a00'/>To think that she might be somewhere
+  so dangerous...
+  
+  I'm frustrated with myself that I couldn't
+  do anything.
+Talk_24: |
+  <3 Type='0' Data='0800'/>That's great, boss!
+  
+  
+  Your genius may even surpass that
+  of <0 Type='3' Data='0000'/>Josha<0 Type='3' Data='ffff'/>!
+Talk_53: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a005400680069006e006b00'/>I'm <5 Type='1'/>the type of person who prefers to
+  focus wholly on the task at hand.
+  
+  So if you need something, talk to
+  me later.
+Talk_25: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004e006f007400690063006500'/>You're...mocking me a little,<5 Type='0'/> aren't you?
+Talk_54: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a005400680069006e006b00'/>Er... <5 Type='0'/>I'm <5 Type='1'/>the type of person who prefers to
+  focus wholly on the task at hand.
+  
+  So if you need something, talk to
+  me later.
+Talk_26: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a005400680069006e006b00'/>Well, <0 Type='3' Data='0000'/>Purah<0 Type='3' Data='ffff'/> is investigating <0 Type='3' Data='0000'/>the Upheaval<0 Type='3' Data='ffff'/>.
+  She's certain it'll provide clues about
+  Princess Zelda.
+  But progress isn't great, <5 Type='0'/>I've heard.
+Talk_27: |
+  <3 Type='0' Data='0c00'/><0 Type='3' Data='0000'/>Purah<0 Type='3' Data='ffff'/> is searching frantically, but we still
+  haven't found anything...
+Talk_56: |
+  <FontSize Value='80'/><3 Type='0' Data='0c00'/>Let's see...<5 Type='1'/> "Ones held y honore <5 Type='0'/>als hochmayde to
+  <5 Type='0'/>kyng Rauru ond quen Sonia, <5 Type='0'/>thaerafter to his suster
+  ond to princesse Zelda.<0 Type='4'/>"Her on thaes grete stan ond twelf <5 Type='0'/>mo withalle make
+  y endite min time with the hyred roial.<0 Type='4'/>"So michte heore remembraunce preserven <5 Type='0'/>for the
+  sake of hem on whom oure hope raeste." I think
+  that's what it says, anyway.
+  Ugh, I don't think I'm understanding a single bit
+  of this.<FontSize Value='100'/>
+Near_00: |
+  Even Purah's stumped.
+Talk_57: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a005400680069006e006b00'/>Uh... <5 Type='0'/>Hey...<5 Type='1'/> I'm really focused on my
+  research right now and need to be
+  left undisturbed.
+  So if there's something you need, can you
+  try me later?
+  
+  I have ancient Hyrulean text to decipher.
+Near_01: |
+  C'mon, stop raining.
+Talk_58: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a005400680069006e006b00'/>If Wortsworth's investigating it, then that
+  must mean this is an incredible ruin...
+  
+  That settles it. I'm going to help too!<5 Type='1'/>
+  This is exactly the kind of thing I've
+  been studying for!
+Near_02: |
+  From here...
+Talk_01: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0a005400680069006e006b00'/>Boss! Did you read in the paper that the
+  Demon King has revived? Seems like the
+  Upheaval must've been an omen to that.
+Near_03: |
+  What to do...
+Near_04: |
+  The Ring Ruins...again.
+Talk_32: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a005400680069006e006b00'/>Er... <5 Type='0'/>Sorry...<5 Type='1'/> I'm pretty picky when
+  selecting ingredients, so if there's
+  something you need, talk to me later.
+Near_05: |
+  Sleep...work...sleep...
+Talk_33: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a005400680069006e006b00'/>Er... <5 Type='0'/>Sorry...<5 Type='1'/> I'm pretty picky about
+  ingredients, so if there's something
+  you need, can it happen later?
+  I'm going to go pick up my breakfast at
+  Mubs's shop.
+Talk_05: |
+  <3 Type='0' Data='0c00'/>It's hard to believe these ruins just fell
+  from the sky. I mean, they're from the age
+  of legends, and now they're here!
+  It's all so strange, huh?
+Talk_34: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a005400680069006e006b00'/>Er... <5 Type='1'/>I'm pretty picky when selecting
+  ingredients, so if there's something you
+  need, can it happen later?
+Talk_06: |
+  <3 Type='0' Data='0700'/>Yeah, it sure is. But it's also a great
+  opportunity. All of us on the <0 Type='3' Data='0000'/>Zonai Survey
+  Team <0 Type='3' Data='ffff'/>should count ourselves lucky.
+  If it weren't for <0 Type='3' Data='0000'/>the Upheaval<0 Type='3' Data='ffff'/>, this never
+  would've happened. Not that anyone
+  knows what the Upheaval even is...
+Talk_35: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a005400680069006e006b00'/>Sorry... <5 Type='0'/>I'm <5 Type='1'/>the type of person who
+  values punctuality.
+  
+  So if you need something, come talk to
+  me later.
+  
+  I need to go listen to a survey report from
+  my boss now.
+Talk_07: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a005400680069006e006b00'/>Well, <0 Type='3' Data='0000'/>Purah<0 Type='3' Data='ffff'/>'s looking into it. She's holed
+  up in her <0 Type='3' Data='0000'/>research lab<0 Type='3' Data='ffff'/> inside the fort,
+  trying to make sense of things.
+  She figures if she better understands <0 Type='3' Data='0000'/>the
+  Upheaval<0 Type='3' Data='ffff'/>, she'll find some sort of lead on
+  the princess.
+  But so far, nothing...
+Talk_36: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a005400680069006e006b00'/>I need to go listen to a survey report from
+  my boss now.
+  
+  So if you need something, come talk to
+  me later.
+Talk_08: |
+  <3 Type='0' Data='0700'/>It'd be great to understand more about
+  the Upheaval, but the safety of the
+  princess has to come first.
+Talk_37: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a005400680069006e006b00'/>Sorry... <5 Type='0'/>I'm <5 Type='1'/>the type of person who
+  values punctuality.
+  
+  So if you need something, come talk to
+  me later.
+  
+  My boss is over in some ruins on the
+  north side, so I need to hustle over
+  there to listen to the survey results.
+Talk_09: |
+  <3 Type='0' Data='0c00'/><0 Type='3' Data='0000'/>Purah<0 Type='3' Data='ffff'/>'s in the <0 Type='3' Data='0000'/>research lab <0 Type='3' Data='ffff'/>searching
+  frantically for clues to find her, but we
+  haven't had much luck just yet.
+Talk_38: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a005400680069006e006b00'/>Uh...
+  
+  
+  I prefer to keep work and my personal
+  time separate, so can you bother me
+  some other time?
+Talk_39: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a005400680069006e006b00'/>Uh...
+  
+  
+  I prefer to keep work and my personal
+  time separate, so can you bother me
+  some other time?
+Talk_40: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a005400680069006e006b00'/>Uh...
+  
+  
+  I prefer to keep work and my personal
+  time separate, so can you bother me
+  some other time?
+  I'm all wrapped up for the day, see.
+Talk_41: |
+  <3 Type='0' Data='0701'/>It was you, wasn't it?<5 Type='0'/> You're the one who
+  bought every last ingredient,<5 Type='1'/> didn't you?
+  
+  That's a whole lot of food for just
+  one person.
+  
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0e0045006100730065005f0030003100'/>Ha!<5 Type='0'/> Eh, just ignore me.
+  
+  
+  I'm probably a bit salty because now
+  I have to miss a meal.
+  
+  I'll just sit here and smell all the scents of
+  other people's food. I'm sure that'll fill me
+  up no problem.
+Talk_13: |
+  <FontSize Value='80'/><0 Type='3' Data='0200'/><3 Type='0' Data='0a00'/><4 Type='0' Data='0a005400680069006e006b00'/>Is the princess all right, wherever she is?
+  
+  
+  These ruins right here are exceptional. But really,
+  who cares about that at a time like this?<0 Type='3' Data='ffff'/><FontSize Value='100'/>
+Talk_42: |
+  <3 Type='0' Data='0700'/>There's so many ingredients to choose
+  from. It's a bit overwhelming trying to
+  decide what to buy!
+  It's a good problem to have, really.

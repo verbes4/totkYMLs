@@ -1,0 +1,174 @@
+GoRange_01_2: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Word on the street is those recent <0 Type='3' Data='0000'/>cave
+  formations <0 Type='3' Data='ffff'/>have all sorts of fresh <0 Type='3' Data='0000'/>ore
+  deposits <0 Type='3' Data='ffff'/>inside!
+  When you find a<0 Type='3' Data='0000'/> cave<0 Type='3' Data='ffff'/>, I recommend giving
+  it a good look-see. Never know what ya
+  might find.
+Near_RainPoint_01: |
+  So rainy... Better stay put.
+Near_BackRange_01: |
+  Tasty, tasty gems.
+Greeting: |
+  <3 Type='0' Data='0700'/>Hey, hey! Guess what?
+Near_BackRange_02: |
+  Swing on by Goron City!
+StartPoint_01_2: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Precious <0 Type='3' Data='0000'/>gems <0 Type='3' Data='ffff'/>sell for a high price.<5 Type='0'/> If ya
+  end up with extra, take it to a shop and
+  sell it off!
+BackRange_01_2: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='10004700720065006500740069006e006700'/><0 Type='3' Data='0000'/>Gems <0 Type='3' Data='ffff'/>are worth more than money. They
+  can be used in other ways too. Like eatin'.
+  
+  The cool <0 Type='3' Data='0000'/>sapphire<0 Type='3' Data='ffff'/>...<5 Type='0'/> The spicy <0 Type='3' Data='0000'/>ruby<0 Type='3' Data='ffff'/>...<5 Type='1'/>
+  Mmm. <5 Type='0'/>Just thinking about them and I'm
+  droolin' all over myself again.
+StartPoint_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hey. You got any ore on ya? I'll tell ya
+  somethin' useful.
+  
+  Anytime you've got extra ore janglin'
+  around, you might wanna visit a shop.
+  
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>In particular, shops pay a high price for
+  precious <0 Type='3' Data='0000'/>gems<0 Type='3' Data='ffff'/>.
+SavedLv1_00: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>Thank you!<5 Type='0'/> You saved my neck!
+RainPoint_01: |
+  <3 Type='0' Data='0500'/><4 Type='0' Data='0a005400680069006e006b00'/>The rain will make poets of us all...<0 Type='4'/><4 Type='0' Data='0e00480075006d006d0069006e006700'/>Pitter-patter, plop-plop, drippy-drippy
+  drip-drop.<5 Type='0'/> Sopping wet and juicy sweet
+  and—<5 Type='0'/> ARGH! There I go AGAIN.
+  I can't stop thinking about the juicy
+  deliciousness of <0 Type='3' Data='0000'/>opals<0 Type='3' Data='ffff'/>! 
+  
+  Splooshy, splashy, yum-yum.<5 Type='0'/> GAH, I want
+  to EAT one!<5 Type='1'/> No use!<0 Type='4'/><3 Type='0' Data='0401'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>Who am I kiddin'? I'm no poet. I'm just a
+  wet, hungry Goron...
+GoRange_02_2: |
+  <3 Type='0' Data='0000'/><0 Type='3' Data='0000'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/><0 Type='3' Data='ffff'/>I slapped a rock onto a <0 Type='3' Data='0000'/>wooden stick<0 Type='3' Data='ffff'/> and
+  had me a new <0 Type='3' Data='0000'/>hammer<0 Type='3' Data='ffff'/>.<5 Type='0'/>
+  
+  Works a lot better than a rotted-out ol'
+  <0 Type='3' Data='0000'/>hammer<0 Type='3' Data='ffff'/>, that's for sure.
+BackRange_01: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/><0 Type='3' Data='0000'/>Gems <0 Type='3' Data='ffff'/>aren't just pretty little rocks,
+  ya know.
+  
+  Take 'em to a shop to make easy money.
+  If you gather lots, you'll get rich quick.
+  
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Of course, that's not the only thing you
+  can do with gems.<5 Type='0'/> Take, for example...
+  
+  The <0 Type='3' Data='0000'/>sapphire<0 Type='3' Data='ffff'/>! It's cool and pleasant on
+  the tongue.<5 Type='1'/> Or try a <0 Type='3' Data='0000'/>ruby<0 Type='3' Data='ffff'/>,<5 Type='1'/> which offers a
+  tender and delicate warmth.
+  <3 Type='0' Data='0100'/><4 Type='0' Data='08004500610073006500'/>Mmm...<5 Type='0'/> I'm drooling again.
+Near_Rain: |
+  This weather's a bummer.
+SavedLv1_01: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='0c004c0061007500670068005300'/>You're a BEAST! I think I saw that monster
+  shaking, it was so scared.
+SavedLv2_00: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='08004500610073006500'/>Sure wasn't expectin' that.<5 Type='1'/> The monsters
+  are good 'n' gone, yeah?
+GoalPoint_01: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>The best rock roast around is served up
+  at a <0 Type='3' Data='0000'/>restaurant <0 Type='3' Data='ffff'/>in <0 Type='3' Data='0000'/>Eldin <0 Type='3' Data='ffff'/>to the <0 Type='3' Data='0000'/>northeast<0 Type='3' Data='ffff'/>.
+  
+  My brother, Boldon, is a regular <0 Type='3' Data='0000'/>there<0 Type='3' Data='ffff'/>,
+  so if you head there yourself, you might
+  run into him.
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>If you do see him, tell him hi from me,
+  will ya?
+GoRange_01: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0600530061006400'/>Hey...does it feel like the amount of <0 Type='3' Data='0000'/>ore<0 Type='3' Data='ffff'/>
+  has dwindled a lot lately?<5 Type='1'/> I wonder if it's
+  to do with the Upheaval...
+  <3 Type='0' Data='0701'/>Eh, but I've heard otherwise.<0 Type='4'/>I'VE heard that inside those recent <0 Type='3' Data='0000'/>cave
+  formations<0 Type='3' Data='ffff'/>, there's all sorts of new
+  <0 Type='3' Data='0000'/>ore deposits<0 Type='3' Data='ffff'/>.
+  <4 Type='0' Data='0a005400680069006e006b00'/>You can make easy money selling rare
+  <0 Type='3' Data='0000'/>gems <0 Type='3' Data='ffff'/>off to shops,<5 Type='0'/> so it's common sense
+  to investigate a <0 Type='3' Data='0000'/>cave <0 Type='3' Data='ffff'/>when you find one.
+BackRange_02: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/><0 Type='3' Data='0000'/>Eldin<0 Type='3' Data='ffff'/> up to the northeast has really cooled
+  off. The climate there should be much
+  more doable for a Hylian such as yourself.
+  I know, because I'm from <0 Type='3' Data='0000'/>Goron City<0 Type='3' Data='ffff'/>,
+  which is out there!<0 Type='3' Data='0000'/><0 Type='3' Data='ffff'/>
+  
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>The economy there has been doing better
+  lately, too, with <0 Type='3' Data='0000'/>gems cheaper than ever<0 Type='3' Data='ffff'/>.
+  It's a great time to visit.
+SavedLv2_01: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='08004500610073006500'/>I mighta been a little careless...<5 Type='1'/> But I'm
+  safe now, thanks to you.
+SavedLv3_00: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>Thank you! I'm safe now, whew.<5 Type='0'/> Thought
+  that was gonna be the end of me!
+GoRange_02: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hey...don't it feel like it's been one weird
+  thing after another since <0 Type='3' Data='0000'/>the Upheaval<0 Type='3' Data='ffff'/>?
+  
+  <3 Type='0' Data='0300'/>The other day, my precious <0 Type='3' Data='0000'/>hammer <0 Type='3' Data='ffff'/>that
+  I've loved and cared for since...well, since
+  forever...just up and rotted!
+  <3 Type='0' Data='0000'/>It was beyond fixing, so I slapped a rock
+  onto a <0 Type='3' Data='0000'/>wooden stick<0 Type='3' Data='ffff'/> and had me a
+  new <0 Type='3' Data='0000'/>hammer<0 Type='3' Data='ffff'/>.
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>It might not be pretty,<5 Type='0'/> but it beats a
+  rotten ol' <0 Type='3' Data='0000'/>hammer<0 Type='3' Data='ffff'/> any day of the week.
+SavedLv3_01: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='08004500610073006500'/>I was so scared...<5 Type='0'/> I thought that was the
+  end. But, wow, you sure can fight!<5 Type='1'/>
+BackRange_02_2: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>I'm from <0 Type='3' Data='0000'/>Goron City<0 Type='3' Data='ffff'/>, which is in the <0 Type='3' Data='0000'/>Eldin
+  region<0 Type='3' Data='ffff'/> to the northeast. It's a nice place,
+  and the <0 Type='3' Data='0000'/>gems there are so cheap<0 Type='3' Data='ffff'/> now.
+  You should check it out!
+Near_StartPoint_01: |
+  Extra ore's good for sellin'.
+Near_Thunder: |
+  Watch out for lightning.
+Near_GoRange_01: |
+  New ore in new caves?
+GoalPoint_01_2: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='10004700720065006500740069006e006700'/>My brother, <0 Type='3' Data='0000'/>Boldon<0 Type='3' Data='ffff'/>, is a regular at the
+  restaurant that opened up in<0 Type='3' Data='0000'/> Eldin<0 Type='3' Data='ffff'/>.
+  
+  If you happen to see <0 Type='3' Data='0000'/>him<0 Type='3' Data='ffff'/>, tell him hi from
+  me, will ya?
+RainPoint_01_2: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='10004700720065006500740069006e006700'/>When I gaze upon the falling rain, all I can
+  think about is the juiciness of the <0 Type='3' Data='0000'/>opal<0 Type='3' Data='ffff'/>.
+  
+  *sigh* I need to eat one immediately!
+Near_GoRange_02: |
+  I made a simple hammer.
+Atacked00: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0600530061006400'/>Ack!<5 Type='0'/> This isn't good! This is...<5 Type='0'/>bad! I'm not
+  gonna make it!
+Guardian00: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='0a0053006300610072006500'/>This one's strong...<5 Type='0'/> TOO strong.
+  
+  
+  I don't stand a chance. Better run!
+Near_GoalPoint_01: |
+  I wonder if Boldon's OK...
+Failed00: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0600530061006400'/>Eeep!<5 Type='0'/> Wait. <5 Type='0'/>I'm safe?<5 Type='1'/> You OK too?
+Atacked01: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0a0053006300610072006500'/>Agh! It's gonna get me!<5 Type='1'/> Somebody help!
+Failed01: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0600530061006400'/>I'm alive!<5 Type='1'/> What a relief.<5 Type='0'/> I thought I was
+  done for.
+EnokidaSignboard: |
+  Hudson Construction?
+Thanks00: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>I could say thanks until my breath gave
+  out and it wouldn't be enough, so I want
+  you to have this.<5 Type='0'/>
+  Every time you look at it, you can hear me
+  in your mind, saying thanks!

@@ -1,0 +1,18 @@
+Name: |
+  The Yiga Clan Exam
+Step1: |
+  You accepted the Yiga Clan blademaster test.
+  
+  You must make an offering of mighty bananas
+  at five of the Yiga Clan-marked frog statues in
+  Gerudo Canyon. Remaining locations: <2 Type='21' Data='4a0043006f0075006e00740044006f0077006e005f00460072006f0067005f00470065007200750064006f00430061006e0079006f006e005f0041006400760065006e007400750072006500ffff'/>.
+Step2: |
+  You made offerings of mighty bananas at all
+  five frog statues in Gerudo Canyon. That fulfills
+  the conditions of the test.
+  
+  Return to the Yiga Blademaster Station.
+Complete: |
+  You passed the Yiga Clan blademaster test after
+  making offerings of mighty bananas at all of the
+  required frog statues in Gerudo Canyon.

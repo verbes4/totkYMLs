@@ -1,0 +1,19 @@
+Name: |
+  Filling Out the Compendium
+Purchase: |
+  The Hyrule Compendium on your Purah Pad
+  will automatically register pictures of creatures,
+  monsters, materials, equipment, and treasure
+  you take with your <0 Type='3' Data='0000'/>camera<0 Type='3' Data='ffff'/>.
+  
+  Robbie invited you to <0 Type='3' Data='0000'/>purchase <0 Type='3' Data='ffff'/>pictures
+  you haven't captured yet from his own
+  Hyrule Compendium.
+Complete: |
+  The Hyrule Compendium on your Purah Pad
+  will automatically register pictures of creatures,
+  monsters, materials, equipment, and treasure
+  you take with your <0 Type='3' Data='0000'/>camera<0 Type='3' Data='ffff'/>. From now on, you
+  can still purchase Hyrule Compendium pictures
+  you haven't bought for yourself yet by selecting
+  them from <0 Type='3' Data='0000'/>Robbie's compendium<0 Type='3' Data='ffff'/>.

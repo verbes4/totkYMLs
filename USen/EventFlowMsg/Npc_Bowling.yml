@@ -1,0 +1,131 @@
+GoRange_01_2: |
+  <3 Type='0' Data='0700'/>The road <0 Type='3' Data='0000'/>north <0 Type='3' Data='ffff'/>to the <0 Type='3' Data='0000'/>Hebra Mountains<0 Type='3' Data='ffff'/> is
+  awful steep—stock up at a <0 Type='3' Data='0000'/>stable <0 Type='3' Data='ffff'/>or <0 Type='3' Data='0000'/>Rito
+  Village<0 Type='3' Data='ffff'/> so you're ice and prepared!
+Near_RainPoint_01: |
+  It can't snow forever...
+Near_BackRange_01: |
+  Monsters? Snow way...
+Greeting: |
+  <FontSize Value='125'/><5 Type='1'/><3 Type='0' Data='0b00'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003100'/>Achoo!<5 Type='1'/><FontSize Value='100'/>
+  
+  
+  <3 Type='0' Data='0000'/><4 Type='0' Data='0e0045006100730065005f0030003100'/>Oh! <5 Type='0'/>Pardon.<5 Type='1'/> The cold snap might be over,
+  but it's still so chilly down here.
+Near_RainPoint_02: |
+  It's been raining too long...
+Near_BackRange_02: |
+  A snowball should do it...
+StartPoint_01_2: |
+  <3 Type='0' Data='0700'/>Sure is cold out here! Head east if you
+  need to defrost.
+  
+  If you feel like you're about to fall over,
+  you can take refuge in a <0 Type='3' Data='0000'/>cave <0 Type='3' Data='ffff'/>or <0 Type='3' Data='0000'/>stable<0 Type='3' Data='ffff'/>.
+BackRange_01_2: |
+  <3 Type='0' Data='0700'/>You might think you've found a <0 Type='3' Data='0000'/>deserted
+  house<0 Type='3' Data='ffff'/>, and then find a bunch of <0 Type='3' Data='0000'/>monsters<0 Type='3' Data='ffff'/>
+  inside. Stay frosty!
+FriendGreet_00: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Heya, kiddums! Made your way out of the
+  stable, have you? 
+  
+  With temperatures this low, you've gotta
+  be prepared. Safety frost!
+StartPoint_01: |
+  <3 Type='0' Data='0700'/>Listen up, kiddums! Here's some free
+  advice! <0 Type='3' Data='0000'/>Caves <0 Type='3' Data='ffff'/>aside, this <0 Type='3' Data='0000'/>stable <0 Type='3' Data='ffff'/>is just
+  about the only place around to get warm.<5 Type='0'/>
+  Be careful out there. Make whatever
+  preparations you have to.
+  
+  Or if this isn't the chill you want to
+  die on, head east!
+SavedLv1_00: |
+  <3 Type='0' Data='0700'/>Wow, kiddums!<5 Type='0'/> I owe you one!
+GoRange_02_2: |
+  <3 Type='0' Data='0700'/>Visibility's so good out there, you'll be the
+  star of the snow. Keep your guard up!
+  After all...once bitten, ice shy!
+BackRange_01: |
+  <3 Type='0' Data='0700'/>Sometimes, <0 Type='3' Data='0000'/>deserted houses <0 Type='3' Data='ffff'/>only LOOK
+  deserted—and then you find <0 Type='3' Data='0000'/>monsters<0 Type='3' Data='ffff'/>
+  chilling inside.
+  Keep your head up, kiddums!
+SavedLv1_01: |
+  <3 Type='0' Data='0700'/>Wow, thanks for saving me! This area's
+  sure lousy with monsters these days.
+SavedLv2_00: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0a0054006900720065006400'/>Phew, I thought that was it for me!<5 Type='0'/>
+  I'm glad you came, kiddums.
+GoalPoint_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0e0057006f0072006b005f0030003100'/>Underestimating the weather is a serious
+  snow pas!<0 Type='4'/>You can stave off the cold by warming up
+  at a <0 Type='3' Data='0000'/>fire <0 Type='3' Data='ffff'/>or holing up in a <0 Type='3' Data='0000'/>cave<0 Type='3' Data='ffff'/>.
+  
+  But cold isn't the only danger in these
+  parts—some of these <0 Type='3' Data='0000'/>caves <0 Type='3' Data='ffff'/>are stuffed
+  with monsters!
+GoRange_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Hold on, kiddums! If you're heading <0 Type='3' Data='0000'/>north<0 Type='3' Data='ffff'/>
+  to the <0 Type='3' Data='0000'/>Hebra Mountains<0 Type='3' Data='ffff'/>, you've got a
+  steep trek ahead.
+  Stock up at a <0 Type='3' Data='0000'/>stable <0 Type='3' Data='ffff'/>or <0 Type='3' Data='0000'/>Rito Village<0 Type='3' Data='ffff'/> so
+  you're ice and prepared!
+BackRange_02: |
+  <3 Type='0' Data='0700'/>Have you ever tried rolling a <0 Type='3' Data='0000'/>snowball <0 Type='3' Data='ffff'/>into
+  a monster?
+  
+  <3 Type='0' Data='0c01'/>Fighting monsters isn't usually what puts
+  a smile on my face, but if you go with the
+  snow, you can really have a ball!
+SavedLv2_01: |
+  <3 Type='0' Data='0700'/>Fighting's just not for me. Imagine if we
+  were at peace... What an ice dream, eh?
+SavedLv3_00: |
+  <3 Type='0' Data='0b00'/>Ah! That was close! I was on thin ice for
+  a minute there.
+GoRange_02: |
+  <3 Type='0' Data='0c00'/>Visibility is a little toooo good around
+  here, so when you're outside, you're
+  the star of the snow.
+  Don't drop your guard out there—the
+  monsters sure won't!
+SavedLv3_01: |
+  <3 Type='0' Data='0800'/>I thought I had a snowball's chance in
+  summer of making it out alive! Thanks for
+  your help, kiddums!
+BackRange_02_2: |
+  <3 Type='0' Data='0c00'/>Making a big ol' <0 Type='3' Data='0000'/>snowball <0 Type='3' Data='ffff'/>and rolling it
+  into monsters can be tough. Remember—
+  just go with the snow!
+Near_StartPoint_01: |
+  Snow and steady.
+Near_GoRange_01: |
+  To the Hebra Mountains...
+GoalPoint_01_2: |
+  <3 Type='0' Data='0700'/>Keep a weather eye out for monsters if
+  you hole up in a <0 Type='3' Data='0000'/>cave<0 Type='3' Data='ffff'/>. A little care is a
+  small ice to pay!
+Near_GoRange_02: |
+  Nothing to see here...
+Atacked00: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>Good timing! Now give 'em the
+  cold one-two!
+Guardian00: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003100'/>What in the tundra?! Not even a big ol'
+  snowball has a chance against that!
+Near_GoalPoint_01: |
+  I call it as icy 'em...
+Atacked01: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>What timing! I owe you one, kiddums!
+EnokidaSignboard: |
+  Hudson Construction?
+NakedPlayer: |
+  You trying to get frostbite?
+Thanks00: |
+  <3 Type='0' Data='0101'/>I'm mighty grateful you came through
+  for me. <5 Type='0'/>In fact, here's a small token of
+  my thanks.
+  Take it! You're too young to be
+  modest, kiddums.

@@ -1,0 +1,38 @@
+Name: |
+  Clues to the Sky
+FindDrefan: |
+  "Stand upon the land of the sky fish, and
+  behold its lofty view. Among the floating rocks
+  you see, a droplet waits for you. Through this
+  droplet shoot an arrow with the mark of the
+  king. Do this task, and you shall reveal a most
+  wondrous thing." You deciphered a clue for
+  finding the watery bridge. Jiahto suggests
+  speaking with <0 Type='3' Data='0000'/>King Dorephan<0 Type='3' Data='ffff'/> about the mark.
+SearchKingScales: |
+  You overhead from the children in Zora's
+  Domain that King Dorephan is at the Pristine
+  Sanctum. It sounds like there is a secret
+  entrance <0 Type='3' Data='0000'/>behind a clean waterfall somewhere
+  between Ploymus Mountain and the domain<0 Type='3' Data='ffff'/>.
+  
+  Could it be, as Jiahto says, that King Dorephan
+  knows something about the <0 Type='3' Data='0000'/>mark of the king<0 Type='3' Data='ffff'/>?
+SearchWaterBridge: |
+  "Stand upon the land of the sky fish, and
+  behold its lofty view. Among the floating rocks
+  you see, a droplet waits for you. Through this
+  droplet shoot an arrow with the mark of the
+  king. Do this task, and you shall reveal a most
+  wondrous thing." You learned the mark of the
+  king is the Zora king's scale. But what of the
+  <0 Type='3' Data='0000'/>land of the sky fish <0 Type='3' Data='ffff'/>and droplet?
+Complete: |
+  When you shot the mark of the king into the
+  droplet visible from the land of the sky fish, a
+  pillar of light appeared in the reservoir in the
+  eastern part of the domain.
+  
+  If the writing on the ancient stone slate is
+  correct, this should indicate the hiding place
+  of the watery bridge.

@@ -1,0 +1,188 @@
+talk0030: |
+  <3 Type='0' Data='0201'/>Now, let's get to work.
+talk0013: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='0c005300610064005f0030003000'/>A girl's gotta make a living! And how else
+  am I going to fund my ultimate research?
+talk0031: |
+  <FontSize Value='125'/><3 Type='0' Data='0900'/><4 Type='0' Data='180057006f0072006b00480065006100760079005f0030003100'/>Whoaaa! Crank up the heat!<FontSize Value='100'/>
+talk0014: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003000'/><FontSize Value='80'/>But my market research said that was a
+  reasonable price!<FontSize Value='100'/>
+  
+  <3 Type='0' Data='0701'/>Well, you'll just have to think about what
+  the ultimate culinary experience is worth
+  to you.
+  Here's that food you gave me.
+  
+  
+  <4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>When you're ready to get ultimate,<5 Type='0'/> bring
+  me a <0 Type='3' Data='0000'/>failed dish<0 Type='3' Data='ffff'/> and <0 Type='3' Data='0000'/>10 rupees<0 Type='3' Data='ffff'/>.
+talk0032: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>If you have any <0 Type='3' Data='0000'/>failed dishes<0 Type='3' Data='ffff'/>, I'll elevate
+  them into edible art!
+talk0015: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Yeah. <5 Type='0'/>Haven't you tried throwing things
+  that aren't food into your cook pot?
+  
+  When you do,<5 Type='0'/> you'll often end up with a
+  failed dish.
+  
+  They can fail in different ways. There's
+  <0 Type='3' Data='0000'/>dubious food<0 Type='3' Data='ffff'/> and <0 Type='3' Data='0000'/>rock-hard food<0 Type='3' Data='ffff'/>...
+  
+  <3 Type='0' Data='0901'/><4 Type='0' Data='100041006e006700720079005f0030003100'/>Dubious, they say! Rock-hard, they call it!<5 Type='0'/>
+  Psh. Just because you throw in some ore
+  or monster bits.
+  What terrible things to say, don't you
+  think? <5 Type='1'/>Haven't they ever heard the saying
+  "nothing ventured, nothing gained"?
+talk0016: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Success is built on failure!
+  
+  
+  Bring me your <0 Type='3' Data='0000'/>failed dishes<0 Type='3' Data='ffff'/> when
+  you're ready to turn them into
+  something amazing.
+talk0017: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>So, what'll it be? Are you ready to make
+  your dishes ultimate?
+talk0000: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>A customer? So early? That's fine...
+  
+  
+  Moza's Hideaway Restaurant opens early
+  so you that can start your day with the
+  ultimate breakfast!
+0002: |
+  Here's a failed dish.
+talk0018: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0c005300610064005f0030003000'/>*sigh* <5 Type='1'/>Sorry.<5 Type='0'/> I was just thinking about my
+  life before becoming a master chef.
+  
+  Bring me your <0 Type='3' Data='0000'/>failed dishes <0 Type='3' Data='ffff'/>when
+  you're ready to turn them into
+  something amazing.
+talk0001: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='12004c0061007500670068004c005f0030003000'/>Welcome to Moza's Hideaway Restaurant!
+  
+  
+  I'm about to close, but I don't do
+  end-of-day deals. My ultimate dishes
+  are worth full price all day!
+talk0019: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Thanks for your busi—
+  
+  
+  <3 Type='0' Data='0901'/><4 Type='0' Data='100041006e006700720079005f0030003100'/>Hey! You don't have enough <0 Type='3' Data='0000'/>rupees<0 Type='3' Data='ffff'/>!
+  
+  
+  Ugh. Here. <5 Type='0'/>Take your food back.
+  
+  
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Come again when you've saved up
+  enough rupees. <5 Type='1'/>No dine and dashing.
+talk0002: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Here comes a customer. Ahem...
+  
+  
+  This is Moza's Hideaway Restaurant,<5 Type='0'/>
+  your destination for ultimate flavor!
+0004: |
+  Failed dishes?
+talk0003: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='0c004c0061007500670068005300'/>Here at Moza's Hideaway Restaurant,<5 Type='1'/>
+  we're always ready to make your food
+  ultimate! So what are you waiting for?
+  Your <0 Type='3' Data='0000'/>failed dishes<0 Type='3' Data='ffff'/> are ready for their
+  second chance!
+0005: |
+  Maybe later.
+talk0020: |
+  <3 Type='0' Data='0501'/><4 Type='0' Data='0e0045006100730065005f0030003000'/>Sorry. That's just,<5 Type='0'/> um...<5 Type='1'/>really special.
+  
+  
+  <3 Type='0' Data='0001'/>Well. That'll be <0 Type='3' Data='0000'/>10 rupees<0 Type='3' Data='ffff'/>, please.
+talk0004: |
+  <3 Type='0' Data='0701'/>OK. I'm ready.
+  
+  
+  <4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>If you have<0 Type='3' Data='0000'/> dubious <0 Type='3' Data='ffff'/>or<0 Type='3' Data='0000'/> rock-hard food<0 Type='3' Data='ffff'/>, I'll
+  work my culinary magic.
+0006: |
+  Here you go.
+talk0021: |
+  <3 Type='0' Data='0000'/>So, are you gonna pay the <0 Type='3' Data='0000'/>10 rupees<0 Type='3' Data='ffff'/>?
+talk0005: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Ah! <5 Type='0'/>A customer! <5 Type='0'/>Can't get enough of the
+  ultimate dish?
+  
+  I have a special announcement for
+  customers like you.
+  
+  <3 Type='0' Data='0800'/><4 Type='0' Data='12004c0061007500670068004c005f0030003100'/>Moza's Hideaway Restaurant<5 Type='0'/> is opening
+  its doors to the public!
+  
+  <3 Type='0' Data='0701'/>Bring me your failed dishes anytime, and
+  I'll make them ultimate!
+  
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0e0043006800610074005f0030003000'/>Please visit Moza's Hideaway Restaurant
+  whenever you need that ultimate flavor!
+0007: |
+  That's a little steep.
+talk0006: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003000'/>Wh-what happened here?!
+  
+  
+  What do you have to do to make
+  something like this? What did those
+  ingredients do to deserve this?!
+0008: |
+  Sorry, but no.
+near0000: |
+  Lynel guts for flavor...
+talk0007: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003000'/>H-how?!
+  
+  
+  Can you even call this food?!<5 Type='0'/> There are
+  softer rocks! <5 Type='0'/>I might have chipped a tooth
+  just looking at it.
+talk0024: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/><FontSize Value='80'/>Huh?<5 Type='1'/> I didn't mess it up, did I? Nah...
+  
+  
+  <FontSize Value='100'/>Here you go!<5 Type='0'/> The ultimate dish, which is
+  surely perfect in every way!<FontSize Value='80'/><FontSize Value='100'/>
+talk0008: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Thanks for your business!
+talk0009: |
+  <3 Type='0' Data='0900'/><4 Type='0' Data='180057006f0072006b00480065006100760079005f0030003000'/>Chop it! <5 Type='0'/>Pound it! <5 Type='0'/>Steam it!<5 Type='0'/> Throw in a
+  Hyrule bass! Boil it! <5 Type='0'/>Cook it! <5 Type='0'/>Add that
+  raw meat!
+  <FontSize Value='80'/>Now just a pinch of the secret extract, aaand...<FontSize Value='100'/>
+  
+  
+  <3 Type='0' Data='0900'/><4 Type='0' Data='180057006f0072006b00480065006100760079005f0030003100'/>Done!<5 Type='0'/> Get a load of this! Done! Prepare to
+  be amazed!
+talk0027: |
+  <3 Type='0' Data='0200'/><4 Type='0' Data='0a0041006e00670072007900'/>Don't you <5 Type='0'/>dare<5 Type='0'/> touch that pot!
+  
+  
+  A chef lives and dies by their cook
+  pot! You can't just move it while
+  they're working!
+talk0010: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='1000540069007200650064005f0030003000'/>Phew! Good thing I like a challenge.
+  
+  
+  And now...the ultimate dish.<5 Type='0'/> Behold!
+talk0029: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>Need some time to think it over, huh?
+  
+  
+  <3 Type='0' Data='0001'/>Come back if you change your mind.
+talk0011: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Eat up before it gets cold.
+talk0012: |
+  <3 Type='0' Data='0c01'/><FontSize Value='80'/>With this extract, I'm unstoppable! It was totally
+  worth the trip to that town in the northeast.<FontSize Value='100'/>

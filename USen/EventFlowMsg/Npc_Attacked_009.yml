@@ -1,0 +1,165 @@
+Com_Talk_02c: |
+  <3 Type='0' Data='0800'/>Thanks a lot!
+Com_Talk_11_d: |
+  <3 Type='0' Data='0800'/>Thanks a lot!
+5507: |
+  I'll buy everything.
+Com_Talk_02d: |
+  <3 Type='0' Data='0800'/>You have yourself a deal!
+5508: |
+  I'll sell everything.
+Com_Talk_10: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0001'/><0 Type='3' Data='ffff'/>Oh, you want to purchase that?
+Com_Talk_11: |
+  <3 Type='0' Data='0800'/>Thanks!
+SavedLv3_00: |
+  <3 Type='0' Data='0800'/>Thank you!<5 Type='0'/> I can't believe I was rescued
+  there.<5 Type='1'/> I owe you my life.
+Com_Talk_05b: |
+  <3 Type='0' Data='0701'/>Come on! I'm ready to buy more!
+Com_Talk_12: |
+  <3 Type='0' Data='0700'/>I'm proud to offer all of these goods.<5 Type='1'/>
+  You take your time.
+SavedLv1_00: |
+  <3 Type='0' Data='0700'/>That was scary!<5 Type='0'/> Thanks for saving
+  me, seriously.
+SavedLv3_01: |
+  <3 Type='0' Data='0b00'/>That was amazing! You're so powerful.<5 Type='1'/>
+  Watching you was...<5 Type='0'/>inspiring.
+Com_Talk_05c: |
+  <3 Type='0' Data='0701'/>I'd really like to buy more from you!
+Com_Talk_13: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0001'/><0 Type='3' Data='ffff'/>All right. So, how many do you want
+  to sell?
+SavedLv1_01: |
+  <3 Type='0' Data='0700'/>You rescued me!<5 Type='0'/> I thought my mushrooms
+  were going to get stolen!
+ShopGreet_01_2: |
+  <3 Type='0' Data='0700'/>You've helped me out so much, so it
+  seems only right that I should offer you
+  my mushrooms. A special sale!
+Com_Talk_05d: |
+  <3 Type='0' Data='0701'/>Don't hold back. Sell me anything!
+Com_Talk_14: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0001'/><0 Type='3' Data='ffff'/>How does <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/> for <2 Type='2' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/> sound
+  to you?
+Com_Talk_15: |
+  <3 Type='0' Data='0c00'/>Sorry, I can't really buy that...
+0001: |
+  I'll buy.
+Com_Talk_16: |
+  <3 Type='0' Data='0c00'/>Um... If you want to sell something you
+  have on, remove it first, all right?
+0002: |
+  I'll sell.
+Thanks00: |
+  <3 Type='0' Data='0800'/>It's all thanks to you that my mushrooms
+  are safe—and me, of course!
+  
+  <3 Type='0' Data='0001'/>Here's a token of my appreciation. Don't
+  be shy. Take it.
+0003: |
+  Never mind.
+Com_Talk_00: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0a0048006100700070007900'/>What do you want to sell?
+Com_Talk_01: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0000'/><0 Type='3' Data='ffff'/>How does <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/> sound?
+Com_Talk_02: |
+  <3 Type='0' Data='0800'/>Thanks!<5 Type='0'/> Want to sell anything else?
+Com_Talk_04: |
+  <3 Type='0' Data='0a00'/>Oh, backing out?<5 Type='1'/> That's a shame...
+Com_Talk_05: |
+  <3 Type='0' Data='0701'/>I'll buy more if you're interested!
+ShopTalk_01: |
+  <3 Type='0' Data='0700'/>Anything else?
+Com_Talk_06: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0600530061006400'/>I'd recommend ALL of these though!
+Com_Talk_07: |
+  <3 Type='0' Data='0a00'/>I'm sorry.<5 Type='1'/> We're out of that right now.
+Com_Talk_30: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0001'/><0 Type='3' Data='ffff'/>I see! How many would you like to buy?
+Com_Talk_08: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Oh? You don't have enough <0 Type='3' Data='0000'/>rupees<0 Type='3' Data='ffff'/>. 
+Com_Talk_31: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0001'/><0 Type='3' Data='ffff'/>So, you'd like <2 Type='2' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/>? That'll be
+  <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>. Is that OK?
+Com_Talk_09: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0600530061006400'/>Your <0 Type='3' Data='0000'/>pouch<0 Type='3' Data='ffff'/> is full...<5 Type='1'/> Let's talk again, once
+  you have room in your <0 Type='3' Data='0000'/>pouch<0 Type='3' Data='ffff'/>.
+Com_Talk_32: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0001'/><0 Type='3' Data='ffff'/>So, you want to buy just one? How does
+  <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/> sound?
+SavedLv2_00: |
+  <3 Type='0' Data='0700'/>I thought I was a goner. I'm so glad you
+  came in right then!
+Failed00: |
+  <3 Type='0' Data='0a00'/>Ouch! Oooh...<5 Type='0'/> I was in an awful fix there!<5 Type='1'/>
+  At least my mushrooms are safe.
+Com_Talk_33: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0001'/><0 Type='3' Data='ffff'/>All right! One will be <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>!
+  That sound OK?
+SavedLv2_01: |
+  <3 Type='0' Data='0700'/>Thank you!<5 Type='1'/> Traveling is nice and all, but
+  I guess there's no avoiding danger!
+Failed01: |
+  <3 Type='0' Data='0900'/>I was nearly done for... Wasn't there some
+  way you could have helped more? I just
+  about made my peace with the Goddess!
+  Sorry, sorry...<5 Type='0'/> Just scared, that's all...
+Com_Talk_34: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0401'/><0 Type='3' Data='ffff'/>What?! You want every single one?<5 Type='0'/> Well,
+  <2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/> of them will be <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>, OK?
+Com_Talk_35: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0401'/><0 Type='3' Data='ffff'/>You want to sell <2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/>? That comes to
+  <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>! Is that all right with you?
+5500: |
+  Yes.
+Com_Talk_36: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0c004c0061007500670068005300'/>I'm completely sold out thanks to you!<5 Type='0'/>
+  Thanks for buying so much!
+5501: |
+  No.
+EnokidaSignboard: |
+  Ah, "son and done," right?
+Com_Talk_37: |
+  <3 Type='0' Data='0800'/>Thanks to you, I've run out of stock
+  today. Thank you for buying so much!
+  
+  I may not have anything to sell now...<5 Type='0'/>but
+  want to see what I'll get in next?
+5502: |
+  I'll buy.
+Atacked00: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1200530075007200700072006900730065004c00'/>Please, help!<5 Type='0'/> I don't want to lose my
+  mushrooms! Or my life!
+Com_Talk_20: |
+  <3 Type='0' Data='0700'/>Look at this weather we're having. Not
+  the best.<5 Type='0'/> You know what? Just for fun, I'll
+  offer you things I don't sell normally.
+5503: |
+  Never mind.
+Atacked01: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0600530061006400'/>I'm glad you came! There was no way I
+  could have survived on my own.
+Guardian00: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1200530075007200700072006900730065004d00'/>What IS that?! I wouldn't stand a chance
+  against it on my own!
+ShopGoodBye_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004c0061007500670068005300'/>Whenever you want mushrooms,
+  just give me a shout!
+ShopGreet_00: |
+  <3 Type='0' Data='0700'/>Oh, I know!<5 Type='0'/> You've helped me out so
+  much. I'll share some of the mushrooms
+  I've collected. Just this once!<5 Type='1'/>
+  For a fee, of course.
+Com_Talk_11_b: |
+  <3 Type='0' Data='0800'/>Thanks for the purchase!
+ShopGreet_01: |
+  <3 Type='0' Data='0001'/>Speaking of which, you've helped me
+  out so much, I should offer some of the
+  mushrooms I've collected, right?<5 Type='0'/>
+  Oh.<5 Type='0'/> But not for free, of course.
+Com_Talk_02b: |
+  <3 Type='0' Data='0800'/>Thanks!
+Com_Talk_11_c: |
+  <3 Type='0' Data='0800'/>I'm sure that'll come in handy!

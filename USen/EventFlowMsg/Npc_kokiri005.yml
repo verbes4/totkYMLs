@@ -1,0 +1,16 @@
+Near1001: |
+  ...
+Talk1001: |
+  ...<5 Type='1'/>
+Talk1002: |
+  <3 Type='0' Data='0b00'/>Oh! You found this place, even though
+  you're not a Korok! Wow...
+  
+  <3 Type='0' Data='0701'/>This is the special place that I,
+  Maca, found!
+  
+  Maca likes to come here alone sometimes.
+  Didn't think I'd find someone else here!
+Talk1003: |
+  <3 Type='0' Data='0700'/>This is Maca's special place. It's a secret
+  from the other Koroks.

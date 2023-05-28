@@ -1,0 +1,23 @@
+Talk_21: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Welcome to the Construct Factory.
+0020: |
+  Construct Factory?
+Talk_22: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Yes. Parts delivered here from the depots
+  are assembled into Crafter Constructs.<0 Type='4'/>The finished products produced here are
+  shipped to Dragonhead Island.<0 Type='4'/>My task here is to confirm receipt of the
+  parts shipped from the depots.<0 Type='4'/>I then oversee the task of ensuring they
+  are correctly assembled.<0 Type='4'/><3 Type='0' Data='0a01'/><4 Type='0' Data='0600530061006400'/>Currently all work processes have been
+  suspended. As have my duties.<0 Type='4'/>The issue seems to be that no parts are
+  being sent from the depots.<0 Type='4'/>I am on standby here to take receipt of
+  them in the event that shipping resumes.
+0021: |
+  Goodbye.
+Talk_23: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='08004500610073006500'/>I will continue my work here. I eagerly
+  await your next visit.
+Near_01: |
+  Oh?
+Talk_20: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='1200530075007200700072006900730065004c00'/>Welcome to the Construct Factory.<0 Type='4'/>I cannot remember how long it has been
+  since I welcomed any visitors.

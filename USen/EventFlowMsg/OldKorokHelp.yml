@@ -1,0 +1,143 @@
+Talk21: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>But...<5 Type='1'/>my maracas aren't working anymore.
+  
+  
+  <3 Type='0' Data='0a01'/>The <0 Type='3' Data='0000'/>Korok seeds<0 Type='3' Data='ffff'/> inside are all gone.<5 Type='0'/> How
+  am I supposed to dance now?<5 Type='0'/> <FontSize Value='80'/>Shoko...
+  
+  <FontSize Value='100'/>The children of the forest must have 
+  taken them again.
+  
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0701'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/><0 Type='3' Data='ffff'/>If I had even <0 Type='3' Data='0000'/>one Korok seed<0 Type='3' Data='ffff'/>, <FontSize Value='80'/><FontSize Value='100'/><5 Type='0'/>I could
+  sing and dance and use my <0 Type='3' Data='0000'/>powers<0 Type='3' Data='ffff'/> <5 Type='0'/>to
+  help you.
+Talk32_01: |
+  I'm in the middle of my travels, and I was
+  thinking about heading <0 Type='3' Data='0000'/>east <0 Type='3' Data='ffff'/>next. But I'll
+  be here for a little bit, OK?
+Talk34: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0701'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/><0 Type='3' Data='ffff'/>Shaka! <5 Type='1'/>You're gonna give me the
+  <0 Type='3' Data='0000'/>Korok seed<0 Type='3' Data='ffff'/>?
+  
+  If you give me <0 Type='3' Data='0000'/>Korok seeds<0 Type='3' Data='ffff'/>, <5 Type='0'/>I'll make your
+  <0 Type='3' Data='0000'/>inventory<0 Type='3' Data='ffff'/> bigger!
+Talk35: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0801'/><4 Type='0' Data='1000480061007000700079005f0030003000'/><0 Type='3' Data='ffff'/>SHALAKA! <5 Type='0'/>So which <0 Type='3' Data='0000'/>stash<0 Type='3' Data='ffff'/> do you want
+  more slots in?
+0021: |
+  On second thought...
+Talk06_01: |
+  To show my appreciation, I'll do a
+  little dance for you and make your
+  <0 Type='3' Data='0000'/>pouch bigger<0 Type='3' Data='ffff'/>!
+0011: |
+  Weapon stash!
+Near01: |
+  Shalaka...
+0012: |
+  Bow stash!
+0013: |
+  Shield stash!
+Near03: |
+  Korok seeds...
+Talk05: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0a0053006300610072006500'/>Those trees over there...
+Talk53: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0c01'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/><0 Type='3' Data='ffff'/>Shalakala?
+Talk06: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>You see me? You see me! My name<5 Type='0'/>
+  is Hestu.
+  
+  I'm the musician of <0 Type='3' Data='0000'/>Korok Forest<0 Type='3' Data='ffff'/>, up
+  northeast.<5 Type='0'/> I'm known for my maracas
+  AND my dancing.
+  <3 Type='0' Data='0801'/>♪Thanks for your help!<5 Type='0'/> Sha-shaka!♪
+Talk54: |
+  <3 Type='0' Data='0b01'/>The scary things are gone!
+0003: |
+  Yes, please!
+Talk07: |
+  <3 Type='0' Data='0a01'/>So scary...<5 Type='1'/> Shalaka...
+0004: |
+  No, thanks.
+Talk43: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0600530061006400'/><FontSize Value='80'/>Shoko...<FontSize Value='100'/>
+  
+  
+  <3 Type='0' Data='0000'/>I'm in the middle of my travels, and I was
+  thinking of heading <0 Type='3' Data='0000'/>east <0 Type='3' Data='ffff'/>next.
+  
+  I'll be here for a little while though, <5 Type='0'/>so if
+  you want to expand your <0 Type='3' Data='0000'/>inventory<0 Type='3' Data='ffff'/>, come
+  and talk to me.
+Talk56: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>Hang on...<5 Type='1'/> Something's wrong with
+  my maracas...
+  
+  <3 Type='0' Data='0a01'/>The <0 Type='3' Data='0000'/>Korok seeds<0 Type='3' Data='ffff'/> inside are all gone.<5 Type='0'/> How
+  am I supposed to dance now?<5 Type='0'/> Shoko...
+  
+  <FontSize Value='80'/><FontSize Value='100'/>The children of the forest must have
+  taken them again...<FontSize Value='80'/><FontSize Value='100'/>
+  
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0701'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/><0 Type='3' Data='ffff'/>If I had even <0 Type='3' Data='0000'/>one Korok seed<0 Type='3' Data='ffff'/>, I could
+  sing and dance and make your
+  <0 Type='3' Data='0000'/>inventory<0 Type='3' Data='ffff'/> bigger.
+Talk56_01: |
+  I left the forest to do some traveling, but
+  things have gotten pretty wild lately!
+  
+  That's why I'm stopping at a safe place
+  with lots of people around.
+  
+  <3 Type='0' Data='0800'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>But I'm getting bored just standing here.
+  Do you want to see my dance before
+  you go?
+Talk31: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0701'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Korok seeds<0 Type='3' Data='ffff'/> make a really great sound
+  when you put them in maracas!
+  
+  But the <0 Type='3' Data='0000'/>seeds<0 Type='3' Data='ffff'/> spilled all over the place
+  when I broke my maracas...
+  
+  <3 Type='0' Data='0a01'/>And I think the children of the forest <5 Type='0'/>took
+  the <0 Type='3' Data='0000'/>seeds<0 Type='3' Data='ffff'/> while I was all in a panic.
+Talk57: |
+  <3 Type='0' Data='0801'/>So? So?! <5 Type='0'/>Are you happy with it?
+  
+  
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>If you bring me more <0 Type='3' Data='0000'/>Korok seeds<0 Type='3' Data='ffff'/>, I'll
+  expand your inventory again.
+Talk32: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0701'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/><0 Type='3' Data='ffff'/>*sniff* *sniff* You don't have any
+  <0 Type='3' Data='0000'/>Korok seeds<0 Type='3' Data='ffff'/> either.
+  
+  <4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>The children of the forest took all
+  the seeds—they're playful little
+  mischief-makers.
+  They're probably off playing <0 Type='3' Data='0000'/>hide-and-
+  seek<0 Type='3' Data='ffff'/> or <0 Type='3' Data='0000'/>having fun out traveling<0 Type='3' Data='ffff'/>.
+  
+  <4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>If you find any <0 Type='3' Data='0000'/>Korok seeds<0 Type='3' Data='ffff'/>, bring them
+  to me!
+Talk58: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>I'm in the middle of traveling! <5 Type='0'/>I'm
+  thinking about heading <0 Type='3' Data='0000'/>east<0 Type='3' Data='ffff'/> next.
+  
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>There's so many monsters these days
+  that traveling is dangerous.<5 Type='0'/> What I'd like
+  is to find somewhere I can relax...
+  I like lively places. <5 Type='0'/>Sooo maybe I'll go
+  somewhere lots of people hang out!
+Talk33: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003000'/>*sniff*<5 Type='1'/> Hang on...<5 Type='1'/> *sniff* *sniff*
+  
+  
+  Do you have a <0 Type='3' Data='0000'/>Korok seed<0 Type='3' Data='ffff'/>?!
+  
+  
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0701'/><0 Type='3' Data='ffff'/>You do! <5 Type='1'/>You got a <0 Type='3' Data='0000'/>Korok seed<0 Type='3' Data='ffff'/> from one
+  of the forest children!
+  
+  If you give me a <0 Type='3' Data='0000'/>Korok seed<0 Type='3' Data='ffff'/>, <5 Type='0'/>I'll make
+  your <0 Type='3' Data='0000'/>inventory<0 Type='3' Data='ffff'/><0 Type='3' Data='0100'/> <0 Type='3' Data='ffff'/>bigger!

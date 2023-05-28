@@ -1,0 +1,93 @@
+Talk1002: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Need something?<5 Type='0'/> Better make it quick—
+  I'm supposed to be on my way to the <0 Type='3' Data='0000'/>Ring
+  Ruins <0 Type='3' Data='ffff'/>in <0 Type='3' Data='0000'/>Kakariko Village<0 Type='3' Data='ffff'/>.
+Talk1022: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>I really shouldn't be making conversation.<5 Type='0'/>
+  I'm supposed to be on my way to the
+  <0 Type='3' Data='0000'/>Ring Ruins in Kakariko Village<0 Type='3' Data='ffff'/>.
+  Then again, when the sun goes down,
+  the monsters come out, so...maybe I'll
+  wait till morning.
+0001: |
+  The Ring Ruins?
+Talk1003: |
+  <3 Type='0' Data='0c00'/>You probably know that fallen Zonai ruins
+  have been found all over the world since
+  the Upheaval.
+  Well, the ones at <0 Type='3' Data='0000'/>Kakariko Village<0 Type='3' Data='ffff'/> have
+  been dubbed the "Ring Ruins," owing to
+  their distinctive <0 Type='3' Data='0000'/>circular shapes<0 Type='3' Data='ffff'/>.
+  There's also some stone slabs there with
+  words like "sage" and "Demon King"
+  carved in Zonai script.
+  <3 Type='0' Data='0700'/>The leader of our team—the best in the
+  world at deciphering Zonai script—is
+  heading up the investigation in person.
+  It's all very, very exciting. I just wish the
+  place was a little easier to get to...
+0002: |
+  You look busy.
+NakedPlayer: |
+  Wish I were that brave...
+Talk1004: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>If you want to go to Kakariko Village, just
+  head toward that ring-shaped thing in
+  the distance.
+  That's one of the <0 Type='3' Data='0000'/>Ring Ruins<0 Type='3' Data='ffff'/>.<5 Type='0'/> Lots of folks
+  have been talking about that spot—in our
+  research team as well as the public.
+0003: |
+  Goodbye.
+Talk1014: |
+  <FontSize Value='80'/><3 Type='0' Data='0a01'/><4 Type='0' Data='0c005300610064005f0030003000'/>Then again, with this rain muddying up the road,
+  I might slip and break my neck, so maybe I'd better
+  hold off a little longer.<FontSize Value='100'/>
+StableHostelPicture: |
+  Hey! The Ring Ruins!
+Talk1005: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='0e0043006800610074005f0030003000'/>I should get going too. My fellow
+  researchers will start wondering where
+  I am.
+Talk1015: |
+  <FontSize Value='80'/><3 Type='0' Data='0c01'/><4 Type='0' Data='100041006e006700720079005f0030003100'/>Then again, my metal tools might attract lightning.<5 Type='0'/>
+  I'd better wait until the storm subsides.<FontSize Value='100'/>
+Talk1016: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>You need something else?<5 Type='0'/> Like I said,
+  I should really start heading to the <0 Type='3' Data='0000'/>Ring
+  Ruins <0 Type='3' Data='ffff'/>in <0 Type='3' Data='0000'/>Kakariko Village<0 Type='3' Data='ffff'/>.
+Talk1006: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0c005300610064005f0030003000'/>Kakariko Village is hidden away in a
+  mountain range. Even with a landmark to
+  go by, I worry I'll get lost.
+  Maybe I'll run through the directions a
+  few more times in my head...
+Talk1007: |
+  <FontSize Value='80'/><3 Type='0' Data='0c01'/><4 Type='0' Data='0e0045006100730065005f0030003100'/>Then again, with the sun up, it'll be easy for
+  monsters to see me.<5 Type='0'/> Probably best to wait.<FontSize Value='100'/>
+Talk1018: |
+  <3 Type='0' Data='0101'/>Fair warning—you'll run into some
+  tourists. They've been flocking to the
+  ruins lately.
+Talk1008: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='0e0045006100730065005f0030003000'/>Then again, monsters come out in full
+  force at night, so why risk it?<5 Type='0'/> I'll depart
+  at sunup.
+Talk1019: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>If you <0 Type='3' Data='0000'/>head south <0 Type='3' Data='ffff'/>on the road from this
+  stable, you'll come upon a crossroad that
+  takes you to the mountains.
+  Head all the way down that crossroad and
+  you'll be in <0 Type='3' Data='0000'/>Kakariko Village<0 Type='3' Data='ffff'/>.<0 Type='4'/>It's a bit easier to find after the <0 Type='3' Data='0000'/>Ring
+  Ruins <0 Type='3' Data='ffff'/>fell, since you can use them as
+  a landmark.
+near00: |
+  Guess I'd better head out.
+near01: |
+  I should eat first.
+near02: |
+  I'll go tomorrow.
+Talk1020: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='1a0055006e006400650072007300740061006e0064005f0030003100'/>I'll go... Tomorrow...
+0000: |
+  Kakariko Village?

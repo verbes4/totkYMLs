@@ -1,0 +1,38 @@
+SavedLv1_00: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='08004500610073006500'/>Phew, I'm breathless. I was thinking about
+  mushrooms instead of paying attention...
+Guardian00: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='1000530063006100720065005f0030003100'/>This is the end!<5 Type='1'/> No more mushrooms...<5 Type='1'/>
+  No more Meghyn...
+Thanks00: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='0c004c0061007500670068005300'/>Oh, here! Thank you for your help!
+SavedLv1_01: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0c005300610064005f0030003000'/>Ow... That's what I get for thinking
+  about mushrooms.
+SavedLv2_00: |
+  <3 Type='0' Data='0901'/><4 Type='0' Data='0a0041006e00670072007900'/>I didn't think they'd come after me like
+  that! Ooh, they really steam me up!
+Atacked00: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0a0053006300610072006500'/>Help!<5 Type='1'/> Please! <5 Type='1'/>Someone save me!
+SavedLv2_01: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>Oops... I was thinking too much about
+  mushrooms and not enough about
+  avoiding danger.
+SavedLv3_00: |
+  <5 Type='1'/><3 Type='0' Data='0301'/><4 Type='0' Data='0c005300610064005f0030003000'/>I really thought that was the end for me!
+  All I could think about what seeing
+  Meghyn one last time...
+Atacked01: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003100'/>I'm looking for mushrooms, not trouble!
+EnokidaSignboard: |
+  Isn't that in Tarrey Town?
+SavedLv3_01: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>I've never been in trouble like that before!
+  These muscles were made for mushroom
+  picking, not monster fighting.
+Failed00: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='1c0055006e0063006f006e007300630069006f00750073005f0030003100'/>All I wanted...was a few mushrooms...
+  How did this happen?
+Failed01: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0c005300610064005f0030003000'/>That came...<5 Type='1'/>out of nowhere...<5 Type='1'/> Can't
+  believe it...

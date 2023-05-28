@@ -1,0 +1,23 @@
+Name: |
+  A Letter to Koyin
+Step02: |
+  You retrieved the message bottle containing
+  a letter from Koyin's great-grandfather. After
+  reading it over, Koyin has big plans for the farm.
+  
+  She asked you to come to the <0 Type='3' Data='0000'/>house<0 Type='3' Data='ffff'/> later in
+  order to receive your reward.
+Step01: |
+  Koyin, a farmer in Hateno Village, dropped a
+  <0 Type='3' Data='0000'/>message bottle <0 Type='3' Data='ffff'/>containing a letter from her
+  great-grandfather into a pond.
+  
+  Worse still, she's not a good enough swimmer
+  to dive into the pond after it.
+Complete: |
+  The message in the bottle described a special
+  cheese-making recipe. Koyin has already
+  decided to start marketing it as her farm's
+  signature product. From now on, if you bring
+  her fresh milk, she'll give you <0 Type='3' Data='0000'/>Hateno cheese<0 Type='3' Data='ffff'/>
+  in exchange.

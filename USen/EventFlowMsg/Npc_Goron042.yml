@@ -1,0 +1,34 @@
+Talk_00: |
+  <3 Type='0' Data='0200'/><4 Type='0' Data='16004100720072006f00670061006e0074005f0030003000'/>I'll dig all day every day if <0 Type='3' Data='0000'/>marbled rock
+  roast<0 Type='3' Data='ffff'/>'s the reward.
+  
+  But no matter how much I dig, I keep
+  finding stuff I don't understand. And
+  none of it tastes good.
+  Time to cleanse the ol' palate with more
+  <0 Type='3' Data='0000'/>marbled rock roast<0 Type='3' Data='ffff'/>!
+Talk_03: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0700'/><0 Type='3' Data='ffff'/>If those things that showed up around
+  here really are vehicles...
+  
+  then maybe they were used by our most
+  noble ancestors!
+  
+  <0 Type='3' Data='0200'/><FontSize Value='80'/>Still, if something was gonna turn up, I'd rather it
+  were ore instead...<FontSize Value='100'/><0 Type='3' Data='ffff'/>
+Near: |
+  Yah!
+Talk_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003100'/>Hey, friend. You don't look like you're
+  part of YunoboCo.<5 Type='1'/>
+  
+  Oh, <5 Type='0'/>are you with the Zonai Survey Team?
+  You here to check out the weird vehicle
+  things around here?
+Talk_02: |
+  <3 Type='0' Data='0200'/><4 Type='0' Data='16004100720072006f00670061006e0074005f0030003000'/>No matter how much I dig, I keep finding
+  stuff I don't understand. And none of
+  it tastes good.
+  So I'm cleanin' my palate with this
+  <0 Type='3' Data='0000'/>marbled rock roast<0 Type='3' Data='ffff'/>. It's the only thing
+  worth eatin' these days.

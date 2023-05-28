@@ -1,0 +1,14 @@
+Name: |
+  Today's Menu
+Step1: |
+  Burmano, the cook in the Lookout Landing
+  Emergency Shelter, wants to energize folks and
+  cheer them up with his fruit and mushroom mix.
+  
+  But he's missing an <0 Type='3' Data='0000'/>apple<0 Type='3' Data='ffff'/>, a key ingredient.
+Complete: |
+  Burmano the cook whipped up his special fruit
+  and mushroom mix and gave some to you as a
+  reward for providing the needed apple.
+  Apparently, this dish can be made with an
+  apple, a mushroom, and a pot.

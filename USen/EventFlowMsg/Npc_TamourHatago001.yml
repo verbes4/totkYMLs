@@ -1,0 +1,114 @@
+Talk21: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0e0045006100730065005f0030003000'/>Ah...<5 Type='0'/> This is the perfect music to relax to
+  after a long day of work.
+  
+  Good thing the Stable Trotters are back!
+Talk22: |
+  <3 Type='0' Data='0701'/>Evening!
+Talk10: |
+  <3 Type='0' Data='0800'/>Thanks for sending those monsters
+  packing. <5 Type='0'/>Now I'm right where I wanna
+  be, back at my horses' side!
+Talk23: |
+  <3 Type='0' Data='0a00'/>With the pirates gone, I've got a lot of
+  work to catch up on.
+  
+  I wonder when I'll be able to take the
+  horses for a walk...
+Talk11: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>The horses have been so patient!
+  They waited this whole time for me
+  to come back.
+  After I'm done here, I'll treat them to a
+  leisurely trot to <0 Type='3' Data='0000'/>South Akkala Stable<0 Type='3' Data='ffff'/>.
+Talk24: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='08004300680061007400'/>My thoughts tend to dwell on the god of
+  horses, not some rumored beast.
+  
+  But from what I've heard, the rumor is
+  traveling among the stables. I'll admit I
+  know nothing at all about this beast.
+  There's a picture of it hung up at
+  <0 Type='3' Data='0000'/>South Akkala Stable<0 Type='3' Data='ffff'/>, however, if
+  you want to see what it looks like.
+Talk25: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Hm?<5 Type='0'/> Got something else to ask?
+  
+  
+  If it's the <0 Type='3' Data='0000'/>rumored beast <0 Type='3' Data='ffff'/>you want to
+  know about, you'd be better off going
+  to <0 Type='3' Data='0000'/>South Akkala Stable<0 Type='3' Data='ffff'/>.
+WakkaCharm: |
+  Love the flowers!
+LargeHorse: |
+  It's shaking the ground!
+Talk00: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='10004700720065006500740069006e006700'/>G'morning!
+Talk26: |
+  <3 Type='0' Data='0701'/>...Assuming the rain has stopped, that is.
+Talk13: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0c004e006f007400690063006500'/>Never heard of <0 Type='3' Data='0000'/>South Akkala Stable<0 Type='3' Data='ffff'/>?<5 Type='0'/>
+  That's all right. I'll tell you about it.
+Talk01: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hello!
+Talk27: |
+  <3 Type='0' Data='0c00'/>Then again, I wouldn't want 'em to get
+  scared by that picture of the <0 Type='3' Data='0000'/>rumored
+  beast <0 Type='3' Data='ffff'/>hanging there.
+  Maybe it'd be better to go elsewhere...
+Talk14: |
+  <3 Type='0' Data='0c01'/>Supposedly<5 Type='0'/> they used to have a <0 Type='3' Data='0000'/>Cucco
+  there who gave prophecies<0 Type='3' Data='ffff'/>.
+  
+  Turns out it was just a Yiga Clan member
+  in disguise! That caused quite the stir.
+Talk02: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Evening!
+Talk15: |
+  <3 Type='0' Data='0c01'/>Supposedly <5 Type='0'/>there's a <0 Type='3' Data='0000'/>Cucco there who
+  gives prophecies<0 Type='3' Data='ffff'/>.<0 Type='3' Data='0000'/><0 Type='3' Data='ffff'/>
+  
+  I know, hard to believe. But what it says
+  usually turns out to be true.
+Talk28: |
+  <3 Type='0' Data='0701'/>Evening!<5 Type='0'/> Shame about the rain, huh?
+Talk16: |
+  <3 Type='0' Data='0700'/>There are a lot of sheep there too, which
+  I found pretty shocking... <5 Type='0'/>What kind of
+  stable has sheep?
+  They also have a <0 Type='3' Data='0000'/>picture of that rumored
+  beast <0 Type='3' Data='ffff'/>on the wall. It's an odd stable.
+Talk29: |
+  <3 Type='0' Data='0701'/>You planning to check out that <0 Type='3' Data='0000'/>picture
+  of the rumored beast <0 Type='3' Data='ffff'/>over there at
+  <0 Type='3' Data='0000'/>South Akkala Stable<0 Type='3' Data='ffff'/>?
+BoneHorse: |
+  Is that thing a horse?
+Talk17: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0c004e006f007400690063006500'/>You forgot what I told you about it, huh?
+  That's OK.<5 Type='0'/> I don't mind repeating myself.
+Near02: |
+  My horses need a walk.
+Talk18: |
+  <3 Type='0' Data='0700'/><0 Type='3' Data='0000'/>South Akkala Stable <0 Type='3' Data='ffff'/>is southwest of here,
+  across the Akkala Highlands.
+Near03: |
+  It's coming down now!
+0002: |
+  South Akkala Stable?
+Talk19: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004e006f007400690063006500'/>Oh! <5 Type='1'/>The rumors about a <0 Type='3' Data='0000'/>strange beast<0 Type='3' Data='ffff'/>
+  are really making the rounds. Everyone's
+  talking about this creature.
+0003: |
+  Rumored beast?
+0004: |
+  Goodbye.
+GoldHorse: |
+  That's Princess Zelda's...
+Talk31: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0a005400680069006e006b00'/>I wonder when I'll have time to take my
+  horses for a stroll...
+Talk20: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0e0045006100730065005f0030003000'/>Phew, I'm beat!<5 Type='1'/> A hard day's work'll do
+  that to you.

@@ -1,0 +1,41 @@
+GetTwoTreasure: |
+  The message from the bandit Misko said,
+  "Don the form of the Fierce Deity, and return to
+  this place. There are three keys you will need.
+  One beneath the bedchamber of Akkala's
+  red-crowned citadel, one in the skull's left eye,
+  one in an old stump in Hyrule Field."
+  
+  You found one piece of the Fierce Deity Armor.
+GetSword: |
+  You obtained all three pieces of the Fierce Deity
+  Armor, which Misko described as the "keys."
+  
+  Misko's message in Cephla Lake Cave told you
+  to "<0 Type='3' Data='0000'/>don the form of the Fierce Deity, and return
+  to this place<0 Type='3' Data='ffff'/>."
+Name: |
+  Misko's Treasure: The Fierce Deity
+Complete: |
+  When you donned all of the pieces of the
+  Fierce Deity Armor at Cephla Lake Cave, a door
+  to a hidden room opened. In it, you obtained
+  the Fierce Deity Sword.
+GetOneTreaure: |
+  The message from the bandit Misko said,
+  "Don the form of the Fierce Deity, and return to
+  this place. There are three keys you will need.
+  One beneath the bedchamber of Akkala's
+  red-crowned citadel, one in the skull's left eye,
+  one in an old stump in Hyrule Field."
+  
+  Solve the riddle to find the treasure.
+GetThreeTreasure: |
+  The message from the bandit Misko said,
+  "Don the form of the Fierce Deity, and return to
+  this place. There are three keys you will need.
+  One beneath the bedchamber of Akkala's
+  red-crowned citadel, one in the skull's left eye,
+  one in an old stump in Hyrule Field."
+  
+  You found two pieces of the Fierce Deity Armor.

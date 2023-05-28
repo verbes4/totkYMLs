@@ -1,0 +1,107 @@
+Talk_0007: |
+  <3 Type='0' Data='0101'/>I must continue to refine my technique.
+Talk_1001: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>Racing on the surface of the ocean...<5 Type='0'/>
+  I have never experienced anything like it.
+  
+  I am filled with new ideas for
+  building vehicles.
+TerrorHorse: |
+  Watch out!
+Talk_1002: |
+  <3 Type='0' Data='0701'/>...<4 Type='0' Data='200043007500730074006f006d005300610076006f007400740061005f0030003000'/>Sav'otta.
+TerrorLightning: |
+  Gah!
+Talk_1003: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1e0043007500730074006f006d005300610076006100610071005f0030003000'/>Sav'aaq...
+Talk_1004: |
+  <3 Type='0' Data='0701'/>...<4 Type='0' Data='220043007500730074006f006d00530061007600730061006100620061005f0030003000'/>Sav'saaba.
+Talk_1005: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='0e00540072006f00750062006c006500'/>Whether it's sand, dirt, or water...you
+  must understand your race environment
+  if you're to build the perfect vehicle...
+  <3 Type='0' Data='0700'/>Ah, I never thought I would feel this
+  inspired by a project again. And yet,
+  my heart is filled with excitement.
+  It's all because of you. You taught me
+  how to use a steering stick. You set me
+  on this new path. <5 Type='0'/>Sarqso.
+TerrorArrow: |
+  Gah!
+Talk_1006: |
+  <3 Type='0' Data='0c00'/>It seems I'll have to be content with
+  racing in my mind until the rain lets up...
+  
+  No... There must be something I can use
+  to race, even when it's raining like this.
+TerrorFire: |
+  Ugh!
+Talk_1007: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='1400540072006f00750062006c0065005f0030003100'/>Perhaps I'll build my next vehicle to
+  emphasize speed...
+  
+  Hmm...if I do, I'll need to consider the
+  impact on steering and control.
+  
+  Yes, I'll need to focus on efficiency and
+  adjust the width of the hull...
+Near_1001: |
+  So this is the ocean...
+TerrorInsect: |
+  Ugh!
+Talk_0012: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>Should I reevaluate how I train my body?
+  Or do I need to reconsider how I plan my
+  run on a course...
+0001: |
+  I want to talk to you...
+TerrorImpulse: |
+  Ugh!
+0002: |
+  Goodbye.
+Talk_0013: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='0e00540072006f00750062006c006500'/>I must change the way I think. I must
+  be more creative in my approach.
+Talk_0014: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='10004700720065006500740069006e006700'/>If I study the course from high above,
+  perhaps I can determine what the
+  fastest route will be.
+0003: |
+  There's a water rally...
+TerrorBomb: |
+  Whoa!
+TerrorExplosion: |
+  Ugh!
+Talk_0015: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>Maybe I need to work on my cornering?
+  Where I pick up speed? <5 Type='0'/>Hmph. No, I just
+  need to plan my run better.
+TerrorGeneric: |
+  Ugh!
+Talk_0016: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>That was impressive. You're very skilled.<0 Type='4'/>I'm certain there's much I can learn
+  from studying your technique.
+  
+  Even I found planning for the expert
+  course to be a challenge. I'm eager to
+  see how you handle it.
+TerrorIce: |
+  Gah!
+Talk_0017: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='10004700720065006500740069006e006700'/>If you can view the course from high
+  above, maybe you'll see what route will
+  give you the fastest time.
+TerrorSword: |
+  Watch out!
+Talk_0018: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>That was impressive. You're very skilled.<0 Type='4'/>The expert course was difficult, even for
+  me. I did not expect you to complete it
+  and beat my time so easily.
+  <3 Type='0' Data='0501'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>There's a lot I can learn from studying
+  your technique.
+  
+  And as long as you're here, surely the
+  research can continue without issue.
+  Shabonne and I should be free to leave.
+TerrorFlash: |
+  Gah!

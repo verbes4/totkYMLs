@@ -1,0 +1,26 @@
+Talk_01: |
+  <3 Type='0' Data='0700'/>You'll want to head to <0 Type='3' Data='0000'/>YunoboCo HQ <0 Type='3' Data='ffff'/>over
+  there, and they'll give you an interview.
+Near: |
+  YunoboCo is back!
+Talk_02: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>I gotta tell you though, buddy, you might
+  wanna bag the whole thing.
+  
+  Everything was dandy until the Upheaval,
+  but now, <0 Type='3' Data='0000'/>YunoboCo<0 Type='3' Data='ffff'/>...<5 Type='1'/> Well, it's <0 Type='3' Data='0000'/>President
+  Yunobo <0 Type='3' Data='ffff'/>himself, really.
+  <4 Type='0' Data='0600530061006400'/>He's gone and made a real mess of things
+  with the <0 Type='3' Data='0000'/>marbled rock roast<0 Type='3' Data='ffff'/>.
+Talk_03: |
+  <3 Type='0' Data='0700'/>If you want to work with YunoboCo...
+Talk_04: |
+  <3 Type='0' Data='0700'/>I was pretty surprised when all the
+  marbled rock roast just up and
+  disappeared.
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068004c00'/>But now the Gorons are back to
+  themselves, and YunoboCo is up
+  and running again too!
+Talk_00: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>Hey. You here to work with YunoboCo
+  too?<5 Type='1'/> If you are...

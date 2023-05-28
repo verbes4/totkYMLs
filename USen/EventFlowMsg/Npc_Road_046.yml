@@ -1,0 +1,333 @@
+Near_StartPoint_01: |
+  Strike it rich—fast!
+Com_Talk_11_d: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>We have a deal. Thanks!
+Atacked01: |
+  <3 Type='0' Data='0900'/>I'm in trouble! Got attacked suddenly!
+0001: |
+  I'm buying.
+0002: |
+  I'm selling.
+SavedLv3_00: |
+  <3 Type='0' Data='0a00'/>That was real hairy...<5 Type='1'/> Honestly, I thought
+  I was done for there.
+  
+  I baaarely came out of that alive. Thanks
+  a lot, friend.
+StartPoint_01: |
+  <3 Type='0' Data='0700'/>Hey, friend! Explored any caves lately?
+  
+  
+  That's where almost all ore is these days.
+  And given caves are everywhere, that
+  means they're an easy way to find ore.
+  But finding isn't keeping. You'll bump into
+  monsters you won't see up here. It's a
+  whole different world in those caves.
+  <3 Type='0' Data='0101'/>Still, hard to resist trying to strike it
+  rich down there!
+0003: |
+  Never mind.
+SavedLv3_01: |
+  <3 Type='0' Data='0a00'/>Attacked that brutally... It would have
+  been dicey if you hadn't showed up.
+SavedLv2_00: |
+  <3 Type='0' Data='0a00'/>Oh man. That was close...<5 Type='1'/> Guess I can
+  always rely on you, friend!
+Com_Talk_30: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0000'/><0 Type='3' Data='ffff'/>You want to buy some, eh? How many do
+  you want?
+SavedLv2_01: |
+  <3 Type='0' Data='0a00'/>Strong monsters get me in a panic! You've
+  got some brawn on you, friend!
+Com_Talk_31: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0000'/><0 Type='3' Data='ffff'/>I see. Then for <2 Type='2' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/> of those, that will
+  be <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>, OK?
+SavedLv1_00: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>Not bad, friend!
+Com_Talk_05b: |
+  <3 Type='0' Data='0801'/>Sell me anything! Anything at all!
+Com_Talk_32: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0000'/><0 Type='3' Data='ffff'/>So, you want just one? That'll be
+  <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>, OK?
+SavedLv1_01: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>Look at you, friend! I let my guard down
+  and you rush in to save me.
+Com_Talk_05c: |
+  <3 Type='0' Data='0701'/>Anything you want to sell me? Keep
+  it coming!
+Com_Talk_33: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0000'/><0 Type='3' Data='ffff'/>So, you want to sell just one? That'll be
+  <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>, OK?
+ShopGreet_00: |
+  <3 Type='0' Data='0700'/>Well, enough of that. Want to see what
+  I'm selling? Fairly proud of what I've
+  got in stock.
+Com_Talk_05d: |
+  <3 Type='0' Data='0801'/>Sell me anything! Anything you want!
+Com_Talk_34: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0b01'/><0 Type='3' Data='ffff'/>You want them all?!<5 Type='0'/><0 Type='4'/>Then <2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/> of those will run you
+  <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>, OK?
+ShopGreet_01: |
+  <3 Type='0' Data='0700'/>That aside, how about some trading? I'm 
+  pretty happy with what I've got in stock.
+Com_Talk_35: |
+  So <0 Type='3' Data='0000'/><3 Type='0' Data='0b01'/><0 Type='3' Data='ffff'/><2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/>, huh? That's all of them.
+  <5 Type='1'/>I'll pay <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>. But are you 
+  really sure?
+Com_Talk_36: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068004c00'/>I'm sold out of everything, thanks to you!<5 Type='0'/>
+  I've got to stock up again!
+Com_Talk_37: |
+  <3 Type='0' Data='0800'/>I'm sold out of everything I've got! Thanks
+  for being such a great customer.
+  
+  <3 Type='0' Data='0101'/>I'll stock up again. But you can always
+  check what I've got so you remember
+  what I sell.
+Greeting: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Welcome!<5 Type='1'/> Glad to greet a customer
+  anytime and anywhere!
+RainPoint_01_2: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Destruction from the Upheaval made it
+  harder for people to travel to shops.
+  
+  That's why people in my line of work—<5 Type='0'/>the
+  folks who bring your goods to YOU—<5 Type='0'/>are
+  so important right now.
+  We're basically the glue holding this
+  cracked-up world together...<5 Type='0'/>and glue
+  doesn't go home when it's raining!
+GoRange_02_2: |
+  <3 Type='0' Data='0700'/>You don't typically see stamella shrooms
+  around here, but you can find them in
+  other regions.
+  You can cook some great dishes with
+  them, meals that'll get you going again
+  when you get tired during your travels.
+Guardian00: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1000530063006100720065005f0030003000'/>No way. What is THAT? What can I even
+  do?!
+5500: |
+  Yes.
+GoRange_01: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0a005400680069006e006b00'/>Hey there, friend. You mind if I get
+  something off my chest? Oh, yeah.
+  I had a bad time of it.
+  I went into a cave and saw a monster
+  that's going to haunt my dreams.
+  
+  The thing...<5 Type='1'/>stretched.
+  
+  
+  And then contracted. Over and over—
+  stretched, then contracted.
+  
+  I think it can eat anything. Yeeesh.
+  Right down the gullet.
+  
+  <3 Type='0' Data='0a01'/>One of them gulped down my stock.
+  Cried myself dizzy. I bet their stomachs
+  are crammed full of stuff.
+  <4 Type='0' Data='0e0045006100730065005f0030003000'/>Really...<5 Type='1'/>dang it.
+BackRange_02_2: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Some ingredients can stop you from
+  tiring out as quickly.
+  
+  That's why I like cooking with
+  endura carrots!
+  
+  They're harder to come by these days,
+  but I hear some can be found in the
+  mountains here.
+  I know—steep. But those tasty carrots are
+  worth the climb!
+5501: |
+  No.
+GoRange_01_2: |
+  <3 Type='0' Data='0900'/><4 Type='0' Data='0600530061006400'/>Stretching, contracting. Over and over.
+  Ugh. Those darn monsters.
+  
+  Next time I see one, I'm going to drag it
+  right out of its cave—hard!
+  
+  Those things have got to be full of stuff
+  they've swallowed. Doesn't matter what
+  it is. Sure, yeah. Gulp it down. Gross.
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0e0045006100730065005f0030003000'/>Whew...<5 Type='1'/>I feel better after getting all
+  that off my chest. Thanks, friend.
+GoRange_02: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Hey, friend. Tired from all your traveling
+  around yet?
+  
+  Cook dishes with stamella shrooms
+  whenever you're tired of being tired.
+  They'll help you recover stamina.
+  Stamella shrooms don't really grow near
+  here. So keep an eye out for them while
+  traveling elsewhere.
+Near_BackRange_01: |
+  I'd love to see that...
+Com_Talk_00: |
+  <3 Type='0' Data='0700'/>Anything you want to sell?
+5502: |
+  Buy.
+BackRange_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Hey there, friend. I've been thinking
+  about a beautiful rumor...
+  
+  It's said that there's a cherry-blossom
+  tree in the mountains around here that
+  blossoms all year round.
+  And also...<5 Type='1'/>that a strange, wondrous
+  creature called Satori sometimes hides
+  away there.
+  <3 Type='0' Data='0801'/>I'd love to see such a wonder once in
+  my life.
+Near_Thunder: |
+  So much for business...
+Near_BackRange_02: |
+  Stamina, stamina...
+Com_Talk_01: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0701'/><0 Type='3' Data='ffff'/>How about <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/> for that?
+5503: |
+  Never mind.
+BackRange_02: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Hey, friend. Been feeling too tired, too
+  quickly lately?
+  
+  Then you should cook dishes that have
+  endura carrots in them. Those will boost
+  the upper limit of your stamina.
+  Oh, yeah. Those are tasty dishes for
+  those of us who need to work for a
+  longer time before we tire out.
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Endura carrots are said to grow in the
+  mountains around here. I mean, just
+  so you know.
+  Although, it's fairly hard work to get up
+  a mountain, isn't it?
+ShopTalk_01: |
+  <3 Type='0' Data='0700'/>Anything else?
+Com_Talk_02: |
+  <3 Type='0' Data='0800'/>Thanks! Want to sell anything else?
+Com_Talk_02b: |
+  <3 Type='0' Data='0800'/>Thanks a lot!
+RainPoint_01: |
+  <3 Type='0' Data='0700'/>Traveling merchants like me, the ones
+  pulling wagons? When it's raining, we
+  don't get to take the day off.
+  You know why? Because people need us!
+  They need us to bring them elixirs,
+  ingredients...other stuff!
+  Especially now that the Upheaval's made
+  it harder to walk to shops.
+  
+  <3 Type='0' Data='0801'/>We're basically the glue holding this
+  cracked-up world together!
+Near_GoalPoint_01: |
+  Cutting grass is the key...
+Com_Talk_02c: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>Thanks! That was a great deal!
+BackRange_01_2: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>I'm curious what that creature known as
+  Satori is truly like?
+  
+  It's said to be hiding atop one of the
+  peaks here, where a cherry-blossom tree
+  stays in full blossom all year round.
+Com_Talk_02d: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='12004c0061007500670068004c005f0030003000'/>No complaints about that deal. Thanks!
+Com_Talk_04: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>OK by me. I've been doing just fine.
+EnokidaSignboard: |
+  They build houses, right?
+Com_Talk_05: |
+  <3 Type='0' Data='0801'/>I'll buy anything!
+5507: |
+  I'll buy them all.
+Thanks00: |
+  <3 Type='0' Data='0800'/>Here's a reward for rescuing me. Thank
+  you, truly!
+Com_Talk_06: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Anything else you want?
+5508: |
+  I'll sell them all.
+Com_Talk_07: |
+  <3 Type='0' Data='0a00'/>Oops, sorry. Out of that.
+ShopGoodBye_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a0048006100700070007900'/>Thanks! Call on me whenever you like.
+StartPoint_01_2: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>I'm going to strike it rich in caves
+  someday by grabbing all the ore I can.
+  You should do it too, friend. If you can.
+  Got to admit, though, I'm scared of
+  what's lurking in caves. You won't see
+  any of THOSE monsters up here.
+Com_Talk_08: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0c004e006f007400690063006500'/>Oops, not enough rupees. Sorry there.
+  We'll have to do that another time.
+Com_Talk_09: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='0c004e006f007400690063006500'/>Looks like your pouch is full. Come back
+  once you've made room.
+Com_Talk_10: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0701'/><0 Type='3' Data='ffff'/>You want to buy this?
+Com_Talk_11: |
+  <3 Type='0' Data='0800'/>Thanks!
+Com_Talk_12: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>I like what I've got in stock. Have a look.
+  Take all the time you need.
+Com_Talk_13: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0701'/><0 Type='3' Data='ffff'/>So, how many will you sell?
+Com_Talk_14: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0000'/><0 Type='3' Data='ffff'/>You'll sell me <2 Type='2' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/>? And can I buy them
+  for <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>?
+Near_Rain: |
+  My goods will get wet...
+Com_Talk_15: |
+  <3 Type='0' Data='0500'/><4 Type='0' Data='0a005400680069006e006b00'/>Oops, sorry. Can't buy those.
+Com_Talk_16: |
+  <3 Type='0' Data='0a00'/>You're, uh, wearing that right now, friend.
+  Sell it to me after you take it off.
+GoalPoint_01_2: |
+  <3 Type='0' Data='0700'/>I can't even tell you how many times
+  an energizing elixir has saved me when
+  I've needed...<5 Type='0'/>to go...<5 Type='0'/>a little farther!
+  You'll need restless crickets. Easy
+  enough to find. Cut some grass, and
+  grab them when they hop out.
+  <3 Type='0' Data='0100'/>Oh, yes. I can vouch for those elixirs!<5 Type='1'/>
+  I just can't get ahold of the monster
+  parts you'll need as easily.
+Near_GoRange_01: |
+  Stretch...contract... Ick.
+Near_GoRange_02: |
+  When exhausted...
+Com_Talk_20: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>Look for as long as you like. Don't let
+  the weather stand in the way.
+Com_Talk_11_b: |
+  <3 Type='0' Data='0800'/>Thanks much!
+Talk_0130: |
+  <3 Type='0' Data='0700'/>I'll trade in the worst weather, so just
+  call on me whenever!
+GoalPoint_01: |
+  <3 Type='0' Data='0001'/>Hey, friend! Working hard?
+  
+  
+  <3 Type='0' Data='0700'/>If you're ever low on fuel, make yourself
+  some energizing elixir.
+  
+  First, you'll need restless crickets. Cut
+  some grass, and watch those li'l guys
+  jump out. Catch them quick.
+  <3 Type='0' Data='0800'/>Then mix those with monster parts to
+  whip up an energizing elixir!
+  
+  That elixir really helps in a pinch. Can't
+  recommend it enough.
+Com_Talk_11_c: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>I stand by these items with pride. Glad
+  you bought something you like.
+Atacked00: |
+  <3 Type='0' Data='0900'/>This threat is just stupidly strong!

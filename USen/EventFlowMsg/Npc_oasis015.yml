@@ -1,0 +1,194 @@
+talk1420: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>That headband is the last one I have, you
+  know! If you buy it...
+  
+  <FontSize Value='80'/>I'll tell you a super-special secret that even most
+  Gerudo don't know!<FontSize Value='100'/>
+talk1421: |
+  <3 Type='0' Data='0800'/>A <0 Type='3' Data='0000'/>desert voe headband<0 Type='3' Data='ffff'/> really is a must!
+  Not only is it stylish but wearing it takes
+  some of the bite out of the desert heat!
+Com_Talk_13: |
+  <3 Type='0' Data='0801'/>How many?
+talk1422: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='180043007500730074006f006d00560061007300610061007100'/>Vasaaq!
+Com_Talk_14: |
+  <3 Type='0' Data='0801'/>OK, so <2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/> of them? I can do...<0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/>
+  rupees<0 Type='3' Data='ffff'/>! How's that sound?
+5500: |
+  Sure!
+talk1423: |
+  <3 Type='0' Data='0700'/>You didn't mess up your clothes, did you?
+Com_Talk_15: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0a005400680069006e006b00'/>Oh, um... We don't really deal with stuff
+  like that here...
+5501: |
+  No.
+talk1424: |
+  <3 Type='0' Data='0800'/>Now you don't have to worry about that
+  sand shroud messing up your clothes!
+Com_Talk_16: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0a005400680069006e006b00'/>Um... You want to sell me something you
+  are currently wearing? Maybe you should
+  change first.
+talk1425: |
+  <3 Type='0' Data='0801'/>We're all sold out right now, but we'll
+  probably restock soon.
+  
+  Come back and visit us again, OK? There
+  is no such thing as too many <0 Type='3' Data='0000'/>different
+  color<0 Type='3' Data='ffff'/> varieties!
+5503: |
+  Never mind.
+talk1426: |
+  <3 Type='0' Data='0800'/>Saaaaaarq!<FontSize Value='80'/><0 Type='4'/>The Secret Club doesn't just have the desert voe
+  series—they've got other rare items too. You should
+  definitely swing by.<FontSize Value='100'/>
+1400: |
+  A different color?
+1401: |
+  Buy from me.
+near1401: |
+  <4 Type='0' Data='10004700720065006500740069006e006700'/>This is the last one!
+1402: |
+  Maybe later...
+Com_Talk_50: |
+  <3 Type='0' Data='0800'/>That can be all yours for the low price
+  of <0 Type='3' Data='0000'/><2 Type='16' Data='2800530068006f0070005f00530065006c006500630074004900740065006d0050007200690063006500ffff0001'/> rupees<0 Type='3' Data='ffff'/>!
+near1402: |
+  <4 Type='0' Data='10004700720065006500740069006e006700'/>If the heat bothers you...
+5508: |
+  All of them.
+Com_Talk_53: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>I completely understand. It's part of the
+  fun of shopping to go back and forth
+  on a purchase.
+Com_Talk_55: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='1200530075007200700072006900730065005300'/>Huh. Your pouch is full! If you'd like,
+  I'll buy some things from you!
+talk1406: |
+  <3 Type='0' Data='0800'/>I sell one of the latest fashion crazes
+  straight from Gerudo Town!
+  
+  If you're after the <0 Type='3' Data='0000'/>desert voe headband<0 Type='3' Data='ffff'/>,
+  you've come to the right place. It used to
+  be hard for voe to get their hands on it!
+Com_Talk_02b: |
+  <3 Type='0' Data='0800'/>Saaarq!
+talk1407: |
+  <3 Type='0' Data='0800'/>Not only is what I sell a fashionable
+  choice, it's also great at staving off the
+  desert heat!
+Com_Talk_02c: |
+  <3 Type='0' Data='0800'/>I truly appreciate your business.
+Com_Talk_05b: |
+  <3 Type='0' Data='0801'/>Please feel free to show me anything
+  you'd like to sell.
+talk1408: |
+  <3 Type='0' Data='0801'/>The sand shroud has completely cleared
+  up!<5 Type='0'/> Seems like as good a time as any to
+  add to your wardrobe, don't you think?
+Com_Talk_00: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Take as much time as you need.
+Com_Talk_02d: |
+  <3 Type='0' Data='0800'/>I've never seen such beautiful items.
+  Saaarq!
+Com_Talk_05c: |
+  <3 Type='0' Data='0801'/>I'm happy to buy as many as you like.
+talk1409: |
+  <3 Type='0' Data='0801'/>And even if you've already got one, why
+  settle for just that one when you could
+  get another in a <0 Type='3' Data='0000'/>different color<0 Type='3' Data='ffff'/>!
+Com_Talk_01: |
+  <3 Type='0' Data='0801'/>I can do <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>. Is that all right?
+Com_Talk_05d: |
+  <3 Type='0' Data='0801'/>Is there anything else you want to sell?
+Talk_03: |
+  <3 Type='0' Data='0800'/>Saaarq!
+  
+  
+  Since you were kind enough to buy the
+  last one, I'll keep my promise and tell you
+  that secret!
+  <FontSize Value='80'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>The headband you just bought is only one part of
+  the desert voe series. There's also a spaulder
+  and trousers...
+  But you have to go to a special place to get them.
+  Have you heard of the store Fashion Passion in
+  Gerudo Town?
+  Well, the secret shop is located behind that store!<FontSize Value='100'/>
+Com_Talk_02: |
+  <3 Type='0' Data='0800'/>Sarq!<5 Type='0'/> Did you need anything else?
+Talk_04: |
+  <FontSize Value='80'/><3 Type='0' Data='0b00'/><FontSize Value='100'/>Oh... Now that I think about it...voe aren't
+  allowed in <0 Type='3' Data='0000'/>Gerudo Town<0 Type='3' Data='ffff'/>.
+  
+  <3 Type='0' Data='0801'/>Forget I said anything!<FontSize Value='80'/><FontSize Value='100'/>
+talk1411: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Using dye to change the color of clothes
+  is a big thing with young vai traveling
+  around Hyrule.
+  If you're interested, there's a store in
+  <0 Type='3' Data='0000'/>Hateno Village<0 Type='3' Data='ffff'/> in the eastern edge of
+  Hyrule—the <0 Type='3' Data='0000'/>Kochi Dye Shop<0 Type='3' Data='ffff'/>.
+  Hateno Village used to be a quiet,
+  peaceful little town, you know...
+  
+  But now it's a tourist hotspot. Some
+  folks consider it the center for all
+  things fashionable!
+Talk_05: |
+  <FontSize Value='80'/><3 Type='0' Data='0b00'/><FontSize Value='100'/>Hey, wait a second. You're wearing 
+  desert voe...<5 Type='1'/>
+  
+  <3 Type='0' Data='0a00'/>Aww, you already knew about the secret
+  club! And here I thought I was giving you
+  a great tip...<FontSize Value='80'/><FontSize Value='100'/>
+talk1412: |
+  <3 Type='0' Data='0800'/>Gladly!
+Com_Talk_04: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Oh, of course! No problem at all.
+Com_Talk_33: |
+  <3 Type='0' Data='0801'/>Just one? Got it! That's worth...<5 Type='0'/>
+  <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>, OK?
+Talk_06: |
+  <3 Type='0' Data='0800'/>Saaarq! I mean it!
+  
+  
+  You can never have enough headbands.
+  You need one for going out, another for
+  staying in... Oh, and one in every color!
+talk1413: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Anything else you need?
+Com_Talk_05: |
+  <3 Type='0' Data='0801'/>Would you like to sell me something else?
+Talk_07: |
+  <3 Type='0' Data='0a00'/>Oh. Um, I'm sorry to tell you this...
+  
+  
+  The shop is closed for the day. Why don't
+  you go on home now, Yiga Clan?
+Com_Talk_35: |
+  <3 Type='0' Data='0801'/>I'll buy all <2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/> of those for a total of...
+  <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>! Sound like a deal?
+talk1417: |
+  <3 Type='0' Data='0a00'/>That was a close one earlier...<5 Type='0'/> You didn't
+  mess up your clothes, did you?
+  
+  <3 Type='0' Data='0801'/>Hey, changing up your look is a good way
+  to refresh your mood! Think about it!
+AssassinClothes: |
+  Please, stay back.
+talk1418: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='180043007500730074006f006d00560061007300610061007100'/>Vasaaq!<5 Type='0'/> Ah, that caught your eye, huh?
+  I knew it!
+  
+  It's a must-have for any fashionable voe
+  that is trying to live that hot-desert life!
+talk1419: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='180043007500730074006f006d00560061007300610061007100'/>Vasaaq!<5 Type='0'/> Ah, that caught your eye, huh?
+  I knew it!
+  
+  The sand shroud may be gone, but
+  the heat isn't going anywhere. Such is
+  desert life!

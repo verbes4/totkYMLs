@@ -1,0 +1,234 @@
+FriendGreet_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003100'/>Oh! What is it?<5 Type='0'/> Don't tell me you and I
+  are in the same line of work.
+  
+  You're looking for treasure, aren't you?
+  
+  
+  Me too. The outfit's just so I could
+  infiltrate the Zonai Survey Team without
+  attracting suspicion.
+  <3 Type='0' Data='0c00'/>I thought it'd give me access to some
+  treasure leads...
+  
+  <3 Type='0' Data='0a00'/>But it turns out that they don't just hand
+  those out. Worse yet,<5 Type='0'/> they put me on
+  dangerous investigations!
+  What rotten luck.
+BackRange_01: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>I'm about to go investigate the <0 Type='3' Data='0000'/>chasm in
+  Lake Hylia<0 Type='3' Data='ffff'/>.
+  
+  <3 Type='0' Data='0301'/>But I really don't want to.<5 Type='0'/>
+  
+  
+  <3 Type='0' Data='0001'/>I mean, there's a <0 Type='3' Data='0000'/>huge monster <0 Type='3' Data='ffff'/>on the
+  Bridge of Hylia. With <0 Type='3' Data='0000'/>three heads<0 Type='3' Data='ffff'/>!
+  
+  How can they expect me to get any
+  research done with that thing there?
+BackRange_02_2: |
+  <3 Type='0' Data='0700'/>If you're a treasure hunter, these woods
+  are a great place to search. Lots of caves
+  and old ruins.
+  I even found one <0 Type='3' Data='0000'/>cave that looked like
+  a ruin<0 Type='3' Data='ffff'/>! And let me tell you, that place
+  reeked of treasure.
+  <3 Type='0' Data='0a00'/>I just wish I didn't get lost right after I
+  found it. Now I have no idea where it was.
+Near_RestPoint_01: |
+  My sister, Mina...
+BackRange_02: |
+  <3 Type='0' Data='0700'/>I found a cave earlier while I was hunting
+  for treasure in the <0 Type='3' Data='0000'/>woods<0 Type='3' Data='ffff'/>.
+  
+  The inside of it actually <0 Type='3' Data='0000'/>looked like a ruin<0 Type='3' Data='ffff'/>.
+  I could just smell the treasure somewhere
+  in there!
+  <3 Type='0' Data='0a00'/>Problem is, after I left, I got all turned
+  around. I'm lucky I found the road.
+  
+  <3 Type='0' Data='0700'/>But when I'm finished up here, I'll try to
+  retrace my steps to the cave.
+GoRange_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1000540061006c006b00440065006e007900'/>There's another <0 Type='3' Data='0000'/>chasm northeast of
+  Lake Hylia<0 Type='3' Data='ffff'/>. I've been ordered to
+  investigate that one too.
+  <3 Type='0' Data='0401'/>But I don't want to do such a dangerous
+  investigation! <5 Type='0'/>Couldn't someone else
+  handle that chasm for me?
+GoRange_02: |
+  <3 Type='0' Data='0700'/>Ruins from the ancient past are common
+  enough in the woods around here.
+  
+  <3 Type='0' Data='0101'/>But really, they're just a bunch of old
+  stones and slabs and stuff. None of
+  that counts as treasure.
+Near_RainPoint_01: |
+  Phew! Thank the rain!
+Guardian00: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1200530075007200700072006900730065004c00'/>Whoa!<5 Type='0'/> Hey! <5 Type='1'/>I've never even heard of a
+  monster like this!
+Near_GoalPoint_01: |
+  The Zonai Ruins...
+Near_BackRange_01: |
+  A three-headed monster...
+Near_BackRange_02: |
+  The cave with ruins...
+SavedLv3_00: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0e0045006100730065005f0030003100'/>I'll tell you, thought I was a goner...<5 Type='0'/>
+  You're pretty impressive. Thanks!
+Greeting: |
+  <3 Type='0' Data='0a00'/>*sigh*<5 Type='0'/> I guess I should have stuck to
+  treasure hunting the old-fashioned way.
+  
+  Then I'd be free as a bird, like you.
+Near_Rain: |
+  This is not my day.
+Near_GoRange_01: |
+  Another chasm...
+SavedLv3_01: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1400410064006d00690072006100740069006f006e00'/>Wow, <5 Type='0'/>you're amazing!<5 Type='0'/> You might even
+  be stronger than my sister.
+  
+  <3 Type='0' Data='0801'/>Anyway, you saved me, so a big thanks
+  from me. You're incredible.
+Greeting_00: |
+  <3 Type='0' Data='0a00'/>I was so glad when I got into the
+  survey team. But then they put me on
+  research morning, noon, and night...
+  It's exhausting. <5 Type='0'/>I'm exhausted. <5 Type='0'/>And I still
+  don't have any leads.
+  
+  Maybe I should've gone after <0 Type='3' Data='0000'/>Misko's
+  treasure <0 Type='3' Data='ffff'/>like all those rabid <0 Type='3' Data='0000'/>Cece fans<0 Type='3' Data='ffff'/>.
+Near_GoRange_02: |
+  Scattered ruins...
+EnokidaSignboard: |
+  They build houses, right?
+Thanks00: |
+  <3 Type='0' Data='0801'/>Here. <5 Type='0'/>Just a little something for your
+  trouble. Take it.
+StartPoint_01: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='1000540061006c006b00440065006e007900'/>I was asked to investigate the chasm
+  on <0 Type='3' Data='0000'/>Hylia Island<0 Type='3' Data='ffff'/>, but...<5 Type='0'/>yikes.
+  
+  If there was treasure in the chasm,
+  that'd be a different story. <5 Type='1'/>Without any
+  payoff, I can't say I'm excited.
+SavedLv2_00: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Oh man! <5 Type='0'/>That was a close one.<5 Type='0'/> You really
+  saved me there.
+StartPoint_02: |
+  <3 Type='0' Data='0a00'/>Why didn't they put me on the
+  <0 Type='3' Data='0000'/>geoglyph<0 Type='3' Data='ffff'/> job? That would've been
+  a much better deal.
+GoalPoint_01: |
+  <3 Type='0' Data='0000'/>There are lots of ancient ruins around
+  this area. <5 Type='0'/>But that place specifically has
+  long been known as the <0 Type='3' Data='0000'/>Zonai Ruins<0 Type='3' Data='ffff'/>.
+SavedLv2_01: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0c004c0061007500670068004c00'/>What a relief that you came along.<5 Type='0'/>
+  Thank you!
+NightGreet_01: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0e0053006900670068005f0030003100'/>I have to do survey-team work even at
+  night?<5 Type='0'/> I have the worst luck.
+NightGreet_02: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Oh! <5 Type='0'/>Out for a walk at this late hour?<5 Type='0'/>
+  The night is...<5 Type='1'/>night, you know?
+BackRange_01_2: |
+  <3 Type='0' Data='0a00'/>I'm supposed to investigate the <0 Type='3' Data='0000'/>chasm at
+  Lake Hylia<0 Type='3' Data='ffff'/>.
+  
+  But there's a huge <0 Type='3' Data='0000'/>three-headed monster<0 Type='3' Data='ffff'/>
+  on the Bridge of Hylia.
+  
+  <3 Type='0' Data='0a00'/>Considering the danger, you'd think
+  they might let me off the hook, but
+  nope.<5 Type='1'/> *sigh* <5 Type='0'/>I am not cut out for this.
+BackRange_01_3: |
+  <3 Type='0' Data='0700'/>I'm about to go investigate the <0 Type='3' Data='0000'/>chasm at
+  Lake Hylia<0 Type='3' Data='ffff'/>.
+  
+  <3 Type='0' Data='0301'/>But I really don't want to.<5 Type='1'/>
+  
+  
+  At least someone got rid of that huge,
+  <0 Type='3' Data='0000'/>three-headed monster <0 Type='3' Data='ffff'/>that was on the
+  Bridge of Hylia.
+  I mean, it's still dangerous there. Just
+  slightly less so.
+SavedLv1_00: |
+  <3 Type='0' Data='0800'/>Thank you! Thank you!<5 Type='0'/> You saved me!
+Failed00: |
+  <3 Type='0' Data='0501'/><4 Type='0' Data='08004500610073006500'/>Oww... <5 Type='0'/>That was a disaster. I kinda just
+  want to cry.
+BackRange_01_4: |
+  <3 Type='0' Data='0501'/><4 Type='0' Data='0a005400680069006e006b00'/>There was a huge, three-headed monster
+  at the Bridge of Hylia. <5 Type='0'/>But now it's gone.
+  Did someone defeat it?
+  I guess that'll make it safer to investigate
+  the <0 Type='3' Data='0000'/>chasm at Lake Hylia<0 Type='3' Data='ffff'/>.
+  
+  Not safe, but you know. <5 Type='0'/>Safer.
+SavedLv1_01: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>Oh man! You saved me.
+Failed01: |
+  <3 Type='0' Data='0501'/><4 Type='0' Data='08005300690067006800'/>*sigh* <5 Type='0'/>If only my sister were here...
+  
+  
+  Oh, but you were great. <5 Type='0'/>Really,
+  SO helpful.
+RestPoint_01: |
+  <3 Type='0' Data='0700'/>My sister, Mina, and I used to hunt for
+  treasure as a pair.
+  
+  <3 Type='0' Data='0100'/>Then she had the bright idea for me to
+  infiltrate the Zonai Survey Team.
+  
+  <3 Type='0' Data='0c00'/>So we split up. <5 Type='0'/>She headed east, and I
+  came here to scope out leads.
+  
+  I wonder what she's up to. <5 Type='0'/>Knowing her,
+  she's hunting for treasure day and night.
+  
+  <3 Type='0' Data='0800'/>Honestly, if you think about it...<5 Type='0'/>I got the
+  easy job!
+  
+  So no more complaining! <5 Type='1'/>I'll just shut my
+  mouth till I got what I came here for!
+BackRange_01_5: |
+  <3 Type='0' Data='0a00'/><0 Type='3' Data='0000'/>Chasms <0 Type='3' Data='ffff'/>are dangerous. I don't know why
+  anyone would dive into one by choice!
+  
+  Besides, the <0 Type='3' Data='0000'/>Bridge of Hylia <0 Type='3' Data='ffff'/>overlooks a
+  perfectly good <0 Type='3' Data='0000'/>geoglyph<0 Type='3' Data='ffff'/>. Why couldn't
+  they have had me investigate that?
+Atacked00: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='1200530075007200700072006900730065004d00'/>Thanks for the assistance! <5 Type='0'/>I should really
+  just leave the monsters to you.
+Near_StartPoint_01: |
+  Investigating the chasm...
+Atacked01: |
+  <3 Type='0' Data='0501'/><4 Type='0' Data='1200530075007200700072006900730065005300'/>D-<5 Type='0'/>darn it all!
+StartPoint_01_2: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1000540061006c006b00440065006e007900'/>It's my job to investigate the <0 Type='3' Data='0000'/>chasm<0 Type='3' Data='ffff'/> on
+  that island. <5 Type='0'/>But an investigation that
+  dangerous is too much for me.
+Near_Thunder: |
+  This doesn't look good.
+GoalPoint_01_2: |
+  <3 Type='0' Data='0700'/>This place has long been known as the
+  <0 Type='3' Data='0000'/>Zonai Ruins<0 Type='3' Data='ffff'/>. <5 Type='0'/>You know, I'd bet there's
+  gotta be treasure here somewhere.
+RainPoint_01: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='08005300690067006800'/>I wonder if this rain comes off the sea of
+  trees to the east.
+  
+  <3 Type='0' Data='0101'/>At least it's an excuse to take a break
+  from investigating. So I can't say I really
+  mind it.
+GoRange_01_2: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0e0043006800610074005f0030003100'/>There's another <0 Type='3' Data='0000'/>chasm <0 Type='3' Data='ffff'/>to the <0 Type='3' Data='0000'/>northeast of
+  Lake Hylia<0 Type='3' Data='ffff'/>. <5 Type='0'/>I was told to go there next
+  after I'm done here.

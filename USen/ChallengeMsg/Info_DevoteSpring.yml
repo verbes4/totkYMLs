@@ -1,0 +1,16 @@
+Name: |
+  Legend of the Soaring Spear
+Step1: |
+  You found a spring inside Tobio's Hollow Cave.
+  On the edge of this spring lies a tattered
+  notebook with the following inscription:
+  
+  <0 Type='3' Data='0000'/>Throw the Zonai spear with a wing from the
+  pedestal through the ring. Should your aim
+  be true and right, you'll be blessed with
+  dispelling light.<0 Type='3' Data='ffff'/>
+Complete: |
+  You threw a Zonai spear from the pedestal
+  through the glowing ring.
+  
+  A Shrine of Light appeared inside the cave.

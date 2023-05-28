@@ -1,0 +1,89 @@
+talk_1010: |
+  <3 Type='0' Data='0700'/>Yeah, this stuff here.
+talk_1011: |
+  <3 Type='0' Data='0700'/>Those <0 Type='3' Data='0000'/>ore deposits<0 Type='3' Data='ffff'/> over there are chock
+  full of it.
+  
+  Given the gouged-out terrain and all the
+  tools and structures we've found...<5 Type='0'/>I think
+  this place used to be a <0 Type='3' Data='0000'/>mine<0 Type='3' Data='ffff'/>.
+talk_1040: |
+  <3 Type='0' Data='0900'/>Well, fine!<5 Type='0'/> Because you're about to go
+  silent as a stone...FOREVER!
+talk_1012: |
+  <3 Type='0' Data='0c00'/>I mean, that's some pretty weird <0 Type='3' Data='0000'/>ore<0 Type='3' Data='ffff'/>,
+  right?<5 Type='0'/> I've never seen it on the surface.
+talk_1041: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Well, hello! Did they send you to
+  investigate this valley too?
+talk_1013: |
+  <3 Type='0' Data='0700'/>It's the same for the <0 Type='3' Data='0000'/>other huge valleys<0 Type='3' Data='ffff'/>
+  too.<5 Type='0'/> It's just a shame we have no idea
+  how to use this ore.
+  But you have no need to know, do you?
+  
+  
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Because right now,<5 Type='1'/> you're looking at the
+  Yiga who will take you down!
+talk_1042: |
+  <3 Type='0' Data='0c00'/>The valley has evidence of civilization
+  everywhere.<5 Type='0'/> I have no doubt that it used
+  to be a mining area.
+  All the <0 Type='3' Data='0000'/>other huge valleys<0 Type='3' Data='ffff'/> are the same.
+  I wonder what value those <0 Type='3' Data='0000'/>ore deposits<0 Type='3' Data='ffff'/>
+  really hold...
+talk_1043: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0e0043006800610074005f0030003100'/>Look, it's <0 Type='3' Data='0000'/>full of weird ore deposits<0 Type='3' Data='ffff'/>.
+  
+  
+  Between the gouged-out terrain and the
+  handmade objects, this must have been
+  a mine way back when.
+talk_1020: |
+  <3 Type='0' Data='0900'/><FontSize Value='125'/>I'll have your life!<FontSize Value='100'/><1 Type='3' Data='5a000000'/>
+talk_1015: |
+  <3 Type='0' Data='0701'/>Oh, <5 Type='0'/>it looks like you've got some on hand.
+  <5 Type='0'/>Guess you're no stranger to this stuff.<0 Type='4'/>I've never seen this ore on the surface
+  before, so it's all new to me.
+talk_1044: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>Same goes for those <0 Type='3' Data='0000'/>other huge valleys<0 Type='3' Data='ffff'/>.
+  Those <0 Type='3' Data='0000'/>deposits<0 Type='3' Data='ffff'/> must be worth <5 Type='0'/>something.
+  
+  <3 Type='0' Data='0500'/><4 Type='0' Data='0a005400680069006e006b00'/>I just wish we knew what to do with the
+  ore that comes out of them...
+talk_1021: |
+  <FontSize Value='125'/><3 Type='0' Data='0900'/>This is for Master Kohga!<1 Type='3' Data='5a000000'/><FontSize Value='100'/>
+near_0000: |
+  What IS this ore...
+talk_1000: |
+  <FontSize Value='125'/><3 Type='0' Data='0b00'/>BWAH!<FontSize Value='100'/>
+  
+  
+  D-d-<5 Type='0'/>don't surprise me like that!<5 Type='0'/> How
+  was I supposed to know you weren't a
+  Yiga Clan member or something?!
+  <FontSize Value='80'/>Geez... Practically scared the pants off me.<FontSize Value='100'/>
+  
+  
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Ummm...<5 Type='0'/> So, <5 Type='0'/>are you also here to
+  investigate <0 Type='3' Data='0000'/>the ore in these mineral
+  deposits<0 Type='3' Data='ffff'/>?
+talk_1001: |
+  <FontSize Value='125'/><3 Type='0' Data='0b00'/><4 Type='0' Data='1200530075007200700072006900730065004c00'/>Uwaaah!<FontSize Value='100'/>
+  
+  
+  Y-y-<5 Type='0'/>you scared me!<5 Type='0'/> You could've been
+  a Yiga Clan member coming to take my
+  life, or worse yet, my ore!
+  <FontSize Value='80'/>Geez... Give a guy a break already. Scary enough
+  just working down here.<FontSize Value='100'/>
+  
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Ummm...<5 Type='0'/> So, <5 Type='0'/>are you also here to
+  investigate <0 Type='3' Data='0000'/>the ore in these mineral
+  deposits<0 Type='3' Data='ffff'/>?
+0000: |
+  Ore?
+talk_1030: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='08004500610073006500'/>You have some nerve, trying to ignore me.
+0001: |
+  ...

@@ -1,0 +1,144 @@
+Talk_01: |
+  <3 Type='0' Data='0c00'/>Seems like Mr. <0 Type='3' Data='0000'/>Gomo <0 Type='3' Data='ffff'/>is unhappy...
+Talk_14: |
+  <3 Type='0' Data='0800'/>It's cooked to perfection now. Try it!
+Com_Talk_55: |
+  <3 Type='0' Data='0a00'/>Looks like it won't fit in your pouch. Free
+  up some space and bug me again.
+Talk_02: |
+  <3 Type='0' Data='0800'/>Welcome to Bedrock Bistro, where we
+  satiate the insatiable!
+Talk_15: |
+  <3 Type='0' Data='0800'/>This is when the flavors really get
+  rolling. Dee-lish.
+Talk_16: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>If you're that interested in Mr. Gomo,
+  he's out in front of the restaurant.
+  
+  <3 Type='0' Data='0c00'/>When the marbled rock roast showed
+  up on the scene, I was downright coarse
+  to him.
+  So I've kinda been avoiding him
+  altogether...
+  
+  I'm hoping to find some <0 Type='3' Data='0000'/>ripened flint<0 Type='3' Data='ffff'/>
+  to offer him, by way of apology.
+  It's his favorite.
+Talk_04: |
+  <3 Type='0' Data='0700'/><0 Type='3' Data='0000'/>Rock roast<0 Type='3' Data='ffff'/> is in short supply, as usual.
+  
+  
+  There are some in the caves around here,
+  but the footholds collapsed, and they
+  can't keep a steady supply coming.
+  So if you find some, please bring it to me.
+NakedPlayer: |
+  We never turn folks away!
+Talk_05: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Oh...did you overhear that?
+Com_Talk_33: |
+  <3 Type='0' Data='0701'/>It's <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/> for one.
+Talk_06: |
+  <3 Type='0' Data='0900'/>That marbled rock roast isn't for sale!
+  
+  
+  Pesky little Hylian.
+Com_Talk_02b: |
+  <3 Type='0' Data='0800'/>Woo-hoo!<5 Type='0'/>
+Com_Talk_35: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0001'/><0 Type='3' Data='ffff'/>For <2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/>, the entire stock, it's...a total of
+  <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>!
+Near_00: |
+  You'll get burned up there.
+Talk_08: |
+  <3 Type='0' Data='0701'/>Oh, I'm sorry.<5 Type='1'/> Welcome.
+Com_Talk_02c: |
+  <3 Type='0' Data='0800'/>Thanks for the business!
+Talk_09: |
+  <3 Type='0' Data='0700'/>Welcome to Bedrock Bistro, a favorite
+  among even the most selective foodies.
+  Like our esteemed Mr. Gomo!
+Com_Talk_02d: |
+  <3 Type='0' Data='0800'/>OK!
+Near_02: |
+  They're cooking up nice.
+0000: |
+  Gomo?
+0001: |
+  Goodbye.
+Com_Talk_00: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='0c004e006f007400690063006500'/>What should I buy from you?
+Com_Talk_13: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0701'/><0 Type='3' Data='ffff'/>How many would you like to sell?
+5500: |
+  Sounds good!
+0002: |
+  Buy from me!
+Com_Talk_01: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0000'/><0 Type='3' Data='ffff'/>I'll give you <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>. What do
+  you say?
+Com_Talk_14: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0001'/><0 Type='3' Data='ffff'/>I'll take <2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/> for <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>!
+  Is that fine?
+5501: |
+  On second thought...
+Com_Talk_02: |
+  <3 Type='0' Data='0800'/>Thanks for the business!
+Com_Talk_15: |
+  <3 Type='0' Data='0c00'/>We don't buy those here.
+Com_Talk_16: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1200530075007200700072006900730065004d00'/>Whoa there! You know I can't buy clothes
+  you're wearing!
+5503: |
+  Never mind.
+Com_Talk_04: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c005300610064005f0030003000'/>No pressure.
+Com_Talk_05: |
+  <3 Type='0' Data='0701'/>Is there anything else?
+Com_Talk_50: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Ah, so that'll be <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>.
+5508: |
+  I'll sell 'em all.
+Talk_10: |
+  <3 Type='0' Data='0701'/>The food for Hylians is prepared with less
+  crunch, more give.
+  
+  You can order anything you like right from
+  the grill.
+Talk_11: |
+  <3 Type='0' Data='0700'/>Gomo the goromand is a very special
+  guest here at the bistro.
+  
+  <3 Type='0' Data='0c01'/>I heard about the whole mess with us
+  Gorons recently, and, well, I feel plain
+  awful about it.
+  <4 Type='0' Data='0a005400680069006e006b00'/>I think it started once the marbled rock
+  roast showed up, but I don't remember
+  too well...
+  All I can do now is try to smooth things
+  over by preparing Mr. Gomo's favorite—
+  <0 Type='3' Data='0000'/>ripened<0 Type='3' Data='ffff'/> <0 Type='3' Data='0000'/>flint<0 Type='3' Data='ffff'/>.
+  <3 Type='0' Data='0a00'/>But it's hard to come by...
+Com_Talk_05b: |
+  <3 Type='0' Data='0001'/>I'll keep on buying!
+Talk_12: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='1200530075007200700072006900730065004d00'/>That's still cooking on the flame!
+  It's pipin' hot!
+Com_Talk_05c: |
+  <3 Type='0' Data='0001'/>No need to hold back.
+Com_Talk_53: |
+  <3 Type='0' Data='0c00'/>How annoying.
+Talk_00: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c0045006100740069006e006700'/>Tasting food is part of a chef's grand
+  work, ya know. So until I'm done tasting
+  this here marbled rock roast...
+  the joint's closed! That includes anything
+  on the Hylian menu.
+Talk_13: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>Thanks to you, our Hylian menu is sold
+  out as well.
+  
+  I'll stock up again soon, and I'll make sure
+  it's cooked to perfection.
+Com_Talk_05d: |
+  <3 Type='0' Data='0001'/>Is that all?

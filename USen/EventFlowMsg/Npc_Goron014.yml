@@ -1,0 +1,67 @@
+talk_03: |
+  <3 Type='0' Data='0700'/>They're the most famous hot springs
+  these lands over.
+talk_04: |
+  <3 Type='0' Data='0700'/>Just cross that bridge and head south—
+  ya can't miss 'em!
+talk_10: |
+  <3 Type='0' Data='0700'/>This is just what I heard from the elderly
+  fella who's a regular at <0 Type='3' Data='0000'/>Goron Hot
+  Springs<0 Type='3' Data='ffff'/>. Guy knows his stuff.
+  He says Simmerstone is in a place called
+  <0 Type='3' Data='0000'/>Gorko Tunnel<0 Type='3' Data='ffff'/>, which is farther south than
+  <0 Type='3' Data='0000'/>Goron Hot Springs<0 Type='3' Data='ffff'/>.
+  But that area is expansive, so if you're
+  going there, I recommend you ask him
+  for specifics.
+talk_05: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>The water here sure is nice.<5 Type='1'/> Nothin' beats
+  soakin' in the sunshine.
+talk_11: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1200530075007200700072006900730065004d00'/>Yikes, that's cold! <5 Type='1'/>Don't rain on my
+  good mood...
+talk_06: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>The water here sure is nice.<5 Type='1'/> Nothin' beats
+  soakin' in the morning light.
+talk_07: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>The water here sure is nice.<5 Type='1'/> Nothin' beats
+  soakin' in the evening light.
+talk_08: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>The water here sure is nice.<5 Type='1'/> Nothin' beats
+  soakin' in the moonlight.
+talk_09: |
+  <3 Type='0' Data='0701'/>There's an elderly fella at Goron Hot
+  Springs who really knows his stuff when
+  it comes to hot springs.
+  He told me about a place called
+  <0 Type='3' Data='0000'/>Simmerstone Springs<0 Type='3' Data='ffff'/> that's
+  apparently legendary.
+  I can't decide whether to go to <0 Type='3' Data='0000'/>Goron
+  Hot Springs<0 Type='3' Data='ffff'/> or <0 Type='3' Data='0000'/>Simmerstone Springs<0 Type='3' Data='ffff'/>.
+0000: |
+  Goron Hot Springs?
+talk_00: |
+  <3 Type='0' Data='0a00'/>If the president hadn't gotten involved
+  with <0 Type='3' Data='0000'/>marbled rock roast<0 Type='3' Data='ffff'/>, none of this
+  would've happened.
+  At this rate, the Southern Mine—no,
+  <0 Type='3' Data='0000'/>YunoboCo<0 Type='3' Data='ffff'/>—is finished...
+Near: |
+  Good ol' hot springs.
+0001: |
+  Simmerstone Springs?
+talk_01: |
+  <3 Type='0' Data='0800'/>The young Gorons are back to work, and
+  <0 Type='3' Data='0000'/>Mine-Cart Land <0 Type='3' Data='ffff'/>was completed safely.
+  
+  I think it's about time I retire and tour
+  some hot springs.
+  
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a005400680069006e006b00'/>Suppose I'll start with <0 Type='3' Data='0000'/>Goron Hot Springs<0 Type='3' Data='ffff'/>.
+  
+  
+  Actually, maybe I'll go farther than
+  that. Maybe I'll take a peek at
+  <0 Type='3' Data='0000'/>Simmerstone Springs<0 Type='3' Data='ffff'/>.
+0002: |
+  Goodbye.

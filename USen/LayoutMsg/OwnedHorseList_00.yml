@@ -1,0 +1,82 @@
+T_HeaderOwnedHorse_00: |
+  Your Horses
+Pa_AbilityButton_02-T_Max_00: |
+  Status MAX
+Pa_Material_00-T_Slash_00: |
+  /
+T_HeaderState_00: |
+  Status
+Pa_AbilityButton_00-T_Ability_00: |
+  Strength
+Pa_GuideB_00-T_Guide_00: |
+  Back
+Pa_Info_00-Pa_TameGauge_00-T_ParamName_00: |
+  Bond
+Pa_AbilityButton_01-T_Ability_00: |
+  Speed
+0000: |
+   
+0001: |
+  Boarded
+Pa_GuideA_00-T_Guide_00: |
+  Select
+Pa_AbilityButton_03-T_Max_00: |
+  Status MAX
+0002: |
+  Taken out
+5000: |
+  New horse
+T_Text_00: |
+  Necessary Resources
+2000: |
+  <2 Type='15' Data='2600530069006d0070006c00650049006e00740046006f0072004d00650073007300610067006500ffff01cd'/>
+T_Text_01: |
+  Have/Need
+Pa_Info_00-Pa_TameGauge_00-T_ParamMax_00: |
+  MAX
+T_HeaderAbility_00: |
+  Enhance Abilities
+Pa_AbilityButton_02-T_Ability_00: |
+  Stamina
+Pa_Info_00-Pa_Param_01-T_ParamName_00: |
+  Speed
+4000: |
+  Unregistered
+Pa_AbilityButton_01-T_Max_00: |
+  Status MAX
+Pa_Material_03-T_Slash_00: |
+  /
+1000: |
+  Gentle
+T_HeaderDeadHorse_00: |
+  Fallen Horses
+Pa_Info_00-Pa_Param_03-T_ParamName_00: |
+  Pull
+Pa_GuideB_00-T_Icon_00: |
+  
+Pa_AbilityButton_00-T_Max_00: |
+  Status MAX
+Pa_Info_00-Pa_Param_00-T_ParamName_00: |
+  Strength
+1002: |
+  Wild
+Pa_GuideB_00-T_Icon_01: |
+  
+Pa_Material_01-T_Slash_00: |
+  /
+T_Max_00: |
+  Enhanced to maximum level.
+Pa_AbilityButton_03-T_Ability_00: |
+  Pull
+3000: |
+  <2 Type='14' Data='2600530069006d0070006c00650049006e00740046006f0072004d00650073007300610067006500ffff01cd'/>
+3001: |
+  <2 Type='14' Data='2600530069006d0070006c00650049006e00740046006f0072004d00650073007300610067006500ffff01cd'/>
+Pa_Info_00-Pa_Param_02-T_ParamName_00: |
+  Stamina
+Pa_Info_00-T_ParamTitle_00: |
+  Temperament
+T_HeadeSlash_00: |
+  /
+Pa_Material_02-T_Slash_00: |
+  /

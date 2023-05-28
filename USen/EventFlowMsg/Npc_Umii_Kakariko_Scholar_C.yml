@@ -1,0 +1,301 @@
+Talk67: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>We call the broken rings up ahead the
+  <0 Type='3' Data='0000'/>Ring Ruins<0 Type='3' Data='ffff'/>. They're remnants of the
+  ancient Zonai civilization.
+  These ruins fell from the sky. Inside, we
+  found stone slabs carved with writing.
+Talk32: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0e0045006100730065005f0030003100'/>Look here. See? That's a stone slab.
+Talk68: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004e006f007400690063006500'/>What is it?
+  
+  
+  I need to wrap up my report on the
+  <0 Type='3' Data='0000'/>strange artifacts filled with Zonai devices<0 Type='3' Data='ffff'/>.
+  No time for idle chatter.
+Talk33: |
+  <3 Type='0' Data='0700'/>The text on the slab is from the Zonai
+  civilization, so it's beyond me.<0 Type='4'/>But our leader has studied the Zonai
+  language pretty thoroughly and has an
+  idea of what it all means.<0 Type='4'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>According to him, the stone slab in these
+  ruins is a record of Hyrule during those
+  ancient days.<0 Type='4'/>It says that some people called "sages"
+  kept the kingdom safe from some kind
+  of Demon King.
+Talk69: |
+  <3 Type='0' Data='0700'/>When ruins fell from the sky in the
+  Upheaval, these fell too.
+  
+  We've only discovered <0 Type='3' Data='0000'/>three <0 Type='3' Data='ffff'/>so far.
+  We're lucky to have one here.
+  
+  Aside from this one, we've also confirmed
+  their presence in <0 Type='3' Data='0000'/>Tarrey Town<0 Type='3' Data='ffff'/> and at<0 Type='3' Data='0000'/>
+  Digdogg Bridge<0 Type='3' Data='ffff'/>.
+  Akkala to the northeast, and the Gerudo
+  region to the southwest...hm. I don't see
+  a connection.
+  Because of you, I know that you can get
+  <0 Type='3' Data='0000'/>Zonai devices<0 Type='3' Data='ffff'/> from them, but that's it.<5 Type='0'/>
+  My report isn't going well at all.
+Talk_58: |
+  <3 Type='0' Data='0700'/>I suppose you mean that confused-looking
+  fellow who seems like he needs a nap.
+  Well, he took off somewhere.
+  Last I remember, he was complaining that
+  he didn't like heights.
+  
+  Try the tent at the big Ring Ruin above
+  the chief's hall.
+1001: |
+  Where's the inn owner?
+Talk_59: |
+  <3 Type='0' Data='0701'/>Hm? Where was I?<5 Type='0'/> Ah, the inn owner.
+Talk36: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='0e0045006100730065005f0030003000'/>Ahem. If you don't mind, I have research
+  to do.
+Talk01_20: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>This is Mellie's cherished plum garden.<0 Type='4'/>If anyone but her goes in, the guard
+  Cuccos attack at once.<5 Type='1'/><0 Type='4'/><3 Type='0' Data='0a00'/><4 Type='0' Data='0c005300610064005f0030003000'/>Though I guess that warning comes a
+  little late now.<0 Type='4'/><3 Type='0' Data='0701'/>There's also an important experiment in
+  cultivating sundelions going on here, so
+  that's an even better reason not to enter.
+1002: |
+  Goodbye.
+Balloon01: |
+  What's next?
+Balloon02: |
+  I don't have time for rain...
+Talk52: |
+  <FontSize Value='80'/><3 Type='0' Data='0c00'/>I can't remember exactly what the slab says. <5 Type='0'/>Why
+  bother when the <0 Type='3' Data='0000'/>translated text<0 Type='3' Data='ffff'/> is right there
+  next to it?<0 Type='4'/><3 Type='0' Data='0a01'/>Besides, my hands are full with my sundelion
+  research. I don't have time to get in the weeds
+  with sages and Demon Kings and whatnot.<FontSize Value='100'/>
+Balloon03: |
+  Hmm...
+Talk53: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Ah, sorry. Just thinking out loud.
+  
+  
+  Now, please excuse me. I have to hurry
+  back to my <0 Type='3' Data='0000'/>sundelion<0 Type='3' Data='ffff'/> research.
+Balloon04: |
+  I need to give this my all!
+Talk54: |
+  <3 Type='0' Data='0701'/>Um... Ah, that's right. The stone slab.
+Item_Plant_R_Kakariko008_Angry: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1200530075007200700072006900730065004c00'/>Ah! <5 Type='0'/>Stop!<0 Type='4'/>That sundelion is still being researched.
+  Please don't let anything happen to it.
+Talk09: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004e006f007400690063006500'/>Hm? Yes? What is it?
+  
+  
+  I need to get back to my <0 Type='3' Data='0000'/>sundelion<0 Type='3' Data='ffff'/>
+  investigation as soon as possible.
+  
+  I'm sure travelers will be coming to see
+  the <0 Type='3' Data='0000'/>stone slab<0 Type='3' Data='ffff'/> soon, and... Oh, I just don't
+  have time for this.
+Talk55: |
+  <3 Type='0' Data='0701'/>Thanks to the chief's decision, the
+  Zonai Survey Team has made a lot
+  of progress.
+Talk20: |
+  <3 Type='0' Data='0700'/>This area is off-limits. I'm borrowing the
+  plum garden for my <0 Type='3' Data='0000'/>sundelion <0 Type='3' Data='ffff'/>cultivation.
+Talk56: |
+  <FontSize Value='80'/><3 Type='0' Data='0500'/><4 Type='0' Data='0e0045006100730065005f0030003000'/>I still need to look into those strange artifacts
+  filled with capsules... And I need to tend the
+  sundelion... Oh, there's never enough time...<FontSize Value='100'/>
+Balloon06: |
+  Nothing. Nothing!
+Talk21: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>What is it?
+Item_Plant_R_Kakariko008_Angry_02: |
+  <3 Type='0' Data='0a00'/>Ah! <5 Type='0'/>Seriously, stop that.<0 Type='4'/>That sundelion is a still being researched.
+Talk57: |
+  <3 Type='0' Data='0a01'/>I suppose I should have been paying more
+  attention, but come now. Sneaking up on
+  people isn't very nice.
+Talk22: |
+  <FontSize Value='80'/><3 Type='0' Data='0a00'/>My first priority should be the <0 Type='3' Data='0000'/>sundelion<0 Type='3' Data='ffff'/>. Maybe I'll
+  see if someone else can look into this artifact...<FontSize Value='100'/>
+Item_Plant_R_Kakariko008_Angry_03: |
+  <FontSize Value='125'/><3 Type='0' Data='0b00'/>Gaaah! Fire! Fire!<0 Type='4'/>I— <5 Type='1'/>I have to put it out!<FontSize Value='100'/>
+Talk58: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003100'/>What is it?<5 Type='1'/> I need to finish my <0 Type='3' Data='0000'/>sundelion<0 Type='3' Data='ffff'/>
+  investigation before tourists get word of
+  the <0 Type='3' Data='0000'/>stone slab<0 Type='3' Data='ffff'/> and tromp all over.
+Talk23: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004e006f007400690063006500'/>What is it?
+  
+  
+  I need to wrap up my report on the
+  <0 Type='3' Data='0000'/>strange artifacts filled with capsules<0 Type='3' Data='ffff'/>.
+  No time for idle chatter.
+Talk70: |
+  <FontSize Value='80'/><3 Type='0' Data='0500'/><4 Type='0' Data='0e0045006100730065005f0030003000'/>I still need to write up a report about the artifacts
+  with the Zonai devices inside... And I need to tend
+  the sundelion... And then...ugh...<FontSize Value='100'/>
+Talk24: |
+  <3 Type='0' Data='0700'/>When ruins fell from the sky in the
+  Upheaval, these fell too.
+  
+  We've only discovered <0 Type='3' Data='0000'/>three <0 Type='3' Data='ffff'/>so far.
+  We're lucky to have one here.
+  
+  Aside from this one, we've also confirmed
+  their presence in <0 Type='3' Data='0000'/>Tarrey Town<0 Type='3' Data='ffff'/> and at<0 Type='3' Data='0000'/>
+  Digdogg Bridge<0 Type='3' Data='ffff'/>.
+  Akkala to the northeast, and the Gerudo
+  region in the southwest of Hyrule... Hm,
+  I don't see a connection.
+  <3 Type='0' Data='0a01'/>I don't even know what they were used
+  for. My report isn't going well at all.
+Talk59: |
+  <3 Type='0' Data='0701'/>Where was I?<5 Type='1'/> Ah, yes. The ruins.
+Talk71: |
+  <FontSize Value='80'/><3 Type='0' Data='0c00'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>Hmm. You can use these <0 Type='3' Data='0000'/>strange artifacts<0 Type='3' Data='ffff'/> to obtain
+  Zonai devices, but what else? What...else...
+  
+  I'm too busy with <0 Type='3' Data='0000'/>sundelion <0 Type='3' Data='ffff'/>research to spend time
+  on this.<FontSize Value='100'/>
+Talk_60: |
+  <FontSize Value='125'/><3 Type='0' Data='0b00'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003100'/>Huh?<0 Type='4'/>Wh...<5 Type='1'/>what just rolled out there?<FontSize Value='100'/>
+Item_Plant_R_Kakariko008_Angry_06: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1200530075007200700072006900730065004c00'/>What are you doing?!
+  
+  
+  The plum trees are Mellie's treasures.
+  Please don't play with them.
+Talk_61: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Is that what I think it is?!<0 Type='4'/>So this strange artifact was intended to
+  produce Zonai devices, huh?<0 Type='4'/><3 Type='0' Data='0c01'/>But why would the Zonai people have
+  built such a thing?<0 Type='4'/><FontSize Value='80'/>Hmm.<5 Type='0'/>.<5 Type='0'/>.<5 Type='0'/>
+  <3 Type='0' Data='0a01'/>I couldn't begin to guess.<FontSize Value='100'/>
+Item_Plant_R_Kakariko008_Angry_07: |
+  <3 Type='0' Data='0a00'/>Excuse me...<5 Type='0'/> Did you hear what I said?
+  
+  
+  The plum trees have been very well cared
+  for. Please don't mess with them.
+0004: |
+  I'll...leave you to it.
+Talk28: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='1200530075007200700072006900730065004d00'/>Kyaaah! Where did you come from?!
+0005: |
+  Sundelion?
+Talk01_12: |
+  <3 Type='0' Data='0200'/><4 Type='0' Data='100041006e006700720079005f0030003000'/>Didn't you hear me when I said that the
+  guard Cuccos would attack if you went
+  into the plum garden?<0 Type='4'/>It's a good thing only I saw you go in.
+  If Mellie was here, she'd be furious.
+  So don't do it!<0 Type='4'/><3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>There's also an important experiment in
+  cultivating sundelions going on here, so
+  that's an even better reason not to enter.
+0006: |
+  Goodbye.
+0007: |
+  Strange artifacts?
+0008: |
+  Sundelion?
+0009: |
+  Stone slab?
+Talk44: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='0600530061006400'/>I found one near this <0 Type='3' Data='0000'/>stone slab<0 Type='3' Data='ffff'/>, so
+  I'm looking for any seeds that might
+  have fallen.
+Talk10: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0a005400680069006e006b00'/>Maybe there isn't anything here after all.
+  
+  
+  This is where I found the <0 Type='3' Data='0000'/>sundelion<0 Type='3' Data='ffff'/>, so
+  there must be seeds or something...
+  
+  Bah, and I'll bet tourists visiting the stone
+  slab are going to trample everything soon.
+  Come on, come on...
+Talk11: |
+  <3 Type='0' Data='0800'/>Our research did yield an exciting
+  discovery—<0 Type='3' Data='0000'/>sundelions <0 Type='3' Data='ffff'/>have the potential
+  to resist <0 Type='3' Data='0000'/>gloom<0 Type='3' Data='ffff'/>!<0 Type='4'/><3 Type='0' Data='0701'/>Unfortunately, it looks like sundelions
+  <0 Type='3' Data='0000'/>grow almost exclusively on sky islands<0 Type='3' Data='ffff'/>.<0 Type='4'/>They're very rare on the surface, so I'm
+  running a cultivation experiment.<0 Type='4'/><3 Type='0' Data='0801'/>Tending this plant is difficult, but it's
+  worth it when I think about my work
+  helping poor souls <0 Type='3' Data='0000'/>exposed to gloom<0 Type='3' Data='ffff'/>.
+Talk12: |
+  <FontSize Value='80'/><3 Type='0' Data='0c00'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>Hmm... Perhaps something fits into this plate?
+  
+  
+  <3 Type='0' Data='0a01'/>I... I...<5 Type='1'/> Oh, this doesn't make any sense at all.
+  
+  
+  How am I supposed to investigate these<0 Type='3' Data='0000'/> strange
+  artifacts <0 Type='3' Data='ffff'/>when I'm busy with <0 Type='3' Data='0000'/>sundelion <0 Type='3' Data='ffff'/>research?<FontSize Value='100'/>
+Talk47: |
+  <3 Type='0' Data='0700'/>If you'll excuse me, I have to check on
+  the <0 Type='3' Data='0000'/>sundelion<0 Type='3' Data='ffff'/>.
+Talk60: |
+  <3 Type='0' Data='0701'/>Where was I?<5 Type='1'/> Ah, yes. The <0 Type='3' Data='0000'/>sundelion<0 Type='3' Data='ffff'/>.
+Talk61: |
+  <3 Type='0' Data='0700'/>If you're curious about something, ask
+  around. Everyone on the survey team is
+  knowledgeable about something.
+Talk62: |
+  <3 Type='0' Data='0a00'/>Honestly, I have my hands full with
+  <0 Type='3' Data='0000'/>sundelion <0 Type='3' Data='ffff'/>research.
+  
+  But did that stop me from offering to
+  research this <0 Type='3' Data='0000'/>strange artifact<0 Type='3' Data='ffff'/>?
+  Of course not...
+Talk63: |
+  <FontSize Value='80'/><3 Type='0' Data='0c00'/><4 Type='0' Data='1000540069007200650064005f0030003100'/>Should I consult Tauro? No, no. He's too busy
+  running the site. 
+  
+  And neither Ebah nor Saguru <0 Type='3' Data='0000'/>specialize in this<0 Type='3' Data='ffff'/>.<5 Type='1'/> Hm...<FontSize Value='100'/>
+Talk17: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>The sundelion is a <0 Type='3' Data='0000'/>new species of plant<0 Type='3' Data='ffff'/>.
+  The first one was found on ruins that fell
+  from the sky.
+  I believe that means they grow on the
+  <0 Type='3' Data='0000'/>sky islands<0 Type='3' Data='ffff'/>.<0 Type='4'/>I'm still in the middle of my investigation,<5 Type='0'/>
+  but early results indicate that they have
+  some sort of relationship with the <0 Type='3' Data='0000'/>gloom<0 Type='3' Data='ffff'/>.
+  <3 Type='0' Data='0800'/>If I can prove that, I think they might help
+  <0 Type='3' Data='0000'/>those suffering from<0 Type='3' Data='ffff'/> <0 Type='3' Data='0000'/>gloom exposure<0 Type='3' Data='ffff'/> or
+  aid our <0 Type='3' Data='0000'/>research of the<0 Type='3' Data='ffff'/> <0 Type='3' Data='0000'/>Depths<0 Type='3' Data='ffff'/>!
+  <3 Type='0' Data='0701'/>In any case, it's rare to find them on the
+  surface, so I'm using the village's <0 Type='3' Data='0000'/>plum
+  garden<0 Type='3' Data='ffff'/> to see if I can cultivate them.
+PlumGarden_Npc_Umii_Kakariko_Scholar_C_Water_01: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1200530075007200700072006900730065004c00'/>Uh... <5 Type='0'/>Hey!
+Talk18: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='1200530075007200700072006900730065005300'/>Eh? What? Hm? Did you, erm, hear me?
+  
+  
+  <3 Type='0' Data='0200'/>I was, um, lying!<5 Type='1'/> So don't tell anyone
+  what I was saying, OK?
+Talk65: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='0c004e006f007400690063006500'/>Hm? Ah, sorry. Are you interested in
+  these ruins?
+Talk19: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='0c004e006f007400690063006500'/>Hm? Ah, sorry. Are you interested in
+  the <0 Type='3' Data='0000'/>sundelion<0 Type='3' Data='ffff'/>?
+PlumGarden_Npc_Umii_Kakariko_Scholar_C_Water_03: |
+  <3 Type='0' Data='0701'/>Mellie is in charge of the watering. Let her
+  handle it, please.
+Talk31: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>We call this site the Ring Ruins. These
+  rings are pieces of the ancient Zonai
+  civilization—they fell out of the sky.
+  Inside the broken ruins, we found stone
+  slabs carved with writing.
+Talk66: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Gloom isn't my area of expertise. Luckily,
+  there's a <0 Type='3' Data='0000'/>specialist<0 Type='3' Data='ffff'/> on the survey team.
+  I consult him on gloom-related matters.
+PlumGarden_Npc_Umii_Kakariko_Scholar_C_Water_04: |
+  <3 Type='0' Data='0701'/>Those plants have all the water they need
+  from the rain.<0 Type='4'/>Mellie's in charge of this garden. Let her
+  handle it, please.

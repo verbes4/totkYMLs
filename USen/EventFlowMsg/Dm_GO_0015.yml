@@ -1,0 +1,27 @@
+Dm_GO_0015_Text_003_c: |
+  Heed my words...
+Dm_GO_0015_Text_004_a: |
+  <1 Type='3' Data='78000000'/>Hear that?<5 Type='0'/> There it is again!
+Dm_GO_0015_Text_001_b: |
+  Young, little rock...
+Dm_GO_0015_Text_002_b: |
+  The gate you must pass through is firmly
+  locked with five padlocks.
+Dm_GO_0015_Text_003_b: |
+  You have the power to unlock them all.
+  Do so, then the gate should open.
+Dm_GO_0015_Text_004_b: |
+  <3 Type='0' Data='0b00'/>No denyin'. I heard it loud and clear this
+  time. But who could it be?
+  
+  And what did they mean by "young,
+  little rock"?
+  
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>They did tell us how to open the gate, so
+  they can't be all bad, right?
+Dm_GO_0015_Text_005_b: |
+  <3 Type='0' Data='0c01'/>So all we gotta do is unlock the five locks,
+  and then we can get in there?
+Dm_GO_0015_Text_007_b: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='0c004e006f007400690063006500'/>Did you see that? The gate—it moved a
+  little just now, goro!

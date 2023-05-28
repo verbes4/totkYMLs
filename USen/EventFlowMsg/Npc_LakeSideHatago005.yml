@@ -1,0 +1,348 @@
+Talk_1032: |
+  <3 Type='0' Data='0c00'/>Travelers through these parts say that
+  they're vicious beasts who used to live
+  in Taran Pass.
+  But recently, for some reason, all three
+  of them came here.
+  
+  <3 Type='0' Data='0a01'/>Most of the time they're asleep, but so
+  much as get near them and they'll wake
+  up and go berserk.
+  With them around, nobody can go inside
+  the caves.
+Talk_1033: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0e00540072006f00750062006c006500'/>Right. Don't offer to help or anything...
+  
+  
+  Those three caves are mining hot spots
+  made by the Upheaval.
+  
+  They drew a lot of travelers here,
+  to Lakeside Stable.
+  
+  But with the three giant monster brothers
+  holing up inside, nobody comes to the
+  caves anymore.
+Near_0001: |
+  Nice weather today.
+Talk_1034: |
+  <3 Type='0' Data='0701'/>Anything else you want to ask about?
+Near_0002: |
+  This rain!
+Talk_1000: |
+  <3 Type='0' Data='0a00'/>*sigh* <5 Type='0'/>For crying out loud...
+  
+  
+  Of all the places those monsters could
+  go, they decide to settle down in those
+  caves? OUR caves?
+  <3 Type='0' Data='0c01'/>I wonder if there's some way to chase
+  them out for the stable's sake.
+Talk_1035: |
+  <3 Type='0' Data='0001'/>They're all up there. One is near
+  <0 Type='3' Data='0000'/>Corta Lake<0 Type='3' Data='ffff'/>...
+Near_0003: |
+  Bedtime, I think.
+Talk_1036: |
+  <3 Type='0' Data='0001'/>another next to <0 Type='3' Data='0000'/>Rodai Lake<0 Type='3' Data='ffff'/>...
+Talk_1082: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='08005300690067006800'/>It's late. I think I'll head to bed.
+  
+  
+  I hope I wake up tomorrow and find
+  out those <0 Type='3' Data='0000'/>three giant monster brothers<0 Type='3' Data='ffff'/>
+  have left the caves.
+Near_0004: |
+  All right, then.
+Talk_1037: |
+  <3 Type='0' Data='0001'/>and the last over by <0 Type='3' Data='0000'/>Calora Lake<0 Type='3' Data='ffff'/>.
+Near_0005: |
+  Zzz... Zzz...
+StableHostelPicture: |
+  Oh... What a pretty picture.
+BoneHorse: |
+  Is that a monster, or...
+Talk_1038: |
+  <3 Type='0' Data='0800'/>In those caves, there's luminous stone.
+  I'm talking tons of the stuff, ripe for
+  the taking!
+  That's what made them such popular
+  destinations for travelers around here.
+  
+  <3 Type='0' Data='0a00'/>And then... Well, who could have guessed
+  that this would happen?
+Talk1050: |
+  <3 Type='0' Data='0700'/>If you're going out in that lightning, you
+  should put all your metal things away.
+  
+  Lightning seems to like it here, so
+  be careful.
+Talk_1039: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0600530061006400'/>Thanks to you, there aren't <0 Type='3' Data='0000'/>three giant
+  monster brothers <0 Type='3' Data='ffff'/>in the caves. But even
+  one is too many!
+  <3 Type='0' Data='0301'/>Until all three of them are gone, guests
+  won't start coming to the stable again...
+Talk_1021: |
+  <3 Type='0' Data='0b00'/>What? <5 Type='0'/>What did you just say?
+  
+  
+  You drove away the monsters, buddy?
+Talk_1022: |
+  <3 Type='0' Data='0a01'/>...But the monsters aren't all gone yet.
+  
+  
+  I'm glad the caves are a little safer,
+  really I am. <5 Type='0'/>But...
+  
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0a005400680069006e006b00'/>If even one of those things is still around,
+  we have no way of knowing which cave it
+  might sleep in.
+  Travelers won't be safe in any of them.
+  
+  
+  You have to drive all of the monsters off,
+  or this stable will keep losing customers.
+Talk_1023: |
+  <3 Type='0' Data='0b00'/>What? You're kidding! You did?!
+Talk1070: |
+  <3 Type='0' Data='0700'/>Late nights make for lazy days.
+  
+  
+  I'm going to head off to sleep.
+0001: |
+  Monsters?
+Talk_1024: |
+  <3 Type='0' Data='0c00'/>Hm...<5 Type='0'/> If the monster rumors spread too
+  far, it's a safe bet that we'll see fewer and
+  fewer stable visitors.
+  If we don't do something, business will
+  go belly-up!
+0002: |
+  Hm? What?
+GoldHorse: |
+  That's a special horse.
+0003: |
+  I took care of it.
+0004: |
+  Caves?
+0005: |
+  Monsters?
+Talk1040: |
+  <3 Type='0' Data='0700'/>Take care where you climb. Don't want to
+  slip off a cliff.
+0006: |
+  Goodbye.
+Talk_1040: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1a00410064006d00690072006100740069006f006e005f0030003100'/>Listen up! I've got some great news!
+  
+  
+  Word has it that those three giant
+  monster brothers finally left the caves!
+Talk_1041: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Huh? <5 Type='0'/>What's that now?
+  
+  
+  <FontSize Value='125'/><3 Type='0' Data='0b00'/><4 Type='0' Data='1200530075007200700072006900730065004c00'/>You did it?!<FontSize Value='100'/>
+  
+  
+  You mean...you defeated all three of the
+  monsters by yourself?
+  
+  <3 Type='0' Data='0001'/>I've seen enough faces in this job that I
+  can tell from looking at one if someone's
+  lying to me.
+  <4 Type='0' Data='1a00410064006d00690072006100740069006f006e005f0030003100'/>And you...<5 Type='0'/>aren't!
+  
+  
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0a0048006100700070007900'/>I don't even have to go check. You really
+  did do it! You defeated the monsters!
+  
+  On behalf of all of us at the stable,
+  thank you! Please, take this small symbol
+  of our appreciation.
+0007: |
+  Three caves?
+WakkaCharm: |
+  Is that a ring garland?
+0008: |
+  Animal?
+0009: |
+  Goodbye.
+Talk_1044: |
+  <3 Type='0' Data='0501'/>Though it's hard to see where they are
+  with this unfortunate weather...
+Talk_1090: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='0a0053006c00650065007000'/>You ugly <0 Type='3' Data='0000'/>three giant monster brothers<0 Type='3' Data='ffff'/>...
+  Give back our...<0 Type='3' Data='0000'/>caves<0 Type='3' Data='ffff'/>... *mumble*
+Talk1010: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hey there! Thanks for taking care of the
+  three giant monster brothers.
+  
+  Have you had a chance to explore the
+  area around here?
+  
+  <3 Type='0' Data='0701'/>In this region, there are lots of things
+  you won't find anywhere else.
+  
+  My recommendations, you ask? Well,
+  let me think on that...
+  
+  <3 Type='0' Data='0c00'/>I know you know this, but those <0 Type='3' Data='0000'/>three
+  caves <0 Type='3' Data='ffff'/>nearby are a miner's dream. You
+  can get lots of luminous stone from them.
+  There's also <0 Type='3' Data='0000'/>that animal <0 Type='3' Data='ffff'/>that was
+  discovered recently.
+  
+  <3 Type='0' Data='0100'/>Those are two special attractions you
+  won't find anywhere else.
+NakedPlayer: |
+  What a wild streak!
+Talk_1010: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>...Huh?<5 Type='0'/> Oh! Hello, hello!
+  
+  
+  I was so deep in thought, I didn't notice
+  you there.
+  
+  <3 Type='0' Data='0701'/>You didn't happen to, ah...hear what
+  I was saying, did you?
+Talk_1045: |
+  <3 Type='0' Data='0501'/>Though it's hard to see where they are
+  at this hour...
+Talk_1091: |
+  <3 Type='0' Data='0a00'/>Rain? Again?
+Talk1011: |
+  <3 Type='0' Data='0b00'/>You're kidding... Right? Did you forget?
+  
+  
+  The three caves near Floria Falls, where
+  you drove out the giant monster brothers.
+  
+  <3 Type='0' Data='0700'/>There's lots of luminous stone for the
+  taking in them, so they're very popular
+  places for travelers!
+LargeHorse: |
+  Will that fit in the stable?
+Talk_1011: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='08005300690067006800'/>I guess you did hear.
+  
+  
+  There are <0 Type='3' Data='0000'/>three caves <0 Type='3' Data='ffff'/>that appeared
+  around here after the Upheaval.
+Talk_1092: |
+  <3 Type='0' Data='0a00'/>This lightning is horrible.
+Talk1012: |
+  <3 Type='0' Data='0b00'/>What? Don't tell me you haven't heard
+  about it!
+  
+  <3 Type='0' Data='0101'/>It's practically all anyone can talk about
+  right now.
+  
+  <3 Type='0' Data='0700'/>From the stable, cross the river, and
+  you'll soon see some strange creatures.
+Talk_1012: |
+  <3 Type='0' Data='0b00'/>OK, funny guy! Don't pretend you
+  weren't listening!
+  
+  Fine, then. I won't tell you about it.
+  You can just tell me what's going on in
+  your life.<5 Type='1'/> OK?
+Talk1013: |
+  <3 Type='0' Data='0701'/>Anything else?
+Talk_1013: |
+  <3 Type='0' Data='0700'/>Huge deposits of luminous stone can be
+  mined in those caves, so they're popular
+  spots for travelers. <5 Type='0'/>Or, they were.
+  Then the <0 Type='3' Data='0000'/>three giant monster brothers<0 Type='3' Data='ffff'/>
+  showed up.
+  
+  <3 Type='0' Data='0a01'/>Those three used to be over in Taran Pass
+  to the northeast, but now they're in our
+  region, hogging the caves for themselves.
+  <3 Type='0' Data='0c00'/>If we don't do something, travelers will
+  stop coming here, and business at the
+  stable will dry up!
+  <3 Type='0' Data='0a00'/>*sigh* <5 Type='0'/>I can't win.<5 Type='0'/> It's not as though
+  they'll up and leave.
+Talk1014: |
+  <3 Type='0' Data='0700'/>We get a lot of thunderstorms here.
+  If you're carrying anything metal,
+  be careful.
+  You'll be safer inside. When you hear
+  thunder, find shelter as soon as you can.
+Talk1060: |
+  <3 Type='0' Data='0700'/>You heading out somewhere? Be careful.
+  Around here, rain can kick up without any
+  warning at all.
+Talk_1014: |
+  <3 Type='0' Data='0201'/>*cough*
+  
+  
+  <3 Type='0' Data='0300'/><4 Type='0' Data='1600540061006c006b00440065006e0079005f0030003000'/>Uh...
+  
+  
+  Sheesh, all right. There are <0 Type='3' Data='0000'/>three
+  caves <0 Type='3' Data='ffff'/>that appeared around here
+  after the Upheaval.
+Talk_1060: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1a0055006e006400650072007300740061006e0064005f0030003100'/>With those pesky brothers gone at last,
+  the guests will start pouring back in!
+  
+  I guess I'd better get back to work, huh?<0 Type='4'/>And, listen, you've got your reward. But
+  if you ever need luminous stones, feel
+  free to take all you need from the caves.
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004c0061007500670068005300'/>And there are plenty of areas of interest
+  besides those caves for you to see
+  around here.
+  Not to mention rare animals that you can
+  only find around this stable. Take it easy.
+Talk1015: |
+  <3 Type='0' Data='0700'/>Hey, buddy. You already went to the
+  <0 Type='3' Data='0000'/>three caves <0 Type='3' Data='ffff'/>past Floria Falls, right?
+  
+  Then did you come across <0 Type='3' Data='0000'/>that animal<0 Type='3' Data='ffff'/>
+  along the way? The one you can only
+  see near this stable.
+Talk_1061: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='0c004e006f007400690063006500'/>Oh... <5 Type='0'/>Shoot! Your pouch is full.
+  
+  
+  I was going to give you a special meal
+  made with local ingredients.
+  
+  Come back when you've made some
+  space, and I'll give it to you. <5 Type='1'/>No rush
+  at all.
+Near_1000: |
+  I can't catch a break.
+Talk_1062: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1a0055006e006400650072007300740061006e0064005f0030003100'/>As a reward for defeating the three
+  monster brothers, I was going to give
+  you a special meal.
+  If you want a taste of some delicious
+  local cuisine, then make some room in
+  your pouch!
+Near_1001: |
+  Ugh... The caves...
+Talk_1063: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Oh, it's you! Are you ready for your
+  reward? <5 Type='1'/>Because your reward is ready
+  for YOU!
+Near_1002: |
+  Those darn monsters...
+Near_1003: |
+  They're really gone?!
+Talk1030: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='0a0053006c00650065007000'/>Mmm... *mumble*
+Talk_1030: |
+  <3 Type='0' Data='0a00'/>With <0 Type='3' Data='0000'/>the caves <0 Type='3' Data='ffff'/>occupied by the monsters,
+  fewer and fewer customers are coming
+  to the stable.
+  If only some brave someone would drive
+  away the <0 Type='3' Data='0000'/>three giant monster brothers<0 Type='3' Data='ffff'/>...
+Near_1004: |
+  Stable business is stable!
+Talk_1031: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1600540061006c006b00440065006e0079005f0030003000'/>See that big waterfall? There are three
+  caves around it.

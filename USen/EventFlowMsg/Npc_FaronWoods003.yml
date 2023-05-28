@@ -1,0 +1,113 @@
+Talk1100: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Tell me, buddy. Are you interested in
+  those <0 Type='3' Data='0000'/>unusual animals <0 Type='3' Data='ffff'/>after all?
+Talk1020: |
+  <3 Type='0' Data='0801'/>Those are a species of animal that few
+  have ever seen called <0 Type='3' Data='0000'/>Dondons<0 Type='3' Data='ffff'/>. They
+  were discovered in this area.
+  A young woman on the opposite bank
+  has been taking care of them. She really
+  knows her stuff.
+  If you'd like to learn more, buddy,
+  I'd suggest that you talk to her.
+Talk1021: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>Oh,<5 Type='0'/> so you're curious about them too?
+  Then you must have a keen mind.
+Talk1125_01: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003100'/>Wait...<5 Type='0'/> Is that a giant white stallion you
+  have with you, buddy?
+  
+  <3 Type='0' Data='0700'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>That's as impressive as a Dondon!<5 Type='0'/> Thanks
+  for showing me something so rare.
+WakkaCharm: |
+  Great decoration there.
+Talk1010: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003000'/>Oh!<5 Type='0'/> Hi there.<0 Type='4'/>Didn't really notice you walk up, buddy.
+  I've been looking across the way there.
+  
+  <3 Type='0' Data='0801'/>I wonder, are you curious about the <0 Type='3' Data='0000'/>
+  unusual animals<0 Type='3' Data='ffff'/> over there too?
+Talk1130_01: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>There's a lot of rain ahead.<5 Type='0'/> Don't tough it
+  out. Just rest at the stable.
+Near0001: |
+  Up close, if I can...
+Near0002: |
+  I'd like to touch a Dondon.
+Talk1000: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='0c005300610064005f0030003100'/>I'd like to get a close look at the animals
+  over there. But darn it all. They run off
+  when people get close.
+Talk1130: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1200530075007200700072006900730065005300'/>Hello, hello... Like being out in the rain
+  like this?
+BoneHorse: |
+  A skeleton...horse?
+Talk1001: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>Fascinating creatures...<5 Type='0'/> Stocky build,
+  bulky animals, all of them...
+  
+  What I wouldn't give to get a closer look.<5 Type='0'/>
+  Better yet, to touch one.
+Talk1131: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Oh,<5 Type='0'/> are you out and about in this
+  weather? You watch yourself, buddy.<5 Type='0'/>
+  Lightning! And more lightning!
+Talk1132: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hi there.<5 Type='0'/> Where are you off to so early?<5 Type='1'/>
+  As for me, I'm thinking of getting a
+  closer look at the Dondons.
+0001: |
+  Unusual animals?
+Talk1120: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='0a0048006100700070007900'/>A young woman on the opposite bank has
+  been taking care of them. She knows her
+  stuff, all right. She could tell you more.
+Talk1133: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>The Dondons are on the opposite bank.
+  You should go see them if you're curious.
+0002: |
+  Goodbye.
+Talk1131_01: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='0a0048006100700070007900'/>It's rough if lightning strikes any of your
+  metallic possessions. Don't risk it. Just
+  rest at the stable.
+Talk1134: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='08004500610073006500'/>You've got to excuse me. My old bones
+  need a rest.
+Talk1131_02: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='0a0048006100700070007900'/>It can be hard to see through all of the
+  trees around here, and at night, it's even
+  trickier. Be careful as you travel.
+StableHostelPicture: |
+  That there's a nice picture.
+GoldHorse: |
+  That's a special horse.
+Talk1110: |
+  <3 Type='0' Data='0801'/>Those are a new species of animal that
+  few have ever seen called <0 Type='3' Data='0000'/>Dondons<0 Type='3' Data='ffff'/>. They
+  were discovered in this area.
+Talk1136: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='0a0053006c00650065007000'/><FontSize Value='80'/>Dondons... Soft as a...pillow...<FontSize Value='100'/>
+Talk1137: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0600530061006400'/>Darn it all. I can't see a single one of
+  those Dondons in the rain...
+Talk1030: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a0048006100700070007900'/>I'd like to get close enough to touch one.
+  If only once!
+Talk1125: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Speaking of new kinds of creatures...<0 Type='4'/>A pair of fellows visited the stable
+  recently and said they're searching
+  for some <0 Type='3' Data='0000'/>unusual creatures<0 Type='3' Data='ffff'/>.
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>They're seeking a <0 Type='3' Data='0000'/>giant white stallion<0 Type='3' Data='ffff'/> and
+  nothing less than the <0 Type='3' Data='0000'/>horse god<0 Type='3' Data='ffff'/>.
+  
+  Unusual, indeed. That stallion sounds
+  much larger than a horse. And that god is
+  surely much greater than a creature!
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Those two headed west of here, toward
+  the <0 Type='3' Data='0000'/>Lake of the Horse God<0 Type='3' Data='ffff'/>. You could go
+  talk to them if this sounds intriguing.
+Talk1138: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a005400680069006e006b00'/>Lightning, lightning! The dragon god must
+  be angry today!

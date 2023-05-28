@@ -1,0 +1,117 @@
+Near0001: |
+  But where could they...
+Talk_Greeting0002: |
+  <3 Type='0' Data='0700'/>Oh, I remember you... What are you up
+  to today?
+Talk_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>Hm? Did Purah send you? I'm Saguru.
+  Nice to meet you. I specialize in studying
+  the <0 Type='3' Data='0000'/>sky islands<0 Type='3' Data='ffff'/>.
+  I mean, look at all of these fascinating
+  ruins just dropping out of the sky!<5 Type='1'/> Great
+  stuff, right?
+  <3 Type='0' Data='0400'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>Huh?<5 Type='1'/> Wait, you're not with the
+  survey team!
+  
+  This is an official Ring Ruins research site.
+  It's dangerous here for civilians.
+  
+  <3 Type='0' Data='0800'/><4 Type='0' Data='12004c0061007500670068004c005f0030003000'/>But if you're the sort of guy who comes
+  all the way out here for curiosity's sake,
+  you must be a researcher at heart.
+  Since you're here, I'm happy to answer
+  questions. Um, as long as they're about
+  the <0 Type='3' Data='0000'/>sky islands<0 Type='3' Data='ffff'/>.
+Near0002: |
+  Ack, rain in my eye!
+Talk_Greeting0003: |
+  <3 Type='0' Data='0700'/>Oh, I remember you... What are you doing
+  out so late?
+Talk_Greeting0004: |
+  <3 Type='0' Data='0b00'/>Huh? What are you doing out in rain
+  like this?
+Talk_03: |
+  <3 Type='0' Data='0c00'/>We're not sure what lives up there, but
+  we've found new species of plants around
+  the fallen ruins.
+  And if there are plants, I'm sure other
+  things live up there too.
+  
+  <3 Type='0' Data='0701'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>If you're interested in that sort of thing...
+Talk_10: |
+  <3 Type='0' Data='0700'/>You know when you start daydreaming
+  and stare off into the sky? And then you
+  go, "whoa, a floating ruin?!"
+  That's a sky island.
+  
+  
+  <4 Type='0' Data='1000480061007000700079005f0030003000'/>Remnants of the Zonai civilization, like
+  these <0 Type='3' Data='0000'/>Ring Ruins<0 Type='3' Data='ffff'/>, have fallen all over.
+  Turns out they come from the <0 Type='3' Data='0000'/>sky islands<0 Type='3' Data='ffff'/>.
+  <3 Type='0' Data='0100'/>Which means...
+  
+  
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068004c00'/>The whole Zonai legacy is up there! The
+  islands are untouched, so everything must
+  be well-preserved.
+Talk_11: |
+  <3 Type='0' Data='0700'/>Try talking to <0 Type='3' Data='0000'/>Cori<0 Type='3' Data='ffff'/>. She's our resident
+  plant expert.
+  
+  Right now she's trying to <0 Type='3' Data='0000'/>cultivate plants<0 Type='3' Data='ffff'/>
+  that were attached to the ruins.
+Talk_05: |
+  <3 Type='0' Data='0700'/>We don't have a way to get to the <0 Type='3' Data='0000'/>sky
+  islands<0 Type='3' Data='ffff'/>. At least, not YET! I'd love to
+  go someday.
+  <FontSize Value='80'/><3 Type='0' Data='0c01'/>I bet the folks in Tarrey Town could improve the
+  balloon. I wish I had a reason to head northeast...<FontSize Value='100'/>
+Talk_12: |
+  <3 Type='0' Data='0701'/>If that interests you, you should definitely
+  ask her about it.
+Talk_13: |
+  <3 Type='0' Data='0c00'/>Hmm...<5 Type='1'/> I want to know more about <0 Type='3' Data='0000'/>armor<0 Type='3' Data='ffff'/>
+  made with Zonai tech.
+  
+  <3 Type='0' Data='0701'/>Clothing and culture are tied together,
+  and there's so much we don't know about
+  either of them. So many mysteries...
+  <3 Type='0' Data='0c01'/>Anyway, the <0 Type='3' Data='0000'/>bigger the sky island<0 Type='3' Data='ffff'/>, the
+  bigger the settlements. We think some
+  sort of <0 Type='3' Data='0000'/>cultural relic <0 Type='3' Data='ffff'/>must be up there.<0 Type='3' Data='0000'/><0 Type='3' Data='ffff'/>
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0e0045006100730065005f0030003000'/>But since we can't get up there, it's all
+  conjecture. I'll have to content myself
+  studying the Ring Ruins.
+0015: |
+  Goodbye.
+Talk_08: |
+  <3 Type='0' Data='0701'/>This is an official Ring Ruins investigation
+  site... <5 Type='1'/>And it IS dangerous for civilians...<5 Type='1'/>
+  
+  <3 Type='0' Data='0100'/>But I respect your curiosity.
+  
+  
+  Since you came all the way out, I'll answer
+  any of your questions. Um, as long as
+  they're about the <0 Type='3' Data='0000'/>sky islands<0 Type='3' Data='ffff'/>.
+Talk_14: |
+  <3 Type='0' Data='0700'/>What admirable curiosity! Do you have
+  any questions about the <0 Type='3' Data='0000'/>sky islands<0 Type='3' Data='ffff'/>?
+  They're my specialty.
+  If I'm honest, I don't know much about
+  anything else.
+0016: |
+  What are sky islands?
+Talk_15: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004c0061007500670068005300'/>I'm not boring you, am I?
+  
+  
+  Because I can go on about the <0 Type='3' Data='0000'/>sky islands<0 Type='3' Data='ffff'/>
+  forever! Go ahead, ask me anything!
+0017: |
+  Anything live up there?
+0018: |
+  What makes you curious?
+Talk_Greeting0001: |
+  <3 Type='0' Data='0700'/>Oh, I remember you... What are you up to
+  this early?

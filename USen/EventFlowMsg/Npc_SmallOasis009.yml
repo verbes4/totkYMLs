@@ -1,0 +1,421 @@
+Com_Talk_14: |
+  <3 Type='0' Data='0000'/>For <2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/> of them, I can give you
+  <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>, OK?
+Com_Talk_00: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004c0061007500670068005300'/>Whaddaya got for me?
+Com_Talk_15: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a005400680069006e006b00'/>Maybe Hylian merchants buy weird stuff
+  like that, but I sure don't.
+Com_Talk_01: |
+  <3 Type='0' Data='0000'/>That's worth <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>!
+  Sound good?
+Com_Talk_16: |
+  <3 Type='0' Data='0500'/><4 Type='0' Data='0a005400680069006e006b00'/>You're an odd one, y'know that? I can't
+  buy that until you stop wearing it.
+Com_Talk_02: |
+  <3 Type='0' Data='0800'/>I appreciate it! Is that all?
+Com_Talk_04: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004c0061007500670068005300'/>"Slow and steady wins the race!"<5 Type='0'/> Did I
+  use that phrase correctly?
+Com_Talk_05: |
+  <3 Type='0' Data='0000'/>Keep 'em coming!
+5500: |
+  OK.
+5501: |
+  Never mind.
+Talk_24: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0a0048006100700070007900'/>All right, sure. I'm happy to buy!
+5502: |
+  I'll buy.
+5503: |
+  Never mind.
+Talk_10: |
+  <3 Type='0' Data='0800'/>You've got a good eye, chum!
+Talk_11: |
+  <3 Type='0' Data='0900'/>I'd never sell anything to the likes of you!
+  Get outta here before I show you how
+  skilled of a hunter I am!
+talk1030: |
+  <3 Type='0' Data='0800'/>Still a bit green, aren't you?
+  
+  
+  The correct answer is "vasaaq." But I am
+  impressed that you didn't throw out "va"
+  or something.
+  Novices want to abbreviate anything,
+  but not everything in Gerudo can be
+  shortened. That's what makes it difficult.
+  Well, that, and the fact that Hylians seem
+  to have a difficult time pronouncing the
+  "va" sound.
+  It's like this... You bite your lip, and...
+  
+  
+  <3 Type='0' Data='0401'/>"Va."
+  
+  
+  <3 Type='0' Data='0701'/>Like that.
+  
+  
+  <3 Type='0' Data='0401'/>"Ba"...
+  
+  
+  <3 Type='0' Data='0701'/>is wrong.
+  
+  
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068005300'/>OK, that's it for my Gerudo lessons! That
+  was a pretty fun time. Sarq!
+near1000: |
+  All this stuff is fresh!
+talk1031: |
+  <3 Type='0' Data='0800'/>Still a bit green, aren't ya?
+  
+  
+  What a shame for you to do so well only
+  to get tripped up right at the end.
+  
+  The correct answer is "vasaaq." The word
+  "va" doesn't exist.
+  
+  Novices want to abbreviate anything,
+  but not everything in Gerudo can be
+  shortened. That's what makes it difficult.
+  All right, let's finish with some
+  pronunciation review. Watch carefully
+  now. You bite your lip, and...
+  <3 Type='0' Data='0401'/>"Va."
+  
+  
+  <3 Type='0' Data='0701'/>Like that.
+  
+  
+  <3 Type='0' Data='0401'/>"Ba"...
+  
+  
+  <3 Type='0' Data='0701'/>is wrong.
+  
+  
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068005300'/>And that's a wrap on my Gerudo lessons.
+  That was a pretty fun time. Sarq!
+near1001: |
+  Got to go hunting soon...
+5507: |
+  I'll take 'em all!
+near1002: |
+  I hope she's OK...
+5508: |
+  All of them.
+near1003: |
+  I will hunt you down.
+talk1020: |
+  <3 Type='0' Data='0800'/>You're a greedy one, kiddo!
+  
+  
+  Well, I don't mind. Let's see, I taught you
+  the daytime greeting before...<5 Type='1'/> So what's
+  the <0 Type='3' Data='0000'/>nighttime greeting<0 Type='3' Data='ffff'/>?
+near1004: |
+  ...Is this a Hylian thing?
+talk1021: |
+  <3 Type='0' Data='0800'/>I can teach you some Gerudo, if you want.
+  
+  
+  My products have a price, but my Gerudo
+  lessons are free!
+talk1022: |
+  <3 Type='0' Data='0800'/>Ding, ding, ding! That's right! I knew
+  you'd get it!
+  
+  Actually, "votta" is ALSO correct, but you
+  mostly hear it from younger Gerudo.
+  
+  And since I'm running a business here,
+  I like to keep my language professional.<0 Type='4'/>The "vo" part is pronounced by biting
+  your lip as you say it.
+  
+  <3 Type='0' Data='0401'/>"Vo."
+  
+  
+  <3 Type='0' Data='0401'/>"Vo."
+  
+  
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068005300'/>Well? Do you have it down?
+Com_Talk_05b: |
+  <3 Type='0' Data='0000'/>Don't be shy, show me what you got!
+talk1023: |
+  <3 Type='0' Data='0800'/>Ding, ding, ding! That's right! You really
+  know your slang!
+  
+  Young Gerudo use "votta" all the time, but
+  technically, the "proper" way to say it
+  would be "sav'otta."
+  The "vo" part is pronounced by biting
+  your lip as you say it.
+  
+  <3 Type='0' Data='0401'/>"Vo."
+  
+  
+  <3 Type='0' Data='0401'/>"Vo."
+  
+  
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068005300'/>Well? Did you get that?
+Com_Talk_05c: |
+  <3 Type='0' Data='0000'/>I can't wait to see what you'll sell me!
+AssassinClothes: |
+  You looking for trouble?
+talk1024: |
+  <3 Type='0' Data='0800'/>You take your studies seriously, huh?
+  
+  
+  OK, this is the last one. Something every
+  merchant should know—how do you say
+  "<0 Type='3' Data='0000'/>welcome<0 Type='3' Data='ffff'/>" in Gerudo?
+Com_Talk_05d: |
+  <3 Type='0' Data='0000'/>Let's see the good stuff!
+talk1010: |
+  <3 Type='0' Data='0801'/>Well? What do you think? I sound just like
+  your average Hylian shopkeeper, right?
+0010: |
+  Teach me Gerudo!
+talk1025: |
+  <3 Type='0' Data='0800'/>Ding, ding, ding! That's right! I had a
+  feeling you'd get that one.
+  
+  Actually, "sav'a" is ALSO correct, but you
+  mostly hear that from younger Gerudo.
+  
+  As a businesswoman, I try to keep my
+  language strictly professional.<0 Type='4'/>The "va" part is pronounced by biting
+  your lip as you say it.
+  
+  <3 Type='0' Data='0401'/>"Va."
+  
+  
+  <3 Type='0' Data='0401'/>"Va."
+  
+  
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068005300'/>So? Think you've got it figured out?
+Com_Talk_50: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>That's <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>, OK?
+talk1011: |
+  <3 Type='0' Data='0800'/>I know, right?!
+  
+  
+  My kid sister taught me. She's traveled
+  all over the place!
+0011: |
+  Sav'otta.
+talk1026: |
+  <3 Type='0' Data='0800'/>Ding, ding, ding! That's right! You really
+  know your slang!
+  
+  Young Gerudo use "sav'a" all the time,
+  but technically, the "official" way to say
+  it is "sav'aaq."
+  The "va" part is pronounced by biting
+  your lip as you say it.
+  
+  <3 Type='0' Data='0401'/>"Va."
+  
+  
+  <3 Type='0' Data='0401'/>"Va."
+  
+  
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068005300'/>Well? Did you get that?
+Talk_08: |
+  <3 Type='0' Data='0800'/>You bought out my whole stock! Thank
+  you! The fish are really biting today!<5 Type='0'/>
+  ...Did I use that right?
+talk1012: |
+  <3 Type='0' Data='0c00'/>What is it? Did I get something wrong?<5 Type='0'/>
+  
+  
+  My kid sister, who's traveled all over,
+  taught me...
+0012: |
+  Votta.
+Com_Talk_52: |
+  <3 Type='0' Data='0000'/>So <2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/> of them will come to <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/>
+  rupees<0 Type='3' Data='ffff'/>, is that OK?
+Talk_09: |
+  <3 Type='0' Data='0800'/>Thanks, fella! A sale a day keeps the
+  sand shroud away!
+0013: |
+  Sav'aaq.
+talk1028: |
+  <3 Type='0' Data='0800'/>Ding, ding, ding! That's right! You really
+  know your slang!
+  
+  Young Gerudo use "sav'a" all the time,
+  but technically, the "official" greeting
+  should be "sav'saaba."
+  The "ba" part is pronounced WITHOUT
+  biting your lip as you say it.
+  
+  <3 Type='0' Data='0401'/>"Ba."
+  
+  
+  <3 Type='0' Data='0401'/>"Ba."
+  
+  
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068005300'/>Well? Feeling more informed now?
+talk1013: |
+  <3 Type='0' Data='0801'/>Anything else, slugger?
+Com_Talk_53: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004c0061007500670068005300'/>Is this a "look before you leap" sort of
+  situation? Is that what they say?
+talk1014: |
+  <3 Type='0' Data='0800'/>I'd be happy to!
+  
+  
+  Then let's start with greetings. What's the
+  <0 Type='3' Data='0000'/>morning greeting<0 Type='3' Data='ffff'/> in Gerudo?
+0014: |
+  Sav'a.
+talk1029: |
+  <3 Type='0' Data='0800'/>Ding, ding, ding! That's right! It was kind
+  of a trick question, but I knew it wouldn't
+  fool you, champ!
+  Novices usually try to abbreviate "vasaaq"
+  to "va"...
+  
+  But you can't just go around shortening
+  everything, you know?
+  
+  By the way, you pronounce "va" by
+  biting your lip...
+  
+  <3 Type='0' Data='0401'/>"Va."
+  
+  
+  <3 Type='0' Data='0701'/>Like that.
+  
+  
+  <3 Type='0' Data='0401'/>"Ba"...
+  
+  
+  <3 Type='0' Data='0701'/>is wrong.
+  
+  
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068005300'/>Well, that does it for my Gerudo lessons!
+  I had fun getting to teach you. Sarq!
+Com_Talk_54: |
+  <3 Type='0' Data='0c00'/>Doesn't look like you have enough
+  rupees. Should I buy something from you?
+talk1000: |
+  <3 Type='0' Data='0801'/>Stop on by! Take a look!<5 Type='0'/> You've got a
+  real discerning eye, sonny!<0 Type='4'/>Hee-hee, I'm a regular Hylian shopkeeper,
+  aren't I? My products have a price, but
+  my Gerudo lessons are free!
+0015: |
+  Sav'saaba.
+Com_Talk_55: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0a005400680069006e006b00'/>Hang on...your pouch looks like it's about
+  to spill over. Go make some room first.
+talk1001: |
+  <3 Type='0' Data='0801'/>Business sure is boomin', huh?
+  
+  
+  My products have a price, but my Gerudo
+  lessons are free!
+talk1016: |
+  <3 Type='0' Data='0800'/>I'd be happy to!
+  
+  
+  Then let's start with greetings. What's the
+  <0 Type='3' Data='0000'/>daytime greeting<0 Type='3' Data='ffff'/> in Gerudo?
+0016: |
+  Sav'a.
+Com_Talk_56: |
+  <3 Type='0' Data='0000'/>That'll be <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>.
+talk1017: |
+  <3 Type='0' Data='0800'/>I'd be happy to!
+  
+  
+  Then let's start with greetings. What's the
+  <0 Type='3' Data='0000'/>nighttime greeting<0 Type='3' Data='ffff'/> in Gerudo?
+0017: |
+  Basaaq.
+talk1002: |
+  <3 Type='0' Data='0c00'/><FontSize Value='80'/>Those Gibdos from before... Just what are they,
+  anyway? <0 Type='3' Data='0000'/>Gerudo Town<0 Type='3' Data='ffff'/> is safe...right?
+  
+  It has to be...<FontSize Value='100'/>
+  
+  
+  <3 Type='0' Data='0400'/>Oh...a customer!<5 Type='1'/>
+talk1003: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1400430061006c006c004600610072005f0030003100'/>Up and at 'em!<5 Type='0'/>
+talk1018: |
+  <3 Type='0' Data='0800'/>You're a greedy one, kiddo!
+  
+  
+  Well, I don't mind. Let's see, I taught you
+  the nighttime greeting before...<5 Type='1'/> So what's
+  the <0 Type='3' Data='0000'/>morning greeting<0 Type='3' Data='ffff'/>?
+0018: |
+  Vasaaq.
+talk1019: |
+  <3 Type='0' Data='0800'/>You're a greedy one, kiddo!
+  
+  
+  Well, I don't mind. Let's see, I taught you
+  the morning greeting before...<5 Type='1'/> So what's
+  the <0 Type='3' Data='0000'/>daytime greeting<0 Type='3' Data='ffff'/>?
+talk1004: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003100'/>Oh, right... You're a voe—<5 Type='1'/>a man—so...
+  
+  
+  There won't be many places for you to
+  use Gerudo even if you do learn it, since
+  you can't enter Gerudo Town...
+0019: |
+  Va.
+talk1005: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1400430061006c006c004600610072005f0030003100'/>Hey there, champ!<5 Type='0'/>
+0006: |
+  I have things to sell!
+talk1006: |
+  <3 Type='0' Data='0a00'/>I hope Gerudo Town is OK...
+  
+  
+  I'm worried about my little sister, but
+  the sand shroud makes it tough to go
+  check on her...
+Com_Talk_31: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>How many should I wrap up for you?
+0007: |
+  Goodbye.
+talk1007: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='10004700720065006500740069006e006700'/>My little sister runs a butcher shop over
+  in <0 Type='3' Data='0000'/>Gerudo Town<0 Type='3' Data='ffff'/>.
+  
+  After the sand shroud cleared up, I went
+  to see her for the first time in a while.
+  Face-to-face chats really are important.
+Com_Talk_02b: |
+  <3 Type='0' Data='0800'/>Thanks a million, buddy! Hehe, that's how
+  they say it where you're from, right?
+talk1008: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1400430061006c006c004600610072005f0030003100'/>Late enough for ya?<5 Type='0'/>
+0008: |
+  You're a natural.
+Com_Talk_33: |
+  <3 Type='0' Data='0000'/>Just one?<5 Type='0'/> That'll be <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>, OK?
+Com_Talk_02c: |
+  <3 Type='0' Data='0800'/>Thank you! Always happy to buy!
+0009: |
+  ...
+talk1009: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1400430061006c006c004600610072005f0030003100'/>I'm practically givin' these away!<5 Type='0'/>
+Com_Talk_34: |
+  <3 Type='0' Data='0000'/>All of them?! Business is booming!<5 Type='0'/>
+  I have <2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/> of those, so your total will
+  come to <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>, OK?
+Com_Talk_02d: |
+  <3 Type='0' Data='0800'/>Thanks, ace!
+Com_Talk_35: |
+  All <2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/> of them? Let's see, does <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/><0 Type='3' Data='ffff'/>
+  <0 Type='3' Data='0000'/><201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/> sound OK to you?
+Com_Talk_13: |
+  <3 Type='0' Data='0000'/>How many are you selling?

@@ -1,0 +1,22 @@
+Name: |
+  Princess Zelda Kidnapped?!
+Search: |
+  It seems the Yiga have kidnapped Princess
+  Zelda. The ruffians left behind a single clue:
+  "We have taken Zelda to the carved-out
+  heart of the towering twins!"
+  
+  The word "<0 Type='3' Data='0000'/>twins<0 Type='3' Data='ffff'/>" seems to have caught
+  Penn's attention...
+Escape: |
+  You followed the clue that the Yiga left behind:
+  "We have taken Zelda to the carved-out
+  heart of the towering twins!"
+  
+  You thought you had found Zelda trapped in
+  a cage, but it was really a Yiga in disguise.
+Complete: |
+  The imprisoned Zelda was an impostor. You
+  escaped the Yiga's trap and reported the truth
+  of the matter to Penn. It seems he'll retell the
+  exciting tale in an upcoming newspaper article.

@@ -1,0 +1,28 @@
+Name: |
+  A Picture for Snowfield Stable
+Step02: |
+  Varke, owner of Snowfield Stable, is pleased to
+  have hung up a painting of "the giant bird with
+  wings stretched wide," which can be seen in
+  the Hebra Mountains when it's not snowing.
+  
+  He was going to give you a reward, but your
+  inventory was full. Be sure to trim your
+  belongings before you accept his gift.
+Step01: |
+  Varke, the owner of Snowfield Stable, wants to
+  hang up a painting of "the giant bird with wings
+  stretched wide" in the Hebra Mountains.
+  It's said this bird can be seen when looking
+  northwest from the <0 Type='3' Data='0000'/>lone cedar tree on Talonto
+  Peak<0 Type='3' Data='ffff'/> when it isn't snowing. Maybe there's a
+  way to take a picture of it and show it to Varke.
+Complete: |
+  Varke, owner of Snowfield Stable, is pleased to
+  have hung up a painting of "the giant bird with
+  wings stretched wide," which can be seen in
+  the Hebra Mountains when it's not snowing.
+  
+  Still, he's happy to replace it with a different
+  picture of the same scenery. Just show him a
+  new image and he'll make a copy to display.

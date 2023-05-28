@@ -1,0 +1,40 @@
+Talk_1008: |
+  <3 Type='0' Data='0801'/>The day is young. Who knows? If I hurry,
+  maybe I'll have something ready for the
+  evening edition!
+Near_1000: |
+  Great stories here, but...
+Talk_1009: |
+  <3 Type='0' Data='0801'/>The night is young. Who knows? If I hurry,
+  maybe I'll have something ready before
+  we go to print!
+Talk_1010: |
+  <3 Type='0' Data='0701'/>As for you, partner... Why not rest at the
+  inn till daybreak? Don't want to be stuck
+  outside with the late-night monster crowd.
+Talk_1001: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Partner, you're here! I should've known
+  you'd come to this stable too.
+  
+  Anyone with a beak for sniffing out news
+  can tell this place has potential.
+  
+  <3 Type='0' Data='0c01'/>A <0 Type='3' Data='0000'/>god of horses<0 Type='3' Data='ffff'/>? Suspicious events at the
+  <0 Type='3' Data='0000'/>nearby laboratory<0 Type='3' Data='ffff'/>?
+  
+  We could ink a week's worth of issues
+  about the goings-on in this place alone.<5 Type='1'/>
+  
+  <3 Type='0' Data='0500'/><4 Type='0' Data='0c005300610064005f0030003100'/>But I have bad news, and the headline is
+  "No Leads on Princess at This Stable."<5 Type='0'/>
+  
+  No chirps. No warbles. Nothing. Pains
+  me to leave knowing how many articles
+  I could've hatched here.
+  <3 Type='0' Data='0801'/>There's nothing to do but take wing and
+  head for another stable.
+Talk_1006: |
+  Anyway, off I go...<5 Type='1'/>
+Talk_1007: |
+  <3 Type='0' Data='0000'/>As for you, partner... Why not go dry out
+  at the inn? You're looking pretty soaked.

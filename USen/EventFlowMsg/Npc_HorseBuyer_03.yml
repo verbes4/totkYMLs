@@ -1,0 +1,339 @@
+Com_Talk_14: |
+  <3 Type='0' Data='0001'/>If you're selling <2 Type='2' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/> of them, I'll buy 'em
+  all for <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>. OK?
+Com_Talk_00: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>So you're selling, eh?
+Com_Talk_15: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0600530061006400'/>Aww,<5 Type='1'/> there's no way I can buy that.
+Com_Talk_01: |
+  <3 Type='0' Data='0001'/>I'll buy it for <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>. OK?
+Com_Talk_16: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='1200530075007200700072006900730065005300'/>Oh, come on!<5 Type='0'/> If you want to sell the
+  clothes you're wearing, at least take
+  'em off first.
+Com_Talk_02: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0a0048006100700070007900'/>Thank you! <5 Type='0'/>Selling anything else?
+Com_Talk_04: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0600530061006400'/>Aww.<5 Type='1'/> That's too bad!
+Com_Talk_05: |
+  <3 Type='0' Data='0001'/>I'll buy whatever you've got.
+Com_Talk_06: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>I recommend Hateno Village's
+  specialty products.
+StartPoint_01_2: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>I'm from <0 Type='3' Data='0000'/>Hateno Village<0 Type='3' Data='ffff'/>, an idyllic little
+  town in <0 Type='3' Data='0000'/>Necluda<0 Type='3' Data='ffff'/>.
+  
+  It's <0 Type='3' Data='0000'/>east<0 Type='3' Data='ffff'/> of <0 Type='3' Data='0000'/>Dueling Peaks<0 Type='3' Data='ffff'/>. You should
+  check it out!
+Com_Talk_07: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0600530061006400'/>I'm sorry.<5 Type='1'/> We're all sold out of that
+  for now.
+5500: |
+  Yes.
+Greeting: |
+  <3 Type='0' Data='0800'/>Hi there! Welcome to Rolling Pastures!
+GoalPoint_01: |
+  <3 Type='0' Data='0100'/>Oh!<5 Type='0'/> Before you buy anything, can I take a
+  moment to brag?
+  
+  <3 Type='0' Data='0800'/>It's about my brother. He's becoming a
+  big-time chef! Isn't that exciting?
+  
+  <3 Type='0' Data='0301'/>Though, I haven't heard from him since he
+  and his friends went to <0 Type='3' Data='0000'/>Riverside Stable <0 Type='3' Data='ffff'/>to
+  learn more about cooking.
+  <3 Type='0' Data='0c00'/>The stable's located <0 Type='3' Data='0000'/>by a river<0 Type='3' Data='ffff'/> on the
+  <0 Type='3' Data='0000'/>southeastern <0 Type='3' Data='ffff'/>part of Hyrule Field. Maybe
+  I should go and see how he's doing...
+Com_Talk_08: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0600530061006400'/>Well now... <5 Type='0'/>Looks like you don't have
+  enough <0 Type='3' Data='0000'/>rupees<0 Type='3' Data='ffff'/>.
+5501: |
+  No.
+Atacked00: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='0a0053006300610072006500'/>Argh! <5 Type='0'/>I'm done for!<0 Type='4'/>But who's gonna look after my precious
+  horse when I'm gone?!
+GoRange_01_2: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>To capture a horse, sneak up on it very
+  quietly. Very, VERY quietly. Got it?
+Com_Talk_09: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0600530061006400'/>Hey... <5 Type='0'/>Looks like your pouch is full.<5 Type='0'/> Come
+  back when you've made some room.
+5502: |
+  I'll buy.
+Atacked01: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='0a0053006300610072006500'/>Eek! <5 Type='0'/>What am I gonna do? All my stock
+  will be ruined! Where's a hero when I
+  need one?!
+5503: |
+  Never mind.
+Guardian00: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='0a0053006300610072006500'/>No, nope. No, thank you! <5 Type='0'/>That thing is 
+  WAY too dangerous to be on the loose!
+  
+  We don't have enough lives to take on
+  something like that!
+GoRange_03_2: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0001'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Hateno Village<0 Type='3' Data='ffff'/> is most famous for its
+  fresh milk. But you absolutely NEED to
+  try their Hylian tomatoes!<5 Type='0'/>
+  If you want to visit, go to <0 Type='3' Data='0000'/>Dueling Peaks<0 Type='3' Data='ffff'/>
+  in Necluda, and then head <0 Type='3' Data='0000'/>east<0 Type='3' Data='ffff'/>.
+  
+  <3 Type='0' Data='0100'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>I eat good Hateno produce every day!
+SavedLv1_00: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='08004500610073006500'/>Sheesh! That was scary.<5 Type='0'/> Thanks for
+  your help!
+GoRange_01: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0a0048006100700070007900'/>What a wide-open prairie. The horses
+  around here look so carefree as they
+  graze and gallop...
+  <3 Type='0' Data='0701'/>You know how to capture a horse, right?
+  
+  
+  You sneak up on them very, very quietly
+  from behind, and...<5 Type='1'/> That's it!
+BackRange_01_2: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>My horse loves trotting around on the
+  wide, open plain.<5 Type='0'/> I've got a happy steed!
+SavedLv1_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='08004500610073006500'/>You sure know how to handle a monster.<5 Type='0'/>
+  Thank you!
+GoRange_02: |
+  <3 Type='0' Data='0700'/>Hey, you wanna know a trick to take down
+  <0 Type='3' Data='0000'/>monsters<0 Type='3' Data='ffff'/> and <0 Type='3' Data='0000'/>wild animals <0 Type='3' Data='ffff'/>easily?
+  
+  Use your <0 Type='3' Data='0000'/>bow and arrows<0 Type='3' Data='ffff'/>...<5 Type='1'/>and aim for
+  the <0 Type='3' Data='0000'/>head<0 Type='3' Data='ffff'/>!
+  
+  <3 Type='0' Data='0101'/>There you go—easy <0 Type='3' Data='0000'/>elixirs<0 Type='3' Data='ffff'/> and <0 Type='3' Data='0000'/>cooking
+  ingredients<0 Type='3' Data='ffff'/>. Though if you're cooking,
+  you'll need vegetables too...
+Near_BackRange_01: |
+  I love the plains!
+5507: |
+  I'll take 'em all!
+GoRange_03: |
+  <3 Type='0' Data='0700'/>I think everyone should go to <0 Type='3' Data='0000'/>Hateno
+  Village <0 Type='3' Data='ffff'/>in Necluda, <0 Type='3' Data='0000'/>east <0 Type='3' Data='ffff'/>of <0 Type='3' Data='0000'/>Dueling Peaks<0 Type='3' Data='ffff'/>.<5 Type='0'/>
+  If for no other reason than the food!
+  They're most famous for fresh milk,<5 Type='0'/>
+  but you haven't lived till you've tasted
+  their Hylian tomatoes!
+  If you use milk or vegetables in your
+  cooking, you can't go wrong with
+  Hateno's finest.
+  <3 Type='0' Data='0801'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>I eat veggies from home every day.<5 Type='0'/>
+  I never get tired of it!
+Near_BackRange_02: |
+  See any animals nearby?
+5508: |
+  All of them.
+BackRange_03_2: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/><0 Type='3' Data='0000'/>Hateno Village<0 Type='3' Data='ffff'/> is known for <0 Type='3' Data='0000'/>fresh milk <0 Type='3' Data='ffff'/>and
+  <0 Type='3' Data='0000'/>vegetables<0 Type='3' Data='ffff'/>. Every time I cook with them,
+  I'm so proud of my hometown.
+  You can go there by heading to <0 Type='3' Data='0000'/>Dueling
+  Peaks <0 Type='3' Data='ffff'/>in Necluda, and then heading <0 Type='3' Data='0000'/>east<0 Type='3' Data='ffff'/>.
+  
+  <4 Type='0' Data='12004c00610075006700680053005f0030003100'/>And let me tell you, produce from Hateno
+  is the BEST. Throw 'em in your cook pot—
+  you'll see!
+Near_BackRange_03: |
+  The best you've tasted!
+ShopGoodBye_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Come again, got it?
+Com_Talk_05b: |
+  <3 Type='0' Data='0001'/>I'm not feeling picky. Sell me whatever.
+Com_Talk_05c: |
+  <3 Type='0' Data='0001'/>I'll give you a good price!
+Com_Talk_05d: |
+  <3 Type='0' Data='0001'/>What've you got? I'll probably buy it!
+RainPoint_01: |
+  <3 Type='0' Data='0000'/>Not a fan of this weather, are you?
+ShopGreet_00: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Now... <5 Type='0'/>How about sampling some of
+  Hateno Village's finest?
+StartPoint_01: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='10004700720065006500740069006e006700'/>I have to say, the rumors don't do
+  <0 Type='3' Data='0000'/>Lookout Landing <0 Type='3' Data='ffff'/>justice! It's full of people
+  and waaay bigger than I expected.
+  <3 Type='0' Data='0701'/>I'm from <0 Type='3' Data='0000'/>Hateno Village<0 Type='3' Data='ffff'/>, <0 Type='3' Data='0000'/>east<0 Type='3' Data='ffff'/> of <0 Type='3' Data='0000'/>Dueling
+  Peaks<0 Type='3' Data='ffff'/>. This is actually my first time
+  leaving <0 Type='3' Data='0000'/>Necluda<0 Type='3' Data='ffff'/>...
+  Maybe that's why everything is so
+  impressive.<5 Type='0'/> It's a totally different world.<0 Type='4'/><3 Type='0' Data='0800'/><4 Type='0' Data='0a0048006100700070007900'/>Leaving made me appreciate Hateno
+  though.<5 Type='0'/> It's so laid-back and idyllic.
+  You can really relax.
+  Plus, <0 Type='3' Data='0000'/>fashion<0 Type='3' Data='ffff'/>'s become really popular
+  there recently. You've really got to visit!
+Thanks00: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0a0048006100700070007900'/>No way you're getting out of here without
+  a little thank-you gift. Here!
+Near_GoRange_01: |
+  The horses look happy!
+0001: |
+  I'll buy.
+SavedLv2_00: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0a0048006100700070007900'/>Thank you!<5 Type='0'/> I don't know what I would've
+  done without you!
+Near_GoRange_02: |
+  Aim for the head!
+0002: |
+  I'm selling.
+SavedLv2_01: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0a0048006100700070007900'/>Whoa, you put on quite the show!
+Near_GoRange_03: |
+  Hateno's famed produce...
+0003: |
+  Never mind.
+Near_Thunder: |
+  Lightning, that's...scary...
+Near_GoalPoint_01: |
+  I hope my brother's OK.
+Com_Talk_30: |
+  <3 Type='0' Data='0001'/>Great choice. How many you want?
+Near_GoalPoint_02: |
+  Who doesn't like eggs?
+Com_Talk_31: |
+  <3 Type='0' Data='0001'/>For <2 Type='2' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/> of them, that's <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>.
+  Sound good?
+GoRange_02_2: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/><0 Type='3' Data='0000'/>Monsters<0 Type='3' Data='ffff'/> and<0 Type='3' Data='0000'/> wild animals <0 Type='3' Data='ffff'/>all have a weak
+  spot...<5 Type='1'/>the <0 Type='3' Data='0000'/>head<0 Type='3' Data='ffff'/>. Aim your arrows there!
+  
+  What's my weakness? <5 Type='1'/>That's easy—
+  fresh vegetables!
+Com_Talk_02b: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0a0048006100700070007900'/>Thank you.
+Com_Talk_11_b: |
+  <3 Type='0' Data='0800'/>Hehe! <5 Type='0'/>Looks like I'm eating fancy tonight!
+Com_Talk_32: |
+  <3 Type='0' Data='0001'/>One of them? That'll cost ya
+  <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>.
+Com_Talk_02c: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0a0048006100700070007900'/>Thank you very much.
+Com_Talk_11_c: |
+  <3 Type='0' Data='0800'/>Thank you very much!<5 Type='1'/> That'll definitely
+  come in handy for you!
+Com_Talk_33: |
+  <3 Type='0' Data='0001'/>Just one? I'll give you <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>
+  for it. Deal?
+Near_StartPoint_01: |
+  It's even bigger in person!
+Com_Talk_02d: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0a0048006100700070007900'/>Hehe.<5 Type='0'/> Thanks!
+Com_Talk_11_d: |
+  <3 Type='0' Data='0800'/>Thanks a ton!
+Com_Talk_34: |
+  <3 Type='0' Data='0401'/>Wh-what?! <5 Type='1'/>Every single one?!<5 Type='0'/> But <2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/> of
+  'em will be <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>...<5 Type='1'/> You sure?
+GoalPoint_01_2: |
+  <3 Type='0' Data='0700'/>I really am proud of my brother for
+  following his passions.
+  
+  <3 Type='0' Data='0300'/>But I miss him. He went to <0 Type='3' Data='0000'/>Riverside
+  Stable<0 Type='3' Data='ffff'/> with his friends to learn more about
+  cooking and never came back.
+  <3 Type='0' Data='0c00'/>It's <0 Type='3' Data='0000'/>by a river <0 Type='3' Data='ffff'/>on the <0 Type='3' Data='0000'/>southeastern <0 Type='3' Data='ffff'/>part
+  of Hyrule Field. Maybe I'll drop in and
+  see how he's doing.
+Com_Talk_20: |
+  <3 Type='0' Data='0101'/>Thanks for seeking me out in this terrible
+  weather. <5 Type='0'/>I'm sure you'll find a product
+  here that's perfect for you!
+Com_Talk_35: |
+  <3 Type='0' Data='0401'/>You're selling all of 'em?<5 Type='1'/> I can give you
+  <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>. Deal?
+EnokidaSignboard: |
+  Ah, "son and done," right?
+GoalPoint_01_3: |
+  <3 Type='0' Data='0700'/>Oh, hey there! Listen up, 'cause I've got
+  a tip for you.
+  
+  They keep <0 Type='3' Data='0000'/>Cuccos <0 Type='3' Data='ffff'/>at<0 Type='3' Data='0000'/> Riverside Stable<0 Type='3' Data='ffff'/>,
+  which is to the east. And—here's the
+  tip—you can get eggs from 'em! 
+  All you need to do is...give 'em a
+  good scare!
+  
+  <3 Type='0' Data='0100'/>They call that the cluck of the draw! Hehe.
+BackRange_02_2: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004c0061007500670068005300'/>If you're attacked by a<0 Type='3' Data='0000'/> monster <0 Type='3' Data='ffff'/>or <0 Type='3' Data='0000'/>wild
+  animal<0 Type='3' Data='ffff'/>, take out your <0 Type='3' Data='0000'/>bow and arrows<0 Type='3' Data='ffff'/>
+  and aim straight for the <0 Type='3' Data='0000'/>head<0 Type='3' Data='ffff'/>!
+Com_Talk_36: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0a0048006100700070007900'/>Thanks to you and your wallet, I'm out of
+  stock today! 
+GoalPoint_01_4: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0000'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/><0 Type='3' Data='ffff'/>You can get a<0 Type='3' Data='0000'/> Cucco<0 Type='3' Data='ffff'/>'s<0 Type='3' Data='0000'/> <0 Type='3' Data='ffff'/>eggs if you give it
+  a good scare! But don't go crowing this
+  tip all over, got it?
+Com_Talk_37: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a0048006100700070007900'/>Everything's sold out!<5 Type='1'/> Thanks for
+  shopping with me!
+  
+  I might be out of stock, but I can offer
+  an exclusive preview of my upcoming
+  offerings. Wanna take a look?
+ShopTalk_01: |
+  <3 Type='0' Data='0700'/>Need anything else?
+Near_RainPoint_01: |
+  Just listen to that rain!
+BackRange_01: |
+  <3 Type='0' Data='0700'/>It feels so good to be out on the plains!<5 Type='1'/>
+  My friend seems to be enjoying it too.
+  
+  Huh?<5 Type='0'/> Stop looking at me like that.<5 Type='0'/>
+  It might seem like I'm alone, but my
+  best friend is right here.
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>See?<5 Type='0'/> My bestie's got four legs and a
+  pretty mane. Hehe!
+ShopGreet_01_3: |
+  I also sell <0 Type='3' Data='0000'/>Hateno cheese<0 Type='3' Data='ffff'/>, the popular
+  new product from Hateno Pasture!
+Com_Talk_10: |
+  <3 Type='0' Data='0001'/>So, that's what you'd like?
+BackRange_02: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>If a<0 Type='3' Data='0000'/> monster <0 Type='3' Data='ffff'/>or<0 Type='3' Data='0000'/> wild animal <0 Type='3' Data='ffff'/>attacks, don't
+  panic. Take a deep breath, take out your
+  <0 Type='3' Data='0000'/>bow<0 Type='3' Data='ffff'/>, and nock an arrow.
+  Then aim for the <0 Type='3' Data='0000'/>head<0 Type='3' Data='ffff'/>!
+  
+  
+  If you hit 'em right in the sweet spot...<5 Type='1'/>
+  Heh. <5 Type='0'/>You'll see!
+Com_Talk_11: |
+  <3 Type='0' Data='0800'/>You made a great choice!
+RainPoint_01_2: |
+  <3 Type='0' Data='0700'/>Rain seems to make everyone upset.
+  But not me!
+  
+  I find the sound of it soothing. Besides,
+  there are some animals who only come
+  out when it's raining.
+  And the plants need that moisture!
+BackRange_03: |
+  <3 Type='0' Data='0700'/><0 Type='3' Data='0000'/>Hateno Village<0 Type='3' Data='ffff'/> is famous for <0 Type='3' Data='0000'/>fresh milk<0 Type='3' Data='ffff'/>
+  and produce, like <0 Type='3' Data='0000'/>Hylian tomatoes<0 Type='3' Data='ffff'/>!
+  They're tasty and nutritious.
+  You COULD eat them raw...<5 Type='0'/>but they're
+  even better if you <0 Type='3' Data='0000'/>cook <0 Type='3' Data='ffff'/>'em up first.
+  
+  If you wanna visit Hateno for yourself,
+  go to <0 Type='3' Data='0000'/>Dueling Peaks <0 Type='3' Data='ffff'/>in Necluda, and then
+  head <0 Type='3' Data='0000'/>eastward<0 Type='3' Data='ffff'/>.
+  <3 Type='0' Data='0101'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>Just wait till you start cooking with fresh
+  milk and produce.<5 Type='0'/> Culinary perfection!
+Com_Talk_12: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>I've got a good feeling you're gonna like
+  my stock.<5 Type='1'/> Take a look.
+SavedLv3_00: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='08004500610073006500'/>If you hadn't shown up, I...I...<5 Type='1'/>I don't even
+  know what would have happened. Thanks!
+Com_Talk_13: |
+  <3 Type='0' Data='0001'/>You'll sell me that? How many can I buy?
+SavedLv3_01: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0a0048006100700070007900'/>I'm...<5 Type='1'/> I'm alive?!<5 Type='1'/> I can't believe it!<5 Type='0'/>
+  Thank you!

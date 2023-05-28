@@ -1,0 +1,29 @@
+Name: |
+  Mine-Cart Land: Quickshot Course
+BeforeGame: |
+  YunoboCo presents...Mine-Cart Land! You have
+  cleared the beginner course.
+  
+  Heehl invited you to try the intermediate one.
+Craft: |
+  YunoboCo presents...Mine-Cart Land! You have
+  cleared the beginner's course and can now play
+  Heehl's intermediate one.
+  
+  <0 Type='3' Data='0000'/>Hit <2 Type='2' Data='3c0047006f0072006f006e005f004d0069006e006900470061006d0065005f00300032005f00500061007300730069006e006700530063006f0072006500ffff00cd'/> targets<0 Type='3' Data='ffff'/> within the time limit <0 Type='3' Data='0000'/>to win<0 Type='3' Data='ffff'/>.
+  Place the cart on the rails, and get in to start
+  the game.
+Playing: |
+  YunoboCo presents...Mine-Cart Land! You have
+  cleared the beginner's course and can now play
+  Heehl's intermediate one.
+  
+  <0 Type='3' Data='0000'/>Hit <2 Type='2' Data='3c0047006f0072006f006e005f004d0069006e006900470061006d0065005f00300032005f00500061007300730069006e006700530063006f0072006500ffff00cd'/> targets<0 Type='3' Data='ffff'/> within the time limit <0 Type='3' Data='0000'/>to win<0 Type='3' Data='ffff'/>.
+  Careful though—if you get out of the cart, you'll
+  be disqualified.
+Complete: |
+  You hit <2 Type='2' Data='3c0047006f0072006f006e005f004d0069006e006900470061006d0065005f00300032005f00500061007300730069006e006700530063006f0072006500ffff00cd'/> targets within the time limit,
+  clearing the course in style.
+  
+  Kabetta's high-difficulty course awaits you
+  at the peak of Death Mountain.

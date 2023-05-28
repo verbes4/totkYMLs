@@ -1,0 +1,36 @@
+SavedLv1_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a0048006100700070007900'/>Sarqso! <5 Type='0'/>I will try to be more careful
+  in the future.
+EnokidaSignboard: |
+  Ah, "son and done," right?
+AssassinClothes: |
+  Yiga?!
+Failed00: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0600530061006400'/>Phew. I almost died. <5 Type='0'/>Couldn't you have
+  come any faster?
+SavedLv3_00: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>I thought I was done for. Sarqso.
+Failed01: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0600530061006400'/>I was expecting my dream voe to come
+  and save me... He did not.
+Guardian00: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='0a0053006300610072006500'/>Wh-what is that?!<5 Type='0'/> Please, go away!
+SavedLv3_01: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>Sarqso!<5 Type='0'/> I would surely be dead if not
+  for you.
+Atacked00: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0a0053006300610072006500'/>Eep! Help! I can't die before I meet the
+  voe of my destiny!
+SavedLv2_00: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>Sarqso!<5 Type='0'/> Your strength has saved me.
+Atacked01: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0a0053006300610072006500'/>How terrible! Attacking me before I've
+  met the voe of my destiny!
+SavedLv2_01: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>Not bad! You would make a capable
+  bodyguard.
+SavedLv1_00: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>There are no more monsters, right?<5 Type='0'/>
+  Thank goodness.
+Thanks00: |
+  <3 Type='0' Data='0801'/>Consider this your reward.

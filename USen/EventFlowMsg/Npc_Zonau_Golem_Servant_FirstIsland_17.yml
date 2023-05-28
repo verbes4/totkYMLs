@@ -1,0 +1,33 @@
+0000: |
+  Fortified how?
+talk_02: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a0048006100700070007900'/>That is excellent news. <5 Type='1'/>The cold can be
+  fatal for the unprepared.
+talk_07: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a0048006100700070007900'/>That is a relief. <5 Type='1'/>Take care to keep yourself
+  warm as you climb the mountain.
+talk_03: |
+  <3 Type='0' Data='0700'/>The primary safeguards used by our
+  creators were <0 Type='3' Data='0000'/>meals that warmed them<0 Type='3' Data='ffff'/>.<0 Type='4'/>These meals were typically prepared using
+  ingredients with <0 Type='3' Data='0000'/>warm-sounding<0 Type='3' Data='ffff'/> names.<5 Type='0'/>
+  Any such ingredients will suffice.<0 Type='4'/>Some also wore thick clothes or warmed
+  themselves by a fire. <5 Type='0'/>These solutions were
+  effective but less accessible.<0 Type='4'/><3 Type='0' Data='0700'/>Be mindful of your ingredients when
+  cooking. <5 Type='0'/>My understanding is that only
+  one cooking effect can apply per meal.<0 Type='4'/>You must take care not to eat something
+  with a different effect afterward. <5 Type='0'/>The chill
+  will set in again sooner than you expect.
+0002: |
+  I'm all set!
+talk_04: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Are you <0 Type='3' Data='0000'/>fortified against the cold <0 Type='3' Data='ffff'/>of this
+  snowy mountain?
+talk_00: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Excuse me. <5 Type='0'/>The snowy mountain above us
+  is extremely cold.<0 Type='4'/>Unprepared travelers will <0 Type='3' Data='0000'/>swiftly lose
+  vitality<0 Type='3' Data='ffff'/> and may even die. <5 Type='1'/>Are you <0 Type='3' Data='0000'/>fortified
+  against the cold<0 Type='3' Data='ffff'/>?
+talk_05: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a005400680069006e006b00'/>Insufficient preparation can lead to death
+  in harsh environments. <0 Type='4'/>My advice can avert this. Please
+  listen carefully.

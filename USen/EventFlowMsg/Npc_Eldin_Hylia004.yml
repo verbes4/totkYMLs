@@ -1,0 +1,100 @@
+talk03: |
+  <3 Type='0' Data='0700'/>Fireproof gear is way out of my
+  price range...
+  
+  But it's basically free to catch a wild
+  fireproof lizard to make it into a
+  <0 Type='3' Data='0000'/>fireproof elixir<0 Type='3' Data='ffff'/>.
+  So I'm taking extra care and making sure
+  my <0 Type='3' Data='0000'/>footsteps don't make noise <0 Type='3' Data='ffff'/>so I go
+  home with a good haul today.
+  <3 Type='0' Data='0c00'/>Ideally, I'd root around their burrow <0 Type='3' Data='0000'/>inside
+  of the cave<0 Type='3' Data='ffff'/>.
+  
+  <3 Type='0' Data='0701'/>But without any fireproof gear, it's way
+  too hot for Hylians like us to last long
+  in there.
+talk12: |
+  <3 Type='0' Data='0700'/>I wish I had fireproof gear like you do,
+  buddy. But it's out of my price range.
+  
+  But it's basically free to catch a wild
+  fireproof lizard to make it into a
+  <0 Type='3' Data='0000'/>fireproof elixir<0 Type='3' Data='ffff'/>.
+  So I'm taking extra care and making sure
+  my <0 Type='3' Data='0000'/>footsteps don't make noise <0 Type='3' Data='ffff'/>so I go
+  home with a good haul today.
+  <3 Type='0' Data='0c00'/>Ideally, I'd root around their burrow <0 Type='3' Data='0000'/>inside
+  of the cave<0 Type='3' Data='ffff'/>.
+  
+  <3 Type='0' Data='0701'/>But without any fireproof gear, it's way
+  too hot for Hylians like us to last long
+  in there.
+talk04: |
+  <3 Type='0' Data='0700'/>Oh, didn't see you there. I've got <0 Type='3' Data='0000'/>fireproof
+  lizards<0 Type='3' Data='ffff'/> on the brain.
+  
+  So, uh...did you need something?
+  I'm kinda busy.
+talk05: |
+  <3 Type='0' Data='0700'/>Yeah. This is a good spot, since it's close
+  to their <0 Type='3' Data='0000'/>burrow<0 Type='3' Data='ffff'/>.<0 Type='4'/>I found it first.<0 Type='4'/>If you want to catch<0 Type='3' Data='0000'/> fireproof lizards<0 Type='3' Data='ffff'/>,
+  maybe do it elsewhere?
+talk00: |
+  <FontSize Value='80'/><3 Type='0' Data='0700'/><0 Type='3' Data='0000'/><4 Type='0' Data='1000480061007000700079005f0030003100'/><0 Type='3' Data='ffff'/>Oh, <0 Type='3' Data='0000'/>fireproof lizards<0 Type='3' Data='ffff'/>, come out and plaaay...<1 Type='0' Data='1e000000'/>eh?<FontSize Value='100'/>
+talk07: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>Look, buddy. <5 Type='1'/>If you don't want anything,
+  can you leave me alone?<0 Type='4'/>These fireproof lizards are <0 Type='3' Data='0000'/>sensitive to
+  noise<0 Type='3' Data='ffff'/>, and catching them is hard enough
+  as it is.
+0000: |
+  Fireproof lizards?
+talk01: |
+  <3 Type='0' Data='0700'/>Fireproof lizards are a key ingredient for
+  <0 Type='3' Data='0000'/>fireproof elixirs<0 Type='3' Data='ffff'/>, you see.
+  
+  Fireproof equipment is so pricey that
+  I can't afford it, but fireproof lizards?
+  They don't cost a thing.
+  <3 Type='0' Data='0c00'/>It seems like their <0 Type='3' Data='0000'/>burrow <0 Type='3' Data='ffff'/>is <0 Type='3' Data='0000'/>inside the
+  cave<0 Type='3' Data='ffff'/>, and that's where I'd like to get to.
+  
+  But the cave is sweltering hot. A Hylian
+  like you or me wouldn't last long without 
+  appropriate defenses.
+  <3 Type='0' Data='0700'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Oh, do me a favor, buddy. If you're after
+  the lizards too, please go catch them
+  somewhere else.
+  They're always on high alert, and they're
+  <0 Type='3' Data='0000'/>really sensitive to footsteps<0 Type='3' Data='ffff'/>.
+talk10: |
+  <3 Type='0' Data='0700'/>I wish I had fireproof gear like you
+  do, buddy.
+  
+  But it's out of my price range...
+  
+  
+  If you're wondering, I'm out here catching
+  fireproof lizards so I can brew a<0 Type='3' Data='0000'/> fireproof
+  elixir <0 Type='3' Data='ffff'/>or two.
+  <3 Type='0' Data='0c00'/>I've figured out that their <0 Type='3' Data='0000'/>burrow <0 Type='3' Data='ffff'/>is <0 Type='3' Data='0000'/>inside
+  the cave<0 Type='3' Data='ffff'/>, so I want to get in there and get
+  to work.
+  Problem is, the cave is absolutely
+  sweltering, and a Hylian like me
+  wouldn't last long in there.
+  <3 Type='0' Data='0701'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Even so...if you're after fireproof
+  lizards, please do me a favor and go
+  catch elsewhere.
+  These lizards are always on high alert and
+  are <0 Type='3' Data='0000'/>really sensitive to footsteps<0 Type='3' Data='ffff'/>, so the
+  less feet there are here, the better.
+0001: |
+  No.
+talk02: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>Then...if you don't want anything, can you
+  leave me alone?<0 Type='4'/>These fireproof lizards are <0 Type='3' Data='0000'/>sensitive to
+  noise<0 Type='3' Data='ffff'/>, and catching them is hard enough
+  as it is.
+near00: |
+  Heeeeeere, lizards!

@@ -1,0 +1,57 @@
+Talk00: |
+  <3 Type='0' Data='0800'/>Bye-byeee!
+Talk07: |
+  <3 Type='0' Data='0000'/>Oh, and my friends are hiding in lots of
+  different places too! So you should keep
+  an eye out while you wander.
+Near02: |
+  Oof...
+CompTalk01: |
+  You've gathered all of the Korok Seeds!
+  You should tell Hestu the good news!
+Talk01: |
+  <3 Type='0' Data='0700'/>Hi!<5 Type='0'/> I gotta tell you something!
+  
+  
+  I've been hearing<5 Type='1'/> that <0 Type='3' Data='0000'/>Korok Forest<0 Type='3' Data='ffff'/> up
+  north from<0 Type='3' Data='0000'/> <0 Type='3' Data='ffff'/>Hyrule Castle has been really
+  weird lately...
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='0600530061006400'/>I'm kinda worried about everyone in the
+  forest...
+Talk08: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='0600530061006400'/>I'd heard that Korok Forest has been
+  kinda weird lately. I wonder if it's
+  better yet...
+CompTalk02: |
+  You've gathered all of the Korok Seeds!
+Talk02: |
+  <3 Type='0' Data='0700'/>Hmmm...
+  
+  
+  I'd heard that Korok Forest was all weird
+  for a while there.
+  
+  <3 Type='0' Data='0800'/>But I guess now it's back to normal. That
+  makes me happy! Yay!
+Talk03: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='2a00480069006400640065006e004b006f0072006f006b005f004100700070006500610072005f0030003000'/>Ya-ha-ha! You found me!
+Talk05: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Come to think of it...
+  
+  
+  <3 Type='0' Data='0c01'/>I'd heard that Korok Forest has been
+  kinda weird lately. I wonder if it's
+  better yet...
+Near00: |
+  Ouch.
+Talk06: |
+  <3 Type='0' Data='0c00'/>Huh?<5 Type='0'/> You're not Hestu!
+  
+  
+  <3 Type='0' Data='0000'/>But...<5 Type='1'/>you see me?<5 Type='1'/> I didn't know someone
+  like you could see children of the forest.
+  
+  <3 Type='0' Data='0800'/>Well,<5 Type='0'/> if you see Hestu, please return this
+  to him.
+Near01: |
+  Gyah!

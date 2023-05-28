@@ -1,0 +1,160 @@
+GoalPoint_01: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>*sigh* I wonder how Meghyn is doing...
+  
+  
+  Is she OK by herself? Is she finding new
+  mushroom types?
+  
+  <3 Type='0' Data='0100'/>We've never split up like this.
+  
+  
+  But...she's got a good head on her
+  shoulders.<5 Type='0'/> Just, um, don't tell her I
+  said that.
+  <4 Type='0' Data='0c004c0061007500670068005300'/>She's probably doing just fine selling the
+  mushrooms she finds.
+GoRange_01: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>Maybe it's time to explore the
+  caves again...
+  
+  Some mushrooms only grow in caves,
+  and Satori Mountain isn't far from here.
+GoRange_02_2: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0c004c0061007500670068005300'/>It'll always be just the three of us—me,
+  Meghyn, and mushrooms.
+BackRange_01_2: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0c004c0061007500670068005300'/>Why do you think the rushrooms growing
+  on cliffs are so wonderful?
+  
+  Whenever I see one, it's hard to keep my
+  feet on the ground.
+GoRange_02: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>I wonder what Meghyn is up to...
+  
+  
+  Mushrooms make me think about
+  Meghyn, and Meghyn makes me think
+  about mushrooms.
+  <3 Type='0' Data='0100'/>Mushrooms aren't sticky, usually...but
+  they're what holds us together.
+Near_StartPoint_01: |
+  Mushrooms... Hmm...
+StartPoint_01: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0c004c0061007500670068005300'/>See all these trees? Mushrooms like to
+  grow in places like this.
+  
+  You'll also find fruits and herbs and
+  things, but who cares about that when
+  there are all these perfect mushrooms?
+GoRange_03: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>All this traveling is giving me lots of
+  new ideas.<5 Type='1'/>
+  
+  Like, what if there are mushrooms on
+  the sky islands? Ones that don't grow
+  anywhere else?
+  If I was a Rito, I'd explore every island.
+StartPoint_01_2: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0c004c0061007500670068005300'/>Isn't the forest incredible? It provides all
+  sorts of things, from fruit to herbs...<5 Type='1'/>
+  
+  But I barely think about that when there
+  are mushrooms to find!
+BackRange_01: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>When I spend too long on the ground, I
+  start itching to go climbing for rushrooms.
+  
+  <3 Type='0' Data='0100'/>It's not only the rushrooms I want—it's
+  also the thrill of climbing a cliff to
+  pick them.
+Near_BackRange_01: |
+  Even on cliffs...
+Near_GoRange_01: |
+  Caves are good spots...
+BackRange_02: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0600530061006400'/>I know there aren't SUPPOSED to be any
+  mushrooms in the fields, but what if
+  there ARE?
+  Wouldn't it be awful if I overlooked one
+  just because I didn't think it could exist?
+Near_BackRange_02: |
+  They're in the grass too...
+Near_GoRange_02: |
+  When I see a mushroom...
+RainPoint_01_2: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0c004c0061007500670068005300'/>When I think about those happy
+  mushrooms sucking up the rain,
+  taking a break is no big deal!
+GoRange_01_2: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Some mushrooms only grow in dark
+  places, so exploring caves is inevitable.
+  
+  I haven't been to Satori Mountain yet,
+  so that sounds like a good place to
+  head next.
+GoRange_03_2: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>There may be undiscovered mushrooms
+  on the sky islands... But there are plenty
+  for me to find on the ground too!
+BackRange_02_2: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>Mushrooms like trees, not big empty
+  stretches of grass. Looking in fields
+  might be useless...
+  <3 Type='0' Data='0a00'/>But what if I miss one? <5 Type='0'/>I'd never
+  forgive myself.
+Near_RestPoint_01: |
+  On that sky island...
+FriendGreet_01_2: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='0a0048006100700070007900'/>I didn't think I'd see you again!
+  
+  
+  Meghyn's also off looking for mushrooms
+  somewhere. I wonder how she's doing...
+Near_Thunder: |
+  Thunder?!
+GoalPoint_01_2: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0c004c0061007500670068005300'/>Meghyn is surprisingly dependable. I trust
+  her to stay out of trouble!
+  
+  She's probably happily selling all the
+  mushrooms she's found on her travels.
+RainPoint_01: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003100'/>The rain might slow down my search...<5 Type='1'/>
+  
+  
+  <3 Type='0' Data='0801'/>But it's so good for mushrooms!
+  Bring it on!
+Near_RainPoint_01: |
+  Bring on the rain!
+FriendGreet_00: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>Oh, hello! <5 Type='0'/>It's me!
+  
+  
+  Um, y'know, Nat. I'm usually with my little
+  sister, Meghyn. We were looking for the
+  mushroom haven!
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>Thanks for helping us out with the tent
+  and the mushrooms!
+  
+  It's because of you that the mushroom-
+  haven mystery is solved!
+  
+  Meghyn and I are traveling separately
+  for now. We're each trying to discover
+  new mushrooms.
+  There's no way I'm going to let her find
+  some before I do. What kind of big sister
+  would I be if I let her beat me to it?
+FriendGreet_01: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Oh, hi again!
+  
+  
+  My little sister, Meghyn, and I split up to
+  see if we can discover new types of
+  mushrooms. Can you help me out?
+  Just kidding! I want to know I beat her all
+  by myself.
+Near_Rain: |
+  Oooh, rain!
+Near_GoalPoint_01: |
+  Meghyn...

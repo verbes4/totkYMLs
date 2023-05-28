@@ -1,0 +1,130 @@
+Talk_0010: |
+  <3 Type='0' Data='0000'/>Did you come looking for <0 Type='3' Data='0000'/>eggs<0 Type='3' Data='ffff'/> too?
+  
+  
+  It seems like folks are allowed to pick
+  up the eggs here. What few are left
+  behind, at least.
+  With this rain drowning out our footsteps,
+  we might be able to get in there without
+  ruffling any Cucco feathers.
+Talk_0020: |
+  <3 Type='0' Data='0000'/>Did you come looking for <0 Type='3' Data='0000'/>eggs<0 Type='3' Data='ffff'/> after all?
+  
+  
+  It seems like folks are allowed to pick
+  up the eggs here. What few are left
+  behind, at least.
+  With this rain drowning out our footsteps,
+  we might be able to get in there without
+  ruffling any Cucco feathers.
+0001: |
+  Goodbye.
+Near_0007: |
+  I saw one over there!
+Talk_0021: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004e006f007400690063006500'/>Did you already forget the recipe for
+  an egg tart?
+  
+  You'll need bird eggs, of course. Those
+  can be picked up around here.
+  
+  They sell goat butter in Kakariko Village
+  to the east and Hateno Village to the
+  southeast, so that's easy enough.
+  But Tabantha wheat only grows in the
+  Tabantha region up northwest...
+  
+  And cane sugar is only sold in <0 Type='3' Data='0000'/>Goron City<0 Type='3' Data='ffff'/>
+  to the northeast.
+  
+  <3 Type='0' Data='0100'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>Maybe put that recipe to paper. I'd hate
+  for you to do all that legwork only to
+  forget again.
+Talk_0012: |
+  <3 Type='0' Data='0000'/>Did you come looking for <0 Type='3' Data='0000'/>eggs<0 Type='3' Data='ffff'/> after all?
+  
+  
+  It seems like folks are allowed to pick
+  up the eggs here. What few are left
+  behind, at least.
+Talk_0022: |
+  <3 Type='0' Data='0c00'/>This rain will make it easier to sneak up
+  without the Cuccos taking notice. But
+  there aren't many eggs for the taking...
+NakedPlayer: |
+  Not many layers there, eh?
+Talk_0023: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='0600530061006400'/>I need one egg. Just one! Then I'll have
+  all the ingredients to make an <0 Type='3' Data='0000'/>egg tart<0 Type='3' Data='ffff'/>.
+Talk_0013: |
+  <3 Type='0' Data='0700'/>I think I'll give up for today and resume
+  the search for bird eggs tomorrow.
+  
+  No skin off my nose! The longer I crave
+  it, the tastier that first bite of <0 Type='3' Data='0000'/>egg tart<0 Type='3' Data='ffff'/>
+  will be!
+Talk_0014: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='0a0053006c00650065007000'/>Goat butter... <5 Type='0'/>Tabantha wheat...<5 Type='0'/>
+  Cane sugar... <5 Type='0'/>Bird egg...
+Talk_0005: |
+  <3 Type='0' Data='0800'/>You've never made an egg tart?
+  You don't know what you're missing!
+  Here—<5 Type='0'/>try it!
+  <3 Type='0' Data='0701'/>Oh, hang on, I forgot. I don't have one.
+  The ingredients are hard to get ahold of.
+  
+  You need goat butter,<5 Type='0'/> Tabantha wheat,<5 Type='0'/>
+  cane sugar,<5 Type='0'/> and a bird egg.
+  
+  Goat butter's not hard to get. You can
+  buy it in Kakariko Village to the east or
+  Hateno Village to the southeast.
+  <3 Type='0' Data='0c00'/>But like the name would imply, Tabantha
+  wheat only grows to the northwest in the
+  Tabantha region...
+  And cane sugar? The closest source is
+  <0 Type='3' Data='0000'/>Goron City<0 Type='3' Data='ffff'/> to the northeast.
+  
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='0600530061006400'/>You might say that sounds like a lot of
+  work for a tart, and...<5 Type='0'/>you'd be right.
+Talk_0016: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hello!
+Talk_0006: |
+  <3 Type='0' Data='0000'/>Did you come looking for <0 Type='3' Data='0000'/>eggs<0 Type='3' Data='ffff'/> too?
+  
+  
+  It seems like folks are allowed to pick
+  up the eggs here. What few are left
+  behind, at least.
+Talk_0017: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hey there! Good evening.
+Talk_0007: |
+  <3 Type='0' Data='0700'/>I will get those ingredients, no matter how
+  long it takes!<5 Type='1'/> In this life, nothing worth
+  eating is easy to make!
+  I will not let up until that <0 Type='3' Data='0000'/>egg tart <0 Type='3' Data='ffff'/>is
+  resting safely in my stomach.
+Near_0001: |
+  Eggs...
+Talk_0018: |
+  <3 Type='0' Data='0700'/>Thanks so much for your help finding
+  the Cuccos!
+  
+  I'd hate for them to run away again,
+  so from now on, I'll be extra careful
+  when I take their eggs.
+  Thanks again for helping with that...
+  situation. I owe you one.
+Talk_0019: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hey there! Good morning.
+Near_0003: |
+  Now's my chance!
+Near_0004: |
+  I'll do it tomorrow.
+Near_0005: |
+  Come here, eggies!
+0000: |
+  Egg tart?
+Near_0006: |
+  I saw one!

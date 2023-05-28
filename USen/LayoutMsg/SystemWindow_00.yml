@@ -1,0 +1,18 @@
+1000: |
+  Start
+0000: |
+  Overwrite previous save data?
+1001: |
+  Cancel
+0001: |
+  Restore default settings?
+1002: |
+  Yes
+0002: |
+  Return to the title screen? Please note that any
+  unsaved progress will be lost.
+1003: |
+  To Title Screen
+0003: |
+  Are you sure you want to
+  return to the title screen?

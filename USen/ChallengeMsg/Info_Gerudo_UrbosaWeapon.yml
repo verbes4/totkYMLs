@@ -1,0 +1,20 @@
+Name: |
+  Pride of the Gerudo
+Step1: |
+  Isha is prepared to craft the powerful <0 Type='3' Data='0000'/>arms of
+  the Seven <0 Type='3' Data='ffff'/>for you.
+  
+  To do so, she will need four diamonds, 10
+  pieces of flint, a Gerudo scimitar, and a
+  Gerudo shield. Even a decayed Gerudo
+  scimitar will do. Gather the required
+  materials, and then speak with Isha.
+Complete: |
+  You gave four diamonds, 10 pieces of flint, a
+  Gerudo scimitar, and a Gerudo shield to Isha,
+  and in return she crafted the arms of the Seven<0 Type='3' Data='0000'/><0 Type='3' Data='ffff'/>
+  for you.
+  
+  She also told you that, should the arms ever be
+  irrecoverable, you can bring her the materials
+  and she can remake them.

@@ -1,0 +1,121 @@
+Talk34: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Once you've made some room, please
+  come see me. I've prepared some
+  <0 Type='3' Data='0000'/>medicine <0 Type='3' Data='ffff'/>that will keep you warm.
+Talk10: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Good evening. Welcome to Rito Stable.
+Talk23: |
+  <3 Type='0' Data='0801'/>You should relax a little, listen to the
+  music of the <0 Type='3' Data='0000'/>Stable Trotters<0 Type='3' Data='ffff'/>.
+Talk11: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Ugh, this weather's just the worst.<5 Type='0'/> But
+  welcome to Rito Stable anyway.
+Talk12: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>If you'd like to use the stable, please talk
+  to the shopkeeper at the center counter.
+WakkaCharm: |
+  I really like that accessory.
+LargeHorse: |
+  Very impressive...
+Talk13: |
+  <3 Type='0' Data='0501'/>I meant to say <0 Type='3' Data='0000'/>New Serenne Stable<0 Type='3' Data='ffff'/>.<5 Type='1'/>
+  
+  
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0c005300610064005f0030003000'/>I did it again...<5 Type='0'/> I'm sorry.
+  
+  
+  It feels weird to be working somewhere
+  other than <0 Type='3' Data='0000'/>Rito Stable<0 Type='3' Data='ffff'/>, but I guess I need
+  to get used to it.
+Talk14: |
+  <FontSize Value='80'/><3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Welcome to New Serenne Stable!
+  
+  
+  Did I...<5 Type='0'/>say it right?<FontSize Value='100'/>
+  
+  
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0800'/><4 Type='0' Data='08004500610073006500'/><0 Type='3' Data='ffff'/>I just moved here from <0 Type='3' Data='0000'/>Rito Stable<0 Type='3' Data='ffff'/>, so I
+  always get the name of the stable wrong.
+  But this time, I nailed it!
+Talk27: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0a0048006100700070007900'/>This is a musical troupe that combines
+  <0 Type='3' Data='0000'/>four different instruments <0 Type='3' Data='ffff'/>into one
+  amazing performance!
+Talk15: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Welcome to <0 Type='3' Data='0000'/>New Serenne Stable<0 Type='3' Data='ffff'/>.
+Talk02: |
+  <3 Type='0' Data='0501'/>No, that's not right. I meant to say
+  "<0 Type='3' Data='0000'/>New Serenne Stable<0 Type='3' Data='ffff'/>."
+  
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0c005300610064005f0030003000'/>Yeah... <5 Type='1'/>Sorry.
+  
+  
+  I just moved over here from <0 Type='3' Data='0000'/>Rito Stable<0 Type='3' Data='ffff'/>,
+  so I keep saying the wrong name.
+Talk03: |
+  <FontSize Value='80'/><3 Type='0' Data='0101'/>Oh. <5 Type='0'/>I said it right...<FontSize Value='100'/>
+  
+  
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0800'/><4 Type='0' Data='08004500610073006500'/><0 Type='3' Data='ffff'/>I came from <0 Type='3' Data='0000'/>Rito Stable <0 Type='3' Data='ffff'/>pretty recently,
+  so I always say the wrong stable's name.<5 Type='0'/>
+  But this time, I got it right.
+Talk16: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>It was a stable much like this one, but in
+  front of <0 Type='3' Data='0000'/>Rito Village<0 Type='3' Data='ffff'/> to the <0 Type='3' Data='0000'/>west <0 Type='3' Data='ffff'/>of here.
+  The <0 Type='3' Data='0000'/>big cold snap <0 Type='3' Data='ffff'/>shut it down though.
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>I think it was replaced by a newspaper
+  company or something.
+  
+  <3 Type='0' Data='0701'/><0 Type='3' Data='0000'/>Hebra<0 Type='3' Data='ffff'/> can be really cold, so if you want to
+  go to <0 Type='3' Data='0000'/>Rito Village<0 Type='3' Data='ffff'/>, you need to <0 Type='3' Data='0000'/>prepare for
+  extreme weather<0 Type='3' Data='ffff'/>.
+Near01: |
+  Still not used to this place.
+Talk29: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Come back to Rito...<5 Type='0'/> *sigh* Come back to
+  New Serenne Stable whenever you like.
+BoneHorse: |
+  That thing is...rattling...
+Talk04: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>It was a stable much like this one, but in
+  front of <0 Type='3' Data='0000'/>Rito Village<0 Type='3' Data='ffff'/> to the <0 Type='3' Data='0000'/>west <0 Type='3' Data='ffff'/>of here.
+  The <0 Type='3' Data='0000'/>big cold snap <0 Type='3' Data='ffff'/>shut it down though.
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>I think it was replaced by a newspaper
+  company or something.
+  
+  <3 Type='0' Data='0701'/><0 Type='3' Data='0000'/>Hebra<0 Type='3' Data='ffff'/> was always cold, but it's gotten
+  really bad. If you go to <0 Type='3' Data='0000'/>Rito Village<0 Type='3' Data='ffff'/>, you
+  need to <0 Type='3' Data='0000'/>prepare for extreme weather<0 Type='3' Data='ffff'/>.
+Near02: |
+  Just wonderful...
+0001: |
+  Rito Stable?
+Talk18: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0600530061006400'/>Sorry to just keep going on and on when
+  the rain is already noisy enough...
+Near03: |
+  Oh no...
+0002: |
+  Gotta go.
+Talk06: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Oh, by the way, please take this.
+Talk19: |
+  <3 Type='0' Data='0701'/>I don't need it anymore, so...
+Talk08: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Good morning. This is Rito Stable.
+GoldHorse: |
+  Such a pretty color.
+Talk09: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Hello. Welcome to Rito Stable.
+NakedPlayer: |
+  Down to the skivvies, hm?
+Talk32: |
+  <3 Type='0' Data='0701'/>If you can't fall asleep, I bet listening
+  to the <0 Type='3' Data='0000'/>Stable Trotters<0 Type='3' Data='ffff'/> perform will help
+  you unwind.
+Talk20: |
+  <3 Type='0' Data='0701'/>Or not. I think you're carrying a little too
+  much right now.
+Talk33: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>Oh, you organized your things for me?
+  Here you go, then.

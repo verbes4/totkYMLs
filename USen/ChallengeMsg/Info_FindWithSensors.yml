@@ -1,0 +1,29 @@
+Name: |
+  Hateno Village Research Lab
+Search: |
+  Robbie says that he can equip your Purah Pad
+  with a sensor that can detect specific things.
+  He wants you to come to the Purah Pad
+  Research Lab near Hateno Village.
+  
+  You'll find it at the edge of the East Necluda
+  region in southeast Hyrule. There he'll set up
+  the sensor to detect shrines.
+Report: |
+  You discovered the shrine that the <0 Type='3' Data='0000'/>sensor <0 Type='3' Data='ffff'/>was
+  reacting to in a cave at the bottom of the hill.
+  
+  Go check in with Robbie.
+Find: |
+  Robbie installed the <0 Type='3' Data='0000'/>sensor<0 Type='3' Data='ffff'/>, which can detect
+  shrines. It uses sound to guide you to shrines
+  and will respond more strongly <0 Type='3' Data='0000'/>when you move
+  in the direction of the shrine<0 Type='3' Data='ffff'/>.
+  
+  Find the shrine down the slope right outside the
+  lab, in the direction the <0 Type='3' Data='0000'/>sensor<0 Type='3' Data='ffff'/> is pointing you.
+Complete: |
+  Robbie installed the <0 Type='3' Data='0000'/>sensor<0 Type='3' Data='ffff'/>, which detects
+  shrines. He said he's created even more
+  features for your Purah Pad. Speak to him
+  anytime if you'd like to learn more.

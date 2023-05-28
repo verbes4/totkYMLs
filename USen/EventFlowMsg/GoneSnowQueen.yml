@@ -1,0 +1,519 @@
+Talk14: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a005400680069006e006b00'/>Sounds like Teach won't take more
+  students. At least, until the blizzard cuts
+  it out or something.
+  Just get off Mount Hebra, and wait till
+  then. When you're out there, keep an eye
+  out for flags on the mountain.
+  <3 Type='0' Data='0000'/>There's flint and firewood under 'em
+  to help shield surfers stay warm. Use
+  'em as you descend, yeah?
+Talk15: |
+  <3 Type='0' Data='0b00'/>Coach?!<5 Type='1'/><0 Type='4'/><3 Type='0' Data='0701'/><4 Type='0' Data='0600530061006400'/>Oh...<5 Type='1'/> Hi, sorry. Thought ya were our
+  coach, Selmie.<0 Type='4'/><3 Type='0' Data='0a01'/>Uh... Know her?
+  
+  
+  <3 Type='0' Data='0000'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>Selmie used to be a shield surfer, real
+  pro level. Went by the name "Duchess of
+  Downhill."<5 Type='0'/> Heard of that maybe?
+  Anyway, she's taken me and my best
+  bud on as students, but then...
+0001: |
+  What's a shield surfer?
+Talk16: |
+  <3 Type='0' Data='0b00'/>Coach?!<5 Type='1'/><0 Type='4'/><3 Type='0' Data='0001'/><4 Type='0' Data='0600530061006400'/>Oh...<5 Type='1'/>it's you. Sorry. The thing is that
+  our coach, uh...<5 Type='1'/>
+0002: |
+  Make me your student!
+Talk17: |
+  <3 Type='0' Data='0a00'/>Selmie—that's our coach—has gotta be in
+  trouble out there somewhere.<5 Type='1'/><0 Type='4'/>Fin's out searching but hasn't come back.
+  Maybe it's about time I go to <0 Type='3' Data='0000'/>Biron
+  Snowshelf in the west<0 Type='3' Data='ffff'/> too.<5 Type='0'/><0 Type='4'/><3 Type='0' Data='0700'/><4 Type='0' Data='0a005400680069006e006b00'/>There are two flags on the right as you
+  go out of the lodge.<5 Type='0'/> Fin went down the
+  mountain from there.<0 Type='4'/>I think he might have gone off to the deep
+  valley, one mountain over to the west.<0 Type='4'/>He said he'd send up a <0 Type='3' Data='0000'/>smoke signal<0 Type='3' Data='ffff'/>
+  when he got to where he was going, so
+  I'd know how to find him.<5 Type='1'/><0 Type='4'/><3 Type='0' Data='0a01'/>But now it's been so long for them both.<5 Type='0'/>
+  I'm gonna stay here longer and wait for
+  Selmie—in case she comes back.<5 Type='0'/>
+0003: |
+  Goodbye.
+Talk17_01: |
+  <3 Type='0' Data='0a00'/>Selmie... <5 Type='1'/>I wonder if she's in trouble
+  somewhere.
+  
+  Fin hasn't come back either. <5 Type='0'/>Maybe I
+  should head to the <0 Type='3' Data='0000'/>Biron Snowshelf in
+  the west<0 Type='3' Data='ffff'/>.
+Talk18: |
+  <3 Type='0' Data='0b00'/>What?!<5 Type='1'/> You found Coach? She's alive, but
+  she's stuck in a cave?<0 Type='4'/>I have to go rescue her, but...<5 Type='1'/>how's
+  that gonna work out?
+  
+  <3 Type='0' Data='0500'/><4 Type='0' Data='0600530061006400'/>If Selmie got stuck going in the entrance,
+  we'll get stuck following her. Can't come
+  back the same way.
+  We need a path from where she is, one
+  <0 Type='3' Data='0000'/>that gets ya out a different way<0 Type='3' Data='ffff'/>.
+Talk17_02: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0600530061006400'/>Ah, I getcha... <5 Type='1'/>You met Fin,<5 Type='0'/> but not
+  Selmie yet, huh?<5 Type='1'/>
+  
+  <3 Type='0' Data='0a01'/>Maybe she'll see if Fin sends up a
+  smoke signal there. Maybe she won't.
+  Or maybe she's injured.
+  She might even be stuck somewhere...<5 Type='0'/>
+  I dunno...<5 Type='0'/>in a <0 Type='3' Data='0000'/>place where she can't
+  even see his smoke signal<0 Type='3' Data='ffff'/>.
+Talk19: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0600530061006400'/>So, Selmie's stuck in a cave and can't
+  get out the same way... We gotta rescue
+  her somehow.<5 Type='1'/>
+  If she couldn't get back out through the
+  entrance, <5 Type='0'/>we'll get stuck going the same
+  way too.
+  <3 Type='0' Data='0500'/>What we need is a <0 Type='3' Data='0000'/>path that gets ya out
+  a different way <0 Type='3' Data='ffff'/>from where she is. That'd
+  do it.
+Talk20: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a005400680069006e006b00'/>Hey, you...<5 Type='1'/> Happen to bump into a Hylian
+  named <0 Type='3' Data='0000'/>Selmie <0 Type='3' Data='ffff'/>around here?
+  
+  Maybe you've heard of her. Famous
+  shield surfer? Called the "Duchess of
+  Downhill" back in the day?
+  Anyway, she retired and took me and
+  my buddy on as students. She's been
+  teaching out of this area.
+Talk17_03: |
+  <3 Type='0' Data='0a00'/>I wonder where...<5 Type='1'/>Selmie is? If Fin's sent
+  up a smoke signal for her to find...
+  
+  Maybe she's injured and can't get there.
+  Or maybe she's in a place where <0 Type='3' Data='0000'/>she
+  can't see the smoke signal<0 Type='3' Data='ffff'/>.
+Talk21: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1200530075007200700072006900730065004c00'/>Whoa, dude!<5 Type='0'/> What are you doing with
+  Coach's shield?!
+Talk22: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a005400680069006e006b00'/>The traces of Selmie's shield surfing
+  got <0 Type='3' Data='0000'/>cut off around this area<0 Type='3' Data='ffff'/>,<5 Type='0'/> but I can't
+  find her anywhere.
+  I thought she might see the smoke
+  signal and know I'm right here.<5 Type='0'/> But
+  not yet, nope.
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='0600530061006400'/>Maybe she can't move, or maybe she's
+  stuck somewhere <0 Type='3' Data='0000'/>she can't see the smoke
+  signal<0 Type='3' Data='ffff'/> at all.
+Talk23: |
+  <3 Type='0' Data='0b00'/>What?!<5 Type='1'/> You found Teach?<5 Type='1'/> She can't get
+  out of a cave?! I'm just glad she's alive.<0 Type='4'/><3 Type='0' Data='0001'/>So, Selmie got stuck in a cave while
+  shield surfing, huh? You gotta admire
+  Teach for being THAT extreme.
+  <3 Type='0' Data='0701'/>But yeah, best to get down to rescuin'
+  her, soon as we can.<5 Type='1'/>
+  
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='0600530061006400'/>S'pose if we head into that cave through
+  the entrance, we can't expect to get back
+  out the same way.
+  Could there be a <0 Type='3' Data='0000'/>different path that gets
+  you out<0 Type='3' Data='ffff'/> from where she is? Maybe.
+Talk24: |
+  <3 Type='0' Data='0a00'/>How can we rescue Teach, who's back
+  in that cave somewhere?<5 Type='1'/>
+  
+  We can't count on gettin' back out
+  through the entrance.<5 Type='0'/> We'll be just as
+  stuck as Selmie.
+  <4 Type='0' Data='0600530061006400'/>We need to find some sort of path from
+  where she's stuck in there—a <0 Type='3' Data='0000'/>different
+  way to get back outside <0 Type='3' Data='ffff'/>again.
+Talk25: |
+  <3 Type='0' Data='0b00'/>What?! <5 Type='1'/>I thought I'd never see anyone
+  in here!
+Near01: |
+  Will the blizzard ever stop?
+Talk04_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004c0061007500670068005300'/>Heh.<5 Type='0'/> I like your attitude, asking again.
+  Becoming a great shield surfer takes
+  passion and commitment.
+  <3 Type='0' Data='0001'/>But no.<5 Type='1'/> I've got to train the two students
+  I have now before I can take on more.
+  It'd be unfair to them to take on a third.
+Talk26: |
+  <3 Type='0' Data='0b00'/>Huh? Wait! I've met you before. Who'd
+  have thought we'd cross paths again...<5 Type='1'/>
+  in here!
+Talk04_02: |
+  <3 Type='0' Data='0700'/>But I'd be glad to watch you surf the
+  mountain sometime.
+  
+  <3 Type='0' Data='0000'/>So, come back once this blizzard stops.
+  Then we'll have good conditions for shield
+  surfing. I'd like to see what you can do.
+Talk27: |
+  <3 Type='0' Data='0a00'/>I can't believe I got into all this trouble,
+  looking for a new surfing course.<5 Type='1'/>
+  
+  I'm glad that you came here, <5 Type='0'/>but we're
+  stuck if we can't find some other way
+  out of this place.
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0600530061006400'/>With any luck, we can find some <0 Type='3' Data='0000'/>different
+  path that gets outside<0 Type='3' Data='ffff'/>.
+Near04: |
+  Where's Selmie at?
+Talk53_01_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004e006f007400690063006500'/>But...<5 Type='0'/>if you're here, that means you can't
+  get back out the same way either, right?<5 Type='1'/><0 Type='4'/><3 Type='0' Data='0a01'/>Hmmm. <5 Type='1'/>Fin and Russ, my students, must
+  be panicking after I didn't come back.<0 Type='4'/><4 Type='0' Data='0a005400680069006e006b00'/>With any luck, we can find a <0 Type='3' Data='0000'/>different
+  path that goes outside<0 Type='3' Data='ffff'/>.<5 Type='1'/> Other than that,
+  though, we've got no hope of escape.<5 Type='0'/>
+Talk53_0: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Anything else you want to ask?
+Near05: |
+  Where's Teach out here?
+Near06: |
+  I really messed this up.
+Talk32: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>Oh! The stones blocking the way! They've
+  crumbled.<5 Type='0'/> I feel wind coming from
+  outside somewhere!
+Talk38_01: |
+  Well, I've got a shield for you that's
+  kind of unusual. But your shield pouch
+  is full. Make some space for it, yeah?
+Talk32_01: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>Oh! I feel wind from somewhere outside!
+  I...<5 Type='0'/>I've been saved!
+Near07: |
+  Sorry I made you worry.
+Talk38_02: |
+  <3 Type='0' Data='0700'/>I want to give you an unusual shield for
+  helping me out. Make some space for it
+  in your shield pouch. Then let's talk.
+Near08: |
+  Wish there was a way out.
+Talk38_03: |
+  <3 Type='0' Data='0700'/>So you made some space! Good.<5 Type='1'/> Now,
+  please take this as thanks.
+Near09: |
+  Those rocks over there...
+Talk35: |
+  <3 Type='0' Data='0800'/>Oh! <5 Type='1'/>I've been waiting for you.<5 Type='1'/> Thanks for
+  coming all the way here.
+Near10: |
+  Your reward...
+Talk38_04: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='0c004c0061007500670068005300'/>I found that shield around some stones
+  that—get this—fell from the sky!
+  
+  <3 Type='0' Data='0100'/>What a beautiful thought...<5 Type='1'/>that there
+  could be shield surfers like us, way
+  up there...
+Talk52_0: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Want to ask me anything else?
+Talk36: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>You saved Teach!<5 Type='0'/> Oh maaan, do we ever
+  owe you one!
+Talk36_01: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>You're the one who saved Teach! <5 Type='0'/>We
+  really owe you, man!
+Talk26_01: |
+  <3 Type='0' Data='0a00'/>Oh no...<5 Type='1'/> I've made my students worry
+  about me? Guess I have been gone a
+  long time.
+Talk37: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>I'm SO stoked that Coach came back to
+  us safe.<5 Type='1'/> Major respect from me, man.
+Talk38: |
+  <3 Type='0' Data='0500'/><4 Type='0' Data='0e0045006100730065005f0030003000'/>Who knows what would have happened
+  to me if you hadn't come along.
+  
+  I've got to admit, getting some shield
+  surfing in aaall through that cave was
+  pretty darn great.
+  But I'll be staying away from there for
+  a while, that's for sure.
+  
+  <3 Type='0' Data='0700'/>Since I'm the one that really owes you for
+  what you did, I'll be the one to reward
+  you. Here, take this.
+Talk25_01: |
+  <3 Type='0' Data='0b00'/>Oh, I see...<5 Type='0'/> Yes,<5 Type='0'/> I am <0 Type='3' Data='0000'/>Selmie<0 Type='3' Data='ffff'/>.
+Talk39: |
+  <3 Type='0' Data='0801'/>I'll live another day—free to surf the
+  slopes under the bright sky!
+  
+  <4 Type='0' Data='0c004c0061007500670068005300'/>I've got nothing to give you now as
+  thanks, but I've got an idea!
+  
+  <3 Type='0' Data='0001'/>Whenever you like,<5 Type='0'/> stop by my lodge
+  in the <0 Type='3' Data='0000'/>northwest of Hebra Peak<0 Type='3' Data='ffff'/>. We'll
+  talk more then.
+  You can always spot it from the <0 Type='3' Data='0000'/>bonfire<0 Type='3' Data='ffff'/>
+  out in front.<5 Type='0'/> So watch for that if you
+  decide to come find me.
+  <4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>All right...<5 Type='1'/>I'd better head back so my
+  students can stop worrying. Remember,
+  find me at my lodge on the peak.
+Talk40: |
+  <3 Type='0' Data='0700'/>I'll say it again...<5 Type='0'/>thank you for getting me
+  out of that cave.<0 Type='4'/>Also, now that the blizzard's over,
+  come back here anytime you feel like
+  shield surfing with us.
+  <3 Type='0' Data='0801'/>I wasn't going to take on a third student,
+  not with these two keeping me busy,
+  but for you, I'll make an exception.
+Talk25_02: |
+  <3 Type='0' Data='0700'/>I'm <0 Type='3' Data='0000'/>Selmie<0 Type='3' Data='ffff'/>. Heard of me? I used to shield
+  surf at the pro level.<5 Type='0'/> Earned myself the
+  nickname "the Duchess of Downhill."
+  I'm a teacher these days, showing the
+  next generation how to shred the slopes
+  like an absolute pro.
+Talk41: |
+  <3 Type='0' Data='0800'/>Welcome, buddy! We owe you big time
+  anyway for rescuing Teach.
+Talk24_01: |
+  <3 Type='0' Data='0c00'/>Hmm. <5 Type='0'/>How are we gonna rescue Teach
+  when she's stuck in the back of a cave?
+Talk42: |
+  <3 Type='0' Data='0800'/>Yeah, see you on the slopes.<5 Type='0'/> Best way
+  to learn!
+Talk43: |
+  <3 Type='0' Data='0b00'/>Coach?!<5 Type='1'/><0 Type='4'/><3 Type='0' Data='0701'/><4 Type='0' Data='0600530061006400'/>Oh...I thought you were someone else.<5 Type='1'/>
+  Sorry. Hi.<0 Type='4'/><3 Type='0' Data='0a01'/>You know our coach, Selmie?
+Talk24_02: |
+  <3 Type='0' Data='0b00'/>Say what?! <5 Type='1'/>You rescued Teach from the
+  back of that cave?!
+  
+  <3 Type='0' Data='0801'/>Then what are we doing standing around
+  here?! <5 Type='1'/>I gotta get back to the <0 Type='3' Data='0000'/>lodge on
+  the summit<0 Type='3' Data='ffff'/>!
+  I bet Teach would want to thank you too,
+  so you're welcome to come with!
+Talk45: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='0a005400680069006e006b00'/>Ah, I getcha, I getcha...<5 Type='1'/> You heard what's
+  up from my best bud, Fin.
+  
+  I gotta wonder where Selmie went...
+  
+  
+  <3 Type='0' Data='0a01'/>I'd go in search of her too, but maybe I
+  should stay in case she makes her way
+  back here.
+Talk18_00: |
+  <3 Type='0' Data='0a00'/>I wonder if Coach Selmie...<5 Type='1'/>is in bad
+  trouble somewhere.<5 Type='1'/>
+Talk53_01: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>But...<5 Type='0'/>if you're here, that means you can't
+  get back out the same way either, right?<5 Type='1'/>
+  
+  With any luck, we can find a <0 Type='3' Data='0000'/>different
+  path that goes outside<0 Type='3' Data='ffff'/>.<5 Type='1'/> Other than that,
+  though, we've got no hope of escape.<5 Type='0'/>
+Talk50_0: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Something else you want to ask?
+Talk47: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a005400680069006e006b00'/>Hey, you...<5 Type='1'/> Happen to bump into a Hylian
+  named <0 Type='3' Data='0000'/>Selmie<0 Type='3' Data='ffff'/> around here?
+Talk53_02: |
+  <3 Type='0' Data='0000'/>Looked like you were trying to get
+  through the path that connects in back.<5 Type='0'/>
+  Seems like the start of a good idea.
+Talk01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>You startled me.<5 Type='0'/> How'd you make it
+  all the way here in the blizzard? Are
+  you a shield surfer too? Must be!
+  <3 Type='0' Data='0700'/>You might not think it by the look of me
+  these days, but I used to be a pro
+  shield surfer. Kind of well-known too.
+  <3 Type='0' Data='0500'/>I'd earned myself the impressive
+  nickname "Duchess of Downhill."<5 Type='1'/>
+  
+  <3 Type='0' Data='0501'/>Oh, hey. I'm starting to think you came
+  here to study shield surfing from me.<5 Type='0'/>
+  Am I right?
+Talk02_01: |
+  <3 Type='0' Data='0501'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Oh? <5 Type='1'/>Got a question for the Duchess
+  of Downhill?
+Talk52_01: |
+  <3 Type='0' Data='0701'/>She used to be a pro shield surfer. So
+  you'd think she could shred her way out
+  of any situation up here.
+  Now I think she might be in trouble.<5 Type='0'/>
+  There were traces of shield surfing on
+  a slope nearby.
+  I followed those all over the place...<5 Type='0'/>
+  
+  
+  <3 Type='0' Data='0a00'/>The traces of surfing in the snow <0 Type='3' Data='0000'/>cut off
+  around this area<0 Type='3' Data='ffff'/>. <5 Type='0'/>Still, I haven't found
+  her anywhere.
+  I followed the tracks again and again,
+  but no sign of Selmie. I had no choice
+  for now but to stop looking.
+Talk48: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Oh, it's you.<5 Type='1'/> Took me by surprise way
+  out here. So, ya remember my teach,
+  Selmie, right?<5 Type='1'/> Well...
+Talk02: |
+  <3 Type='0' Data='0700'/>Can't believe you got all the way out
+  here through the blizzard.
+  
+  <3 Type='0' Data='0501'/>You have something you want to ask
+  the Duchess of Downhill?
+Talk07_01: |
+  <3 Type='0' Data='0700'/>I heard you talkin' to Selmie.<5 Type='1'/> Sounds
+  like you want her to take you on as a
+  student too?
+Talk50: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>It all started so good, ya see! She said
+  she was going out to build out a new
+  course on the slopes somewhere!
+  <3 Type='0' Data='0a00'/>But she's still not back. <5 Type='0'/>I'm worried sick.
+  
+  
+  <3 Type='0' Data='0001'/>Me and my best bud Fin figured she'd
+  gone to the <0 Type='3' Data='0000'/>Biron Snowshelf in the west<0 Type='3' Data='ffff'/>.
+  He set off to find her.
+  <3 Type='0' Data='0701'/>I'm waiting here in case she comes
+  back.<5 Type='0'/> But now...
+  
+  <3 Type='0' Data='0a00'/>Fin hasn't come back either. It's been
+  too long. Maybe he found her. Maybe
+  not.<5 Type='1'/> I dunno.
+  I've been watching for him to send up
+  <0 Type='3' Data='0000'/>smoke signals<0 Type='3' Data='ffff'/>.<5 Type='0'/> That way I'd go wherever
+  he is. We'd help Coach from there.
+Talk52_02: |
+  <3 Type='0' Data='0501'/>But I couldn't do nothing. I'm sendin' up
+  a smoke signal now, hopin' she sees it
+  if she's near here.
+  I'm losin' hope though. It's been a long
+  time that I've been at it.<5 Type='0'/> You'd think she'd
+  have seen the smoke by now.
+  <3 Type='0' Data='0c00'/>Maybe,<5 Type='0'/> just maybe,<5 Type='0'/> the problem is she
+  can't move, or maybe she's <0 Type='3' Data='0000'/>somewhere
+  she can't see the smoke signal<0 Type='3' Data='ffff'/>.
+Talk49: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a005400680069006e006b00'/>I see, all right... <5 Type='0'/>So ya heard about
+  Selmie going missing from Russ. Yeah,
+  I still have no idea where Teach is. 
+Talk03: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='0a005400680069006e006b00'/>Maybe you're not here for advanced
+  study, then... OK, here's the basic idea
+  behind shield surfing...
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>Take your favorite shield and turn
+  it into a way to slide down snowy
+  mountains with grace!
+  <3 Type='0' Data='0000'/>I left the pro side of shield surfing behind
+  to help the next generation step up, using
+  this lodge as a teaching center.
+  <3 Type='0' Data='0301'/>But shield surfing in this weather is
+  nearly impossible to do safely.<5 Type='0'/>
+  
+  <3 Type='0' Data='0000'/>So I've put off teaching my students
+  until the blizzard stops.
+Talk06_00: |
+  Guess that's all you want to know.
+Talk52_03: |
+  <3 Type='0' Data='0701'/>I'm sendin' up a smoke signal. Hopefully
+  Selmie or my best buddy Russ sees it.
+  He's back at her lodge on Hebra Peak.
+  You'd think that if Selmie was here, she
+  would have seen the smoke by now.
+  But nope, nothing.
+  <3 Type='0' Data='0c00'/>Maybe she's here but can't move?<5 Type='0'/> Or
+  maybe...<5 Type='0'/>she's stuck in a place <0 Type='3' Data='0000'/>where she
+  can't see the smoke signal<0 Type='3' Data='ffff'/>?
+Talk04: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068005300'/>Heh. I knew you'd be interested.
+  
+  
+  <3 Type='0' Data='0001'/>But sorry. I have two students.
+  
+  
+  <3 Type='0' Data='0701'/>If I take a third, I'd worry they wouldn't
+  get as much training as they deserve.
+  So, I can't take you on right now.
+Talk52: |
+  <3 Type='0' Data='0801'/>Just recently, Selmie said she was
+  going to build a new course for us to
+  really push our shield-surfing skills.
+  <3 Type='0' Data='0001'/><4 Type='0' Data='0600530061006400'/>She set off for that slope. But then...
+  she disappeared.<5 Type='0'/> Me and my buddy
+  haven't been able to find her.
+Talk05: |
+  <3 Type='0' Data='0500'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Right, goodbye. But keep in mind
+  that it's dangerous around here in
+  the blizzard.
+  <3 Type='0' Data='0701'/>Feel free to get some rest in the lodge
+  before you set off.
+  
+  <3 Type='0' Data='0700'/>Be sure to return to show me your skills,
+  just after this blizzard ends.
+Talk53: |
+  <3 Type='0' Data='0001'/>That terrible blizzard stopped, so I took
+  advantage of the weather to go out and
+  create a new course for my students.
+  And then I found this cave—just surfed
+  right into it on my shield. Can't blame an
+  ol' shield surfer for exploring, right?
+  <3 Type='0' Data='0a00'/>I went in too far though, where the cave
+  got all closed off. I couldn't climb back
+  out the way I came in.
+  Worse yet, I heard rocks falling back up
+  at the entrance. Thought it'd collapse
+  at some point.
+  I was staaarting to think I'd be stuck
+  back here forever, and no one would
+  even be able to find the cave.
+Talk06: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>It's dangerous around here in the
+  blizzard. Feel free to rest in the lodge
+  before you head out.
+  <3 Type='0' Data='0001'/>And return here to show me your
+  shield-surfing skills after this blizzard
+  finally ends.
+Talk07: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Hey, maaan!<5 Type='0'/> You come here to do some
+  shield surfing?
+  
+  <3 Type='0' Data='0400'/>Or maybe<5 Type='0'/> to ask Selmie if she'd take
+  you on as a student, like us?
+Talk08: |
+  <3 Type='0' Data='0700'/>Then you're one of us! Or, uh, I wish.
+  
+  
+  <3 Type='0' Data='0000'/>Be great to have ya, but Selmie is
+  stoppin' at two students right now.
+Talk09: |
+  <3 Type='0' Data='0700'/>Yeah, she said she wants to give us two
+  her focus. She's not gonna add any more
+  students for now.
+  <3 Type='0' Data='0800'/>Hard to complain 'bout that though.
+  She's one dedicated teacher to give us
+  all her attention.
+Talk10: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a005400680069006e006b00'/>I bet once we prove that we've learned
+  enough, she'll take more students.
+  
+  But this blizzard...<5 Type='1'/> We can't train in this
+  weather, so we can't learn our way to
+  mastering what's she's got to teach!
+  <3 Type='0' Data='0000'/>I'd say just get off the mountain for
+  now.<5 Type='0'/> Wait for this snow...<5 Type='0'/>to cut out all
+  this snowin'.
+Talk12: |
+  <3 Type='0' Data='0800'/>Come back when the blizzard's over,
+  maaan. Then we can get down to some
+  shield surfing—rad times all around.
+  Maybe by then, the two of us will be good
+  enough to prove we've learned lots from
+  Selmie...<5 Type='0'/>so she'll teach you too.
+Talk23_00: |
+  <3 Type='0' Data='0a00'/>It's been a while since I sent up the
+  smoke signal.<5 Type='1'/> I wonder if I should set
+  out lookin' for her again.

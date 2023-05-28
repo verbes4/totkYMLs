@@ -1,0 +1,132 @@
+GoalPoint_01: |
+  <3 Type='0' Data='0701'/>I hear there's a <0 Type='3' Data='0000'/>geoglyph near the
+  Thyphlo Ruins<0 Type='3' Data='ffff'/>,<5 Type='0'/> which are north of here,
+  past the Eldin Mountains.
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>Now that Death Mountain has stopped
+  erupting, one can travel there freely.
+  
+  Though that's not to say crossing the
+  nearby mountains is an easy task.
+GoRange_01: |
+  <3 Type='0' Data='0c01'/>I heard tell of a <0 Type='3' Data='0000'/>geoglyph <0 Type='3' Data='ffff'/>in this area,
+  but it refuses to show itself.
+  
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='0a005400680069006e006b00'/>Not for the first time, I'm wishing I had
+  wings like a bird. Then I could scout it out
+  <0 Type='3' Data='0000'/>from the sky<0 Type='3' Data='ffff'/>.
+SavedLv3_01: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0e0045006100730065005f0030003000'/>Phew.<5 Type='1'/> You saved my life.<5 Type='1'/>
+Greeting00: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>So, fellow traveler. <5 Type='0'/>What are you
+  searching for on your journey?
+  
+  <3 Type='0' Data='0701'/>My passion is finding <0 Type='3' Data='0000'/>geoglyphs<0 Type='3' Data='ffff'/>. They're
+  enormous pictures that have been drawn
+  on the ground.
+  <3 Type='0' Data='0400'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>When were they drawn, and who by,
+  and how? The mysteries abound!
+Near_StartPoint_01: |
+  Where is that geoglyph?
+Thanks00: |
+  <3 Type='0' Data='0801'/>Please, accept this small token of
+  my gratitude.
+Greeting01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>We meet again. <5 Type='0'/>Hello, fellow traveler.<0 Type='4'/>As ever, my hunt for <0 Type='3' Data='0000'/>geoglyphs<0 Type='3' Data='ffff'/> continues.<0 Type='4'/><3 Type='0' Data='0c00'/>Those giant illustrations boggle the mind.<5 Type='0'/>
+  Who drew them? When? And perhaps
+  above all, how?<5 Type='1'/>
+StartPoint_01: |
+  <3 Type='0' Data='0701'/>I tried to learn more about <0 Type='3' Data='0000'/>geoglyphs<0 Type='3' Data='ffff'/>
+  by asking my associates in the Zonai
+  Survey Team.
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0c005300610064005f0030003000'/>Unfortunately, all they wanted to talk
+  about was training in their underpants.
+GoRange_03: |
+  <3 Type='0' Data='0001'/>I heard an interesting rumor that there
+  are not one but two <0 Type='3' Data='0000'/>geoglyphs<0 Type='3' Data='ffff'/> in Eldin.
+  
+  <3 Type='0' Data='0700'/><4 Type='0' Data='100041006e006700720079005f0030003100'/>The first is supposedly on the south side
+  of the mountain.<5 Type='0'/> Which is to say, <0 Type='3' Data='0000'/>nearby<0 Type='3' Data='ffff'/>.
+  
+  The other one, I'm told, is on the
+  northwest side of the mountain range,<5 Type='0'/>
+  <0 Type='3' Data='0000'/>near the Thyphlo Ruins<0 Type='3' Data='ffff'/>.
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>Sadly, my search for the geoglyph in this
+  area has come up empty.
+  
+  I suppose I'd have better luck if I climbed
+  a hill and <0 Type='3' Data='0000'/>peered down from its summit<0 Type='3' Data='ffff'/>.
+SavedLv1_00: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Was it you who defeated those monsters?<5 Type='0'/>
+  What a brave soul!
+StartPoint_01_2: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0600530061006400'/>My associates in the Zonai Survey Team
+  had nothing to tell me about <0 Type='3' Data='0000'/>geoglyphs<0 Type='3' Data='ffff'/>...
+SavedLv1_01: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>You drove off the monsters!<5 Type='0'/> It was all
+  I could do to run for my life...
+Atacked00: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='100041006e006700720079005f0030003100'/>What do I do? Hope is lost!
+Atacked01: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='1000540069007200650064005f0030003000'/>*pant*<5 Type='0'/> *pant* <5 Type='0'/>Help...<5 Type='0'/>me...
+Near_GoRange_01: |
+  If only I had wings...
+RainPoint_01_2: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0a0048006100700070007900'/>Eldin doesn't get much precipitation,<5 Type='0'/>
+  so we have reason to hope that the
+  <0 Type='3' Data='0000'/>geoglyph <0 Type='3' Data='ffff'/>there is in good condition.
+  I'm eager to see it with my own eyes as
+  soon as possible.
+GoRange_01_2: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='0a005400680069006e006b00'/>If I had wings like a bird, I could probably
+  scout out the <0 Type='3' Data='0000'/>geoglyph<0 Type='3' Data='ffff'/> <0 Type='3' Data='0000'/>from the sky<0 Type='3' Data='ffff'/>.
+Near_GoRange_03: |
+  I wonder where it is.
+GoRange_03_2: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Rumor has it that there are two <0 Type='3' Data='0000'/>geoglyphs<0 Type='3' Data='ffff'/>
+  in Eldin.
+  
+  <3 Type='0' Data='0c01'/>One is supposedly in <0 Type='3' Data='0000'/>this area<0 Type='3' Data='ffff'/>, and the
+  other is said to be on the northwest side
+  of the mountains, <0 Type='3' Data='0000'/>near the Thyphlo Ruins<0 Type='3' Data='ffff'/>.
+SavedLv2_00: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0e0045006100730065005f0030003000'/>Were you hurt? <5 Type='0'/>By some miracle,
+  I was not.
+Failed00: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='1000540069007200650064005f0030003100'/>*huff*<5 Type='1'/> *gasp*<5 Type='1'/> Somehow, I'm unscathed...
+SavedLv2_01: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0c005300610064005f0030003000'/>We must tread lightly. There are bound to
+  be more monsters about.
+Failed01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c005300610064005f0030003000'/>My legs are tired from running, but in
+  other regards, I'm all right.
+Near_Thunder: |
+  Scary...
+GoalPoint_01_2: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>There's said to be a <0 Type='3' Data='0000'/>geoglyph near the
+  Thyphlo Ruins<0 Type='3' Data='ffff'/>, which are north of here,
+  past the Eldin Mountains.
+RainPoint_01: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>So, fellow traveler. <5 Type='0'/>Taking shelter from
+  the rain? It's quite the annoyance, I know.
+  
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0c005300610064005f0030003000'/>I'd heard about a <0 Type='3' Data='0000'/>geoglyph <0 Type='3' Data='ffff'/>in Eldin, and I
+  was searching for it when the rain stalled
+  my journey.
+  Eldin doesn't get much precipitation,<5 Type='0'/>
+  so we have reason to hope that the
+  geoglyph there is in good condition.
+  <3 Type='0' Data='0100'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>I'm eager to see it with my own eyes as
+  soon as possible.
+Near_RainPoint_01: |
+  I wish the rain would stop.
+EnokidaSignboard: |
+  Won't forget this soon...
+Near_Rain: |
+  I'd hate to get wet.
+Near_GoalPoint_01: |
+  Crossing over mountains...
+SavedLv3_00: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>You're quite the valiant fighter!<5 Type='0'/> I was
+  certain I wouldn't survive that bout...
+Guardian00: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1200530075007200700072006900730065004c00'/>Flee! That means you too!

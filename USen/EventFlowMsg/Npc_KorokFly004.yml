@@ -1,0 +1,15 @@
+talk002: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a005400680069006e006b00'/>My friends went on ahead, so I have to
+  hurry too.
+talk003: |
+  <3 Type='0' Data='0700'/>If you keep heading straight, you'll arrive
+  directly below Korok Forest.
+  
+  I just hope we can find a way to return to
+  Korok Forest from there...
+talk001: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='0a005400680069006e006b00'/>My friends went on ahead. I have to
+  go too.
+talk004: |
+  <3 Type='0' Data='0700'/>If you keep heading straight, you'll arrive
+  directly below Korok Forest.

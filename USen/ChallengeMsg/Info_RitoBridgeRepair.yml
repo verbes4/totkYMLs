@@ -1,0 +1,28 @@
+Name: |
+  The Rito Rope Bridge
+Search: |
+  Gesane and Juannelle are in a bind as they
+  want to repair the rope bridge destroyed in the
+  blizzard but can't find anyone skilled in
+  construction. However, they say there is a
+  skilled carpenter at Lookout Landing.
+  
+  Apparently, this person's <0 Type='3' Data='0000'/>name ends in "son."<0 Type='3' Data='ffff'/>
+Report: |
+  The skilled carpenter at Lookout Landing was
+  Karson. You explained the situation to him, and
+  he enthusiastically agreed to help and hurried
+  off to the job site.
+  
+  Time to <0 Type='3' Data='0000'/>report to Juannelle and Gesane<0 Type='3' Data='ffff'/>.
+Collect: |
+  Karson arrived at the work site, but there isn't
+  enough wood for the project.
+  
+  Repairing the broken bridge will require a total
+  of <0 Type='3' Data='0000'/>20 pieces of wood<0 Type='3' Data='ffff'/>. Gather some wood.
+Complete: |
+  You handed the wood over to Karson, and he
+  repaired the broken bridge. Juannelle and
+  Gesane were relieved and returned to their
+  posts.

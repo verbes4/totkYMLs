@@ -1,0 +1,88 @@
+Talk26: |
+  <3 Type='0' Data='0700'/>No time for small talk. I need to go join
+  Gesane in the food-gathering effort.<0 Type='4'/>If you really need to talk to me, find me
+  later and we can chat then.
+Talk32: |
+  <3 Type='0' Data='0700'/>Shouldn't be much longer before the
+  food shortage is resolved. <5 Type='1'/>I think we're
+  going to make it just fine.
+Near02: |
+  I'd better get going...
+Talk27: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='1000540069007200650064005f0030003100'/>So ends another busy day.<0 Type='4'/><3 Type='0' Data='0701'/>My little sister, Bedoli, is swamped every
+  day with managing our supplies. We
+  barely ever get to see each other.<0 Type='4'/>Hopefully our jobs should calm down soon
+  now that the blizzard has stopped.
+Talk33: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>The blizzard stopping has been a big load
+  off my mind.<0 Type='4'/><3 Type='0' Data='0701'/>That said, we're still short on supplies,
+  and I still spend a lot of time every day
+  gathering food.
+Near03: |
+  This is a good haul.
+Talk28: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Looking for Tulin, huh? Fair enough.<0 Type='4'/>He's farther in this cave with Gesane.
+  They're scavenging for food.<0 Type='4'/>No, I'm not going to show you the way.
+  I need to keep an eye on what we've
+  amassed so far.<0 Type='4'/><3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Be on your guard. There's a creature in
+  that cave that hops around on the walls.<0 Type='4'/>It probably won't bother you if you stay
+  away from it. Good luck finding Tulin.
+Talk34: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>No rest for the weary! But it's good not to
+  have to do it under the pressure that the
+  blizzard forced on us.<0 Type='4'/>Anyway. Time for another day's
+  honest work!
+Talk29: |
+  <3 Type='0' Data='0c00'/>Now where did I see it?
+Near04: |
+  Almost home...
+Near06: |
+  Not a bad harvest.
+Talk21: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003100'/>Didn't think I'd be seeing anyone else in
+  these mountains anytime soon, what with
+  the blizzard and all.<0 Type='4'/>I'M here because it's a good place to find
+  food for my people. Why are YOU here?
+Near07: |
+  So that's where it was.
+Talk22: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Thanks for tracking down that cave.<0 Type='4'/>Bedoli is over there organizing the
+  supplies, so I'll wait until she's free
+  to invite her to go check it out.<0 Type='4'/>The more bodies we bring, the more food
+  we can haul back to the village.
+Near08: |
+  Back to work I go!
+Talk23: |
+  <3 Type='0' Data='0b00'/>What? You found the cave?!<0 Type='4'/><3 Type='0' Data='0000'/>Huh! <5 Type='1'/>So the "bird" I saw was some snow
+  that overlapped with the perch's shadow.<0 Type='4'/><3 Type='0' Data='0800'/>What a relief! <5 Type='0'/>I feel so much better now
+  that I know what was going on there.<0 Type='4'/>Thanks! <5 Type='0'/>I'm going to find Bedoli so we
+  can check out the cave together!
+Talk24: |
+  <3 Type='0' Data='0700'/>If you're looking for Tulin, he and Gesane
+  went deep into the cave to scavenge
+  for food.
+  It's a long way to where they are though,
+  and I can't exactly go with you.<0 Type='4'/>The moment I take my eyes off our stuff,
+  I just know some monster's going to come
+  along and snatch it.<0 Type='4'/><3 Type='0' Data='0700'/>If you're going in to find Tulin, watch out
+  for the creature that hops around on the
+  walls in there.<0 Type='4'/>I don't think it'll hurt you if you stay away
+  from it, but you never know.
+Talk30: |
+  <3 Type='0' Data='0700'/>I just lugged the food we scavenged from
+  the cave back to the village.<0 Type='4'/>It was a pretty good harvest, but not so
+  good that we can breathe easy.<0 Type='4'/>Once I'm rested, it's back to the food
+  hunt for me.
+0001: |
+  I found it.
+Talk25: |
+  <3 Type='0' Data='0700'/>What possessed a Hylian to come out
+  here? Don't act like you don't feel the
+  weather. I can see you shivering inside.<0 Type='4'/>This isn't a good time to talk anyway.
+  I was about to join Gesane in the effort
+  to scavenge for food.<0 Type='4'/>The longer this blizzard goes, the harder
+  it gets just to keep ourselves fed.
+Talk31: |
+  <3 Type='0' Data='0700'/>The food we scrounged is safe and sound
+  in the village now, but our work isn't over.<0 Type='4'/>Once I've had a rest, I'll be right back
+  at it.

@@ -1,0 +1,55 @@
+Talk_01: |
+  <3 Type='0' Data='0700'/>Shield surfing is kind of like sledding,
+  except you're standing on a <0 Type='3' Data='0000'/>shield <0 Type='3' Data='ffff'/>instead
+  of sitting on a sled. It's a rush!
+  Best of all, you can surf over snowy
+  patches that aren't traversable by foot.
+Talk_02: |
+  <3 Type='0' Data='0c00'/>Hmmm...<5 Type='0'/> You do want to <0 Type='3' Data='0000'/>build up
+  momentum <0 Type='3' Data='ffff'/>before you kick off.<0 Type='4'/><3 Type='0' Data='0701'/>Personally, I like to get a running start
+  or surf down a hill.
+Talk_03: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0c005300610064005f0030003100'/>Ah, heading out? I guess we should, too,
+  now that there aren't any more monsters
+  to worry about.
+Talk_04: |
+  <3 Type='0' Data='0c00'/>You know, I wonder if the stories of the
+  <0 Type='3' Data='0000'/>legendary shield surfer <0 Type='3' Data='ffff'/>are true.<0 Type='4'/>I know nothing about them, except that
+  they're rumored to be in the <0 Type='3' Data='0000'/>Hebra
+  Mountains <0 Type='3' Data='ffff'/>up north. Might be dangerous.
+Talk_11: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068005300'/>Anything else you want to know? My
+  husband and I are fonts of shield-surfing
+  know-how!
+Talk_12: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068005300'/>Hehe, I like your passion for the subject!
+Talk_06: |
+  <3 Type='0' Data='0800'/>You did it! Thanks for saving our
+  hides. Again.<0 Type='4'/>It was cold, so we decided to make <0 Type='3' Data='0000'/>spicy
+  elixir<0 Type='3' Data='ffff'/>. But by the time it was ready, the
+  monsters were everywhere again.
+  I know! Why don't you take it?
+Talk_13: |
+  <3 Type='0' Data='0700'/>It's important to <0 Type='3' Data='0000'/>have some momentum<0 Type='3' Data='ffff'/>
+  before you kick off. <5 Type='0'/>It's hard to explain
+  until you get the trick to it.<0 Type='4'/>I find it helps to get a running start or surf
+  down a hill.
+Talk_07: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004e006f007400690063006500'/>Ah, but that's... <5 Type='1'/>I made that...
+  
+Talk_08: |
+  <3 Type='0' Data='0900'/><4 Type='0' Data='0c005300610064005f0030003100'/>Ugh, you and your whining! Just
+  make more!<0 Type='4'/>All you need are <0 Type='3' Data='0000'/>monster parts <0 Type='3' Data='ffff'/>and
+  <0 Type='3' Data='0000'/>warm materials<0 Type='3' Data='ffff'/>. I mean, yeesh...
+0000: |
+  What's shield surfing?
+0001: |
+  Is there a trick to it?
+Talk_00: |
+  <3 Type='0' Data='0700'/>If there's something you want to know
+  about <0 Type='3' Data='0000'/>shield surfing<0 Type='3' Data='ffff'/>, all you have to do
+  is ask.
+  We're great <0 Type='3' Data='0000'/>shield surfers<0 Type='3' Data='ffff'/>, as you can
+  probably tell just from looking at us!
+0002: |
+  Goodbye.

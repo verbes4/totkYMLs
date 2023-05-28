@@ -1,0 +1,98 @@
+Talk_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0e00480075006d006d0069006e006700'/><1 Type='1' Data='0000003f'/>Ahhh.<5 Type='1'/> Sheer bliss.<1 Type='1' Data='0000803f'/>
+0003: |
+  I'm good.
+Talk_02: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Good morning! Did you come to take a dip
+  in the hot springs too?
+Talk_03: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Hello there! Did you come to take a dip
+  in the hot springs too?
+Talk_04: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Good evening! Did you come to take a dip
+  in the hot springs too?
+Talk_10: |
+  <3 Type='0' Data='0001'/>Care to hear about anything else?
+Talk_05: |
+  <3 Type='0' Data='0701'/>I got to a good stopping point with
+  my work, so I plopped down here in
+  the springs to restore myself.
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c005300610064005f0030003000'/><1 Type='1' Data='0000003f'/>Whoo-whee.<5 Type='0'/> <1 Type='1' Data='0000803f'/>I had heard plenty of good
+  things about Goron Hot Springs, but
+  there's no denying it's the best.
+  My stiff, achy muscles are getting all
+  loose and floppy thanks to the magic of
+  these waters.
+  <3 Type='0' Data='0801'/>If you can't tell, I just love this place.
+Talk_11: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Well then, enjoy the hot-spring life!
+Talk_06: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>I'm in your debt, so let me share some hot
+  hot-springs info!
+Talk_12: |
+  <3 Type='0' Data='0b00'/>Hey, stop adding outside water!<0 Type='4'/>It's not the temperature that matters at
+  a hot spring. It's the water quality!<0 Type='4'/>So please don't dilute it with...wherever
+  that came from.
+Talk_07: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>As you might have guessed, all the
+  springs around here in Eldin are
+  piping hot.
+  <3 Type='0' Data='0101'/>Recently Death Mountain calmed down,
+  so the waters have cooled to a
+  temperature Hylians can enjoy.
+  <3 Type='0' Data='0501'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>Even with the waters being as perfect as
+  they are, some folks have a rough time
+  climbing up to Goron Hot Springs.
+  <3 Type='0' Data='0001'/>So there's always the springs located
+  in front of Bedrock Bistro. Those
+  ones are relatively easier to get to.
+  <FontSize Value='80'/><3 Type='0' Data='0501'/>Oh yeah, Elmerson said he'd be going to
+  that restaurant...<FontSize Value='100'/>
+  
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0c005300610064005f0030003100'/>It'd be a real shame to make your way
+  to Death Mountain and not hit Goron
+  Hot Springs.
+Near_01: |
+  ♪Hm hm hmmm.♪
+Talk_08: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Indeed. The secret springs in Hebra
+  up in the northwest are your best bet
+  for something hot in someplace cold.
+  <3 Type='0' Data='0001'/>There are three secret springs in the
+  Hebra Mountains, but it's absolutely
+  frigid there.
+  You'd be risking your life if you
+  tried going.
+  
+  <3 Type='0' Data='0501'/>As a hot-springs fanatic, I'd love to go...<0 Type='4'/><3 Type='0' Data='0301'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>But I've tried three times now and had
+  to give up due to inclement weather.<0 Type='4'/><3 Type='0' Data='0001'/>You know, I've also heard that on clear
+  nights, there's an extremely rare aurora
+  phenomenon that sets the sky alight.
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Can you imagine... Soaking in a luxurious
+  hot spring while gazing at a sparkling sky.<5 Type='0'/>
+  That's the stuff of dreams, my friend.
+0000: |
+  Springs in hot areas?
+Talk_09: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='0c005300610064005f0030003000'/>Well now. <5 Type='0'/>There are quite a few
+  springs to choose from. Ultimately,
+  it's a cost-benefit analysis.
+  <3 Type='0' Data='0001'/>How quickly and easily can you achieve
+  contentment? <5 Type='0'/>That's what you've got to
+  consider here.
+  <3 Type='0' Data='0101'/>By that measure, the Meda Mountain
+  secret springs would be my top
+  recommendation.
+  <3 Type='0' Data='0001'/>There's a place called Hateno Village to
+  the south. Meda Mountain is on the road
+  leading there.
+  Nothing more than a little detour to find
+  it. The scenery's a beaut, and the springs
+  themselves? Perfection.
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>It's my happy place, so do me a favor and
+  keep it secret from the rest of the world,
+  will ya?
+0001: |
+  Springs in cold areas?
+0002: |
+  Springs in nice areas?

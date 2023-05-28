@@ -1,0 +1,226 @@
+Talk_0013: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='08004500610073006500'/>It means I can finally transport these
+  goods to Rito Village! Yay! Thanks so
+  much for your help!<0 Type='4'/>Traysi's always got lots of tasks for me,
+  so I'd better finish up quickly here and
+  get back to work at the <0 Type='3' Data='0000'/>library<0 Type='3' Data='ffff'/>.
+Talk_0014: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>We keep an archive here of old <0 Type='3' Data='0000'/>Rumor Mill<0 Type='3' Data='ffff'/>
+  issues that you can't get your hands
+  on anymore.
+  Technically only employees are allowed
+  to enter, but since you fixed the bridge
+  into Rito Village, I feel like I owe you.
+  If you ever want to come here, just let
+  me know.
+Talk_0015: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Traysi's always got lots of tasks for me,
+  so I'd better finish quickly with the
+  supplies and get back to work.
+  I don't even want to think about all the
+  documents I'll have to organize when I 
+  return to the <0 Type='3' Data='0000'/>library<0 Type='3' Data='ffff'/>!
+Talk_0016: |
+  <3 Type='0' Data='0701'/>And even though it's daytime in other
+  corners of the world, the sun is refusing
+  to show its face, so it's co-o-old.
+  I might have to throw another <0 Type='3' Data='0000'/>Hylian
+  pine cone <0 Type='3' Data='ffff'/>on the fire.
+Near_0001: |
+  That scatterbrain...
+0000: |
+  Goodbye.
+TerrorIce_02: |
+  C-c-c-cold...
+Near_0002: |
+  There's no way across.
+0001: |
+  The Rumor Mill?
+Near_0003: |
+  The bridge is busted.
+Talk_0018: |
+  <3 Type='0' Data='0701'/>Brr, it's co-o-old...especially now that the
+  sun's gone down. I might have to throw
+  another <0 Type='3' Data='0000'/>Hylian pine cone <0 Type='3' Data='ffff'/>on the fire.
+0002: |
+  Douma?
+Talk_0019: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0600530061006400'/>Those things <0 Type='3' Data='0000'/>burn hot<0 Type='3' Data='ffff'/>. Last time I stoked
+  the fire with one, it caused a gust of wind
+  that made my bangs all frizzy!
+Near_0004: |
+  Aah, so cold!
+Talk_0002: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Let me guess.<5 Type='0'/><5 Type='0'/> You have business in
+  <0 Type='3' Data='0000'/>Rito Village <0 Type='3' Data='ffff'/>as well?
+  
+  Well, sorry to disappoint you, but the
+  bridge is down. There's no way across.
+  
+  Since the newspaper ran an article about
+  the Rito food shortage, supply shipments
+  have started to arrive, which is great.
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='1400540072006f00750062006c0065005f0030003100'/>But with no bridge, there's no way to
+  transport the goods to the Rito. I'm at my
+  wits' end here.
+Talk_1001: |
+  <3 Type='0' Data='0900'/>You!<5 Type='1'/> You put a Hylian pine cone in
+  the fire!
+  
+  Didn't you hear me say it makes my
+  bangs frizzy? Look at this! It's like I have
+  noodles on my forehead!
+Talk_1002_01: |
+  <3 Type='0' Data='0200'/><4 Type='0' Data='0e0053006900670068005f0030003100'/>If I was holding an open newspaper or a
+  piece of fabric, I'd have been carried all
+  the way to <0 Type='3' Data='0000'/>Rito Village<0 Type='3' Data='ffff'/>!
+Talk_1002: |
+  <3 Type='0' Data='0900'/>You!<5 Type='1'/> You put a Hylian pine cone in the
+  fire, didn't you? Don't you know that
+  makes a big gust of wind?
+  Now my bangs are all frizzy. Look at this!
+  It's like I have noodles on my forehead!
+Talk_0004: |
+  <3 Type='0' Data='0701'/>And since the sun is refusing to show its
+  face, it's cooold. I might throw another
+  <0 Type='3' Data='0000'/>Hylian pine cone<0 Type='3' Data='ffff'/> on the fire.
+Talk_1003: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='0e0053006900670068005f0030003000'/>What are you doing here, anyway?<5 Type='0'/>
+  Have you got business in <0 Type='3' Data='0000'/>Rito Village<0 Type='3' Data='ffff'/>?
+  
+  Well, sorry to disappoint you, but the
+  bridge is down. There's no way across.
+  
+  Since the newspaper ran an article about
+  the Rito food shortage, supply shipments
+  have started to arrive, which is great.
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='1400540072006f00750062006c0065005f0030003100'/>But with no bridge, there's no way to
+  transport the goods to the Rito. I'm at my
+  wit's end here.
+Talk_0021: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='08004500610073006500'/>It means I can finally transport these
+  goods to Rito Village! Yay! Thanks so
+  much for your help!<0 Type='4'/>I'd better work quickly, or else the
+  supplies will arrive sopping wet. And then
+  I'm needed back at the <0 Type='3' Data='0000'/>library<0 Type='3' Data='ffff'/>.
+Talk_0005: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='0e00540072006f00750062006c006500'/>With no bridge, there's no way to
+  transport goods to <0 Type='3' Data='0000'/>Rito Village<0 Type='3' Data='ffff'/>. I'm at
+  my wit's end here.
+Talk_0022: |
+  <3 Type='0' Data='0201'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Take a guess as to what I'm doing.<0 Type='4'/>That's right!<0 Type='4'/><3 Type='0' Data='0900'/>I'm TRYING to get somewhere DRY.
+  So, if you don't mind...
+  
+Talk_0023: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Hey, you fixed the bridge! Know what
+  that means?
+Talk_0006: |
+  <3 Type='0' Data='0500'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/><0 Type='3' Data='0000'/>Douma <0 Type='3' Data='ffff'/>said she was on the heels of some
+  gossip so juicy, it would have made the
+  front page of the <0 Type='3' Data='0000'/>Rumor Mill<0 Type='3' Data='ffff'/>.
+  Then she went out, full of pep, ready to
+  tackle the story...and I haven't heard a
+  peep since.
+  I hope that scatterbrain hasn't gotten
+  herself in some kind of... <5 Type='1'/>Hm?
+Talk_0024: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Douma is my little sister. We make up
+  two-thirds of the Lucky Clover sisters.<0 Type='4'/>Recently, she told me she was on the
+  heels of a story so good, it could have
+  made the front page of the <0 Type='3' Data='0000'/>Rumor Mill<0 Type='3' Data='ffff'/>.
+  Then she went off to <0 Type='3' Data='0000'/>Goron City <0 Type='3' Data='ffff'/>to
+  investigate and never came back.<0 Type='4'/><3 Type='0' Data='0c00'/><4 Type='0' Data='1400540072006f00750062006c0065005f0030003100'/>I think she might have mentioned
+  something about an underground city?
+  A place called <0 Type='3' Data='0000'/>Gorondia<0 Type='3' Data='ffff'/>?
+  But I'm worried about her. Goron City
+  isn't the safest place to be right now,
+  or so I've heard.
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0c005300610064005f0030003000'/>But it's in Eldin, waaay to the northeast.
+  What am I supposed to do? Follow her?
+  I've got documents to sort!
+Talk_0007: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>You're kidding, right? You've never heard
+  of the <0 Type='3' Data='0000'/>Rumor Mill<0 Type='3' Data='ffff'/>?<0 Type='4'/>It was a smash-hit magazine where we,
+  the Lucky Clover sisters, shared
+  tantalizing secrets from all over the world!
+  <3 Type='0' Data='0500'/><4 Type='0' Data='1a0055006e006400650072007300740061006e0064005f0030003100'/>Without the Rumor Mill, there would
+  have been no Lucky Clover Gazette—<5 Type='1'/>and
+  no Lucky Clover sisters.
+  Some said we were more interested in
+  gossip than reporting the facts. But in all
+  juicy rumors, there's a hint of truth.
+  If you haven't read any of the old issues,
+  you really ought to.
+Talk_0008: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='1200530075007200700072006900730065004d00'/>WAAAH!<5 Type='1'/> What in the name of tittle-tattle
+  do you think you're doing, standing there
+  like a statue?
+Talk_0025: |
+  <3 Type='0' Data='0701'/>...You know that non-employees aren't
+  really allowed in here, right?<0 Type='4'/><4 Type='0' Data='140055006e006400650072007300740061006e006400'/>Well, since you fixed the bridge, I guess
+  I'll let it slide. 
+Talk_0009: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>We keep an archive here of old <0 Type='3' Data='0000'/>Rumor Mill<0 Type='3' Data='ffff'/>
+  issues that you can't get your hands
+  on anymore.
+  You're welcome to read them, but don't
+  scatter them around too much, OK?
+Talk_0026: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1a005100750065007300740069006f006e0041006e00670072007900'/>Hey, smart guy. Want to guess what I was
+  doing just now?<0 Type='4'/><3 Type='0' Data='0900'/><4 Type='0' Data='0a0041006e00670072007900'/>That's right! I was SLEEPING! <5 Type='1'/>And having
+  a pretty nice dream, thank you very much!<0 Type='4'/>Besides, you're not allowed in here!
+  It's for employees only!<0 Type='4'/><4 Type='0' Data='0e0053006900670068005f0030003100'/>Then again, I guess I owe you for fixing
+  the bridge... <5 Type='1'/>OK. You're welcome to poke
+  around if you like.
+  On the desk there are old issues of the
+  <0 Type='3' Data='0000'/>Rumor Mill <0 Type='3' Data='ffff'/>you can read. Just do it
+  quietly, all right? I'm going back to sleep.
+Talk_0027: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Douma is my little sister, and the second
+  oldest of the Lucky Clover sisters.<0 Type='4'/>Recently, she told me she was on the
+  heels of a story so good, it could have
+  made the front page of <0 Type='3' Data='0000'/>Rumor Mill<0 Type='3' Data='ffff'/>.
+  Then she went off to <0 Type='3' Data='0000'/>Goron City <0 Type='3' Data='ffff'/>to
+  investigate and never came back.<0 Type='4'/><3 Type='0' Data='0c00'/><4 Type='0' Data='1400540072006f00750062006c0065005f0030003100'/>I think she might have mentioned
+  something about an underground city?
+  A place called <0 Type='3' Data='0000'/>Gorondia<0 Type='3' Data='ffff'/>?
+  <3 Type='0' Data='0301'/>From what I hear, Goron City is safe
+  again, but I'm still worried about whether
+  she'll be OK on her own.
+Talk_0028: |
+  <3 Type='0' Data='0700'/>Oh, and one more thing. Nothing big.
+  I just couldn't help but notice...
+  
+  <3 Type='0' Data='0900'/>You're not WEARING any CLOTHES!
+  
+  
+  I mean, geez. Aren't you cold, guy?
+  Put something on before you turn into
+  an icicle!
+Talk_0029: |
+  Recently, that guy Galli tossed one onto
+  the fire next to some newspapers.
+  
+  The papers, they got caught up in a
+  gust of wind and flew all the way to
+  <0 Type='3' Data='0000'/>Rito Village<0 Type='3' Data='ffff'/>.
+  <3 Type='0' Data='0a00'/>That's no way to treat the written word.
+Talk_0011: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1a005100750065007300740069006f006e0041006e00670072007900'/>Hey, smart guy. Want to guess what I was
+  doing just now?<0 Type='4'/><3 Type='0' Data='0900'/><4 Type='0' Data='100041006e006700720079005f0030003100'/>That's right! I was SLEEPING! And having
+  a pretty nice dream, thank you very much!<0 Type='4'/>I'm not very friendly when I haven't
+  gotten a proper night's sleep. Tends to
+  make me cranky.
+  <4 Type='0' Data='08005300690067006800'/>So for both our sakes, why not leave me
+  alone? If you're bored, you can read old
+  issues of the <0 Type='3' Data='0000'/>Rumor Mill <0 Type='3' Data='ffff'/>at the desk.
+Talk_0012: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='08005300690067006800'/>You again...<5 Type='1'/> Look, I'm busy. Since <0 Type='3' Data='0000'/>Douma<0 Type='3' Data='ffff'/>
+  still hasn't come back, I have to shoulder
+  two sisters' worth of work on my own.
+  You're welcome to look around, but there
+  are lots of important documents around
+  here. Don't get 'em all scattered around.
+  Those old <0 Type='3' Data='0000'/>Rumor Mill <0 Type='3' Data='ffff'/>issues, for instance?
+  Since the magazine went out of print,
+  those are hard to come by.

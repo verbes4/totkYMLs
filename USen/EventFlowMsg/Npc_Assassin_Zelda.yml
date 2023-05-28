@@ -1,0 +1,42 @@
+talk_1000: |
+  <3 Type='0' Data='0500'/><4 Type='0' Data='1c004400650073006300720069007000740069006f006e005f0030003200'/>Excuse me, traveler.<5 Type='0'/> Do you...know me,
+  by any chance?<0 Type='4'/>Who am I? <5 Type='0'/>Where am I? <5 Type='0'/>Am I some sort
+  of villain? <5 Type='0'/>Or a force for good?<0 Type='4'/>I just <5 Type='0'/>can't remember...
+talk_1001: |
+  <3 Type='0' Data='0500'/><4 Type='0' Data='1c004400650073006300720069007000740069006f006e005f0030003200'/>Nothing makes sense to me anymore...
+  Who am I, really?
+talk_1010: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='28005a0065006c0064006100540061006c006b0050006f007300690074006900760065005f0030003100'/>A villain! That's right, I'm a villain!<5 Type='0'/> Though
+  that's a bit disappointing to hear.<0 Type='4'/>But I guess it was inevitable that you
+  would find me out.
+talk_1011: |
+  <3 Type='0' Data='0100'/>I didn't think you would fall for the same
+  trick again...<0 Type='4'/>Clearly Zelda makes for good bait!
+talk_1020: |
+  <3 Type='0' Data='0200'/><4 Type='0' Data='12004200650077006100720065005f0030003400'/>When we find the real Zelda, we'll send
+  her straight to you!<1 Type='3' Data='5a000000'/>
+talk_1012: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='28005a0065006c0064006100540061006c006b0050006f007300690074006900760065005f0030003100'/>Zelda! That's right, I'm Princess Zelda.<5 Type='0'/>
+  Thank you!<5 Type='0'/> Now I remember.
+talk_1021: |
+  <3 Type='0' Data='0200'/><4 Type='0' Data='12004200650077006100720065005f0030003400'/><FontSize Value='125'/>Vengeance for Master Kohga!<FontSize Value='100'/><1 Type='3' Data='5a000000'/>
+talk_1003: |
+  <3 Type='0' Data='0200'/><4 Type='0' Data='12004200650077006100720065005f0030003400'/>What gives? You looking for a fight?
+  
+  
+  <3 Type='0' Data='0901'/>People will realize I'm in the Yiga Clan
+  if you get too close in that getup!
+  
+  What'll I do if someone sees through my
+  perfect disguise?!
+0000: |
+  A villain.
+talk_1004: |
+  <3 Type='0' Data='0900'/><4 Type='0' Data='12004200650077006100720065005f0030003000'/>You better not ruin this for me.
+near_0000: |
+  Who...am I?
+0001: |
+  You're Princess Zelda.
+talk_1014: |
+  <3 Type='0' Data='0100'/>I was pretending to have lost my memory
+  to lower your guard. <5 Type='0'/>Did it work?

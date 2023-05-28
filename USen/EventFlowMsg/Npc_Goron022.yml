@@ -1,0 +1,33 @@
+Near: |
+  Marbled rock roast?
+Talk_06: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a005400680069006e006b00'/>No marbled rock roast? That's all I need
+  to know.
+  
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0e0057006f0072006b005f0030003100'/>You can pass!
+Talk_01: |
+  <3 Type='0' Data='0101'/>Protecting Goron City's gate is my job,
+  and I love every second of it.
+  
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068004c00'/>Nothin' more important than guardin'
+  this here gate.
+Talk_07: |
+  The lamps are shinin' bright! Earlier, they
+  were dim from that big ol' pile of marbled
+  rock roast smoldering in the city center.
+  Nobody's bringin' marbled rock roast in
+  my city ever again if I have somethin'
+  to say about it!
+Talk_02: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Mornin'! Noon! And night!
+Talk_03: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Noon! Night! And mornin'!
+Talk_04: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0a0048006100700070007900'/>Night! Mornin'! And noon!
+Talk_00: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0a005400680069006e006b00'/>I don't much care for guardin' stuff.
+  
+  
+  Heh, unless it's <0 Type='3' Data='0000'/>marbled rock roast<0 Type='3' Data='ffff'/>.
+Talk_05: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Mornin'! Night! And evenin'! 

@@ -1,0 +1,158 @@
+Talk_27: |
+  <3 Type='0' Data='0700'/>Too bad about this weather, huh? Dark
+  skies always put me in a bleak mood.
+Talk_01: |
+  <3 Type='0' Data='0700'/>Uh-oh. You're carrying around so many
+  eggs already. Do you really have room for
+  any of mine?<0 Type='4'/>My prized eggs need their space. <5 Type='0'/>I'll give
+  you one if you come back later, OK?
+Talk_02: |
+  <3 Type='0' Data='0400'/>Oh, there I go making promises again.<5 Type='0'/>
+  Try and forget what happened between
+  us today...
+Talk_15: |
+  <3 Type='0' Data='0700'/>And who might you be?<0 Type='4'/>Just kidding. They say a Cucco's memory
+  only lasts for three steps, but my memory
+  is better than that.<0 Type='4'/><0 Type='3' Data='0200'/><FontSize Value='80'/>Three days, though, and there might be a problem...<5 Type='1'/><FontSize Value='100'/><0 Type='4'/><0 Type='3' Data='ffff'/><3 Type='0' Data='0700'/>Besides, nights have been unexpectedly
+  busy for me ever since I took over for my
+  husband while he's at Lookout Landing.<0 Type='4'/>The only Cuccos I have time for here are
+  the eggs.<0 Type='4'/>If you need something in the village,
+  you'll probably find it along the main
+  thoroughfare.
+Talk_16: |
+  <3 Type='0' Data='0700'/>My son and I guard the gate in shifts, so
+  I'm on my way to the <0 Type='3' Data='0000'/>village entrance<0 Type='3' Data='ffff'/>.<0 Type='4'/>He's been watching my husband work as
+  the gatekeeper for a long time, so he's
+  pretty good at it when it's his turn.<0 Type='4'/>I feel bad when it comes time for a
+  scaredy-cat like me to <0 Type='3' Data='0000'/>guard the gate<0 Type='3' Data='ffff'/>.
+  But I can't let a little kid do all the work.
+Talk_17: |
+  <3 Type='0' Data='0700'/>I'm headed back home. Someone needs
+  to look after the Cuccos.<0 Type='4'/>My son, Teebo, does a great job as the
+  village <0 Type='3' Data='0000'/>gatekeeper<0 Type='3' Data='ffff'/>, so it's not like I need
+  to be there anyway.<0 Type='4'/>I guess he thinks he needs to live up to
+  his father's example, since my husband
+  went to work at Lookout Landing.<0 Type='4'/>He takes it all very seriously. He even
+  shows people around town, just like he
+  says a real <0 Type='3' Data='0000'/>gatekeeper <0 Type='3' Data='ffff'/>should.
+Talk_19: |
+  <3 Type='0' Data='0a00'/>We did have more Cuccos here once,
+  but we couldn't make time to take care
+  of them.<0 Type='4'/>Most of the ones we have left are kept
+  at <0 Type='3' Data='0000'/>the barn at the top of the hill<0 Type='3' Data='ffff'/>.<0 Type='4'/><3 Type='0' Data='0700'/>Oh, but if you'd like to take any of the
+  eggs here with you, I don't mind at all.<0 Type='4'/>The Cuccos produce so many eggs that
+  there's plenty for everyone.
+Talk_07: |
+  <3 Type='0' Data='0700'/>It's too early to be as awake as you. I'm
+  still so tired...
+Talk_08: |
+  <3 Type='0' Data='0700'/>The sun shows no mercy from its sky
+  throne. I hope evening comes soon.
+Near_01: |
+  Hope nobody shows up...
+Talk_09: |
+  <3 Type='0' Data='0700'/>The sun's gone down, I see.<0 Type='4'/>But the Cece stuff around the village still
+  makes everything seem so bright.
+Near_02: |
+  *sigh*
+Near_03: |
+  Is it seriously raining?
+Talk_40: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='1200530075007200700072006900730065005300'/><FontSize Value='80'/><0 Type='3' Data='0200'/>Who is this freak?!<0 Type='3' Data='ffff'/><0 Type='4'/><FontSize Value='100'/>Uh, hey there. What brings you to town?
+Near_04: |
+  Aaah! Someone's here!
+Talk_41: |
+  <3 Type='0' Data='0700'/>Look, it doesn't matter how handsome
+  you are, or how many times you swing by
+  to chat. I'm not giving you any more eggs.<0 Type='4'/>Just forget me...
+0002: |
+  How could I ever forget?
+Near_05: |
+  Maybe if I hold real still...
+Talk_42: |
+  <3 Type='0' Data='0a00'/>Your heart is like a Cucco's egg—the taste
+  is heavenly, but it's all eaten up before
+  you know it.<5 Type='1'/>
+0003: |
+  OK! It's forgotten.
+Near_06: |
+  Don't be too reckless, OK?
+Talk_30: |
+  <3 Type='0' Data='0a00'/><FontSize Value='80'/>Eek, he's talking to me...<0 Type='4'/><FontSize Value='100'/>So, uh. Is there anything special bringing
+  you to <0 Type='3' Data='0000'/>Hateno Village <0 Type='3' Data='ffff'/>at this hour?<0 Type='4'/>All we have are <0 Type='3' Data='0000'/>veggies<0 Type='3' Data='ffff'/>, <0 Type='3' Data='0000'/>Cece<0 Type='3' Data='ffff'/>'s fashion,
+  and...<5 Type='1'/>just those two things, really.<0 Type='4'/>So, y'know. <5 Type='1'/>Not much point attacking
+  our homes or anything.
+Talk_43: |
+  <3 Type='0' Data='0700'/>Oh, did you make some room? OK then,
+  a promise is a promise. One egg, just
+  for you.
+Near_07: |
+  Phew. I better get inside.
+Talk_44: |
+  <3 Type='0' Data='0700'/>Still...no matter how good-looking you
+  might be, I can't let you have any more
+  of my prized eggs.<0 Type='4'/>Do us both a favor and...forget me...
+Talk_45: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Hm. You haven't made room like I asked,
+  huh? That's fine. I'll keep sitting on this
+  egg as long as it takes.
+Talk_32: |
+  <3 Type='0' Data='0a00'/>Your heart is like a Cucco's egg—easily
+  given but easy to break.
+Talk_20: |
+  <3 Type='0' Data='0a00'/>Oh, hi again.<0 Type='4'/>I was afraid you were up to no good,
+  coming to the village at this hour.
+Talk_21: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='1200530075007200700072006900730065005300'/>You swept me off my feet so fast that I
+  gave you one of my prized eggs!<5 Type='0'/><0 Type='4'/>No more though... Just forget what
+  happened here today.
+Talk_34: |
+  <3 Type='0' Data='0a00'/>I'm cleaning up to take my mind off
+  things until morning comes.<5 Type='1'/><0 Type='4'/><3 Type='0' Data='0701'/>At first light, it'll be my son <0 Type='3' Data='0000'/>Teebo<0 Type='3' Data='ffff'/>'s turn
+  to take over on watch duty.<0 Type='4'/>He does the job more like my husband
+  used to do.<0 Type='4'/>Checking for suspicious people, <0 Type='3' Data='0000'/>guiding
+  visitors around the village<0 Type='3' Data='ffff'/>, that sort
+  of thing.
+Talk_35: |
+  <3 Type='0' Data='0700'/>Please, find it in your heart to forget what
+  happened today.
+Talk_10: |
+  <3 Type='0' Data='0300'/>Just my luck that it's raining. I hope my
+  li'l Cuccos aren't wet and sad.
+Talk_36: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>Hm. This isn't working.<5 Type='1'/><0 Type='4'/>I was wondering whether it was possible
+  to romanticize eggs.<0 Type='4'/><3 Type='0' Data='0700'/>But in the end, eggs are something you
+  cook and eat for breakfast, and that's it.
+Talk_37: |
+  <3 Type='0' Data='0700'/>I feel like you weren't getting what I was
+  going for there. Way to kill the mood.
+Talk_24: |
+  <3 Type='0' Data='0700'/>Oh, uh, did you still need something?
+  I need to hurry and relieve my son from
+  his shift.<0 Type='4'/>He's been watching my husband work as
+  the gatekeeper for a long time, so he's
+  pretty good at it when it's his turn.<0 Type='4'/>I feel bad when it comes time for a
+  scaredy-cat like me to <0 Type='3' Data='0000'/>guard the gate<0 Type='3' Data='ffff'/>.
+  But I can't let a little kid do all the work.
+Talk_38: |
+  <3 Type='0' Data='0c00'/>I was wondering if there was some way I
+  could romanticize eggs.<0 Type='4'/><3 Type='0' Data='0701'/>But in the end, eggs are something you
+  cook and eat for breakfast, and that's it.<0 Type='4'/>They say a Cucco's memory lasts for three
+  steps. If you promise to forget this whole
+  thing, I'll forget it too.
+Talk_25: |
+  <3 Type='0' Data='0700'/>Oh, uh, did you still need something?<0 Type='4'/>My son, Teebo, is doing a great job filling
+  in as village gatekeeper while my husband
+  is off at Lookout Landing.<0 Type='4'/>I'm using my break now to look after my
+  Cuccos at home.<0 Type='4'/>But I'm sure my son would be happy to
+  <0 Type='3' Data='0000'/>show you around town <0 Type='3' Data='ffff'/>if you ask him.
+Talk_00: |
+  <3 Type='0' Data='0700'/>...<0 Type='4'/><3 Type='0' Data='0400'/><0 Type='3' Data='0200'/><FontSize Value='80'/>Oh, he's actually pretty handsome now that I get
+  a good look.<FontSize Value='100'/><5 Type='1'/><0 Type='4'/><0 Type='3' Data='ffff'/>Hey! I have a good idea. You should take
+  this and not ask any questions.
+Talk_39: |
+  <3 Type='0' Data='0701'/>I should head back to work.<0 Type='4'/>The stores and barn are always open.
+  Take it easy, stranger.
+Talk_26: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='1200530075007200700072006900730065005300'/>Hey, do you know you're getting wet?
+  You need to get under a roof somewhere.

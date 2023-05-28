@@ -1,0 +1,96 @@
+Talk_0006: |
+  <3 Type='0' Data='0500'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>Candidly, I'm a little worried about this
+  mission. The new members didn't get
+  much in the way of training.
+  I wish <0 Type='3' Data='0000'/>someone with experience fighting
+  monsters <0 Type='3' Data='ffff'/>was there to help out.
+Talk_0012: |
+  <3 Type='0' Data='0000'/>I still have more of the elixir I prepared.<5 Type='0'/>
+  Please have some if you like.
+Talk_0101: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Oh, hello! <5 Type='0'/>Lovely morning, isn't it?
+Talk_0007: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>Oh!<5 Type='1'/> Your pouch is full.<5 Type='0'/> Well, it never
+  hurts to be prepared.
+Talk_0102: |
+  <3 Type='0' Data='0700'/><0 Type='3' Data='0000'/>Hoz's squad of the monster-control crew<0 Type='3' Data='ffff'/>
+  is out on a mission nearby.<5 Type='0'/> Be careful
+  you don't get caught in the crossfire.
+Talk_0002_01: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>Oh, hello. <5 Type='0'/>You just passing through?<0 Type='4'/>Squad one of the monster-control crew,
+  led by <0 Type='3' Data='0000'/>Hoz<0 Type='3' Data='ffff'/>, is about to engage with some
+  monsters near here.
+  <3 Type='0' Data='0000'/>If you can't hold your own in a fight,
+  I'd advise you to stay away.
+Talk_0103: |
+  Hoz is taking them to <0 Type='3' Data='0000'/>Fort Hateno<0 Type='3' Data='ffff'/>, which
+  is <0 Type='3' Data='0000'/>to the east <0 Type='3' Data='ffff'/>along that road.
+  
+  They're planning to get rid of the
+  monsters who set up a stronghold there.
+Near_0001: |
+  I hope they're OK.
+Talk_0104: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>I've been helping them out by taking
+  care of the horses and making elixirs.
+  
+  Thing is, I was so worried about them
+  coming back safe and sound that I made
+  waaay too much.
+  <3 Type='0' Data='0701'/>You want to take some? I'm sure it'll
+  come in handy during your travels.
+Talk_0101_01: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>Oh! <5 Type='0'/>Taking a break from your travels?
+Talk_0105: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>The squad's got some experience under
+  their belts now, but those monsters
+  they're up against look pretty tough.
+  <3 Type='0' Data='0c01'/>I wish someone <0 Type='3' Data='0000'/>with fighting skills <0 Type='3' Data='ffff'/>would
+  give them a little extra help.
+Talk_0101_02: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Oh! <5 Type='0'/>You're out late. Can't be easy,
+  traveling in this darkness.
+Talk_0201: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='0a005400680069006e006b00'/>The monsters we're fighting have seen
+  a lot of battles. I think it'll be OK, but you
+  never know.
+  <3 Type='0' Data='0c01'/>It'd be nice if someone <0 Type='3' Data='0000'/>confident in their
+  monster-fighting abilities <0 Type='3' Data='ffff'/>was there to
+  help out.
+Talk_0001: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>Hey there. <5 Type='0'/>You're a bit late, hm?
+Talk_0101_03: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Oh, hello! <5 Type='0'/>Crummy weather we're having
+  today, isn't it?
+Talk_0202: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='0a005400680069006e006b00'/>We're actually taking back a fort that
+  used to be ours, so we know the terrain.
+  That should give us an advantage.
+  <3 Type='0' Data='0c01'/>Still, you never know. I wish someone with
+  <0 Type='3' Data='0000'/>fighting skills <0 Type='3' Data='ffff'/>was there to make sure we
+  come out on top.
+Talk_0002: |
+  <3 Type='0' Data='0b00'/>Oh! <5 Type='0'/>You're <5 Type='0'/>not a member of the monster-
+  control crew.<0 Type='4'/><3 Type='0' Data='0a01'/>Sorry. <5 Type='1'/>We just formed, so I'm not overly
+  familiar with everyone's faces.
+Talk_0003: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>As we speak, squad one of the monster-
+  control crew—led by <0 Type='3' Data='0000'/>Hoz<0 Type='3' Data='ffff'/>—<5 Type='0'/>is carrying out
+  a mission nearby.
+Talk_0004: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>If you <0 Type='3' Data='0000'/>go south on that road<0 Type='3' Data='ffff'/>,<5 Type='1'/> you can
+  see them in action. They're assaulting a
+  monster stronghold!
+Talk_0005: |
+  <3 Type='0' Data='0000'/>I'm just here for logistical support—
+  tending to the horses, making elixirs.
+  
+  Come to think of it...<5 Type='1'/>I did make some
+  extra elixir. Why don't you take some?
+  Might come in handy during your travels.
+Talk_0011: |
+  <3 Type='0' Data='0000'/>The monster-control crew was only
+  created recently, <5 Type='0'/>so a lot of the members
+  aren't used to fighting monsters.
+  <3 Type='0' Data='0c00'/>I'd be more confident if <0 Type='3' Data='0000'/>someone with
+  fighting experience <0 Type='3' Data='ffff'/>was there to help.

@@ -1,0 +1,17 @@
+Name: |
+  Ancient Blades Below
+Exchange: |
+  A Mining Construct in the Spirit Temple is
+  gathering materials per Mineru's orders.
+  
+  If you give the construct <0 Type='3' Data='0000'/>50 pieces of zonaite<0 Type='3' Data='ffff'/>,
+  it will give you an ancient blade it excavated
+  from the Depths.
+Complete: |
+  When you handed over the zonaite that the
+  Mining Construct requested, it gave you an
+  <0 Type='3' Data='0000'/>ancient blade<0 Type='3' Data='ffff'/> in exchange.
+  
+  Should you need another, the construct will
+  trade with you again for an additional 50 pieces
+  of zonaite.

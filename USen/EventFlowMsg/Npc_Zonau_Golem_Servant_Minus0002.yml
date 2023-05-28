@@ -1,0 +1,112 @@
+talk_0001: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>I hope that the <0 Type='3' Data='0000'/>schema stone<0 Type='3' Data='ffff'/> I have
+  provided is useful to you.
+talk_0027: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='120057006f0072006b0048006500610076007900'/>Very well. Take care.
+talk_0015: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Welcome. <5 Type='0'/>This was once a busy
+  refinery where a great deal of zonaite
+  was processed.<0 Type='4'/>My task here is to manage designs for
+  mining equipment.<0 Type='4'/><3 Type='0' Data='0c01'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>Please hold one moment.<0 Type='4'/><3 Type='0' Data='0701'/>I have confirmed that there is a <0 Type='3' Data='0000'/>schema
+  stone<0 Type='3' Data='ffff'/> you do not yet have. <5 Type='0'/>Allow me to
+  rectify that.
+talk_0002: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1000480061007000700079005f0030003000'/><0 Type='3' Data='0000'/>Schema stones<0 Type='3' Data='ffff'/> can immediately produce
+  the assembled product they depict.<0 Type='4'/>Autobuild <5 Type='0'/>can reproduce products you
+  have previously assembled.<0 Type='4'/>This previous assembly is not required if
+  you have a <0 Type='3' Data='0000'/>schema stone<0 Type='3' Data='ffff'/>.<0 Type='4'/><3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>These designs are not included in the
+  amount you can register as favorites.<0 Type='4'/><0 Type='3' Data='0000'/>My associates<0 Type='3' Data='ffff'/> have more <0 Type='3' Data='0000'/>schema stones<0 Type='3' Data='ffff'/>.
+  I recommend taking the time to visit other
+  abandoned mines.
+talk_0016: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Welcome. This was once a busy
+  refinery where a great deal of zonaite
+  was processed.<0 Type='4'/><3 Type='0' Data='0401'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>I <0 Type='3' Data='0000'/>have something for you<0 Type='3' Data='ffff'/>. But I do not
+  think you are ready to receive it.<0 Type='4'/>Please visit the <0 Type='3' Data='0000'/>Great Abandoned Central
+  Mine<0 Type='3' Data='ffff'/> and return here afterward.
+talk_0017: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Welcome. I have confirmed that there is a
+  <0 Type='3' Data='0000'/>schema stone<0 Type='3' Data='ffff'/> you do not yet have. <5 Type='0'/>Allow
+  me to rectify that.
+talk_0005: |
+  <4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Authorizer verified.
+talk_0018: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Welcome. I <0 Type='3' Data='0000'/>have something for you<0 Type='3' Data='ffff'/>. <5 Type='0'/>But I
+  do not think you are ready to receive it.<0 Type='4'/>Please visit the <0 Type='3' Data='0000'/>Great Abandoned Central
+  Mine<0 Type='3' Data='ffff'/> and return here afterward.
+talk_0019: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Shall I explain <0 Type='3' Data='0000'/>schema stones<0 Type='3' Data='ffff'/> to you?<0 Type='4'/>Or would you like me to explain what
+  happens when you use Autobuild with
+  insufficient parts?
+talk_1000: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Welcome.<5 Type='0'/>
+talk_1001: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='120057006f0072006b0048006500610076007900'/>This was once a busy refinery where a
+  great deal of zonaite was processed.<0 Type='4'/>It is all but abandoned now.<0 Type='4'/>I do still have associates here who
+  process ore and manage schema stones.
+  You should speak to them.
+talk_1002: |
+  <3 Type='0' Data='0801'/>Thank you for driving out the trespassers.<0 Type='4'/>I overheard your conversation. You spoke
+  loudly enough that it was difficult not to.<5 Type='0'/>
+talk_0009: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Welcome.
+talk_1003: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>The Eastern Abandoned Mine that man
+  spoke of is most likely the <0 Type='3' Data='0000'/>Abandoned
+  Lanayru Mine<0 Type='3' Data='ffff'/>.
+  It is extremely far from here. <5 Type='0'/>You will not
+  find stone guideposts to it in this area.<0 Type='4'/>I suggest ascending to the surface first.
+  You may be able to find a chasm leading
+  there in the region to the east.<0 Type='4'/><3 Type='0' Data='0701'/>There are <0 Type='3' Data='0000'/>two chasms in the region to
+  the east<0 Type='3' Data='ffff'/> that contain stone guideposts
+  leading to the Abandoned Lanayru Mine.
+  I recall a <0 Type='3' Data='0000'/>chasm <0 Type='3' Data='ffff'/>on land in the <0 Type='3' Data='0000'/>Lanayru
+  Wetlands<0 Type='3' Data='ffff'/>. There is also one south of there
+  in a <0 Type='3' Data='0000'/>mountain village<0 Type='3' Data='ffff'/>.
+talk_1004: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>There is one other thing before you
+  resume your journey.<5 Type='0'/>
+talk_0020: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>I will also prepare the parts required to
+  test it via Autobuild.
+talk_1005: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>My associate over there manages
+  schema stones. <5 Type='0'/>You may want to ask
+  for one.
+talk_0021: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='0a005400680069006e006b00'/>I <0 Type='3' Data='0000'/>have something for you<0 Type='3' Data='ffff'/>. <5 Type='0'/>But I do not
+  think you are ready to receive it.<0 Type='4'/>Please visit the <0 Type='3' Data='0000'/>Great Abandoned Central
+  Mine<0 Type='3' Data='ffff'/> and return here afterward.
+0002: |
+  Goodbye.
+talk_1006: |
+  <3 Type='0' Data='0301'/>Take care as you go.
+talk_0022: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003100'/>I am curious about one other thing.<0 Type='4'/>Do you know what Autobuild will do if
+  you <0 Type='3' Data='0000'/>have insufficient parts<0 Type='3' Data='ffff'/>?
+0003: |
+  Explain schema stones.
+talk_1007: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Hello. It is nice to see you.<5 Type='0'/>
+talk_0023: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='120057006f0072006b0048006500610076007900'/>Autobuild will not be able to manufacture
+  an object if any of its component parts
+  are missing.<0 Type='4'/>But <0 Type='3' Data='0000'/>zonaite<0 Type='3' Data='ffff'/> can help with this.<0 Type='4'/>You can supplement missing parts
+  by using <0 Type='3' Data='0000'/>zonaite<0 Type='3' Data='ffff'/> to mimic their form
+  and properties.<0 Type='4'/>Keep in mind that they are temporary
+  parts created by the Autobuild ability.<0 Type='4'/>You cannot use them for other purposes.
+  They will vanish when you disassemble
+  the creation they were intended for.<0 Type='4'/>I assure you that they are useful despite
+  these limitations.<0 Type='4'/><3 Type='0' Data='0801'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>I hope that you find your own purpose
+  for them.
+0004: |
+  Explain Autobuild.
+talk_1008: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Greetings.<5 Type='0'/>
+1000: |
+  Tell me!
+talk_0025: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='0a0048006100700070007900'/>Excellent.<0 Type='4'/>Then please put the <0 Type='3' Data='0000'/>schema stone<0 Type='3' Data='ffff'/> I gave
+  you to good use.
+1001: |
+  I know this one!

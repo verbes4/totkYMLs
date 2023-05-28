@@ -1,0 +1,236 @@
+Talk03_09: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>Don't be ridiculous!<5 Type='1'/>
+  
+  
+  <3 Type='0' Data='0900'/><4 Type='0' Data='100041006e006700720079005f0030003000'/><FontSize Value='125'/>The pirates are really dangerous!<FontSize Value='100'/>
+  
+  
+  Losing my hometown was enough, but
+  losing you too? Not an option.
+Near04: |
+  Lurelin's in a bad spot...
+Talk03_30: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a005400680069006e006b00'/>Oh, it looks like your pouch is still full.
+  
+  
+  I want you to have a <0 Type='3' Data='0000'/>mighty salt-grilled
+  crab <0 Type='3' Data='ffff'/>I brought from our hometown.
+  
+  Please come back once you've made
+  some space.
+Talk03_31: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>That <0 Type='3' Data='0000'/>mighty salt-grilled crab<0 Type='3' Data='ffff'/> is my
+  finest cooking.
+  
+  It's a dish that really brings out the
+  warrior in you. Please, enjoy!
+Talk03_32: |
+  <3 Type='0' Data='0900'/><4 Type='0' Data='100041006e006700720079005f0030003100'/>Don't be ridiculous.
+  
+  
+  With Lurelin<0 Type='3' Data='0000'/> restored<0 Type='3' Data='ffff'/>, we villagers need to
+  come together and bring life back to our
+  once-bustling little village.
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>I can take care of the shop here,
+  no problem.
+  
+  You should get the village shop opened,
+  pronto, and start saving money too.
+Talk02_01: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/><0 Type='3' Data='0000'/>Rozel<0 Type='3' Data='ffff'/>'s the <0 Type='3' Data='0000'/>head of the village<0 Type='3' Data='ffff'/>—I bet he'd
+  know whether or not everyone is safe.
+Talk03_20: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/><FontSize Value='125'/>The pirates are already gone?!
+  
+  
+  <FontSize Value='100'/>And Rozel and everyone from the village
+  are OK too?!<FontSize Value='125'/><FontSize Value='100'/>
+Talk03_33: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>You're right. Let's keep the business here
+  rolling until the village is back to normal.
+Talk02_02: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Sorry you overheard all that...
+  
+  
+  You see, our hometown is a place called
+  <0 Type='3' Data='0000'/>Lurelin Village<0 Type='3' Data='ffff'/>. It's a fishing village on the
+  <0 Type='3' Data='0000'/>southeastern edge <0 Type='3' Data='ffff'/>of Hyrule.
+  It's a small place, but our little village
+  had specialty shops you can't find
+  anywhere else.
+  People would travel great distances
+  just to visit the shops. It was a very
+  lively place...
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0c005300610064005f0030003000'/>But then it was attacked by pirates.
+  I hope everyone is all right...
+  
+  <0 Type='3' Data='0000'/>Rozel<0 Type='3' Data='ffff'/>'s the <0 Type='3' Data='0000'/>head of the village<0 Type='3' Data='ffff'/>—surely 
+  he'd know how everyone fared.
+  
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>But it's so far from here, and
+  we've got no way to contact him.
+  We're beside ourselves.
+Talk03_21: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Thank goodness! <5 Type='1'/>I'm so glad. They're all
+  safe. I was beside myself...
+Talk03_34: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>With the pirates gone and the village back
+  to normal, I have to wonder how our little
+  shop back home is looking...
+  Even if I have to go on my own, maybe
+  I should return to Lurelin Village.
+  
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>But if you'd be lonely without me, then I
+  can stay here, Mubs...
+Talk02_03: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Huh?
+Talk03_22: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='12004c0061007500670068004c005f0030003000'/>Thank you for bringing us the best
+  possible news!
+Talk02_04: |
+  <3 Type='0' Data='0401'/>Mubs! We have a customer.
+Talk03_23: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='12004c0061007500670068004c005f0030003000'/>Please, have this, as a sign of
+  our gratitude.
+Talk01_01: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0c005300610064005f0030003000'/>I'm worried about everyone back home in
+  <0 Type='3' Data='0000'/>Lurelin Village<0 Type='3' Data='ffff'/>. I keep hoping they got
+  away from the <0 Type='3' Data='0000'/>pirates<0 Type='3' Data='ffff'/>...
+Talk02_05: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0e0043006800610074005f0030003000'/>Sorry. We were deep in conversation.
+  But enough about that!
+Talk03_24: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>With the pirates gone, I have to wonder
+  how our little shop back home is looking...
+  
+  Even if I have to go on my own, maybe
+  I should return to Lurelin Village.
+Talk01_02: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>Me too... We're so fortunate to have
+  refuge here. I can't say the same for
+  everyone else...
+  The village is way out on the <0 Type='3' Data='0000'/>edge of East
+  Necluda<0 Type='3' Data='ffff'/> to the <0 Type='3' Data='0000'/>southeast<0 Type='3' Data='ffff'/>, and there's
+  nowhere nearby for them to run to...
+Talk02_06: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='0c005300610064005f0030003000'/>There's no nearby place around
+  <0 Type='3' Data='0000'/>Lurelin Village <0 Type='3' Data='ffff'/>where folks would
+  be able to seek refuge, you see.
+Talk03_25: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='0e0043006800610074005f0030003100'/>Even with the pirates out of the picture,
+  there's work to be done.
+  
+  They're going to be busy for a while,
+  <0 Type='3' Data='0000'/>rebuilding<0 Type='3' Data='ffff'/> the houses and shops.
+  
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>Without any woodworking skills, you'd
+  just get in the way if you went back now.
+  
+  <3 Type='0' Data='0701'/>Instead, we should focus on saving up
+  money in the meantime.
+  
+  <4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>That way, once the village is <0 Type='3' Data='0000'/>restored<0 Type='3' Data='ffff'/>,
+  we'll have the means to reopen our
+  shop there!
+Talk01_03: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/><0 Type='3' Data='0000'/>Rozel<0 Type='3' Data='ffff'/>'s the <0 Type='3' Data='0000'/>village leader<0 Type='3' Data='ffff'/>, so he'd be
+  the first to know how things shook out
+  back home.
+  But we've got no way to reach him...
+  Never thought something like this would
+  happen in our peaceful little <0 Type='3' Data='0000'/>hometown<0 Type='3' Data='ffff'/>...
+Talk02_07: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0c005300610064005f0030003100'/>I can't stop worrying about everyone back
+  at home...
+Talk03_26: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0c005300610064005f0030003000'/>Good call, yeah...
+  
+  
+  <0 Type='3' Data='0200'/><FontSize Value='80'/>Though, I'd have preferred to stay with you a
+  while longer...<FontSize Value='100'/><0 Type='3' Data='ffff'/>
+  
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>OK, I'll make my way to Lurelin Village.
+  Leave the village shop to me!
+Talk01_04: |
+  <3 Type='0' Data='0701'/>Are you a customer?
+Talk02_08: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0e0043006800610074005f0030003000'/>Sorry. We were deep in conversation.
+  
+  
+  We didn't expect any customers at this
+  hour. But enough about that!
+Talk03_01: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0c005300610064005f0030003100'/>I'm worried sick about everyone in
+  Lurelin Village...
+  
+  Hey, maybe I should head back there and
+  scope out the situation?
+Talk03_27: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Oh, looks like your pouch is full and you
+  can't fit any more!
+  
+  I had been hoping <5 Type='0'/>to give you a <0 Type='3' Data='0000'/>mighty
+  salt-grilled crab<0 Type='3' Data='ffff'/> that I brought from
+  our hometown.
+  But if you don't have room, I can't offer
+  you this gift.
+Talk01_05: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0e0043006800610074005f0030003000'/>You must have overheard the bad news...
+  But enough about that!
+Talk02_09: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0e0043006800610074005f0030003000'/>Sorry. We were deep in conversation.
+  
+  
+  We didn't expect any customers at this
+  hour. But let me greet you properly!
+Talk03_02: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>Ah, a customer! Sorry about that. We
+  were caught up in conversation.
+Talk03_28: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>So? Did you make some space?
+Talk01_06: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>Hm?
+Talk03_29: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>To top it off, the ruined buildings have all
+  been restored?!
+Talk01_07: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>I wonder how things are now...
+Talk03_04: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003000'/>Everyone in the village is OK?! You...<5 Type='1'/>you<5 Type='1'/>
+  spoke to Rozel?
+Talk01_08: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0e0043006800610074005f0030003000'/>You must have overheard the bad news...
+  
+  
+  We were speaking freely because we
+  didn't figure any customers would come
+  by at this hour. But enough about that!
+Talk03_05: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0e0045006100730065005f0030003000'/>Thank goodness! Just hearing that
+  everyone is all right is enough for me.
+  
+  The village and houses can all be rebuilt,
+  but there's no replacing the people.
+  
+  <3 Type='0' Data='0a01'/>Still, I can't imagine how they're all
+  feeling, with no homes to return to...
+  
+  <3 Type='0' Data='0900'/><4 Type='0' Data='180057006f0072006b00480065006100760079005f0030003100'/>How long do those no-good pirates plan
+  on staying there?
+Talk01_09: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0e0043006800610074005f0030003000'/>You must have overheard the bad news...
+  
+  
+  We were speaking freely because we
+  didn't figure any customers would come
+  by at this hour. But enough about that!
+Talk03_06: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Well, anyway!
+Near01: |
+  I'm so worried...
+Talk03_08: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>All we can do now is hope that
+  those pirates leave Lurelin Village
+  at some point.
+  <0 Type='3' Data='0000'/>Our shop<0 Type='3' Data='ffff'/> is there too... I wonder what's
+  become of it.

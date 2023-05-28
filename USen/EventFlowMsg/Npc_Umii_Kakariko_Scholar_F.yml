@@ -1,0 +1,83 @@
+Near0001: |
+  Ugh... I feel awful...
+Talk0009: |
+  <3 Type='0' Data='0500'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Hey, traveler. I'd stay away from that stuff
+  if you care about your health.
+  
+  Folks are calling it <0 Type='3' Data='0000'/>gloom<0 Type='3' Data='ffff'/>. If you get any
+  on you, you'll start <0 Type='3' Data='0000'/>losing your strength<0 Type='3' Data='ffff'/>,
+  like it's sapping your life away.
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='1000540069007200650064005f0030003100'/>I touched some gloom while poking
+  around in the Depths, and now look
+  at me.
+  The worst of it will <0 Type='3' Data='0000'/>recover<0 Type='3' Data='ffff'/> on its own,
+  little by little, so long as you're on
+  the <0 Type='3' Data='0000'/>surface<0 Type='3' Data='ffff'/>.
+  But while you're in the Depths, you won't
+  recover at all.<5 Type='0'/> I thought I was going to die
+  down there.
+  *sigh* <5 Type='0'/>Some investigation leader I turned
+  out to be. <5 Type='0'/>This is just pitiful.
+Talk0011: |
+  <3 Type='0' Data='0a00'/>I don't like seeing Daval working all
+  alone in the rain...
+Talk0012: |
+  <3 Type='0' Data='0a01'/>I'm completely reliant on Daval, so I
+  really want to recover by noon...
+Talk0013: |
+  <3 Type='0' Data='0a01'/>I'm completely reliant on Daval, so I
+  really want to recover by nighttime...
+Talk0005: |
+  <3 Type='0' Data='0500'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Traveler? <5 Type='0'/>Are you feeling OK?
+  
+  
+  Folks are calling this stuff <0 Type='3' Data='0000'/>gloom<0 Type='3' Data='ffff'/>. <5 Type='0'/>If you
+  care about your health, it's best not to
+  go near it.
+  If you get any on you, you'll start <0 Type='3' Data='0000'/>losing
+  your strength<0 Type='3' Data='ffff'/>, like it's sapping your
+  life away.
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='1000540069007200650064005f0030003100'/>I touched some gloom while poking
+  around in the Depths, and now look
+  at me.
+  You'll <0 Type='3' Data='0000'/>recover<0 Type='3' Data='ffff'/> from the worst of it on your
+  own, little by little, so long as you're on
+  the <0 Type='3' Data='0000'/>surface<0 Type='3' Data='ffff'/>.
+  But while you're in the Depths, you won't
+  recover at all.<5 Type='0'/> I thought I was going to die
+  down there.
+  *sigh* <5 Type='0'/>Some investigation leader I turned
+  out to be. <5 Type='0'/>This is just pitiful.
+Talk0014: |
+  <3 Type='0' Data='0a01'/>I'm completely reliant on Daval, so I
+  really want to recover by morning...
+Talk0015: |
+  <3 Type='0' Data='0300'/>It'll sap your strength, <5 Type='0'/>and you'll end up
+  like me...<5 Type='1'/>too sluggish to move...
+Talk0006: |
+  <3 Type='0' Data='0500'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Traveler, please be extra cautious around
+  the <0 Type='3' Data='0000'/>gloom<0 Type='3' Data='ffff'/>.
+  
+  I've been recovering slowly—very slowly—
+  since coming back to the surface.
+  
+  But while I was in the Depths, I couldn't
+  recover at all.<5 Type='0'/> Who knows what would've
+  become of me...
+  <3 Type='0' Data='0a01'/>I'm taking care of myself and resting, but<5 Type='0'/>
+  I can't imagine an encounter with the
+  gloom a second time, no sir.
+Talk0007: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='1200530075007200700072006900730065004c00'/>N-no!<5 Type='0'/> Traveler, don't do it!<5 Type='0'/> If you touch
+  that, well...
+Talk0016: |
+  <3 Type='0' Data='0300'/>If you touch <0 Type='3' Data='0000'/>gloom<0 Type='3' Data='ffff'/>, it'll sap your strength
+  and you'll end up like me—<5 Type='0'/>too sluggish
+  to move!
+Talk0008: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='1200530075007200700072006900730065004c00'/>P-<5 Type='0'/>please be careful!
+Talk0010: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0c005300610064005f0030003100'/>There's no way I can make Daval work
+  alone in the rain.
+  
+  I need to recover. Pronto.

@@ -1,0 +1,93 @@
+Talk_PreDefense_00: |
+  <3 Type='0' Data='0900'/>We're fully prepared for a long fight that'll
+  <0 Type='3' Data='0000'/>challenge our endurance<0 Type='3' Data='ffff'/>! We won't lose!
+talk0000: |
+  <3 Type='0' Data='0700'/>At long last, it feels like the battle is over.
+  We made it through, despite injuries
+  and setbacks...
+  But there's no time to relax! I should
+  probably head to the <0 Type='3' Data='0000'/>Training Area<0 Type='3' Data='ffff'/> at
+  the <0 Type='3' Data='0000'/>Southern Oasis<0 Type='3' Data='ffff'/>.
+talk0001: |
+  <3 Type='0' Data='0c00'/>Maybe I'll relax at the <0 Type='3' Data='0000'/>Southern Oasis<0 Type='3' Data='ffff'/> for
+  just a bit before continuing on to the
+  <0 Type='3' Data='0000'/>Training Area<0 Type='3' Data='ffff'/>...
+  No, I should wait until after training.
+  There is no greater reward for hard work
+  than taking some time to relax...
+talk0002: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>What, did you lose your map? It's an
+  oasis, and it is south of here. <5 Type='0'/>The name
+  says as much.
+  <3 Type='0' Data='0701'/>Water is a rare commodity in the desert,
+  and while the place isn't exactly a tourist
+  hot spot, we Gerudo enjoy it well enough.
+  It's actually surprisingly far away. You
+  might want to rent a sand seal from the
+  <0 Type='3' Data='0000'/>rental shop<0 Type='3' Data='ffff'/> to make the trek easier.
+Talk_PreDefense: |
+  <3 Type='0' Data='0900'/>They outnumbered us in the last battle
+  and were able to break our lines, but...
+  
+  We won't let that happen this time!
+  We're fully prepared for a long fight that'll
+  <0 Type='3' Data='0000'/>challenge our endurance<0 Type='3' Data='ffff'/>! We won't lose!
+1001: |
+  Southern Oasis?
+1002: |
+  Training area?
+1003: |
+  Goodbye.
+talk0005: |
+  <3 Type='0' Data='0700'/>Ah. It's a <0 Type='3' Data='0000'/>training facility<0 Type='3' Data='ffff'/> that <0 Type='3' Data='0000'/>Lady Riju<0 Type='3' Data='ffff'/>
+  set up for the town guards to use
+  for training.
+  <3 Type='0' Data='0c00'/>For example, the battles against the
+  Gibdos showed me that my stamina and
+  ability to adapt could use some work.
+  <3 Type='0' Data='0701'/>Once I'm done here, I'm thinking of
+  heading out there and working on that.
+  
+  Hm... The place is meant for just us
+  Gerudo. Technically.<0 Type='4'/><3 Type='0' Data='0701'/>I imagine you'd be allowed to use it,
+  though. You did fight alongside us.
+Talk_InBattle: |
+  <3 Type='0' Data='0900'/>It doesn't matter how many they throw at
+  us!<5 Type='0'/> We'll send them packing all the same!
+near0000: |
+  Time for the Training Area?
+talk0006: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='0c004c0061007500670068005300'/>Sav'orq!
+  
+  
+  It's important that we are able to defend
+  the town—we can't expect you to come
+  swooping in anytime there is danger!
+talk0007: |
+  <3 Type='0' Data='0701'/>It's near the <0 Type='3' Data='0000'/>Southern Oasis<0 Type='3' Data='ffff'/>. You could
+  always go and check it out, especially if
+  you're heading that way.
+Talk_PreChallenge00: |
+  <3 Type='0' Data='0a00'/>Ow... Everything hurts... I guess I still
+  can't move...
+  
+  Those things... It didn't matter how many
+  we took down.<5 Type='0'/> They just kept coming.
+  
+  Where in the world could they have been
+  coming from though?
+Talk_PreChallenge01: |
+  <3 Type='0' Data='0a00'/>Those things... Where could they have
+  been coming from?
+  
+  No doubt the next battle will <0 Type='3' Data='0000'/>challenge
+  our endurance<0 Type='3' Data='ffff'/> too. <5 Type='1'/>I've got to heal up,
+  replace my weapon, and be ready...
+Talk_InAzito: |
+  <3 Type='0' Data='0a00'/>Battle after battle against an endless
+  wave of enemies that just won't stop...<5 Type='0'/>
+  It really wears on you after a while.
+Talk_AfterDefense: |
+  <3 Type='0' Data='0a00'/>We beat them, every last one of them,
+  yet I'm still jumping at shadows and on
+  edge at the slightest noise...

@@ -1,0 +1,13 @@
+Name: |
+  Amber Dealer
+SellAmbers: |
+  Ramella the jeweler is procuring ore in
+  Goron City.
+  
+  She says that if you give her a batch of
+  <0 Type='3' Data='0000'/>10 pieces of amber<0 Type='3' Data='ffff'/>, she'll buy them
+  for a high price.
+Complete: |
+  <0 Type='3' Data='0000'/>Ramella<0 Type='3' Data='ffff'/> purchased your <0 Type='3' Data='0000'/>amber<0 Type='3' Data='ffff'/>. If you bring her
+  ore in the future, she will buy it from you at a
+  slightly higher rate than elsewhere.

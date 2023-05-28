@@ -1,0 +1,37 @@
+talk04_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1a00410064006d00690072006100740069006f006e005f0030003000'/>Hm, well! <5 Type='1'/> I wasn't expecting to run into a
+  Hylian out here.<0 Type='4'/><3 Type='0' Data='0001'/>I'm observing the clouds and the winds
+  in hopes of learning the cause of this
+  blasted blizzard.
+  <3 Type='0' Data='0501'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>I could probably learn more from a higher
+  vantage. Unfortunately, flying isn't an
+  option. The gales are too strong for it.
+talk05_02: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Say, thanks for helping me before!<0 Type='4'/><3 Type='0' Data='0001'/>Those flying monsters really had it out
+  for me. Without you there, I could never
+  have gotten those supplies to the village.
+  Now I'm helping Bedoli sort and give out
+  all the supplies we collected.<0 Type='4'/><3 Type='0' Data='0101'/><4 Type='0' Data='1a0055006e006400650072007300740061006e0064005f0030003000'/>We owe you a big debt of gratitude.
+  Really we do.
+talk04_03: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='0e00540072006f00750062006c006500'/>If we want to learn what's causing this
+  blizzard, we'll need a view from up high.<0 Type='4'/><3 Type='0' Data='0501'/>Unfortunately, with such strong gales,
+  flying isn't an option. I'm stuck observing
+  from ground level.
+TerrorArrow_00: |
+  I'm not a monster!
+Near11: |
+  This is hard work too.
+talk05_05: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>With your help, and now that the blizzard
+  is over, I delivered the supplies to the
+  village. They ought to hold us for a while.
+  <3 Type='0' Data='0101'/>You really came through. I owe you a debt
+  of gratitude.
+TerrorArrow_01: |
+  Don't point that at me!
+talk05_06: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Heya! Glad you're here! The village has
+  settled down quite a bit, eh?
+TerrorArrow_02: |
+  Hey... Easy now...

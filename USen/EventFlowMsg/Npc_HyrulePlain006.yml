@@ -1,0 +1,159 @@
+Talk_07: |
+  <3 Type='0' Data='0500'/><4 Type='0' Data='0a005400680069006e006b00'/>The lava around here has completely
+  cooled, so the Woodland Stable route
+  lacks the fiery passion I crave.
+  Maybe I should take the monster-laden
+  Foothill Stable route to the east, just to
+  give my journey a little more spice...
+  <3 Type='0' Data='0301'/>I'm, uh...<5 Type='1'/>just not sure my muscles are
+  quite ready to feel the burn. This is a
+  tough call to make!
+Near_03: |
+  This'll keep me dry.
+Talk_1130: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0c00570061006b00650075007000'/>Ngh...<5 Type='1'/> I was finally nodding off...
+  
+  
+  <3 Type='0' Data='0001'/>You must <5 Type='0'/>REALLY wanna learn about the
+  red-hot lifestyle.
+Talk_09: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='1a00410064006d00690072006100740069006f006e005f0030003000'/>But the real question right now is who
+  does that snazzy <0 Type='3' Data='0000'/>balloon <0 Type='3' Data='ffff'/>belong to?
+Talk_1120: |
+  <3 Type='0' Data='0701'/>Look, it takes sleep to burn so bright, so
+  will you let me recharge for a bit?
+Talk_20: |
+  <3 Type='0' Data='0701'/>Also, if you thought cliffs being <0 Type='3' Data='0000'/>harder to
+  climb <0 Type='3' Data='ffff'/>was the worst thing about a storm,
+  you've clearly never been zapped.
+  If lightning strikes my <0 Type='3' Data='0000'/>metal weapon<0 Type='3' Data='ffff'/>, I'll
+  get <0 Type='3' Data='0000'/>burnt to a crisp<0 Type='3' Data='ffff'/>! That's not the kind of
+  thrill I'm looking for, so I'm waiting it out.
+Talk_21: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1400540072006f00750062006c0065005f0030003000'/>So a while back, Death Mountain was
+  super active—we're talking full force,
+  non-stop, red-hot lava.
+  But now the lava's all cooled down and
+  hardened into a <0 Type='3' Data='0000'/>new road <0 Type='3' Data='ffff'/>that's super
+  easily walkable.
+  <3 Type='0' Data='0a00'/>And there's nothing red hot about
+  "easily walkable"!
+  
+  <3 Type='0' Data='0701'/>Now on the other hand, the route
+  going up to Death Mountain from
+  <0 Type='3' Data='0000'/>Foothill Stable<0 Type='3' Data='ffff'/>...
+  That's an old, dangerous road absolutely
+  crawling with monsters. If you're looking
+  for "red hot," that's where to find it.
+  <3 Type='0' Data='0701'/>Thing is...<5 Type='0'/>my muscles aren't exactly ready
+  to take the heat, so that makes my
+  decision more complicated.
+Talk_10: |
+  <3 Type='0' Data='0500'/><4 Type='0' Data='0a005400680069006e006b00'/>The lava around here has completely
+  cooled, so the Woodland Stable route
+  lacks the fiery passion I crave.
+  Maybe I should take the monster-laden
+  Foothill Stable route to the east, just to
+  give my journey a little more spice.
+  <3 Type='0' Data='0701'/>I'm, uh...<5 Type='1'/>just not sure my muscles are
+  quite ready to feel the burn.
+  
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='0e00540072006f00750062006c006500'/>But if I had a <0 Type='3' Data='0000'/>balloon<0 Type='3' Data='ffff'/> like the one
+  across the pond, that might be my
+  red-hot remedy to this dilemma!
+Talk_1110: |
+  <3 Type='0' Data='0401'/>Wha?
+  
+  
+  <3 Type='0' Data='0701'/><4 Type='0' Data='18005300680069007400610075006300680069005f0030003100'/>I was finally nodding off, what is it?<5 Type='1'/>
+  You wanna know what it means to be
+  red hot?
+Talk_11: |
+  <3 Type='0' Data='0701'/>Sorry, didn't mean to talk for so long. It's
+  already late, so I better get myself to bed.
+Talk_1111: |
+  <3 Type='0' Data='0501'/><4 Type='0' Data='100053006c006500650070005f0030003100'/>Come back tomorrow...
+0000: |
+  Red hot?
+Talk_12: |
+  <3 Type='0' Data='0701'/>Didn't mean to ramble on so long. Time
+  for me to get some shut-eye so I can
+  think over my decision tomorrow.
+Talk_00: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='0a005400680069006e006b00'/>How's a guy supposed to pick a path to
+  Death Mountain?<5 Type='1'/> A trek up a mountain
+  should be a <0 Type='3' Data='0000'/>red-hot <0 Type='3' Data='ffff'/>adventure.
+Talk_13: |
+  <3 Type='0' Data='0701'/>Ah, sorry, didn't mean to talk so long.
+  Time for me to have a good meal and
+  recharge my brain.
+Talk_1100: |
+  <3 Type='0' Data='0500'/><4 Type='0' Data='100053006c006500650070005f0030003000'/>The dull 'n' drab Woodland Stable route...<5 Type='1'/>
+  or the red-hot <5 Type='0'/>Foothill Stable route...
+Talk_01: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='0a005400680069006e006b00'/>How's a guy supposed to pick a path to
+  Death Mountain?<5 Type='1'/> A trek up a mountain
+  should be a <0 Type='3' Data='0000'/>red-hot <0 Type='3' Data='ffff'/>adventure.
+  If I had a balloon like the one on the other
+  side of the pond, that'd spice things up a
+  bit. Fat chance of that though.
+Talk_02: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004e006f007400690063006500'/>What's that?<5 Type='0'/> Did the fiery passion of my
+  monologue catch your ear?
+  
+  Well, red hot is as red hot does,
+  my friend.
+Talk_15: |
+  <3 Type='0' Data='0701'/>Anyway, the embers of my soul are
+  starting to run a little cool, time to
+  sleep and fire them back up again.
+Talk_16: |
+  <3 Type='0' Data='0701'/>One can only remain red-hot for so many
+  hours a day. Time for bed so I can burn
+  bright tomorrow.
+Talk_17: |
+  <3 Type='0' Data='0701'/>For now, I'm going to chew things over
+  with a nice meal.
+Near_00: |
+  I wish I had that balloon...
+0006: |
+  I'll leave you to it.
+Talk_05: |
+  <3 Type='0' Data='0c00'/>I could take the sedate Woodland Stable
+  route...or I could take the Foothill Stable
+  route for a fiery adventure...
+Near_01: |
+  How do I choose?
+Talk_18: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003000'/>Gah! Whoa! Listen, I don't do rain!
+  
+  
+  We need to get somewhere dry! Come on!
+Talk_06: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>So a while back, Death Mountain was
+  super active—we're talking full-force,
+  non-stop, red-hot lava.
+  But now the lava's all cooled down and
+  hardened. It's even—ugh, I hate to say
+  it—made a <0 Type='3' Data='0000'/>new road<0 Type='3' Data='ffff'/> that's easy to walk!
+  <3 Type='0' Data='0a00'/>And ease, my friend, is the opposite of
+  the "red hot" lifestyle.
+  
+  <3 Type='0' Data='0701'/>Now the route going up Death Mountain
+  from <0 Type='3' Data='0000'/>Foothill Stable <0 Type='3' Data='ffff'/>to the east, on the
+  other hand...
+  That's an old, dangerous road absolutely
+  crawling with monsters.
+  
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068005300'/>That's what I call RED HOT!
+  
+  
+  <3 Type='0' Data='0701'/>But, uh...<5 Type='0'/>my muscles aren't exactly ready
+  to take the heat right now, so that makes
+  my decision more complicated.
+Talk_19: |
+  <3 Type='0' Data='0701'/>By the way, it's <0 Type='3' Data='0000'/>harder to climb cliffs <0 Type='3' Data='ffff'/>while
+  it's raining, so I'm taking a little break
+  until this passes.
+Near_02: |
+  Better get under a tree!

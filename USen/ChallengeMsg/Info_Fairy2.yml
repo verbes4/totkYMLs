@@ -1,0 +1,34 @@
+Name: |
+  Serenade to Mija
+Search: |
+  The Great Fairy Mija is hiding in her flower bud,
+  found in the foothills of a mountain near
+  Snowfield Stable. Horn music might draw her
+  out, but the horn player Eustus is missing.
+  
+  A traveler who'd come from the south reported
+  hearing the <0 Type='3' Data='0000'/>sound of a horn<0 Type='3' Data='ffff'/> along the road in
+  the area around Tabantha Great Bridge.
+CarryNPC: |
+  It's said that the Great Fairy who lives on the
+  lower slope of a mountain near Snowfield Stable
+  won't come out of her bud. Mastro thinks the
+  Stable Trotters' horn music will bring her out.
+  
+  They'd like to go to her, but their <0 Type='3' Data='0000'/>wagon has no
+  roof<0 Type='3' Data='ffff'/>, so he's worried the band will catch cold in
+  the snow. For now, they're stuck at the stable. 
+ReturnUmayado: |
+  It's said that the Great Fairy Mija, who lives on
+  the lower slope of a mountain near Snowfield
+  Stable, won't come out of her bud. Eustus,
+  the Stable Trotters member that Mastro was
+  searching for, has safely returned to the troupe.
+  
+  Go talk to <0 Type='3' Data='0000'/>Mastro at Snowfield Stable<0 Type='3' Data='ffff'/>.
+Complete: |
+  The Stable Trotters' performance inspired the
+  Great Fairy to leave her bud. The horn player,
+  Eustus, was moved that she enjoyed his
+  music. Mastro gave you a silver rupee as a
+  thank-you for helping his troupe.

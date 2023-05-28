@@ -1,0 +1,10 @@
+Unequip: |
+  None
+LeftHand: |
+  Left Hand
+RightHand: |
+  Right Hand
+0000: |
+  <2 Type='11' Data='2c00530069006d0070006c00650053007400720069006e00670046006f0072004d00650073007300610067006500ffff'/>
+Back: |
+  Back Part

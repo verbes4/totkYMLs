@@ -1,0 +1,64 @@
+Talk_0050: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1200530075007200700072006900730065004d00'/>What are you doing? <5 Type='0'/>The lightning here is
+  not to be messed with!<0 Type='4'/>I'm going find a <0 Type='3' Data='0000'/>roof to hide under<0 Type='3' Data='ffff'/>, since
+  I've got a brain between my ears.
+Talk_0060: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1200530075007200700072006900730065005300'/>Hey, you!<5 Type='0'/> You're not carrying anything
+  that's made of metal, right?<0 Type='4'/><3 Type='0' Data='0701'/>Unless you've got lightning-proof clothes,
+  that's a recipe for what I'll euphemistically
+  call <5 Type='0'/>a bad time.<0 Type='4'/>The rain can be your friend. Rising water
+  levels help you get to some hard-to-reach
+  places. But be careful, or... <5 Type='0'/>Bzzt... <5 Type='0'/>Bzzt...<5 Type='0'/>
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1200530075007200700072006900730065004c00'/><FontSize Value='125'/>BANG!<0 Type='4'/><3 Type='0' Data='0701'/><FontSize Value='100'/>...The lightning here doesn't mess around.
+Talk_0070: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>Ah, yes, clear weather! <5 Type='1'/>Enjoy it while
+  it lasts!
+Near_0001: |
+  Rain! Who's surprised!
+Talk_0001: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Hey. <5 Type='0'/>You're an adventurer, aren't you?
+  You've gotta be to get out here.<0 Type='4'/>I bet you've come to see the strange
+  creatures. <5 Type='0'/>Or maybe all of the old ruins
+  around this area?<0 Type='4'/><3 Type='0' Data='0501'/>I'll tell you, this area<0 Type='3' Data='0000'/> <0 Type='3' Data='ffff'/>has its challenges.
+  The heavy rains make steady footing
+  hard to come by.
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Still, if you wander around, you never
+  know what you'll find! Just don't let any
+  lightning...<5 Type='0'/>find you first.
+Talk_0010: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Look at that!<5 Type='0'/> Fate brings us together
+  again.<5 Type='0'/> I have a story I think you'll
+  appreciate.
+  You know Rassla Lake to the southeast?
+  There's a flooded cave there.<0 Type='4'/>I went to it on one of our precious few
+  clear days, hoping to find some treasure.
+  
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>But no sooner did I arrive than it started
+  raining outside.<0 Type='4'/>And get this—<5 Type='0'/>the water level rose
+  so high that it blocked me from going
+  deeper inside the cave!
+  <3 Type='0' Data='0100'/><4 Type='0' Data='12004c0061007500670068004c005f0030003000'/>In the end, I went home empty-handed.
+  But hey, that's what makes exploring so
+  fun! <5 Type='0'/>Ha!
+Near_0002: |
+  Before the lightning hits...
+Talk_0020: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Some places, you can only reach on clear
+  days. <5 Type='0'/>Others, only when it's raining.<0 Type='4'/>In other words, adventurers don't get a
+  day off! <0 Type='3' Data='0000'/><5 Type='1'/><0 Type='3' Data='ffff'/>This area always has something
+  to entice us!
+Near_0003: |
+  Not raining now...
+Talk_0030: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1200530075007200700072006900730065005300'/>You're gonna get drenched standing
+  there, bud!
+Talk_0040: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0a005400680069006e006b00'/>As you can see, it's usually raining here.
+  <5 Type='0'/>And sometimes I'll be going about my
+  business when suddenly...<5 Type='0'/> Bzzt... <5 Type='0'/>Bzzt...<5 Type='0'/><0 Type='4'/><3 Type='0' Data='0b00'/><4 Type='0' Data='1200530075007200700072006900730065004c00'/><FontSize Value='125'/>BANG!<FontSize Value='100'/><0 Type='4'/>A bolt of lightning lands right near me!<5 Type='0'/>
+  Or I'll be exploring on a crystal clear day
+  and all of a sudden... <5 Type='0'/>Drip... <5 Type='0'/>Drop...<5 Type='0'/><0 Type='4'/><3 Type='0' Data='0701'/>...Drip. <5 Type='0'/>You probably thought I was going
+  to shout again, huh?<0 Type='4'/><3 Type='0' Data='0a00'/><4 Type='0' Data='0600530061006400'/>Anyway, it rains and the water level rises,
+  and sometimes it blocks my path home.<0 Type='4'/><3 Type='0' Data='0700'/>So if you're gonna hang around here,
+  just know the rain and lightning aren't
+  your friends!

@@ -1,0 +1,86 @@
+4008: |
+  Set Sensor
+Pa_Title_00-T_Slash_00: |
+  /
+EffectAddtionalTime: |
+  Effect Duration <2 Type='19' Data='2600530069006d0070006c00650049006e00740046006f0072004d00650073007300610067006500ffff01cd'/><2 Type='19' Data='2800530069006d0070006c00650049006e00740046006f0072004d006500730073006100670065003200ffff01cd'/>
+Pa_Detail_00-T_SubTitleE_00: |
+  Hearts Recovered
+NoRecover: |
+  No restorative effect
+Pa_Page_00-Pa_Btn_01-T_New_00: |
+  New
+Pa_Page_00-Pa_Btn_06-T_New_00: |
+  New
+Pa_SensorIcon_00-T_MessageTextTop_00: |
+  Sensor Target
+SensorIconActor: |
+  <2 Type='32' Data='3600530065006e0073006f0072005400610072006700650074004e0061006d0065004f006e004100630074006f0072004d006f0064006500ffff'/>
+Pa_Detail_00-T_SubTitleD_00: |
+  Unique Cooking Effects
+Tab_New: |
+  New
+EasyToFindPlace: |
+  Common Locations
+Pa_Page_00-Pa_Btn_00-T_New_00: |
+  New
+Pa_Page_00-Pa_Btn_05-T_New_00: |
+  New
+AttachmentAdditionalDamage: |
+  <2 Type='2' Data='2600530069006d0070006c00650049006e00740046006f0072004d00650073007300610067006500ffff01cd'/>
+Pa_SensorIcon_00-T_Off_00: |
+  Off
+2000: |
+  Creatures
+WeaponAttackNum: |
+  <2 Type='2' Data='2600530069006d0070006c00650049006e00740046006f0072004d00650073007300610067006500ffff01cd'/>
+Habitat: |
+  Common Locations
+AvailableMaterial: |
+  Recoverable Items
+2001: |
+  Monsters
+Pa_Page_00-Pa_Btn_03-T_New_00: |
+  New
+2002: |
+  Materials
+Unknown: |
+  Unknown
+4000: |
+  Cancel
+2003: |
+  Equipment
+Pa_Page_00-Pa_Btn_02-T_New_00: |
+  New
+Pa_SensorIcon_00-T_SensorOn_00: |
+  Shrine of Light
+Unusable: |
+  Feature not yet available.
+1000: |
+  No. <2 Type='15' Data='2600530069006d0070006c00650049006e00740046006f0072004d00650073007300610067006500ffff01cd'/>
+2004: |
+  Treasure
+1001: |
+  <2 Type='15' Data='2600530069006d0070006c00650049006e00740046006f0072004d00650073007300610067006500ffff01cd'/>
+Pa_Detail_00-T_SubTitleCh_00: |
+  Description
+Pa_Detail_00-T_SubTitleSc_00: |
+  Fuse Attack Power
+VariousMaterial: |
+  Materials
+VariousTreasure: |
+  Treasures
+3000: |
+  <2 Type='15' Data='2600530069006d0070006c00650049006e00740046006f0072004d00650073007300610067006500ffff01cd'/>
+GetPlace: |
+  Common Locations
+DropMaterial: |
+  Recoverable Materials
+Nothing: |
+  None
+3001: |
+  <2 Type='15' Data='2600530069006d0070006c00650049006e00740046006f0072004d00650073007300610067006500ffff01cd'/>
+Pa_Detail_00-T_SubTitleF_00: |
+  Properties
+Pa_Page_00-Pa_Btn_04-T_New_00: |
+  New

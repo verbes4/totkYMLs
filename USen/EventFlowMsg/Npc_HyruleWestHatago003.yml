@@ -1,0 +1,52 @@
+NakedPlayer: |
+  Wish I were that brave...
+Talk1017: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0053006c00650065007000'/>The legendary...<5 Type='0'/> Zzz...
+Talk1018: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Say, I'm hoping to track down a legendary
+  weapon. Have you... <5 Type='0'/>Never mind.
+  
+  Just a silly rumor.<5 Type='0'/> Certainly not something
+  you would want to go looking for.
+  
+  *cough*
+Talk1020: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='0a005400680069006e006b00'/>Criminy,<5 Type='0'/> my older brother can be
+  so stubborn!
+  
+  While we're here arguing, someone else
+  may go out and find the legendary
+  weapon!
+  I have to win him over somehow.
+Near03: |
+  Sword!
+Talk1021: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='0a005400680069006e006b00'/>If the legendary weapon<0 Type='3' Data='0000'/> <0 Type='3' Data='ffff'/>gets taken
+  while I'm stuck here waiting for the rain
+  to pass, I swear...
+Near04: |
+  Tomorrow... Zzz...
+Talk1022: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Say, I'm hoping to track down a <0 Type='3' Data='0000'/>legendary
+  sword<0 Type='3' Data='ffff'/>. Have you... <5 Type='0'/>Never mind.
+  
+  Just a silly rumor.<5 Type='0'/> Certainly not something
+  you'd want to go looking for.
+  
+  *cough*
+Near05: |
+  Zzz... Legen...dary...
+Talk1024: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='0a005400680069006e006b00'/>Criminy,<5 Type='0'/> my older brother can be
+  so stubborn!
+  
+  While we're here arguing, someone else
+  may go out and find the <0 Type='3' Data='0000'/>legendary
+  sword<0 Type='3' Data='ffff'/>!
+  I have to win him over somehow.
+Talk1025: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='0a005400680069006e006b00'/>If the <0 Type='3' Data='0000'/>legendary sword <0 Type='3' Data='ffff'/>gets stolen while
+  I'm stuck here waiting for the rain to pass,
+  I swear...
+Near01: |
+  Weapon!

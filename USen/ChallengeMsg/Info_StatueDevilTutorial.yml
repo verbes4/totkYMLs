@@ -1,0 +1,16 @@
+GetBackContainer: |
+  The Horned Statue you met in the Royal Hidden
+  Passage stole one of your Heart Containers
+  before offering you some sort of deal.
+  
+  Perhaps you can get your essence back by
+  <0 Type='3' Data='0000'/>bargaining<0 Type='3' Data='ffff'/> with it.
+Name: |
+  A Deal With the Statue
+Complete: |
+  The Horned Statue returned the essence it
+  stole from you. It claims to be open to further
+  essence-related bargains. It will buy your
+  Heart Containers or Stamina Vessels for 100
+  rupees and sell back your choice of either of
+  them for 120 rupees.

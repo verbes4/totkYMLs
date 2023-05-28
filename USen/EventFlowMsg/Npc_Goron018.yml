@@ -1,0 +1,164 @@
+Talk_09: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='200043007500730074006f006d005300610076006f007400740061005f0030003000'/>Sav'otta!
+Talk_31: |
+  <3 Type='0' Data='0800'/>That was very helpful. I'll buy ore from
+  you anytime.
+  
+  <3 Type='0' Data='0701'/>Though keep in mind that I'm often
+  looking for different ore at
+  different times.
+  So check in with me every so often to see
+  what I'm looking for.
+Talk_32: |
+  <3 Type='0' Data='0700'/>Since you're speaking to me again,<5 Type='1'/>
+  I assume you have ore to sell me?
+Talk_20: |
+  <3 Type='0' Data='0c00'/>You again.<5 Type='1'/>
+  
+  
+  <3 Type='0' Data='0c01'/>You know, it seems most everyone's into
+  that marbled rock roast and not much
+  else. Not a great time to procure ore.
+Talk_33: |
+  <3 Type='0' Data='0700'/>Sarqso for selling me the amber just now.
+  
+  
+  Since you're speaking to me again,<5 Type='1'/>
+  I assume you have ore to sell me?
+Talk_10: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e0043007500730074006f006d005300610076006100610071005f0030003000'/>Sav'aaq!
+Talk_23: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003100'/>You won't? Certainly you can sell your
+  ore at any old shop.
+  
+  Amber is getting easier to come by, so the
+  selling price is lower than ever.
+  
+  I'm the only one who will buy them at a
+  high price these days.
+Talk_36: |
+  <FontSize Value='80'/><0 Type='3' Data='0200'/><3 Type='0' Data='0c00'/>*sigh* Figured maybe I could find myself a voe while
+  I'm getting gems... But I certainly didn't want one
+  who can't even dress himself properly...<0 Type='3' Data='ffff'/><FontSize Value='100'/><5 Type='1'/>
+Talk_11: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='220043007500730074006f006d00530061007600730061006100620061005f0030003000'/>Sav'saaba!
+Talk_24: |
+  <3 Type='0' Data='0700'/>Now that the marbled rock roast is gone,
+  the Gorons are back to their usual grind.
+  
+  I finally feel like I can relax and get the
+  ore I need for my business.
+  
+  <3 Type='0' Data='0700'/>Hm...<5 Type='1'/> You're back, so...<5 Type='1'/>you have ore to
+  sell me,<5 Type='0'/> right?
+Talk_37: |
+  <FontSize Value='80'/><0 Type='3' Data='0200'/><3 Type='0' Data='0c00'/>Selling to someone from the Yiga Clan isn't my idea
+  of a fun time... <5 Type='0'/>But money is money, I suppose.<5 Type='1'/><0 Type='3' Data='ffff'/><FontSize Value='100'/>
+Talk_25: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='200043007500730074006f006d005300610076006f007400740061005f0030003000'/>Sav'otta! Oh, <5 Type='1'/>sorry.
+  
+  
+  "Sav'otta" is an expression where I'm
+  from. It means good morning.
+  
+  Although, kids these days shorten it
+  to "sav'o."
+0000: |
+  I'll sell.
+Talk_12: |
+  <3 Type='0' Data='0701'/>Got any <0 Type='3' Data='0000'/>topazes<0 Type='3' Data='ffff'/>? I'll buy 10 from you for
+  <0 Type='3' Data='0000'/>1,000 rupees<0 Type='3' Data='ffff'/>.
+Talk_26: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e0043007500730074006f006d005300610076006100610071005f0030003000'/>Sav'aaq! Oh, <5 Type='1'/>sorry.
+  
+  
+  "Sav'aaq" is an expression where I'm
+  from. It means good day.
+  
+  Although, kids these days shorten it
+  to "sav'a."
+Talk_00: |
+  <3 Type='0' Data='0701'/>I'll buy 10 pieces of <0 Type='3' Data='0000'/>amber<0 Type='3' Data='ffff'/> for
+  <0 Type='3' Data='0000'/>200 rupees<0 Type='3' Data='ffff'/>.
+0001: |
+  Nope.
+Talk_13: |
+  <3 Type='0' Data='0701'/>Got any <0 Type='3' Data='0000'/>rubies<0 Type='3' Data='ffff'/>? I'll buy 10 from you for
+  <0 Type='3' Data='0000'/>1,300 rupees<0 Type='3' Data='ffff'/>.
+Talk_27: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='220043007500730074006f006d00530061007600730061006100620061005f0030003000'/>Sav'saaba! Oh, <5 Type='1'/>sorry.
+  
+  
+  "Sav'saaba" is an expression where I'm
+  from. It means good evening.
+  
+  Although, kids these days shorten it
+  to "sav'a."
+Talk_14: |
+  <3 Type='0' Data='0701'/>Got any <0 Type='3' Data='0000'/>sapphires<0 Type='3' Data='ffff'/>? I'll buy 10 from you
+  for <0 Type='3' Data='0000'/>1,700 rupees<0 Type='3' Data='ffff'/>.
+Talk_02: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>I'm Ramella. I'm a jeweler from Gerudo
+  Town in southwestern Hyrule.
+  
+  The <0 Type='3' Data='0000'/>ore <0 Type='3' Data='ffff'/>that <0 Type='3' Data='0000'/>YunoboCo <0 Type='3' Data='ffff'/>handles are
+  high quality, so I always travel here to
+  procure them.
+  <3 Type='0' Data='0c00'/>But at the moment, there aren't any
+  available here.
+  
+  <3 Type='0' Data='0701'/>I don't suppose...<5 Type='1'/>you have any amber,
+  do you?
+Talk_28: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>Sarqso! Oh, <5 Type='1'/>sorry.
+  
+  
+  "Sarqso" is another expression where I'm
+  from. It means thank you.
+  
+  Kids these days shorten it to "sarq."
+Talk_15: |
+  <3 Type='0' Data='0701'/>Got any <0 Type='3' Data='0000'/>diamonds<0 Type='3' Data='ffff'/>? I'll buy 10 from you
+  for <0 Type='3' Data='0000'/>5,500 rupees<0 Type='3' Data='ffff'/>.
+Talk_03: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003100'/>You won't? Certainly you can sell your
+  ore at any old shop.
+  
+  Amber is getting easier to come by, so the
+  selling price is lower than ever.
+  
+  I'm the only one who puts such a <0 Type='3' Data='0000'/>high
+  price<0 Type='3' Data='ffff'/> on <0 Type='3' Data='0000'/>amber <0 Type='3' Data='ffff'/>these days.
+Talk_16: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0600530061006400'/>Looks like you don't have 10 <0 Type='3' Data='0000'/>topaz<0 Type='3' Data='ffff'/>
+  gems. It's got to be 10 at a time,
+  otherwise, no deal.
+Near_00: |
+  Uh...
+Talk_17: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0600530061006400'/>Sorry, but for the <0 Type='3' Data='0000'/>ruby <0 Type='3' Data='ffff'/>gems, I only buy
+  those in units of 10.
+  
+  It's got to be 10, otherwise, no deal.
+Talk_05: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004e006f007400690063006500'/>You cannot fool me.
+  
+  
+  You don't have 10 amber pieces on you.
+  I can't buy something that isn't there.
+Talk_18: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0600530061006400'/>Sorry, but for the <0 Type='3' Data='0000'/>sapphire <0 Type='3' Data='ffff'/>gems, I only
+  buy those in units of 10.
+  
+  It's got to be 10 at a time, otherwise,
+  no deal.
+Near_02: |
+  What I want now is...
+Talk_06: |
+  <3 Type='0' Data='0800'/>Sarqso!
+Talk_19: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004e006f007400690063006500'/>Oh, don't try to fool me.
+  
+  
+  You don't have 10 <0 Type='3' Data='0000'/>diamonds<0 Type='3' Data='ffff'/>. It's got to
+  be 10, otherwise, no deal.

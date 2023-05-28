@@ -1,0 +1,8 @@
+NoPower: |
+  Power Available: 0%
+Power_25: |
+  Power Available: 25%
+Power_75: |
+  Power Available: 75%
+Power_50: |
+  Power Available: 50%

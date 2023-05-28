@@ -1,0 +1,124 @@
+Stamina: |
+  If your Stamina Wheel runs out,
+  you'll be too tired to do certain
+  actions until it fills up again.
+Detach: |
+  Items fused to equipment are
+  detachable via your inventory.
+ShieldSurfing: |
+  To shield surf, jump (<1 Type='4' Data='0ccd'/>) while
+  holding a shield, and then
+  press <1 Type='4' Data='0acd'/> while in the air.
+Burn: |
+  The very air around you is
+  burning. You'll take damage
+  if you stay here any longer.
+Squat: |
+  Crouching increases your
+  <0 Type='3' Data='0300'/>stealth<0 Type='3' Data='ffff'/>, making it easier to
+  sneak up on foes and animals.
+ThrowWeaponHit: |
+  Throw a weapon at an enemy to
+  perform a <0 Type='3' Data='0300'/>critical hit<0 Type='3' Data='ffff'/>, dealing
+  twice the weapon damage.
+ClimbInTheRain: |
+  Icy vertical surfaces are slick and
+  hard to climb. Other vertical
+  surfaces become slick when wet.
+PlungeIntoWaterFromHighPlace: |
+  Landing in water, even from a
+  great height, will prevent you
+  from taking fall damage.
+SwitchingFieldMap: |
+  You can change to the world map
+  from the dungeon map with <1 Type='4' Data='28cd'/>.
+MiasmaDamage: |
+  If you take damage from gloom,
+  your maximum number of hearts
+  will decrease.
+ColdLevelTwo: |
+  The air has become very <0 Type='3' Data='0300'/>cold<0 Type='3' Data='ffff'/>.
+  You'll take damage with your
+  current outfit and food effects.
+HeadShot: |
+  Hit an enemy's head with an
+  arrow to perform a <0 Type='3' Data='0300'/>critical hit<0 Type='3' Data='ffff'/>
+  that deals 2x damage.
+SlowEvasion: |
+  Jump out of the way of an
+  attack at the last moment to
+  execute a perfect dodge.
+Hot: |
+  The temperature is getting
+  very high. Find a way to cool
+  down or you'll take damage.
+HotLevelTwo: |
+  The air has become very <0 Type='3' Data='0300'/>hot<0 Type='3' Data='ffff'/>.
+  You'll take damage with your
+  current outfit and food effects.
+SageSoulIsInPouch: |
+  You can activate and deactivate
+  the sages' vows on the Key Items
+  menu.
+SilentAttack: |
+  Sneak up on an enemy and
+  unleash a melee attack to do
+  some major damage.
+BurnWoodWeapon: |
+  Wooden weapons or
+  shields will catch fire if
+  equipped in this area.
+BreakWeaponAttack: |
+  Any attack that causes your
+  weapon to break becomes a
+  <0 Type='3' Data='0300'/>critical hit<0 Type='3' Data='ffff'/>, dealing 2x damage.
+SunazarashiWithoutShield: |
+  You can't sand-seal surf
+  without a shield.
+Numbness: |
+  Electrical attacks can shock
+  you, causing you to drop the
+  <0 Type='3' Data='0300'/>weapon <0 Type='3' Data='ffff'/>you're holding.
+Cold: |
+  The temperature is getting
+  dangerously low. Find warmth
+  soon or you'll take damage.
+Recipe: |
+  To check a meal's ingredients,
+  select it from your inventory and
+  then select <0 Type='3' Data='0300'/>Check recipe<0 Type='3' Data='ffff'/>.
+ShortageStamina: |
+  If you find your stamina falling
+  short, seek the blessing of a
+  Goddess Statue.
+FailureShieldSurfing: |
+  If you try to shield surf with a
+  shield fused with something that
+  will get in the way, you'll fall.
+BurnLevelTwo: |
+  The air itself <0 Type='3' Data='0300'/>burns<0 Type='3' Data='ffff'/>. Your current
+  clothes and food won't protect
+  you from taking damage.
+ChallengeMark: |
+  Press <1 Type='4' Data='0acd'/> on an active
+  quest to display its
+  <0 Type='3' Data='0300'/>waypoints <0 Type='3' Data='ffff'/>on the map.
+MiniChallenge: |
+  Selecting a challenge from your
+  Adventure Log will mark the
+  relevant location on your map.
+TextBox_00: |
+  
+T_Guide_00: |
+  More Info
+JustGuard: |
+  Press <1 Type='4' Data='0acd'/> to deflect an attack
+  with your shield right before it
+  lands for a perfect guard.
+VisitMark: |
+  <0 Type='3' Data='0300'/>Hero's path mode<0 Type='3' Data='ffff'/> unlocked.
+  Press <1 Type='4' Data='26cd'/> on the map screen to
+  see your journey's path thus far.
+MapLayer: |
+  You can change map layers
+  with <1 Type='4' Data='2bcd'/>.

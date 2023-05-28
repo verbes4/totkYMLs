@@ -1,0 +1,33 @@
+Name: |
+  The Mayoral Election
+Ready1: |
+  It seems that the candidates have finished their
+  preparations.
+  
+  Talk to Sophie in front of Ventest Clothing to
+  get the Hateno Village mayoral election
+  underway.
+Ready2: |
+  The candidates have finished their preparations,
+  and the Hateno Village mayoral election is
+  ready to begin.
+  
+  Talk to Sophie, the election official, during the
+  <0 Type='3' Data='0000'/>daytime on a clear day<0 Type='3' Data='ffff'/> to get the election
+  underway. She can be found in front of
+  Ventest Clothing.
+Step01: |
+  The Hateno Village mayoral election ended with
+  Reede staying on as mayor. However, Reede
+  and Cece decided to join forces in making
+  Hateno Village a thriving community.
+  
+  Cece asked you to visit <0 Type='3' Data='0000'/>Ventest Clothing<0 Type='3' Data='ffff'/> so
+  that she can give you a thank-you gift.
+Complete: |
+  The Hateno Village mayoral election ended with
+  Reede continuing on as the mayor, but Reede
+  and Cece decided to work together to ensure
+  Hateno Village would continue to thrive. Cece
+  gave you her masterpiece, the <0 Type='3' Data='0000'/>Cece hat<0 Type='3' Data='ffff'/>, as a
+  thank-you for wrapping things up peacefully.

@@ -1,0 +1,45 @@
+Talk_01: |
+  <3 Type='0' Data='0c00'/>Argh... This constant training is really
+  wearing me out.
+  
+  Thinking back to that bright-eyed crab I
+  gave to that shopkeeper at the domain...<5 Type='0'/>
+  I should have kept it for my training.
+BlackZelda_03: |
+  <3 Type='0' Data='0700'/>The captain is strict, but compared to how
+  tough things were with the sludge, this
+  is nothing.
+  Now it's our turn to pay back our debt! 
+  
+  
+  It feels as though things are even more
+  dangerous now than they were before.
+  Even still...
+  We will protect this fort with everything
+  we have, just as you protected the domain
+  from the sludge!
+Talk_02: |
+  <3 Type='0' Data='0700'/>The captain is strict, but compared to how
+  tough things were with the sludge, this
+  is nothing.
+  Now it is our turn to repay our debt!
+  
+  
+  We will protect this fort with everything
+  we have, just as you protected the domain
+  from the sludge!
+talk0000: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0e0045006100730065005f0030003100'/>I am feeling...much better than before.<5 Type='0'/>
+  It is all thanks...to Lady Yona.
+BlackZelda_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004e006f007400690063006500'/>Purah... <5 Type='0'/>She is always attached to her
+  <0 Type='3' Data='0000'/>telescope <0 Type='3' Data='ffff'/>and will not come down.
+talk0001: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0c005300610064005f0030003100'/>Lady Yona... <5 Type='0'/>Thank you.
+Talk_00: |
+  <3 Type='0' Data='0500'/><4 Type='0' Data='0e0053006900670068005f0030003100'/>Argh... The captain's training is
+  strict, but...<5 Type='0'/>
+  
+  My body is so out of shape from that
+  sludge not allowing me to move, so this
+  is great exercise for me.

@@ -1,0 +1,46 @@
+Near_01: |
+  It isn't working...
+0002: |
+  Goodbye.
+Talk_09: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>Huh?!<5 Type='0'/> There was something blocking the
+  top of the Skyview Tower?
+  
+  <3 Type='0' Data='0701'/>Hmm. The terminal and the lid on top
+  of the tower are connected...
+  
+  <3 Type='0' Data='0701'/>So if the lid wouldn't work because it
+  was blocked, <5 Type='0'/>I guess the terminal
+  wouldn't work either.
+  <3 Type='0' Data='0701'/>Well. <5 Type='1'/>I'm in a hurry, and everything seems
+  to be working properly, <5 Type='0'/>so I'll head out.
+  
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Thank you for fixing the Skyview Tower.
+  I'm off!
+Talk_03: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0c005300610064005f0030003000'/>Well, <5 Type='0'/>the terminal that starts up the
+  Skyview Tower isn't working.
+  
+  I've checked all the terminal's parts,<5 Type='0'/>
+  but nothing looks broken.
+Near_02: |
+  How in Hyrule?!
+Talk_04: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>I wonder if something to do with the
+  tower itself is broken.
+Talk_06: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0c005300610064005f0030003100'/>OK,<5 Type='0'/> goodbye.
+Talk_01: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>Sorry. This Skyview Tower is out of order<5 Type='1'/>
+  and maintenance is proving tricky.
+0001: |
+  What's wrong?
+Talk_10: |
+  <3 Type='0' Data='0700'/>I came to repair this Skyview Tower, but
+  the terminal hasn't been working.
+  
+  <3 Type='0' Data='0c01'/>Until now! It started working again...<5 Type='0'/>even
+  without me doing anything!
+Talk_08: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003100'/>The terminal! It's working again!<5 Type='1'/> Even
+  though I didn't do anything...

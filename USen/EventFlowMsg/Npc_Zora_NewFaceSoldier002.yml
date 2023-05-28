@@ -1,0 +1,32 @@
+Talk_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1000540069007200650064005f0030003100'/>This training is tough, but it's worth the
+  pain knowing each moment of preparation
+  will help me aid King Sidon and you!
+BlackZelda_03: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068005300'/>I made a lot of friends after leaving the
+  domain and coming here.
+  
+  <4 Type='0' Data='1400480075006d006d0069006e0067005f0030003100'/>I met Rito, Gorons, Gerudo, <5 Type='0'/>and also
+  Hylians.<5 Type='0'/> I will do my very best to protect
+  them all.
+BlackZelda_04: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='08004300680061007400'/>There are folks from all over Hyrule
+  gathered at this fort.
+  
+  If we can all join our strength together,
+  we have nothing to fear.
+talk0000: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='1c0055006e0063006f006e007300630069006f00750073005f0030003000'/>Urgh... <5 Type='1'/>Argh... <5 Type='1'/>If only that sludge would
+  stop falling.
+BlackZelda_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Is it true that Princess Zelda has
+  been found?
+talk0001: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0e005000610069006e00660075006c00'/>Urgh... <5 Type='1'/>Urp!<5 Type='1'/> My health...<5 Type='0'/>is suffering a
+  great deal.
+Talk_00: |
+  <3 Type='0' Data='0700'/>I had never left Zora's Domain before this,
+  so living here feels very new to me.
+  
+  <4 Type='0' Data='0c004c0061007500670068005300'/>It is interesting...even if I do have to train
+  all day.

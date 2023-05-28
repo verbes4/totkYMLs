@@ -1,0 +1,40 @@
+T_GuideKey_00: |
+  
+Pa_InfoCapture_00-T_Num_01: |
+  ×
+Pa_InfoCapture_00-Pa_FoodParam_01-T_Plus_00: |
+  +
+CouldNotPutFood: |
+  You can't carry any more meals.
+T_PouchGuide_00: |
+  Inventory
+Pa_InfoCapture_00-Pa_FoodParam_01-T_Plus_01: |
+  +
+CouldNotPutShield: |
+  You can't carry any more shields.
+Pa_Info_00-Pa_FoodParam_01-T_Plus_00: |
+  +
+Pa_Info_00-Pa_FoodParam_01-T_Plus_01: |
+  +
+Pa_InfoCapture_00-Pa_FoodParamEnergy_00-T_MaxText_00: |
+  Energy boost
+Pa_Info_00-Pa_FoodParamEnergy_00-T_MaxText_00: |
+  Energy boost
+CouldNotPutWeapon: |
+  You can't carry any more melee weapons.
+Pa_InfoCapture_00-Pa_FoodParam_00-T_MaxText_00: |
+  Full recovery
+Pa_Info_00-Pa_FoodParam_00-T_MaxText_00: |
+  Full recovery
+T_NewCooking_00: |
+  New
+T_NewCooking_01: |
+  New
+Pa_Info_00-T_Num_01: |
+  ×
+CouldNotPutArmor: |
+  You can't carry any more armor.
+CouldNotPutBow: |
+  You can't carry any more of those.
+Num: |
+  <2 Type='14' Data='1800550049005f00420075006e0064006c0065004e0075006d00ffff01cd'/>

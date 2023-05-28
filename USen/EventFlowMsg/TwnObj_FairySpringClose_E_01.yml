@@ -1,0 +1,31 @@
+0002: |
+  Endura carrot?
+0003: |
+  Never mind.
+Talk_0007: |
+  <3 Type='0' Data='0000'/>Someone...<5 Type='1'/> Please... <5 Type='1'/>Feed me an
+  <0 Type='3' Data='0000'/>endura carrot<0 Type='3' Data='ffff'/>...<5 Type='1'/>
+Talk_0001: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='0600530061006400'/>Someone... <5 Type='1'/>Give it to me...<0 Type='4'/>Even one will do...<5 Type='1'/>
+Talk_0010: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='0600530061006400'/>It is a kind of vegetable...<5 Type='1'/> A most
+  delicious one...
+  
+  You can find it growing far southwest
+  of here...<5 Type='1'/>on <0 Type='3' Data='0000'/>Satori Mountain<0 Type='3' Data='ffff'/>...
+  
+  Oh...<5 Type='1'/> I'm so hungry...
+Talk_0008: |
+  <FontSize Value='125'/>DEEEEEELICIOUS!<FontSize Value='100'/><1 Type='3' Data='5a000000'/>
+Talk_0002: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Ahhh... What a kind soul...
+Talk_0009: |
+  *munch* *munch* *munch*<1 Type='3' Data='1e000000'/>
+0000: |
+  Here's an endura carrot.
+Talk_0003: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0600530061006400'/>So...hungry...
+0001: |
+  I don't have one.
+Talk_0004: |
+  De...<5 Type='0'/> De...<1 Type='3' Data='4b000000'/>

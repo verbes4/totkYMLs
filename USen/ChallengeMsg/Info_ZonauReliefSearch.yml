@@ -1,0 +1,27 @@
+Name: |
+  Messages from an Ancient Era
+Step1: |
+  It's become clear that there are 13 stone
+  tablets documenting the age of legends. By
+  deciphering all of them, one could learn about
+  the lives of the royal family of that era, which
+  was not documented in any history book.
+  Capture the stone tablets in <0 Type='3' Data='0000'/>pictures<0 Type='3' Data='ffff'/>,<0 Type='3' Data='0000'/> <0 Type='3' Data='ffff'/>and show
+  them to Wortsworth in Kakariko Village. You still
+  need to capture <2 Type='14' Data='2a004e0075006d005f005a006f006e0061007500520065006c00690065006600530065006100720063006800ffff00cd'/><201 Type='6' Data='1a002000730074006f006e00650020007400610062006c00650074001c002000730074006f006e00650020007400610062006c006500740073000000'/>.
+Reach_KakarikoVillage: |
+  A priceless stone tablet engraved with ancient
+  Hyrulean text has fallen from the sky into
+  Lookout Landing. Wortsworth, a scholar of
+  ancient Hyrulean, said he intends to decipher
+  the text by comparing it to ancient documents
+  left at the lab in Kakariko Village.
+  
+  He's departed for the village in the southeast.
+Complete: |
+  You found all of the stone tablets and had
+  Wortsworth decipher the ancient Hyrulean.
+  Through these records of the ancient royal
+  family, you got a glimpse of the thoughts and
+  feelings of the people from that era. They seem
+  to have left a deep impression on Wortsworth.

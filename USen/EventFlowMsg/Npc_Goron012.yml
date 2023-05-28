@@ -1,0 +1,63 @@
+talk_01: |
+  <3 Type='0' Data='0900'/><4 Type='0' Data='0a005400680069006e006b00'/>I'm tellin' ya, this <0 Type='3' Data='0000'/>marbled rock roast<0 Type='3' Data='ffff'/>
+  belongs to me!<5 Type='1'/>
+  
+  <FontSize Value='125'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Nobody...<5 Type='1'/><FontSize Value='100'/>
+  
+  
+  <FontSize Value='125'/><4 Type='0' Data='100041006e006700720079005f0030003000'/>gets...<5 Type='1'/><FontSize Value='100'/>
+  
+  
+  <FontSize Value='125'/><4 Type='0' Data='0e0057006f0072006b005f0030003000'/>a single bite!<5 Type='1'/><FontSize Value='100'/>
+  
+  
+  <4 Type='0' Data='100041006e006700720079005f0030003100'/>Ya hear me?
+  
+  
+  If you want some of your own, head for
+  <0 Type='3' Data='0000'/>Goron City<0 Type='3' Data='ffff'/>. It's straight up this path.
+talk_06: |
+  <3 Type='0' Data='0800'/>Have yourself a merry ol' time, yeah?
+talk_02: |
+  <3 Type='0' Data='0800'/>A customer! Welcome to you!
+  
+  
+  YunoboCo finally finished buildin' the
+  long-awaited <0 Type='3' Data='0000'/>attraction, Mine-Cart Land<0 Type='3' Data='ffff'/>!
+  
+  I'm overseeing the maintenance so the
+  safety's all up to snuff.
+talk_07: |
+  <4 Type='0' Data='0e00430061006c006c00460061007200'/>Visit Mine-Cart Land!
+talk_03: |
+  <3 Type='0' Data='0800'/>YunoboCo finally finished buildin' the
+  long-awaited <0 Type='3' Data='0000'/>attraction, Mine-Cart Land<0 Type='3' Data='ffff'/>!
+  
+  I'm overseein' maintenance, so you can
+  rest at ease while you ride with glee! The
+  safety's all up to snuff.
+talk_04: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0e00480075006d006d0069006e006700'/>Anytime 'n' any day, safety is the
+  only way!
+talk_00: |
+  <3 Type='0' Data='0900'/><4 Type='0' Data='0a005400680069006e006b00'/>This <0 Type='3' Data='0000'/>marbled rock roast <0 Type='3' Data='ffff'/>is mine, mine,
+  all mine!<5 Type='1'/>
+  
+  <FontSize Value='125'/><4 Type='0' Data='100041006e006700720079005f0030003000'/>Nobody...<5 Type='1'/><FontSize Value='100'/>
+  
+  
+  <FontSize Value='125'/><4 Type='0' Data='100041006e006700720079005f0030003100'/>gets...<5 Type='1'/><FontSize Value='100'/>
+  
+  
+  <FontSize Value='125'/><4 Type='0' Data='0e0057006f0072006b005f0030003000'/>a single bite!<5 Type='1'/><FontSize Value='100'/>
+  
+  
+  If you want some of your own, head for
+  <0 Type='3' Data='0000'/>Goron City<0 Type='3' Data='ffff'/>. It's up this path.
+talk_05: |
+  <3 Type='0' Data='0800'/>If ya wanna check it out, just head on
+  down this road.
+  
+  Once ya see the sign that says
+  "Mine-Cart Land," go just past
+  it, and then hang a <0 Type='3' Data='0000'/>left<0 Type='3' Data='ffff'/>!

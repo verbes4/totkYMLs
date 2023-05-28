@@ -1,0 +1,344 @@
+SavedLv2_00: |
+  <3 Type='0' Data='0800'/>That was amazing.<5 Type='0'/> You're so strong!<5 Type='0'/> I bet
+  evil always scatters when you show up!
+SavedLv2_01: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0c005300610064005f0030003000'/>My bug collecting was already going
+  badly, so being attacked was just a
+  sting on top of a bug bite.
+Talk99_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>We meet again! I hope you're well! <5 Type='1'/>I am,
+  as always, on the hunt for more bugs!
+  
+  Since we're both here, let me buzz your
+  ears with some <0 Type='3' Data='0000'/>bug facts<0 Type='3' Data='ffff'/>!
+TerrorEnemy_00: |
+  Protect me, bugs! Please?
+GoodBye00: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>I, Wadder, am wandering all throughout
+  Hyrule collecting bugs.
+  
+  Are you perhaps also a fan of insects?<0 Type='4'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Honestly, how could you not be? From
+  their beautiful wings paired to their tough
+  exoskeletons... What perfect creatures.
+  Oh! I've got it. As thanks for your help, let
+  me gift you my <0 Type='3' Data='0000'/>knowledge of all things
+  Insecta<0 Type='3' Data='ffff'/>!<5 Type='1'/> That's a sciencey name for bugs.
+  <4 Type='0' Data='0c004c0061007500670068005300'/>You're traveling around Hyrule too, so
+  such wisdom will help you find all sorts of
+  bugs on your journey!
+TerrorEnemy_01: |
+  I want to run away, but...
+TerrorEnemy_02: |
+  Ugh... Here goes!
+GoodBye00_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Are you enjoying your own travels? Are
+  you catching every last bug you see?<5 Type='1'/>
+  I certainly try to!
+  Since we're both here, let me buzz your
+  ears with some bug facts!
+Atacked00: |
+  <3 Type='0' Data='0900'/>Um, sorry...<5 Type='0'/> Could you please not bug me
+  while I'm in the middle of this?
+ClearTerrorEnemy: |
+  I'm glad that worked out...
+Atacked01: |
+  <3 Type='0' Data='0900'/>Who put bees in your bonnet, huh?!
+Talk01_00_00: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>You'll find <0 Type='3' Data='0000'/>thunderwing butterflies <0 Type='3' Data='ffff'/>and
+  <0 Type='3' Data='0000'/>electric darners<0 Type='3' Data='ffff'/> here in Ludfo's Bog!
+Talk01_00_01: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>There are <0 Type='3' Data='0000'/>thunderwing butterflies<0 Type='3' Data='ffff'/> and
+  <0 Type='3' Data='0000'/>electric darners<0 Type='3' Data='ffff'/> around here and in
+  Faron to the west.
+Talk06_01: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Check on tree trunks <0 Type='3' Data='0000'/>at night<0 Type='3' Data='ffff'/> if you're
+  hunting for rhino beetles! <5 Type='0'/>There's a few
+  different kinds to look for.
+  First, there's <0 Type='3' Data='0000'/>bladed rhino beetles<0 Type='3' Data='ffff'/>, which
+  can be made into really useful muscle-
+  stimulating elixirs.
+  On the other hand, <0 Type='3' Data='0000'/>rugged rhino beetles<0 Type='3' Data='ffff'/>
+  can really toughen up someone's body if
+  they're used in elixirs instead!
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>But both are dull compared to the
+  <0 Type='3' Data='0000'/>energetic rhino beetles<0 Type='3' Data='ffff'/>. I mean that
+  literally—they have golden bodies!
+  If that excites you, make a note that
+  energetic rhino beetles are found in the
+  Akkala and eastern Faron regions.
+  <4 Type='0' Data='1000480061007000700079005f0030003100'/>Such an amazing bug... I really can't help
+  but admire it.
+Guardian00: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003100'/>I recognize that this is a selfish request,
+  and I really don't mean to bug you, but...<5 Type='0'/>
+  Save meee!
+Talk01_00_02: |
+  Throw either of them in a pot with some
+  monster parts, and you can make yourself
+  elixirs that give electricity resistance.
+  <4 Type='0' Data='0c004c0061007500670068005300'/>Of course, I can't bring myself to do that,
+  no matter how stormy it might get. I just
+  love my bug buddies too much!
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a0048006100700070007900'/>Speaking of storms, <0 Type='3' Data='0000'/>daytime rain showers<0 Type='3' Data='ffff'/>
+  are the perfect time to find thunderwing
+  butterflies and electric darners.
+  <4 Type='0' Data='0a0048006100700070007900'/>You don't need compound eyes to pay
+  close attention to the weather and the
+  time of day!
+Talk03_00: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/><0 Type='3' Data='0000'/>Winterwing butterflies<0 Type='3' Data='ffff'/> and <0 Type='3' Data='0000'/>cold darners<0 Type='3' Data='ffff'/>
+  call chilly regions like this home.
+  
+  They actually can be combined with
+  monster parts in a pot to make a heat-
+  resistance elixir, if you can believe it!
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0a0048006100700070007900'/>I prefer to watch <0 Type='3' Data='0000'/>winterwing butterflies<0 Type='3' Data='ffff'/>
+  glide through the snowy air. They're such
+  graceful creatures.
+  I can't count the number of times I've
+  gotten so caught up watching them that
+  I've lost my way in the mountains!
+Failed00: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='08004500610073006500'/>Ugh...<5 Type='0'/> It felt like I was nearly squashed
+  there. I'm lucky I'm still breathing.
+Talk03_01: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>If you look around, you'll definitely be
+  able to find <0 Type='3' Data='0000'/>cold darners<0 Type='3' Data='ffff'/> in this region.
+  
+  Which is handy, since you can combine
+  them with monster parts in a pot to make
+  a heat-resistance elixir!
+  <3 Type='0' Data='0a01'/>I've been looking to get my hands on one,
+  but they keep slipping through my grasp.
+  
+  <4 Type='0' Data='10005400680069006e006b005f0030003000'/>I know it pays to chill out when you're
+  trying to catch insects, but I'm finding it
+  really tough to tone down my excitement.
+SavedLv3_00: |
+  <3 Type='0' Data='0b00'/>You look like a gentle soul who wouldn't
+  hurt anything, but you're really strong!
+Failed01: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='08004500610073006500'/>I was so focused on catching bugs that
+  I didn't notice I was about to be the one
+  getting caught!
+Thanks00: |
+  <3 Type='0' Data='0700'/>Here, this is one of my favorite foods.
+  Would you take some as thanks for
+  helping me?
+Talk02_00: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Here in the Eldin region, you can find
+  <0 Type='3' Data='0000'/>smotherwing butterflies<0 Type='3' Data='ffff'/> scattered around
+  Death Mountain!
+  These rare beauties really, really love
+  volcanic areas where the temperatures
+  are soaring!
+  <3 Type='0' Data='0c00'/>However, you can also find <0 Type='3' Data='0000'/>summerwing
+  butterflies<0 Type='3' Data='ffff'/> and <0 Type='3' Data='0000'/>warm darners<0 Type='3' Data='ffff'/> around here.
+  
+  <3 Type='0' Data='0001'/>So if you're just looking for smotherwing
+  butterflies, you need to look for their
+  <0 Type='3' Data='0000'/>black wings<0 Type='3' Data='ffff'/> with a <0 Type='3' Data='0000'/>flame pattern<0 Type='3' Data='ffff'/>.
+  Commit a bug's features to memory and
+  you'll be sure to grab the right ones!
+  
+  <3 Type='0' Data='0800'/>Unless you're me. Then they're all the
+  right ones! Ha!
+SavedLv1_00: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>You're strong.<5 Type='0'/> Tougher than a beetle's
+  shell and sharper than a mantis's claw!
+SavedLv3_01: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='08004500610073006500'/>Did a little bug tell you I was in danger?<5 Type='1'/>
+  You came to rescue me just in time.
+Thanks01: |
+  <3 Type='0' Data='0700'/>Let me give you this as thanks for your
+  help. It's great to eat even when you're
+  on the road!
+Talk00_00: |
+  <3 Type='0' Data='0701'/>OK, let's start with the basics.<0 Type='4'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>I'm sure you know that Hyrule has warm
+  regions and cold regions, right?
+  
+  <3 Type='0' Data='0001'/>Well, just like most folks, our different
+  buggy friends prefer different climates
+  depending on their needs.
+  So warm regions like Eldin are often
+  home to <0 Type='3' Data='0000'/>summerwing butterflies<0 Type='3' Data='ffff'/> and
+  <0 Type='3' Data='0000'/>warm darners<0 Type='3' Data='ffff'/>.
+  Meanwhile, <0 Type='3' Data='0000'/>cold darners<0 Type='3' Data='ffff'/> and <0 Type='3' Data='0000'/>winterwing
+  butterflies<0 Type='3' Data='ffff'/> prefer cold regions like Hebra.
+  
+  <3 Type='0' Data='0700'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>So you see, if you know what kind of bugs
+  live where you're heading, it makes the
+  journey that much more fun! 
+Talk02_01: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Here in the Eldin region, you can find
+  <0 Type='3' Data='0000'/>smotherwing butterflies<0 Type='3' Data='ffff'/> scattered around
+  Death Mountain!
+  However, you can also find <0 Type='3' Data='0000'/>summerwing
+  butterflies<0 Type='3' Data='ffff'/> and <0 Type='3' Data='0000'/>warm darners<0 Type='3' Data='ffff'/> around here.
+  
+  So if you're just looking for smotherwing
+  butterflies, you need to look for their
+  <0 Type='3' Data='0000'/>black wings<0 Type='3' Data='ffff'/> with a <0 Type='3' Data='0000'/>flame pattern<0 Type='3' Data='ffff'/>.
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Commit a bug's features to memory and
+  you'll be sure to grab the right ones!
+SavedLv1_01: |
+  <3 Type='0' Data='0700'/>Welp, I guess that's over. <5 Type='1'/>Honestly, I've
+  been attacked by bees that were scarier.
+AfterFailed: |
+  <3 Type='0' Data='0a00'/>Ugh...<5 Type='0'/> I still feel so dizzy...<5 Type='1'/> Just let me
+  rest, please.
+Thanks02: |
+  <3 Type='0' Data='0700'/>Thank you for saving me. Can I give you
+  this to show my thanks?
+Talk00_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Just like most folks, our different buggy
+  friends prefer different climates
+  depending on their needs.
+  So warm regions like Eldin are often
+  home to <0 Type='3' Data='0000'/>summerwing butterflies<0 Type='3' Data='ffff'/> and
+  <0 Type='3' Data='0000'/>warm darners<0 Type='3' Data='ffff'/>.
+  Meanwhile, <0 Type='3' Data='0000'/>cold darners<0 Type='3' Data='ffff'/> and <0 Type='3' Data='0000'/>winterwing
+  butterflies<0 Type='3' Data='ffff'/> prefer cold regions like Hebra.
+  
+  <3 Type='0' Data='0000'/><4 Type='0' Data='0a0048006100700070007900'/>So you see, if you know what kind of bugs
+  live where you're heading, it makes the
+  journey that much more fun! 
+Talk07_00_01: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='0a005400680069006e006b00'/>Have you ever been crawling along,
+  preparing to pounce on that perfect bug,
+  when it fled from a <0 Type='3' Data='0000'/>sound <0 Type='3' Data='ffff'/>you made?
+  <3 Type='0' Data='0000'/>Well, I've got a great tip to share with
+  you! You've heard of <0 Type='3' Data='0000'/>Kakariko Village<0 Type='3' Data='ffff'/>
+  in Necluda, right?
+  Rumor has it they sell clothing that helps
+  you sneak about without a sound. It's
+  called the <0 Type='3' Data='0000'/>stealth chest guard<0 Type='3' Data='ffff'/>.
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Apparently it uses ancient technology!
+  Kind of sounds like a spy gadget... <5 Type='0'/>Maybe
+  some day I'll own a piece of my own.
+Thanks03: |
+  <3 Type='0' Data='0700'/>I have to thank you somehow for saving
+  me. <5 Type='1'/>Will you accept this?
+Talk07_00_02: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1200530075007200700072006900730065004d00'/>That pattern on your tunic... That smooth,
+  form-fitting shape... <5 Type='1'/>Could that possibly
+  be the <0 Type='3' Data='0000'/>stealth chest guard<0 Type='3' Data='ffff'/>?
+  <3 Type='0' Data='0000'/>I'm jealous!<5 Type='1'/> But also really happy for you!<5 Type='1'/>
+  You're sure to have an easier time
+  sneaking up on bugs with that on!
+Talk05: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0701'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Sunset fireflies<0 Type='3' Data='ffff'/> tend to come out <0 Type='3' Data='0000'/>at night<0 Type='3' Data='ffff'/>
+  near bodies of water.
+  
+  Keep your eyes peeled for little lights
+  floating in the air—those little blazing
+  beauties are easy to spot in the dark!
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0a0048006100700070007900'/>It's really a magical thing to witness.
+  Everyone should see it at least once in
+  their lives...
+Talk06: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Have you heard of rhino beetles? They
+  like to hang out on <0 Type='3' Data='0000'/>tree trunks<0 Type='3' Data='ffff'/>, but it's
+  possible to quietly sneak up on them.
+  There are a number of different kinds in
+  Hyrule, you know, and they all have
+  fascinating uses!
+  There are <0 Type='3' Data='0000'/>bladed rhino beetles<0 Type='3' Data='ffff'/>, which can
+  be made into muscle-stimulating elixirs...
+  
+  On the other hand, <0 Type='3' Data='0000'/>rugged rhino beetles<0 Type='3' Data='ffff'/>
+  can really toughen up someone's body if
+  they're used in elixirs instead!
+  <3 Type='0' Data='0800'/>But both are dull compared to the
+  <0 Type='3' Data='0000'/>energetic rhino beetles<0 Type='3' Data='ffff'/>. I mean that
+  literally—they have golden bodies!
+  If that excites you, make a note that
+  energetic rhino beetles are found in
+  the Akkala and eastern Faron regions.
+  <4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Oh! One more thing... Rhino beetles don't
+  come out during the day. <0 Type='3' Data='0000'/>Nighttime <0 Type='3' Data='ffff'/>is
+  your friend if you're looking for them!
+Talk08: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='0a005400680069006e006b00'/>Have you heard the rumors about a new
+  bug being discovered? Apparently they're
+  found in those <0 Type='3' Data='0000'/>chasms<0 Type='3' Data='ffff'/> that opened up.
+  The bug's like nothing else they've seen!
+  And!<5 Type='0'/> <0 Type='3' Data='0000'/>Mixing it into an elixir<0 Type='3' Data='ffff'/> has the
+  peculiar effect of <0 Type='3' Data='0000'/>making your body glow<0 Type='3' Data='ffff'/>!
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0a0048006100700070007900'/>Few things make me happier than learning
+  about new, bug-related discoveries!
+  
+  I wish I could be right there, taking in all
+  the new bug research, but I hear the
+  chasms are really dangerous...
+Talk08_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a005400680069006e006b00'/>Have you heard the rumors about a new
+  bug being discovered? Apparently they're
+  found in those <0 Type='3' Data='0000'/>chasms<0 Type='3' Data='ffff'/> that opened up.
+  The bug's like nothing else they've seen.
+  And!<5 Type='0'/> <0 Type='3' Data='0000'/>Mixing it into an elixir<0 Type='3' Data='ffff'/> has the
+  peculiar effect of <0 Type='3' Data='0000'/>making your body glow<0 Type='3' Data='ffff'/>!
+  <3 Type='0' Data='0801'/><4 Type='0' Data='0a0048006100700070007900'/>I wish I could be right there, taking in
+  all the new bug research, but I hear the
+  chasms are really dangerous...
+Talk07_01: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>There's an item called the <0 Type='3' Data='0000'/>stealth chest
+  guard<0 Type='3' Data='ffff'/> being sold in <0 Type='3' Data='0000'/>Kakariko Village<0 Type='3' Data='ffff'/>.<5 Type='1'/>
+  You know, in the Necluda region.
+  I hear it makes you sneaky as a spy.
+  Which means you could creep up on
+  bugs easily!
+  <4 Type='0' Data='0e0045006100730065005f0030003100'/>An outfit that uses ancient technology to
+  make you sneakier? I want one!
+Talk01_01_02: |
+  Throw either of them in a pot with some
+  monster parts and you can make yourself
+  elixirs that give electricity resistance!
+  <3 Type='0' Data='0800'/>Just don't forget that they only appear on
+  <0 Type='3' Data='0000'/>rainy days during the daytime<0 Type='3' Data='ffff'/>.
+Talk03_01_01: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>If you look around, you'll definitely be
+  able to find <0 Type='3' Data='0000'/>cold darners<0 Type='3' Data='ffff'/> in this region.
+  
+  Which is handy, since you can combine
+  them with monster parts in a pot to make
+  a heat-resistance elixir!
+  <4 Type='0' Data='10005400680069006e006b005f0030003000'/>I know it pays to chill out when you're
+  trying to catch insects, but I'm finding it
+  really tough to tone down my excitement.
+Talk100: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>And that's it for Dr. Wadder's Insect
+  Crash Course!<5 Type='1'/> I hope we meet again
+  somewhere soon!
+Talk04_00: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Have you run into any <0 Type='3' Data='0000'/>restless crickets<0 Type='3' Data='ffff'/>
+  when you've idly slashed at grass? That
+  tends to stir them up.
+  But only if you're using something sharp
+  to cut the grass!
+  
+  I've found that even a wooden stick with a
+  sharp rock for a blade will do the trick.
+  
+  <3 Type='0' Data='0800'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>Anyone can aspire to catching bugs, but
+  only the truly resourceful will master
+  the art!
+Talk99: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Say, are you a fellow traveler?<0 Type='4'/>I, Wadder, am wandering all throughout
+  Hyrule collecting <0 Type='3' Data='0000'/>bugs<0 Type='3' Data='ffff'/>.
+  
+  Are you perhaps also a fan of insects?<0 Type='4'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Honestly, how could you not be? From
+  their beautiful wings paired to their tough
+  exoskeletons... What perfect creatures.
+  Oh! As a gift for a fellow traveler, let me
+  share my <0 Type='3' Data='0000'/>knowledge of all things Insecta<0 Type='3' Data='ffff'/>!
+  <5 Type='1'/>That's a sciencey name for bugs.
+  <4 Type='0' Data='0c004c0061007500670068005300'/>I'm sure such wisdom will help you find
+  all sorts of bugs on your journey!
+Talk04_01: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0701'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Restless crickets <0 Type='3' Data='ffff'/>prefer to hide in
+  the grass.
+  
+  If you're looking for them, you can make
+  a tool to <0 Type='3' Data='0000'/>cut grass<0 Type='3' Data='ffff'/> by combining a <0 Type='3' Data='0000'/>sharp
+  rock<0 Type='3' Data='ffff'/> and, say, a wooden stick!

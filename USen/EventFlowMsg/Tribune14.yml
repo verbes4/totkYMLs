@@ -1,0 +1,145 @@
+talk16: |
+  <3 Type='0' Data='0b00'/>Wh-<5 Type='0'/>what happened with the monsters?
+talk17: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='08004500610073006500'/>Whew... <5 Type='0'/>What a pain in the tail feathers
+  this all turned out to be. But it all resolved
+  in the end.<0 Type='3' Data='0200'/><FontSize Value='80'/><FontSize Value='100'/><0 Type='3' Data='ffff'/>
+  <3 Type='0' Data='0001'/>And we finally had a breakthrough...
+talk07: |
+  <3 Type='0' Data='0801'/>We needed to make some educated
+  guesses with our story, more than we'd
+  normally do, but...
+  I'll stand by this piece. We know our
+  princess, after all. She had to have
+  everyone's safety in mind!
+  I'll get to writing all of this up for the
+  paper.<5 Type='1'/> You take care of yourself.<5 Type='1'/>
+talk08: |
+  <3 Type='0' Data='0c00'/>I want to figure out why the princess
+  decided no one could use the well.
+  
+  I'd go right in and scope it out if I could,
+  but my body won't fit. We need more
+  details for the story!
+talk18: |
+  <3 Type='0' Data='0700'/>The sun's going down, so we'll have to
+  resume our work here tomorrow. Time
+  to hit the hay... Oh, that's right.
+  <3 Type='0' Data='0a00'/>This stable's shut down. No more beds...
+talk19: |
+  <3 Type='0' Data='0700'/>It's getting pretty late, so we'll have to
+  resume our work here tomorrow. Time
+  to hit the hay... Oh, that's right.
+  <3 Type='0' Data='0a00'/>This stable's shut down. No more beds...
+talk00: |
+  <3 Type='0' Data='0b01'/>Hello there, partner! What's brought you
+  all the way out here?
+  
+  I'd heard that visitors stopped coming
+  to this stable, so this place had to shut
+  down. But here you are!
+talk10: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004c0061007500670068005300'/>The changes in temperature here aren't
+  nearly as extreme right now. Leave it to
+  you to know just when to come through.
+talk20: |
+  <3 Type='0' Data='0700'/>Look at this—already the sleepy hours of
+  early morning! Maybe I'll just hit the hay
+  for a few quick winks... Oh, that's right.
+  <3 Type='0' Data='0a00'/>This stable's shut down. No more beds...
+near00: |
+  Why would she do this?
+talk11: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a0048006100700070007900'/>The temperature is really scorching my
+  feathers. But just look at you, kid.
+  Cool, calm, and collected.
+talk01: |
+  <3 Type='0' Data='0c00'/>Why did the princess go and ban everyone
+  from using the well?
+  
+  The owner here has no idea. He's just as
+  puzzled as anyone else.
+  
+  I can't even go down that well to take
+  a look for myself. My wings just get
+  in the way.
+  <3 Type='0' Data='0a00'/>I wish there was some way we could get
+  more details.
+talk21: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0e0047006f006f006400620079006500'/><FontSize Value='125'/>Soar long!<FontSize Value='100'/>
+talk12: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a0048006100700070007900'/>The severe chill around here is nothing to
+  sneeze at. But look at you, kid—strutting
+  around like it's just another day.
+talk02: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='10004700720065006500740069006e006700'/>So, what'd you find in the well?
+talk13: |
+  <FontSize Value='125'/><3 Type='0' Data='0b00'/>Whoa-ho-ho!<FontSize Value='100'/>
+talk23: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='0e00430061006c006c00460061007200'/>Partner! I heard monsters down there.
+  Are you OK?
+talk03: |
+  <3 Type='0' Data='0c00'/>So, there were a lot of monsters behind
+  that pile of rocks...
+  
+  <3 Type='0' Data='0700'/>I can't help thinking the princess knew
+  about that monster den.
+  
+  <3 Type='0' Data='0c01'/>She must have had a barricade put up to
+  seal away those creatures and protect
+  everyone here.
+  Now, why the princess didn't say so...
+  That's a mystery. But maybe she wanted
+  to keep any panic from spreading.
+  Or maybe it was only a very temporary
+  measure. But then she disappeared.
+  
+  <3 Type='0' Data='0701'/>Yep, a little speculation on my part...<5 Type='1'/>but
+  that's gotta be the story here.
+  
+  <3 Type='0' Data='0800'/>What do you say? Holds up, right? Our
+  job is to follow the facts, and that's where
+  they take us.
+talk14: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1200530075007200700072006900730065004d00'/>What's that? When you broke through the
+  rocks blocking up a cave...monsters came
+  scrambling out?
+  Partner! That's bad—real bad. You can't
+  just flap away from here now. We've got
+  to do something about the <0 Type='3' Data='0000'/>monsters<0 Type='3' Data='ffff'/>.
+  This stable has enough trouble as it is
+  without those creatures swarming around
+  at the bottom of the well.
+talk24: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='0e00430061006c006c00460061007200'/>Partner! Are you all right?
+talk05: |
+  <3 Type='0' Data='0700'/>I've come to this stable because my
+  sources were chirping about a problem
+  with the well here.
+  Actually...<5 Type='0'/>they say <0 Type='3' Data='0000'/>Princess Zelda<0 Type='3' Data='ffff'/> caused
+  this problem. She shut down this well
+  and <0 Type='3' Data='0000'/>declared it off-limits<0 Type='3' Data='ffff'/>.
+  <3 Type='0' Data='0c00'/>But without its water, this stable couldn't
+  keep travelers, horses, or the workers
+  refreshed.
+  The well also provided a steady <0 Type='3' Data='0000'/>supply of
+  mushrooms<0 Type='3' Data='ffff'/> to folks here.
+  
+  <3 Type='0' Data='0700'/>So why'd the princess want everyone
+  to stay away from it? That's the big
+  question. What we're short on is answers.
+  The owner—who's stuck here—is just as
+  puzzled as anyone else.
+  
+  And I can't weasel down the well to see
+  what she was so concerned about.
+  My wings are too wide.
+  <3 Type='0' Data='0c00'/>Ugh!<5 Type='1'/> I wish there was some way we
+  could get more details. But seems like
+  the deadest of dead ends to me.
+talk15: |
+  <3 Type='0' Data='0b00'/>The newspaper's reputation is on the line
+  too. Imagine what people would think if
+  they learned we helped ruin this stable.
+  Before you flap off, we've got to do
+  something about those <0 Type='3' Data='0000'/>monsters<0 Type='3' Data='ffff'/>.

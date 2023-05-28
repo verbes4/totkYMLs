@@ -1,0 +1,242 @@
+talk40: |
+  I don't see how you can increase your
+  <0 Type='3' Data='0000'/>Stamina Vessels<0 Type='3' Data='ffff'/> any further.
+0010: |
+  A different container.
+talk41: |
+  Careful... Give away any more of your
+  <0 Type='3' Data='0000'/>Heart Containers<0 Type='3' Data='ffff'/>, and it could have a
+  fatal effect on your health.
+0011: |
+  Yes.
+talk42: |
+  Have a care... Give me any more of your
+  <0 Type='3' Data='0000'/>Stamina Vessels<0 Type='3' Data='ffff'/>, and you may not have
+  the strength to stand.
+talk77: |
+  A dealer in life and power... That was
+  me, once.
+  
+  Alas, my life-for-money bargains didn't
+  sit well with the Goddess Hylia.
+  
+  She turned me into this stone statue
+  long, long ago...
+  
+  Even then, I continued my bargains as a
+  statue in a village. Still, the Goddess did
+  not like what I was doing.
+  I was banished from the main street to the
+  outskirts of town, scorned and neglected.
+  But that was not enough for her.
+  Again I was sent away. I spent time
+  trapped in a pond, with only fish for
+  company. And finally...here.
+  Perhaps another might have learned a
+  lesson from this. But I have not.
+  
+  No, I have only been biding my time for
+  the moment when someone who can hear
+  me appears. Someone such as you.
+  I'm sure we can reach a beneficial
+  arrangement. I have dealt only with fish
+  for too long. And fish make terrible deals.
+0012: |
+  No.
+talk43: |
+  No, no... I'm afraid you already have all
+  the <0 Type='3' Data='0000'/>Heart Containers<0 Type='3' Data='ffff'/> you possibly can.
+talk78: |
+  Hold still, and don't fret. I'll take care of
+  everything. This won't hurt a bit.
+0013: |
+  Tell me more...
+talk44: |
+  No, no... I'm afraid you already have all
+  the <0 Type='3' Data='0000'/>Stamina Vessels<0 Type='3' Data='ffff'/> you possibly can.
+talk45: |
+  Then the bargain is struck!
+0015: |
+  Goodbye.
+talk47: |
+  I'm currently without any of your
+  <0 Type='3' Data='0000'/>essences<0 Type='3' Data='ffff'/>. Are you in the mood to sell?
+0017: |
+  Give it back.
+0018: |
+  Give me a heart.
+near00: |
+  ...
+0019: |
+  Give me stamina.
+talk16: |
+  Then... What are you still doing here?
+talk17: |
+  You...
+talk18: |
+  It's simple. I'll give you <0 Type='3' Data='0000'/>100 rupees <0 Type='3' Data='ffff'/>to
+  take one of your <0 Type='3' Data='0000'/>Heart Containers<0 Type='3' Data='ffff'/> or a<0 Type='3' Data='0000'/>
+  Stamina Vessel <0 Type='3' Data='ffff'/>off your hands.
+  You can have one back for <0 Type='3' Data='0000'/>120 rupees<0 Type='3' Data='ffff'/>.
+  And if it's not the same one you gave
+  me, why, I won't tell a soul.
+  Exchanging a <0 Type='3' Data='0000'/>Heart Container<0 Type='3' Data='ffff'/> for a<0 Type='3' Data='0000'/>
+  Stamina Vessel<0 Type='3' Data='ffff'/>, or vice versa, for only
+  <0 Type='3' Data='0000'/>20 rupees <0 Type='3' Data='ffff'/>sounds good, doesn't it?
+  You must be salivating at the idea, so
+  let's go ahead and strike our bargain.
+talk65: |
+  My touch is as subtle as ever...
+  
+  
+  Note how I took that <0 Type='3' Data='0000'/>essence <0 Type='3' Data='ffff'/>from you
+  without leaving a mark.
+0000: |
+  Yes, please.
+talk31: |
+  Come to tamper with your <0 Type='3' Data='0000'/>essence<0 Type='3' Data='ffff'/>, yes?
+0001: |
+  Thanks, but no.
+talk32: |
+  No, eh? Fa ha ha... If you say so.
+  
+  
+  Just know that I'm willing to strike a
+  bargain with anyone who can hear
+  my voice.
+talk33: |
+  I still have <0 Type='3' Data='0000'/><2 Type='14' Data='2e004e0070006300440065006d006f006e005300740061007400750065005f0055007400750077006100530075006d00ffff00cd'/><0 Type='3' Data='ffff'/> of your <0 Type='3' Data='0000'/>essences<0 Type='3' Data='ffff'/>...
+  Shall I return another <0 Type='3' Data='0000'/>Heart Container<0 Type='3' Data='ffff'/>
+  to you?
+talk68: |
+  Which type of <0 Type='3' Data='0000'/>essence <0 Type='3' Data='ffff'/>will you surrender
+  to me?
+0003: |
+  Never mind.
+talk34: |
+  I wouldn't object if you wanted to give
+  me more <0 Type='3' Data='0000'/>Heart Containers<0 Type='3' Data='ffff'/>.
+talk69: |
+  Which type of <0 Type='3' Data='0000'/>essence <0 Type='3' Data='ffff'/>shall I grant you?
+talk80: |
+  What's this?
+  
+  
+  You haven't received even one more
+  <0 Type='3' Data='0000'/>Heart Container<0 Type='3' Data='ffff'/> or <0 Type='3' Data='0000'/>Stamina Vessel<0 Type='3' Data='ffff'/>?
+  
+  Such a pity... I was eager to help you
+  with a minor <0 Type='3' Data='0000'/>transaction<0 Type='3' Data='ffff'/>. But not if you
+  have nothing to trade.
+  Consult a <0 Type='3' Data='0000'/>Goddess Statue <0 Type='3' Data='ffff'/>to improve
+  yourself, and then return here to pray.
+0004: |
+  Heart Container.
+talk35: |
+  I still have <0 Type='3' Data='0000'/><2 Type='14' Data='2e004e0070006300440065006d006f006e005300740061007400750065005f0055007400750077006100530075006d00ffff00cd'/><0 Type='3' Data='ffff'/> of your <0 Type='3' Data='0000'/>essences<0 Type='3' Data='ffff'/>...
+  Shall I return another <0 Type='3' Data='0000'/>Stamina Vessel<0 Type='3' Data='ffff'/>
+  to you?
+0005: |
+  Stamina Vessel.
+talk01: |
+  What's the worst that could happen?
+talk36: |
+  I wouldn't object if you wanted to give
+  me more <0 Type='3' Data='0000'/>Stamina Vessels<0 Type='3' Data='ffff'/>.
+talk82: |
+  Fa ha ha...
+talk37: |
+  I don't see how you can reduce your
+  <0 Type='3' Data='0000'/>Heart Containers<0 Type='3' Data='ffff'/> any further.
+talk38: |
+  I don't see how you can reduce your
+  <0 Type='3' Data='0000'/>Stamina Vessels<0 Type='3' Data='ffff'/> any further.
+talk84: |
+  Fa ha ha... Did you think I'd
+  deceived you?
+  
+  Perish the thought. I hope that ours will
+  be a long and profitable relationship.
+  
+  So which will it be?
+talk04: |
+  Very interesting choice... Just don't
+  come crying to me later.
+talk39: |
+  I don't see how you can increase your
+  <0 Type='3' Data='0000'/>Heart Containers<0 Type='3' Data='ffff'/> any further.
+0009: |
+  I've had enough.
+0020: |
+  I'm all right for now.
+talk05: |
+  I know from swindles, boy, and I can
+  plainly tell that you don't have the
+  <0 Type='3' Data='0000'/>120 rupees<0 Type='3' Data='ffff'/> required.
+talk52: |
+  Ahhh... So there are some who still
+  pay me homage.
+talk87: |
+  A wise choice. Now, remain still.
+talk53: |
+  You don't say... You can hear my voice?
+talk88: |
+  You look skeptical. Not to worry.
+  
+  
+  Money and life are all as one to me.
+  
+  
+  If you're ready to begin, then first you
+  must sell me either type of <0 Type='3' Data='0000'/>essence <0 Type='3' Data='ffff'/>for
+  <0 Type='3' Data='0000'/>100 rupees<0 Type='3' Data='ffff'/>.
+  If you want to buy an essence back,
+  the price rises to <0 Type='3' Data='0000'/>120 rupees<0 Type='3' Data='ffff'/>.
+  
+  Before you cry foul, know that you may
+  choose which one I return to you:
+  a <0 Type='3' Data='0000'/>Heart Container<0 Type='3' Data='ffff'/> or a <0 Type='3' Data='0000'/>Stamina Vessel<0 Type='3' Data='ffff'/>.
+  I'm eager to help tamper with your
+  essence anytime you want to return
+  and pray here.
+talk54: |
+  Now, that is a surprise.
+  
+  
+  What were you praying for? Long life?
+  Wealth, like so many of your kind?
+  
+  Whichever it was, you came to the
+  right place.
+talk89: |
+  Now then, shall we strike a bargain?
+0024: |
+  Ugh...
+talk20: |
+  The price to return a <0 Type='3' Data='0000'/>Heart Container<0 Type='3' Data='ffff'/> to
+  you will be <0 Type='3' Data='0000'/>120 rupees<0 Type='3' Data='ffff'/>.
+0025: |
+  You can talk?!
+talk21: |
+  I'll gladly pay you <0 Type='3' Data='0100'/><0 Type='3' Data='0000'/>100 rupees<0 Type='3' Data='0100'/> <0 Type='3' Data='ffff'/>for one
+  of your <0 Type='3' Data='0000'/>Heart Containers<0 Type='3' Data='ffff'/>. Is that what
+  you want?
+0026: |
+  Have another one.
+talk22: |
+  The price to return a <0 Type='3' Data='0000'/>Stamina Vessel<0 Type='3' Data='ffff'/> to
+  you will be <0 Type='3' Data='0000'/>120 rupees<0 Type='3' Data='ffff'/>.
+talk57: |
+  You came to pray, then... You want what
+  everyone wants. Long life and wealth.
+0027: |
+  I want one back.
+talk23: |
+  I'll gladly pay you <0 Type='3' Data='0100'/><0 Type='3' Data='0000'/>100 rupees<0 Type='3' Data='0100'/> <0 Type='3' Data='ffff'/>for one
+  of your <0 Type='3' Data='0000'/>Stamina Vessels<0 Type='3' Data='ffff'/>. Is that what
+  you want?
+talk59: |
+  Hmm...
+talk26: |
+  I have <0 Type='3' Data='0000'/><2 Type='14' Data='2e004e0070006300440065006d006f006e005300740061007400750065005f0055007400750077006100530075006d00ffff00cd'/><0 Type='3' Data='ffff'/> of your <0 Type='3' Data='0000'/>essences <0 Type='3' Data='ffff'/>so far.
+  What now, hmmm?

@@ -1,0 +1,86 @@
+Talk1019: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>That light...<5 Type='1'/> Am I seeing things?
+Talk1002: |
+  <3 Type='0' Data='0700'/>I saw <0 Type='3' Data='0000'/>something glowing<0 Type='3' Data='ffff'/> in the <0 Type='3' Data='0000'/>sky to the
+  southeast<0 Type='3' Data='ffff'/>, but when the sky got lighter,
+  I couldn't make it out anymore.
+  I'm worn out from straining to see it
+  all night, so I'm going to take a break
+  at the stable.
+  You look like you've been working too
+  hard. While I admire your dedication,
+  be sure to rest properly.
+Talk1003: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a0053006c00650065007000'/>A glow...in the sky...to the southeast...
+StableHostelPicture: |
+  Ah, cherry blossoms...
+Talk1010: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Now, that is just far too big to be a
+  star...isn't it?
+NakedPlayer: |
+  What a wild streak!
+Talk1011: |
+  <3 Type='0' Data='0c00'/>Could it have possibly...been a bird?
+  No, impossible. Birds don't glow.
+Talk1012: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Unless I'm mistaken, I think it was
+  over there...wasn't it?
+Talk1006: |
+  <3 Type='0' Data='0700'/>You'd better find a place out of the
+  rain, and quick!
+Talk1013: |
+  <3 Type='0' Data='0700'/>Ah, sorry.
+  
+  
+  I'm a bit preoccupied trying to make out
+  something I saw glowing in the sky to
+  the southeast. But I can't see it now.
+  <3 Type='0' Data='0c00'/><FontSize Value='80'/>It was glowing. I know it was. Maybe it'll come back
+  out once it gets dark...
+  
+  <3 Type='0' Data='0c01'/><FontSize Value='100'/>Sorry again. Lost in thought. I have a duty
+  to report anything about sky islands to<0 Type='3' Data='0000'/>
+  Kakariko Village<0 Type='3' Data='ffff'/> in Necluda to the east.
+Talk1007: |
+  <3 Type='0' Data='0700'/>I saw <0 Type='3' Data='0000'/>something glowing<0 Type='3' Data='ffff'/> in the <0 Type='3' Data='0000'/>sky to
+  the southeast<0 Type='3' Data='ffff'/>.
+  
+  In my official capacity as a member of
+  the Zonai Survey Team, I must discover
+  exactly what it is!
+Talk1014: |
+  <3 Type='0' Data='0c00'/>It couldn't have been a bird, could it?
+  Of course not...birds don't glow.
+Talk1015: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='0a005400680069006e006b00'/>Hmm, when the weather is this bad, I just
+  can't make out much, if anything!
+Talk1009: |
+  <3 Type='0' Data='0700'/>Ah, sorry.
+  
+  
+  There's something glowing in the sky in
+  the southeast, and I'm determined to find
+  out what it is.
+  <3 Type='0' Data='0c00'/>It's obviously beyond the scope, or even
+  the reach, of a field survey. No, my eyes
+  probe the sky.
+  <3 Type='0' Data='0c01'/>I have a duty to report anything about sky
+  islands to <0 Type='3' Data='0000'/>our group in Kakariko Village<0 Type='3' Data='ffff'/>
+  off in Necluda to the east.
+0000: |
+  What are you doing?
+0001: |
+  I'll leave you be.
+Talk1001: |
+  <3 Type='0' Data='0a00'/>To think that woman from earlier was with
+  the Yiga Clan. Just imagine what would
+  have happened if I'd gone with her!
+  <3 Type='0' Data='0700'/>Now that I know the truth, I won't be
+  deceived so easily again.
+  
+  I'm reassured enough to keep
+  investigating the <0 Type='3' Data='0000'/>sky islands<0 Type='3' Data='ffff'/>.
+  Thank you!
+Talk1018: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='0a005400680069006e006b00'/>I'll get on with my investigation after
+  the rain clears up.

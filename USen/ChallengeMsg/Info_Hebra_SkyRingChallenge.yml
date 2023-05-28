@@ -1,0 +1,32 @@
+Name: |
+  Kaneli's Flight Training
+Preparation: |
+  At the Flight Range, Kaneli has set up a new
+  training course where trainees will fly through
+  <0 Type='3' Data='0000'/>rings floating in the sky<0 Type='3' Data='ffff'/>.
+  
+  Before he can open it up to trainees, he needs
+  a brave volunteer to go for a test run on the
+  new course.
+Retry: |
+  Attempt Kaneli's new training course. It seems
+  you need to go through <0 Type='3' Data='0000'/>15 <0 Type='3' Data='ffff'/>rings to pass.
+  
+  Kaneli says he will give you a reward if you pass
+  with flying colors.
+Playing: |
+  You're trying Kaneli's new training course!
+  <0 Type='3' Data='0000'/>Go through as many floating rings as you can
+  before time runs out.<0 Type='3' Data='ffff'/>
+  
+  You need to go through <0 Type='3' Data='0000'/>15 <0 Type='3' Data='ffff'/>to pass, and you
+  will be disqualified if you leave the Flight Range
+  during training.
+Complete: |
+  You went through enough rings to pass Kaneli's
+  training course. As the first to attempt the
+  course and post a score, you've inspired young
+  Rito to try it as well.
+  
+  Kaneli says that you can come back and try
+  <0 Type='3' Data='0000'/>flight training<0 Type='3' Data='ffff'/> again whenever you like.

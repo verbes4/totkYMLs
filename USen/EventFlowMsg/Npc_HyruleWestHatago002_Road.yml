@@ -1,0 +1,176 @@
+FriendGreet_03: |
+  What a coincidence! <5 Type='1'/>I suppose fate really
+  wanted the two of us to run into each
+  other again.
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0c005300610064005f0030003100'/>I'm sure you remember my brothers—<5 Type='0'/>
+  the two fools talking in circles about
+  swords and beasts.
+  <3 Type='0' Data='0701'/>I finally got fed up with them and decided
+  to go on a solo adventure exploring my
+  favorite <0 Type='3' Data='0000'/>caves <0 Type='3' Data='ffff'/>and <0 Type='3' Data='0000'/>ruins<0 Type='3' Data='ffff'/>.
+  You're alone too, right? <5 Type='1'/>Alone is good.<5 Type='0'/>
+  It means you don't have to put up with
+  endless, inane arguments.
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>Sometimes I do miss having people to
+  talk to...<5 Type='0'/>but still, it's better this way.
+GoalPoint_01: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0600530061006400'/>I got into a nasty argument with my
+  older brothers about where to go on
+  our adventures.
+  They wanted to chase down stories about
+  a <0 Type='3' Data='0000'/>legendary sword <0 Type='3' Data='ffff'/>or some <0 Type='3' Data='0000'/>rumored
+  beast<0 Type='3' Data='ffff'/>... Nonsense, all of it!
+  I told them, <5 Type='0'/>"Why waste our time on
+  crackpot theories instead of exploring
+  the real, tangible <0 Type='3' Data='0000'/>ruins <0 Type='3' Data='ffff'/>around us?"<0 Type='4'/>But we just kept arguing in circles.
+  Finally, I decided to leave them behind
+  at <0 Type='3' Data='0000'/>New Serenne Stable<0 Type='3' Data='ffff'/>.
+  <3 Type='0' Data='0500'/><4 Type='0' Data='0a005400680069006e006b00'/>I wonder what the two of them are
+  doing now... <5 Type='0'/>Probably just where I left
+  them, bickering over fairy tales...
+GoRange_01: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Hey! Have you seen them? <5 Type='0'/>Have you
+  seen the <0 Type='3' Data='0000'/>Ring Ruins<0 Type='3' Data='ffff'/>?
+  
+  Recently, some of the ruins were hit by
+  falling debris and lost their shape...
+  
+  But still, they're wondrous. Absolutely
+  worth the trip to <0 Type='3' Data='0000'/>Kakariko Village<0 Type='3' Data='ffff'/>.
+  
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>I mean, if the Zonai Survey Team is
+  studying them, you know they must
+  be something special!
+GoRange_02_2: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Did those <0 Type='3' Data='0000'/>floating ruins <0 Type='3' Data='ffff'/>pique your
+  curiosity too?
+  
+  That thing on top... I mean, that's got to
+  be a shrine, hasn't it?
+  
+  <3 Type='0' Data='0c00'/>Hmm. I just wish the ruins were floating a
+  little lower to the ground.
+GoRange_02: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>You saw them, right? <5 Type='0'/>Those <0 Type='3' Data='0000'/>floating ruins<0 Type='3' Data='ffff'/>
+  by the side of the road?
+  
+  Supposedly there's a shrine on top
+  of them.
+  
+  <3 Type='0' Data='0c00'/>Which certainly piques my curiosity.
+  But how to get up there?
+  
+  <3 Type='0' Data='0a00'/>If only it wasn't so high up...
+Near_StartPoint_01: |
+  I'm going. I have to!
+StartPoint_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Say, have you visited <0 Type='3' Data='0000'/>Kakariko Village<0 Type='3' Data='ffff'/>?
+  
+  
+  If you're a <0 Type='3' Data='0000'/>ruins <0 Type='3' Data='ffff'/>and <0 Type='3' Data='0000'/>cave <0 Type='3' Data='ffff'/>aficionado,
+  I can't recommend it highly enough!
+  
+  Especially the <0 Type='3' Data='0000'/>Ring Ruins<0 Type='3' Data='ffff'/>.<5 Type='1'/> There's no
+  arguing with their beauty and splendor.
+StartPoint_02: |
+  <FontSize Value='80'/><3 Type='0' Data='0c00'/>Speaking of traveling... <5 Type='1'/>I wonder if my brothers
+  are still at New Serenne Stable, bickering about
+  swords and beasts...<FontSize Value='100'/>
+StartPoint_01_2: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>You can scour all of Hyrule, and you'll
+  never see anything quite as marvelous as
+  the <0 Type='3' Data='0000'/>Ring Ruins<0 Type='3' Data='ffff'/> in Kakariko Village.
+  Truly. Words don't do them justice.
+  
+  
+  I wish my brothers could come see...<5 Type='0'/>
+  But that'd require them to stop arguing
+  and actually go somewhere!
+BackRange_01: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Without a doubt, the highlight of my
+  adventures is <0 Type='3' Data='0000'/>visiting ruins<0 Type='3' Data='ffff'/>.
+  
+  For instance, did you hear about the
+  massive <0 Type='3' Data='0000'/>ring-shaped ruins <0 Type='3' Data='ffff'/>they found in
+  <0 Type='3' Data='0000'/>Kakariko Village<0 Type='3' Data='ffff'/>?
+  They're calling them <0 Type='3' Data='0000'/>Ring Ruins<0 Type='3' Data='ffff'/>!<5 Type='0'/>
+  Good name, right?
+  
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>It's easy to understand, but something
+  about rings feels eternal, you know?
+  It's poetic.
+  The rumor is that the brilliant new chief of
+  the village came up with it.
+Near_GoRange_01: |
+  I'll always remember them.
+BackRange_02: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Exploring <0 Type='3' Data='0000'/>caves<0 Type='3' Data='ffff'/> is one of the thrills of
+  adventuring. Especially <0 Type='3' Data='0000'/>caves<0 Type='3' Data='ffff'/> that no
+  one's been to before!
+  I hear that lots of new <0 Type='3' Data='0000'/>caves <0 Type='3' Data='ffff'/>appeared
+  in <0 Type='3' Data='0000'/>Lanayru<0 Type='3' Data='ffff'/>, to the <0 Type='3' Data='0000'/>northeast<0 Type='3' Data='ffff'/>, after
+  the Upheaval.
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='0a005400680069006e006b00'/>There are bound to be some that have
+  never been explored.
+  
+  But if I keep talking without taking action,
+  then I'm just like my brothers. <5 Type='0'/>Perhaps I'll
+  set off to see them myself.
+Near_GoRange_02: |
+  I see...something.
+Near_BackRange_02: |
+  How I love caves!
+RestPoint_01_00: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Say, I have time to kill!<5 Type='1'/> I'm going to teach
+  you a bit about weapons.
+RestPoint_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Did you know that the <0 Type='3' Data='0000'/>material <0 Type='3' Data='ffff'/>a <0 Type='3' Data='0000'/>weapon<0 Type='3' Data='ffff'/>
+  is made from changes its characteristics?
+  
+  For example, <0 Type='3' Data='0000'/>wooden <0 Type='3' Data='ffff'/>weapons are
+  <0 Type='3' Data='0000'/>flammable<0 Type='3' Data='ffff'/>, whereas <0 Type='3' Data='0000'/>metal <0 Type='3' Data='ffff'/>weapons can
+  attract <0 Type='3' Data='0000'/>lightning<0 Type='3' Data='ffff'/>.
+  That's why it's important to choose your
+  <0 Type='3' Data='0000'/>weapon<0 Type='3' Data='ffff'/> depending on the conditions of
+  the place you're in.
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>If you want to be a first-class adventurer,
+  you'd better keep that in mind!
+BackRange_02_2: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>I hear that lots of new <0 Type='3' Data='0000'/>caves <0 Type='3' Data='ffff'/>appeared
+  in <0 Type='3' Data='0000'/>Lanayru<0 Type='3' Data='ffff'/>, to the <0 Type='3' Data='0000'/>northeast<0 Type='3' Data='ffff'/>, after
+  the Upheaval.
+  Perhaps I'll set off to see them myself.
+Near_RestPoint_01: |
+  Choose carefully.
+Near_Thunder: |
+  My least favorite weather!
+RainPoint_00: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0c005300610064005f0030003100'/>Rain, rain, and more rain...<5 Type='1'/> When the
+  weather's like this, I get a little on edge.
+RainPoint_01: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>See... <5 Type='0'/>Once, on a day just like this, I was
+  holding an <0 Type='3' Data='0000'/>iron sword <5 Type='0'/><0 Type='3' Data='ffff'/>and it got struck
+  by <0 Type='3' Data='0000'/>lightning<0 Type='3' Data='ffff'/>.
+  The pain was unimaginable. I'm getting
+  cold sweats just thinking about it...
+  
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>After that, I swore I would always take
+  cover at the first sign of bad weather.
+  
+  So... You go ahead. I'll stay here for now.
+Near_RainPoint_01: |
+  Eee! Lightning!
+FriendGreet_00: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='0a0048006100700070007900'/>Oh! <5 Type='0'/>You're the fellow I met that one time!
+Near_Rain: |
+  Take cover!
+FriendGreet_02: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Oh—<5 Type='0'/>it's you!<5 Type='0'/> It's...<5 Type='0'/>don't tell me...
+  
+  
+  <3 Type='0' Data='0800'/>That's it! You're the fellow I saw at
+  New Serenne Stable!
+Greeting: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hey, it's you!<5 Type='1'/> You're looking well!
+Near_GoalPoint_01: |
+  Those brothers of mine...

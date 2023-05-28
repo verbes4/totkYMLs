@@ -1,0 +1,365 @@
+StartPoint_01: |
+  <3 Type='0' Data='0a00'/>You want to know something?
+  
+  
+  I came here specifically because I heard
+  the <0 Type='3' Data='0000'/>Thyphlo Ruins <0 Type='3' Data='ffff'/>investigation needed a
+  helping hand.
+  But when I go inside, what happens?
+  I'm attacked by automatons!
+  
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>I couldn't even begin to guess at the
+  origin or purpose of those things.
+  
+  It's just sad, because I was so ready to
+  study an amazing Zonai ruin, and now I
+  have to turn around and leave.
+  <3 Type='0' Data='0c00'/><FontSize Value='80'/>Although... There is another ruin nearby. Maybe I'll
+  check that out and try coming back later.<FontSize Value='100'/>
+GoalPoint_01: |
+  <3 Type='0' Data='0c00'/>With such a high concentration of <0 Type='3' Data='0000'/>gloom<0 Type='3' Data='ffff'/>,<0 Type='3' Data='0000'/><0 Type='3' Data='ffff'/>
+  one almost has to wonder if there's a
+  <0 Type='3' Data='0000'/>chasm <0 Type='3' Data='ffff'/>inside... <5 Type='0'/>Hm?
+FriendGreet_00: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>Ah! Look at us, meeting again here!<0 Type='4'/>After waiting at Snowfield Stable, the
+  blizzard stopped, so I was finally able
+  to continue my ruins investigation.
+  This area has not only ruins but a chasm
+  too! It's the sort of place that's really
+  exciting for our survey team!
+GoalPoint_02: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003100'/>I take it you're interested in the ruins?<5 Type='1'/>
+  That's rare for someone who's not in the
+  Zonai Survey Team.
+  <3 Type='0' Data='0801'/>But never fear! In the name of public
+  edification and whatnot, why don't I tell
+  you what's written on the monolith?
+  It says <0 Type='3' Data='0000'/>the dragon ring slumbers in the
+  depths of the<0 Type='3' Data='ffff'/>...<5 Type='1'/>the...<5 Type='1'/>
+  
+  ...<5 Type='1'/>
+  
+  
+  <FontSize Value='80'/><3 Type='0' Data='0c00'/>Shoot.<5 Type='1'/> How did the rest of it go?<5 Type='0'/> I remember there
+  was a "shall" in there...
+  
+  <3 Type='0' Data='0000'/><FontSize Value='100'/>Sorry. I guess I forgot.
+  
+  
+  There is a full translation in the <0 Type='3' Data='0000'/>research
+  log <0 Type='3' Data='ffff'/>over there, if you want to read that!<FontSize Value='80'/>
+  
+  <3 Type='0' Data='0a00'/>Meanwhile, I'd better start traveling <0 Type='3' Data='0000'/>southeast<0 Type='3' Data='ffff'/>
+  to the <0 Type='3' Data='0000'/>Thyphlo Ruins<0 Type='3' Data='ffff'/>... With all the <0 Type='3' Data='0000'/>gloom <0 Type='3' Data='ffff'/>here,
+  I can't risk going inside...<FontSize Value='100'/>
+GoRange_03_2: |
+  <3 Type='0' Data='0800'/>There's a <0 Type='3' Data='0000'/>geoglyph north of the snowfield<0 Type='3' Data='ffff'/>!
+  
+  
+  I'm going to be the first to investigate it.
+  I just have to watch out for the <0 Type='3' Data='0000'/>giant
+  monster <0 Type='3' Data='ffff'/>with <0 Type='3' Data='0000'/>three heads<0 Type='3' Data='ffff'/>.
+  But this means I've got an opening! I can
+  go solve the mystery of the geoglyphs
+  before anyone else!
+  <3 Type='0' Data='0701'/><4 Type='0' Data='0c004e006f007400690063006500'/>Huh?<5 Type='1'/> How will I beat the monster?<5 Type='1'/>
+  Don't worry about it!
+  
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068005300'/>I'll figure it out when I get there.
+SavedLv2_00: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='08004500610073006500'/>Is that terrible threat over?<5 Type='1'/> I'm saved?<5 Type='0'/>
+  Thank you so much!
+SavedLv2_01: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='08004500610073006500'/>You can see that I just can't cope with
+  monsters like that.<5 Type='0'/> But you've saved me.<5 Type='0'/>
+  Thank you!
+GoRange_01_2: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0e0045006100730065005f0030003000'/>I really wanted to investigate the <0 Type='3' Data='0000'/>chasm<0 Type='3' Data='ffff'/>
+  on the <0 Type='3' Data='0000'/>other side of this peak<0 Type='3' Data='ffff'/>.
+  
+  But there's too much <0 Type='3' Data='0000'/>gloom <0 Type='3' Data='ffff'/>coming out.
+  I can't risk it.
+  
+  <3 Type='0' Data='0a00'/>Even the tiniest speck of <0 Type='3' Data='0000'/>gloom <0 Type='3' Data='ffff'/>on your
+  skin can make you sick.
+  
+  I don't normally quit on things, but I don't
+  see what else I can do.
+GoalPoint_01_2: |
+  <3 Type='0' Data='0700'/>You're not trying to go into the ruins,
+  are you?
+  
+  I really wouldn't recommend it. There's so
+  much <0 Type='3' Data='0000'/>gloom <0 Type='3' Data='ffff'/>inside! It's toxic. And that
+  means there's likely a <0 Type='3' Data='0000'/>chasm <0 Type='3' Data='ffff'/>in there.
+  So just...turn around and go home, OK?
+  If you're curious about our findings, you
+  can read the <0 Type='3' Data='0000'/>research log <0 Type='3' Data='ffff'/>over there.
+  <3 Type='0' Data='0c00'/>I was just about to leave myself. I think
+  I'll try to investigate the <0 Type='3' Data='0000'/>Thyphlo Ruins <0 Type='3' Data='ffff'/>in
+  the <0 Type='3' Data='0000'/>southeast<0 Type='3' Data='ffff'/>...
+Atacked00: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='0a0048006100700070007900'/>You look strong enough!<5 Type='0'/> Please! Take
+  care of this!
+BackRange_02_2: |
+  <3 Type='0' Data='0800'/>Don't you think that a lot of the
+  <0 Type='3' Data='0000'/>sky ruins<0 Type='3' Data='ffff'/> you can see from this area
+  have weird shapes?
+  Who built them? When? And for what
+  purpose? <5 Type='1'/>I'm going to go up there and
+  solve all these mysteries!
+  <3 Type='0' Data='0701'/>Huh?<5 Type='0'/> How will I get up there? <5 Type='1'/>I'm sure I'll
+  find a way.
+  
+  <3 Type='0' Data='0800'/><4 Type='0' Data='12004c0061007500670068004c005f0030003000'/>Let me dream for a second! Yeesh!
+Atacked01: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='08004500610073006500'/>All right!<5 Type='0'/> Maybe I've got a chance...<5 Type='0'/> Hey!
+  Help, please! I'm being attacked!
+NakedPlayer: |
+  I don't have spare clothes.
+StartPoint_01_2: |
+  <3 Type='0' Data='0a00'/>I came all the way to the <0 Type='3' Data='0000'/>Thyphlo Ruins<0 Type='3' Data='ffff'/>,
+  and then...<5 Type='1'/>and then...<5 Type='1'/>what on earth were
+  those terrifying machines?
+  Whatever they were, they really did not
+  want me around.
+  
+  It's just sad, because I was so ready to
+  study an amazing Zonai ruin, and now I
+  have to turn around and leave.
+  <3 Type='0' Data='0c00'/><FontSize Value='80'/>Although... There is another ruin nearby. Maybe I'll
+  check that out and try coming back later.<FontSize Value='100'/>
+Guardian00: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='0a0053006300610072006500'/>Wait a minute!<5 Type='0'/> Look!<5 Type='0'/> What is that?!<5 Type='0'/>
+  That thing looks like the worst!
+Near_GoalPoint_01: |
+  Among the ruins...
+Failed00: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='1c0055006e0063006f006e007300630069006f00750073005f0030003100'/>Ugh... Those monsters...<5 Type='0'/> They won't
+  discourage me from investigating
+  Zonai ruins though.
+RainRun_01: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0e0045006100730065005f0030003000'/>There's no way I can investigate in
+  weather like this.<5 Type='1'/> I have to get
+  somewhere dry.
+SavedLv3_00: |
+  <3 Type='0' Data='0b00'/>Monsters as frightening as that...<5 Type='1'/> I don't
+  know how you stand up to them! But
+  thank you!
+Failed01: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0c005300610064005f0030003100'/>That was a really tough situation...<5 Type='1'/>
+  but I refuse to let that stop me from
+  investigating ruins!
+Thanks00: |
+  <3 Type='0' Data='0101'/>Now then, I'll give you something.
+  Here,<5 Type='0'/> take it!
+SavedLv1_00: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='08004500610073006500'/>I got into an awful situation there...<5 Type='0'/>but
+  you saved me. Thank you!
+SavedLv3_01: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='1200530075007200700072006900730065004d00'/>Huh? <5 Type='0'/>The danger has passed?!<5 Type='0'/> Wow,
+  thank you!
+GoRange_02_2: |
+  <3 Type='0' Data='0800'/>The sky ruins appear to be from the age
+  of legends.
+  
+  Which means there are likely relics from
+  that era...somewhere up there! I just have
+  to find them!
+  <3 Type='0' Data='0701'/>Huh?<5 Type='1'/> How will I get up there? Really a
+  details guy, aren't you?
+  
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068005300'/>Let me dream for a second! Yeesh!
+SavedLv1_01: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='08004500610073006500'/>Ah, that was a real shock there...<5 Type='0'/>
+  Thanks for saving me!
+Near_Rain: |
+  I'll get soaking wet...
+Near_GoRange_01: |
+  I want to go to the chasm.
+RainRun: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>Oh!<5 Type='0'/> Finally, someone I can talk to.<0 Type='4'/><3 Type='0' Data='0000'/><4 Type='0' Data='0e0045006100730065005f0030003000'/>But before we do that, let's relocate to
+  somewhere dry, shall we?
+GoRange_01: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0e0045006100730065005f0030003000'/>Can I complain to you about something?
+  
+  
+  I wanted to investigate the <0 Type='3' Data='0000'/>chasm<0 Type='3' Data='ffff'/> on the
+  <0 Type='3' Data='0000'/>other side of this peak<0 Type='3' Data='ffff'/>.
+  
+  But there's so much <0 Type='3' Data='0000'/>gloom <0 Type='3' Data='ffff'/>coming out,
+  I can't go near it!
+  
+  <3 Type='0' Data='0a00'/>Even the tiniest speck of <0 Type='3' Data='0000'/>gloom <0 Type='3' Data='ffff'/>on your
+  skin can make you sick.
+  
+  So I guess I have to just...give up.
+Near_GoRange_02: |
+  The age of legends...
+GoRange_02: |
+  <3 Type='0' Data='0800'/>Want to hear something interesting?
+  
+  
+  The sky ruins are said to contain
+  relics from...<5 Type='1'/>the age of legends.
+  
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0c004c0061007500670068005300'/>Haha! <5 Type='0'/>Can you imagine how much we'd
+  learn from just one of those relics?
+  
+  If I find one, then KA-BOING! I'll shoot
+  straight up to the rank of assistant leader!
+  
+  <3 Type='0' Data='0701'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>Huh? <5 Type='1'/>How will I get up there?
+  
+  
+  Don't you worry about that. <5 Type='0'/>I'll work out
+  the details as I go.
+Near_GoRange_03: |
+  Geoglyph on a snowfield...
+RainPoint_01: |
+  <3 Type='0' Data='0800'/>Hey! It looks like we're both stuck here
+  while we wait out the rain.
+  
+  So we might as well talk, right? Do you
+  like ruins?
+  
+  <3 Type='0' Data='0001'/>I think it's so interesting that there are
+  two different kinds of ruins.
+  
+  Some of them—<5 Type='0'/>the ones that were here
+  since before the Upheaval—<5 Type='0'/>appear to be
+  more recent.
+  Not to say they're not old. They are!
+  
+  
+  <4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>But from what we can tell, they're not
+  quite as ancient as the ruins that fell from
+  the sky.
+  On close inspection, you'll see the two
+  kinds have <0 Type='3' Data='0000'/>distinct designs and materials<0 Type='3' Data='ffff'/>.
+  
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068005300'/>Anyway, that's enough out of me. Can you
+  tell I work for the Zonai Survey Team?
+  
+GoRange_03: |
+  <3 Type='0' Data='0800'/>Guess what! You know all those <0 Type='3' Data='0000'/>geoglyphs<0 Type='3' Data='ffff'/>
+  that appeared after the Upheaval?
+  
+  There's one right near us, just <0 Type='3' Data='0000'/>north of
+  the snowfield<0 Type='3' Data='ffff'/>!
+  
+  No one's investigated it yet, since there's
+  a <0 Type='3' Data='0000'/>giant monster<0 Type='3' Data='ffff'/> with <0 Type='3' Data='0000'/>three heads<0 Type='3' Data='ffff'/> prowling
+  around it.
+  <4 Type='0' Data='0c004c0061007500670068005300'/>Which means I've got an opening! I can
+  go solve the mystery of the geoglyph
+  before anyone else!
+  <3 Type='0' Data='0701'/>Huh?<5 Type='1'/> How will I get past the monster?
+  
+  
+  <4 Type='0' Data='10005400680069006e006b005f0030003000'/>Eh... Don't worry about that. <5 Type='1'/>I'll work out
+  the details as I go.
+Near_RainPoint_01: |
+  Need a little break...
+EnokidaSignboard: |
+  Is that hairstyle in now?
+RainPoint_02: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Investigating ruins can't proceed in
+  conditions like this.
+  
+  When it's time to rest...<5 Type='0'/>rest.<5 Type='1'/> When it's
+  time to work...<5 Type='0'/>work.<5 Type='1'/> That's the only way
+  the Zonai Survey Team can be its best.
+BackRange_03_2: |
+  <3 Type='0' Data='0a00'/>I was SO excited to investigate the ruins
+  and sky islands in this area...
+  
+  Then I find out I can't get near <0 Type='3' Data='0000'/>North
+  Lomei Labyrinth <0 Type='3' Data='ffff'/>because of the <0 Type='3' Data='0000'/>gloom<0 Type='3' Data='ffff'/>.
+  
+  And I can't get near the <0 Type='3' Data='0000'/>Thyphlo Ruins<0 Type='3' Data='ffff'/>
+  in the southeast because of the weird
+  automatons.
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>So there's not much I can do, other than
+  stand around and complain.
+  
+  <3 Type='0' Data='0701'/>*sigh*<5 Type='1'/> But at least I've got you here to
+  listen to my troubles.
+RainPoint_03: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>All those Zonai ruins that were here
+  before the Upheaval...
+  
+  Ancient as they are, it seems the ruins
+  that fell from the sky are even older!
+  
+  You can tell because the design and
+  materials of the two types of ruins are
+  distinctly different.<5 Type='1'/>
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068005300'/>What do you think about that? Did you
+  learn something?
+BackRange_01_2: |
+  <3 Type='0' Data='0800'/>I'm about to go investigate the <0 Type='3' Data='0000'/>Thyphlo
+  Ruins<0 Type='3' Data='ffff'/>, which are <0 Type='3' Data='0000'/>east <0 Type='3' Data='ffff'/>on this road.
+  
+  With the new <0 Type='3' Data='0000'/>Skyview Tower <0 Type='3' Data='ffff'/>installed
+  there, it's clear that ruin will become
+  a big project for the survey team...
+  So if I do well on it,<5 Type='0'/> I could get promoted
+  to assistant leader!
+  
+  <FontSize Value='80'/><3 Type='0' Data='0c01'/><4 Type='0' Data='0c004c0061007500670068005300'/>Assistant leader Juga...<5 Type='1'/> I'm feeling more important
+  just thinking about it!<FontSize Value='100'/>
+Near_StartPoint_01: |
+  What is that?
+BackRange_01: |
+  <3 Type='0' Data='0800'/>Listen! There are big Zonai ruins called
+  the <0 Type='3' Data='0000'/>Thyphlo Ruins <0 Type='3' Data='ffff'/>to the <0 Type='3' Data='0000'/>east<0 Type='3' Data='ffff'/>.
+  
+  Have you ever been?
+  
+  
+  <4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>The site is huge, and its investigation
+  is badly understaffed, so I'm going to go
+  and help out.
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0e0043006800610074005f0030003000'/>With the <0 Type='3' Data='0000'/>Skyview Tower<0 Type='3' Data='ffff'/> that was installed
+  there, it's clear that ruin will become a
+  major project for the survey team...
+  Which means if I do well there, I could get
+  promoted to assistant leader!
+  
+  <FontSize Value='80'/><3 Type='0' Data='0c01'/><4 Type='0' Data='0c004c0061007500670068005300'/>Assistant leader Juga...<5 Type='1'/> Ooh, I like the sound
+  of that...<FontSize Value='100'/>
+Near_BackRange_01: |
+  Going to the ruins...
+Greeting: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>Hello!<5 Type='0'/> Good timing.
+BackRange_02: |
+  <3 Type='0' Data='0800'/>Listen! Don't you think that a lot of the
+  <0 Type='3' Data='0000'/>sky ruins<0 Type='3' Data='ffff'/> you can see from this area have
+  weird shapes?
+  Who built them? When? And for what
+  purpose?<5 Type='1'/> I'm going to go up there and
+  find out!
+  <3 Type='0' Data='0701'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>How? Eh... Don't worry about it. I'll work
+  out the details as I go.
+Near_BackRange_02: |
+  What weird shapes!
+BackRange_03: |
+  <3 Type='0' Data='0a00'/>Listen... I'm supposed to be investigating
+  ruins and sky islands around here.
+  
+  But I can't go near <0 Type='3' Data='0000'/>North Lomei Labyrinth<0 Type='3' Data='ffff'/>
+  because of all <0 Type='3' Data='0000'/>the gloom<0 Type='3' Data='ffff'/>...
+  
+  And I can't get near the <0 Type='3' Data='0000'/>Thyphlo Ruins<0 Type='3' Data='ffff'/>
+  because of weird automatons, so...
+  
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0e0045006100730065005f0030003000'/>I really can't investigate...anything.
+  It's demoralizing.
+  
+  <3 Type='0' Data='0701'/>Talking about it does make me feel a little
+  better though.<5 Type='1'/> Thanks for listening.
+Near_Rain_00: |
+  It's snowing...
+Near_BackRange_03: |
+  I want to investigate...

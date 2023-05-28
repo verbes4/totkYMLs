@@ -1,0 +1,16 @@
+talk_0002: |
+  <3 Type='0' Data='0700'/>I am grateful to you for driving out the
+  trespassers. I was <0 Type='3' Data='0000'/>processing zonaite<0 Type='3' Data='ffff'/>
+  into other materials.<0 Type='4'/>It was necessary that I flee to avoid
+  detection. <5 Type='0'/>But I am at liberty now to trade
+  <0 Type='3' Data='0000'/>zonaite<0 Type='3' Data='ffff'/> for processed materials.
+1000: |
+  Processing?
+1001: |
+  Goodbye.
+talk_0001: |
+  <3 Type='0' Data='0700'/>I am grateful to you for driving out the
+  trespassers. It was necessary that I flee
+  to avoid detection.<0 Type='4'/><3 Type='0' Data='0701'/>But let us speak no more of that.
+1002: |
+  What's zonaite?

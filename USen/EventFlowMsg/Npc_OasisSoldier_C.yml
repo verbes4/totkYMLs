@@ -1,0 +1,112 @@
+0001: |
+  Molduga?
+TerrorExplosion: |
+  Wh-what?!
+0002: |
+  Good luck!
+TerrorFire: |
+  Hurry and put out that fire!
+Talk10: |
+  <3 Type='0' Data='0900'/><4 Type='0' Data='0c005300610064005f0030003100'/>I did everything I could to fight against
+  the Gibdos with my spear, but I hardly left
+  a scratch!
+  They're incredibly hardy, and their
+  numbers...<5 Type='0'/> If we don't pick them off
+  fast, they'll surround and wipe us out!
+  But if we want to win...
+TerrorSword: |
+  You wanna throw down?!
+Talk11: |
+  <3 Type='0' Data='0c00'/>I attached an <0 Type='3' Data='0000'/>Electric Lizalfos horn<0 Type='3' Data='ffff'/> to my
+  spear like another guard suggested, but...
+  
+  I don't know. This seems like such a
+  simple solution. Is it really going to be
+  the key to defeating the Gibdos?
+  Well, we can't know for sure until we try.
+  Nothing we've done so far has been the
+  answer, anyway.
+Talk21: |
+  <3 Type='0' Data='0700'/>There are many different kinds of
+  monsters that roam the Gerudo Desert.
+  
+  There is one, though, that is gigantic!
+  It's a fierce creature known as a <0 Type='3' Data='0000'/>Molduga<0 Type='3' Data='ffff'/>.
+  
+  Even for us Gerudo, a Molduga is a
+  dangerous opponent. We usually attack in
+  numbers, yet the battle is always tough.
+  <3 Type='0' Data='0800'/>But once I've finished my training, beating
+  one will be as easy as taking honey candy
+  from a vehvi!
+  First, I'll draw the attention of a Molduga
+  with something that makes sound. They
+  have famously <0 Type='3' Data='0000'/>sensitive hearing<0 Type='3' Data='ffff'/>, after all.
+  And then, once it comes to the surface,
+  I'll launch a full-on attack! What do you
+  think? Perfect plan, am I right?
+Near_01: |
+  The next will cut deep!
+Talk12: |
+  <3 Type='0' Data='0900'/>Hrnnnnnn!<5 Type='1'/> I can feel the energy!<5 Type='1'/> Can you
+  feel it too?
+  
+  It's Lady Riju's power!<5 Type='1'/> I feel invincible!<5 Type='1'/>
+  I cannot lose!
+Talk22: |
+  <3 Type='0' Data='0700'/>I just...<5 Type='0'/>need to do a bit more training
+  before I can take one on.
+ThunderHelmet: |
+  I recognize that helm...
+Near_02: |
+  Take that!
+Talk13: |
+  <3 Type='0' Data='0700'/>You showed off some really impressive
+  abilities with your bow during the battle.
+  
+  I can't imagine how much training you've
+  endured to become so skilled.
+  
+  Really, this whole event has revealed how
+  much more I could do to improve myself!
+Talk14: |
+  <3 Type='0' Data='0700'/>Do you need something from me? As you
+  can see, I'm busy training right now.
+  
+  Once I've trained just a bit more...
+Talk15: |
+  <3 Type='0' Data='0c00'/>Until now, I always thought that you
+  could get through a fight with skill and
+  strength alone...
+  But it seems like my way of thinking is a
+  bit out of date. Some folks are fighting
+  with <0 Type='3' Data='0000'/>modified weapons<0 Type='3' Data='ffff'/>...
+  I never realized what else could turn the
+  tide of a battle.
+  
+  <3 Type='0' Data='0900'/>That said! <5 Type='1'/>Weapons aren't everything. A
+  well-equipped army of greenhorns can still
+  fall to experienced opponents!
+  Training is just as important as ever!
+Talk25: |
+  <3 Type='0' Data='0800'/>Then I'm planning to go defeat a Molduga.
+  You know, the monster of the desert!
+  
+  Training is good, but actual experience in
+  battle is even more important!
+TerrorBomb: |
+  What's that?
+Talk16: |
+  <3 Type='0' Data='0900'/><4 Type='0' Data='0c005300610064005f0030003100'/>I can't believe that my expertly delivered
+  spear attacks did nothing to even slow
+  them down.
+  I guess there's only one option available
+  to me!<5 Type='1'/>
+near0000: |
+  Yee-ah!
+near0001: |
+  Hah!
+TerrorArrow: |
+  An ambush!
+Talk18: |
+  <FontSize Value='125'/><3 Type='0' Data='0900'/>I've got to hone my spear skills!<5 Type='0'/><FontSize Value='100'/>

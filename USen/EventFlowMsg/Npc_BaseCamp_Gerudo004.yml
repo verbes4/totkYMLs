@@ -1,0 +1,59 @@
+Talk_02: |
+  <3 Type='0' Data='0701'/>Before I greet you, I should thank you!
+  So...sarqso!
+talk0013: |
+  <3 Type='0' Data='0900'/>This is the central hub of the search for
+  <0 Type='3' Data='0000'/>Princess<0 Type='3' Data='ffff'/> <0 Type='3' Data='0000'/>Zelda<0 Type='3' Data='ffff'/>, and no place for the likes
+  of you.
+  Leave before I put a hole in that mask
+  of yours!
+Talk_03: |
+  <3 Type='0' Data='0700'/>What a view... And it would be greedy to
+  keep it all to myself! Some powerful deity
+  might try and smite me for not sharing...
+  Well, once we've rescued <0 Type='3' Data='0000'/>Princess Zelda<0 Type='3' Data='ffff'/>,<5 Type='1'/>
+  I'll have to go convince my friends in town
+  to travel and experience this!
+Talk_04: |
+  <3 Type='0' Data='0701'/>So you'd better hurry up, find the
+  princess, and bring her back here.
+  We'll keep this place safe until you do.
+Talk_05: |
+  <3 Type='0' Data='0900'/><4 Type='0' Data='100041006e006700720079005f0030003000'/>Keep Princess Zelda—and this scenery—
+  safe from that <0 Type='3' Data='0000'/>Demon King<0 Type='3' Data='ffff'/>!
+BlackZelda_01: |
+  <3 Type='0' Data='0700'/>You're here to see <0 Type='3' Data='0000'/>Purah<0 Type='3' Data='ffff'/>, right?<5 Type='1'/> She's at
+  the <0 Type='3' Data='0000'/>telescope<0 Type='3' Data='ffff'/>. Hurry and speak with her.
+  
+  <FontSize Value='80'/><3 Type='0' Data='0c01'/>I can't really imagine <0 Type='3' Data='0000'/>Princess Zelda<0 Type='3' Data='ffff'/> being in a place
+  as dangerous as Hyrule Castle...<FontSize Value='100'/>
+BlackZelda_02: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='0c005300610064005f0030003000'/>Well...<5 Type='0'/>you're probably more interested
+  in hearing about <0 Type='3' Data='0000'/>Princess<0 Type='3' Data='ffff'/> <0 Type='3' Data='0000'/>Zelda<0 Type='3' Data='ffff'/> than my
+  words of gratitude...
+  <3 Type='0' Data='0701'/>You're here to see <0 Type='3' Data='0000'/>Purah<0 Type='3' Data='ffff'/>, right? She's at
+  the <0 Type='3' Data='0000'/>telescope<0 Type='3' Data='ffff'/>. Hurry and speak with her.
+Near00: |
+  Not bad...
+Talk_00: |
+  <3 Type='0' Data='0700'/>Most of us Gerudo soldiers haven't
+  traveled out of the Gerudo region before.
+  
+  And now that I've seen this view
+  in person...
+  
+  <3 Type='0' Data='0800'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>Well, once we've rescued <0 Type='3' Data='0000'/>Princess Zelda<0 Type='3' Data='ffff'/>,<5 Type='1'/>
+  I'll have to go convince my friends in town
+  to travel and experience this!
+AssassinClothes: |
+  Yiga Clan? Here?
+Talk_01: |
+  <3 Type='0' Data='0700'/>Most of us Gerudo soldiers haven't
+  traveled out of the Gerudo region before.
+  
+  And now that I've seen this scenic rainfall
+  in person...
+  
+  <3 Type='0' Data='0800'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>Well, once we've rescued <0 Type='3' Data='0000'/>Princess Zelda<0 Type='3' Data='ffff'/>,<5 Type='1'/>
+  I'll have to go convince my friends in town
+  to travel and experience this!

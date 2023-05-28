@@ -1,0 +1,20 @@
+Name: |
+  Misko's Treasure of Awakening III
+GetTreasure: |
+  The message from the bandit Misko said,
+  "On Hyrule Ridge, in Ludfo's land, ruins sleep
+  beneath the towering mushroom trees.
+  Connect the southern column's midday
+  shadow to the northern. At the shadow's
+  center, the way to my treasure will open."
+  
+  Solve the riddle to find the treasure.
+Complete: |
+  The message from the bandit Misko said,
+  "On Hyrule Ridge, in Ludfo's land, ruins sleep
+  beneath the towering mushroom trees. Connect
+  the southern column's midday shadow to the
+  northern. At the shadow's center, the way to
+  my treasure will open."
+  
+  You solved the riddle and got Misko's treasure.

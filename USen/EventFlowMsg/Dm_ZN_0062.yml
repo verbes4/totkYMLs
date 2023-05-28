@@ -1,0 +1,149 @@
+Talk_008: |
+  <3 Type='0' Data='0700'/>Tauro has already gone off to the
+  Zonai Ruins.<0 Type='4'/>If memory serves, he spoke of starting his
+  investigation around <0 Type='3' Data='0000'/>Dracozu Lake<0 Type='3' Data='ffff'/>.<0 Type='4'/>I don't know his exact whereabouts, but
+  if you go <0 Type='3' Data='0000'/>southeast<0 Type='3' Data='ffff'/>, you should find the
+  Zonai Ruins he volunteered to inspect.
+  <3 Type='0' Data='0c00'/>That said...it's night now, and he hasn't
+  returned, which is worrying. Did he get
+  swept up in his work at the site?<0 Type='4'/><FontSize Value='80'/>Why must all our work be so taxing? Does no one
+  need an old hand at reviewing and cross-referencing
+  ancient documents?<FontSize Value='100'/>
+Talk_025: |
+  <3 Type='0' Data='0700'/>I refer to the tall tower next to us.
+Talk_009: |
+  <3 Type='0' Data='0900'/>Not now! Can't you see it's raining?
+  This is no time for a leisurely chat!
+0000: |
+  I haven't seen him.
+Talk_010: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004e006f007400690063006500'/>Excuse me, but you're standing in the
+  way of science. Talk to me once I get to
+  where I'm going, eh?
+Talk_011: |
+  <3 Type='0' Data='0301'/>It might not seem like much next to that
+  <0 Type='3' Data='0000'/>Skyview Tower<0 Type='3' Data='ffff'/>, I'll concede.
+0001: |
+  I met up with him.
+Talk_012: |
+  <3 Type='0' Data='0c00'/>I'm very curious to know more about that
+  <0 Type='3' Data='0000'/>Skyview Tower<0 Type='3' Data='ffff'/>... <5 Type='1'/>Hm?
+0002: |
+  Where's Tauro?
+Near_001: |
+  Goodness, I'm beat.
+Talk_013: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Oh. <5 Type='0'/>It's you again. Did you manage to
+  meet up with <0 Type='3' Data='0000'/>Tauro<0 Type='3' Data='ffff'/>?
+0003: |
+  I saw him already.
+Near_002: |
+  Of course it's raining.
+Talk_014: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Oh? <5 Type='0'/>Not deterred by the rain, eh? Were
+  you able to meet up with <0 Type='3' Data='0000'/>Tauro<0 Type='3' Data='ffff'/>?
+0004: |
+  Skyview Tower?
+Talk_015: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Oh? <5 Type='0'/>Not deterred by the dark at this hour,
+  eh? Did you ever meet up with <0 Type='3' Data='0000'/>Tauro<0 Type='3' Data='ffff'/>?
+0005: |
+  Goodbye.
+Near_003: |
+  It's late...
+Talk_016: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='0c004e006f007400690063006500'/>Did you still need something?<0 Type='4'/>There's nothing I can tell you about the
+  <0 Type='3' Data='0000'/>Skyview Tower<0 Type='3' Data='ffff'/>, and I don't know <0 Type='3' Data='0000'/>Tauro<0 Type='3' Data='ffff'/>'s
+  whereabouts either.
+0006: |
+  I met with Tauro.
+Talk_017: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='0c004e006f007400690063006500'/>Er...<5 Type='1'/>did you still need something from
+  me? I do have work here, you know.
+Talk_000: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Ah, so you're here. Came to learn about
+  the Zonai from an expert, I gather?
+Talk_018: |
+  <FontSize Value='80'/><3 Type='0' Data='0c01'/>And it doesn't help that I can't take my eyes off that
+  <0 Type='3' Data='0000'/>Skyview Tower<0 Type='3' Data='ffff'/>. It's almost too impressive.<0 Type='4'/><FontSize Value='100'/><3 Type='0' Data='0b01'/><4 Type='0' Data='0c004e006f007400690063006500'/>Ah. <5 Type='1'/>Still here, eh? Did you need anything
+  else from me?
+Talk_001: |
+  <3 Type='0' Data='0701'/>I should welcome you to our humble base
+  of operations. Behold! This is where the
+  real investigation starts.
+Talk_019: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>What, you're still looking for him? But
+  don't you know?
+Talk_002: |
+  <3 Type='0' Data='0700'/>Going forward, our research will proceed
+  from here. <5 Type='0'/>Tauro has already gone off to
+  the Zonai Ruins.<0 Type='4'/>If memory serves, he spoke of starting his
+  investigation around <0 Type='3' Data='0000'/>Dracozu Lake<0 Type='3' Data='ffff'/>.<0 Type='4'/>Go <0 Type='3' Data='0000'/>southeast <0 Type='3' Data='ffff'/>and you should find the
+  Zonai Ruins he volunteered to inspect.<0 Type='4'/><3 Type='0' Data='0c00'/>I'm curious if the "dragon land" written of
+  at the Ring Ruin will have any more leads
+  on the Demon King or Princess Zelda.<0 Type='4'/>Ordinarily, I'd be right there at his side in
+  the field, of course.<0 Type='4'/><3 Type='0' Data='0a00'/>But I'm worn out from setting up the base.
+  I'll need some time to recuperate before
+  I begin my own survey.<0 Type='4'/><FontSize Value='80'/>Goodness me, is there anything at all that slows
+  down Tauro?<FontSize Value='100'/>
+Talk_003: |
+  <3 Type='0' Data='0700'/>Tauro has already gone off to the
+  Zonai Ruins.<0 Type='4'/>He spoke of starting his investigation
+  around <0 Type='3' Data='0000'/>Dracozu Lake<0 Type='3' Data='ffff'/>.<0 Type='4'/>Go <0 Type='3' Data='0000'/>southeast <0 Type='3' Data='ffff'/>and you should find the
+  Zonai Ruins he volunteered to inspect.<0 Type='4'/><3 Type='0' Data='0c00'/>I'm curious if the "dragon land" written of
+  at the Ring Ruin will have any more leads
+  on the Demon King or Princess Zelda.<0 Type='4'/>Ordinarily, I'd be right there at his side in
+  the field, of course.<0 Type='4'/><3 Type='0' Data='0a00'/>Setting up our base here was more tiring
+  than I expected. I still haven't recuperated
+  from the stress.<0 Type='4'/><FontSize Value='80'/>I can't help but think about all the great discoveries
+  I'm missing out on. Ah, well...fieldwork never was
+  my strong suit, I suppose. *sigh*<FontSize Value='100'/>
+Talk_020: |
+  To be candid, I don't know its purpose.
+  But it makes an excellent landmark for
+  finding our base again.<0 Type='4'/><3 Type='0' Data='0701'/><4 Type='0' Data='0a005400680069006e006b00'/><FontSize Value='80'/>Though I wish it weren't so humbling to look at.
+  The base I set up seems so meager in comparison.<FontSize Value='100'/>
+Talk_004: |
+  <3 Type='0' Data='0b00'/>Eh? You've already met with Tauro?
+  And the two of you have begun to make
+  progress at the ruins?!<0 Type='4'/>*sigh* At least there's still the "dragon
+  land" mentioned at the Ring Ruin to
+  survey. I wish I could get a head start.<0 Type='4'/><3 Type='0' Data='0a00'/>Perhaps once I've rested just a bit more.
+  I'll need to be at my best—I must bring
+  all my powers of observation to bear.<0 Type='4'/><FontSize Value='80'/>Ugh. I just know I'm missing out on so many
+  incredible discoveries. Ah, well...fieldwork never
+  was my strong suit, I suppose. *sigh*<FontSize Value='100'/>
+Talk_021: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>What's that? <5 Type='0'/>This Skyview Tower doesn't
+  even work, you say?<0 Type='4'/><3 Type='0' Data='0201'/>I don't know what you expect me to do
+  about it. <5 Type='0'/>Take it up with whoever built
+  the thing.<0 Type='4'/>Setting up this base was hard enough on
+  me without passersby expecting me to
+  play repairman.<0 Type='4'/><3 Type='0' Data='0a00'/><FontSize Value='80'/>I worked hard to build it, and yet next to the
+  Skyview Tower, it seems so...<5 Type='0'/>inadequate.<0 Type='4'/>Ugh, all this fretting is making me thirsty.<5 Type='0'/> Maybe I'll
+  get some water from that well.<FontSize Value='100'/>
+Talk_005: |
+  <3 Type='0' Data='0700'/>Yes, yes, you mentioned already that you
+  met up with Tauro and that you've made
+  a groundbreaking new discovery.<0 Type='4'/>*sigh* At least there's still the "dragon
+  land" mentioned at the Ring Ruin to
+  survey. I wish I could get a head start.<0 Type='4'/><3 Type='0' Data='0a00'/>Perhaps once I've rested just a bit more.
+  I'll need to be at my best—I must bring
+  all my powers of observation to bear.<0 Type='4'/><FontSize Value='80'/>Ugh. I just know I'm missing out on so many
+  incredible discoveries. Ah, well...fieldwork never
+  was my strong suit, I suppose. *sigh*<FontSize Value='100'/>
+Talk_023: |
+  <3 Type='0' Data='0700'/>Very well. Take care.
+Talk_007: |
+  <3 Type='0' Data='0700'/>Going forward, our research will proceed
+  from here. <5 Type='0'/>Tauro has already gone off to
+  the Zonai Ruins.<0 Type='4'/>If memory serves, he spoke of starting his
+  investigation around <0 Type='3' Data='0000'/>Dracozu Lake<0 Type='3' Data='ffff'/>.<0 Type='4'/>I don't know his exact whereabouts, but
+  if you go <0 Type='3' Data='0000'/>southeast<0 Type='3' Data='ffff'/>, you should find the
+  Zonai Ruins he volunteered to inspect.
+  <3 Type='0' Data='0c00'/>That said...it's night now and he hasn't
+  returned, which is worrying. Did he get
+  swept up in his work at the site?<0 Type='4'/><FontSize Value='80'/>My goodness, the man is absolutely indefatigable.<FontSize Value='100'/>
+Talk_024: |
+  <3 Type='0' Data='0c00'/>Hmm. <5 Type='1'/>Maybe I shouldn't have set up our
+  base so close to it to begin with.

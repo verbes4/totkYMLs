@@ -1,0 +1,39 @@
+Step3: |
+  You defeated two of the three giant monsters
+  dwelling in caves at <0 Type='3' Data='0000'/>Corta Lake<0 Type='3' Data='ffff'/>, <0 Type='3' Data='0000'/>Rodai Lake<0 Type='3' Data='ffff'/>,
+  and <0 Type='3' Data='0000'/>Calora Lake<0 Type='3' Data='ffff'/>.
+  
+  If you defeat the other <0 Type='3' Data='0000'/>one<0 Type='3' Data='ffff'/>, maybe Kampo at
+  Lakeside Stable will breathe a little easier.
+Name: |
+  Ousting the Giants
+AfterDefeat: |
+  You defeated the three monster brothers in
+  the caves at <0 Type='3' Data='0000'/>Corta Lake<0 Type='3' Data='ffff'/>, <0 Type='3' Data='0000'/>Rodai Lake<0 Type='3' Data='ffff'/>, and
+  <0 Type='3' Data='0000'/>Calora Lake<0 Type='3' Data='ffff'/>. Now customers should come
+  back to Lakeside Stable.
+  
+  Ease Kampo's worries—let him know the
+  monsters are gone!
+Complete: |
+  You defeated the three Hinox brothers in the
+  caves near Lakeside Stable.
+  
+  Relieved that these tourist spots were safe
+  once more, Kampo could finally concentrate
+  on his work at the stable.
+Step1: |
+  <0 Type='3' Data='0000'/>Three giant monster brothers <0 Type='3' Data='ffff'/>have settled down
+  in caves near <0 Type='3' Data='0000'/>Corta Lake<0 Type='3' Data='ffff'/>, <0 Type='3' Data='0000'/>Rodai Lake<0 Type='3' Data='ffff'/>, and
+  <0 Type='3' Data='0000'/>Calora Lake <0 Type='3' Data='ffff'/>that are rich in luminous stone.
+  
+  Stable owner Kampo is worried these monster
+  brothers will scare off his customers. Help him
+  by driving them out of the caves.
+Step2: |
+  You defeated one of the three giant monsters
+  dwelling in caves at <0 Type='3' Data='0000'/>Corta Lake<0 Type='3' Data='ffff'/>, <0 Type='3' Data='0000'/>Rodai Lake<0 Type='3' Data='ffff'/>,
+  and <0 Type='3' Data='0000'/>Calora Lake<0 Type='3' Data='ffff'/>.
+  
+  If you defeat the other <0 Type='3' Data='0000'/>two<0 Type='3' Data='ffff'/>, maybe Kampo at
+  Lakeside Stable will breathe a little easier.

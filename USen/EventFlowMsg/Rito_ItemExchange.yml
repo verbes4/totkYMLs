@@ -1,0 +1,77 @@
+Near01: |
+  What should I do?
+Talk03: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Speaking of which, Huck told me that you
+  kept our food safe from monsters. <5 Type='1'/>That
+  was a very kind gesture.<0 Type='4'/>Thanks to you, it's looking like we'll have
+  a little extra stocked up.
+Talk04: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Hey, you wouldn't happen to have any
+  spare food you'd be willing to part with,
+  would you?<0 Type='4'/>Our food stockpiles are looking healthier
+  now that the blizzard has stopped, but
+  they could still be better.<0 Type='4'/>If you have extra food, I'd be happy to
+  <0 Type='3' Data='0000'/>trade<0 Type='3' Data='ffff'/> you for some supplies.<0 Type='4'/><3 Type='0' Data='0701'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>I could offer you, say, <0 Type='3' Data='0000'/>10 arrows <0 Type='3' Data='ffff'/>for<0 Type='3' Data='0000'/>
+  three glowing cave fish<0 Type='3' Data='ffff'/>. <5 Type='0'/>They're not
+  hard to find if you look in caves.
+Talk10: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0e0045006100730065005f0030003100'/>I see...<0 Type='4'/><3 Type='0' Data='0701'/>Well, if you change your mind, that offer
+  of food for <0 Type='3' Data='0000'/>arrows<0 Type='3' Data='ffff'/> is always open.
+Near02: |
+  I'd give anything for food...
+Talk05: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>If you ever do come across any spare
+  <0 Type='3' Data='0000'/>glowing cave fish<0 Type='3' Data='ffff'/>, I'll take three of them
+  in exchange for <0 Type='3' Data='0000'/>arrows<0 Type='3' Data='ffff'/> anytime.
+Talk11: |
+  <3 Type='0' Data='0501'/><4 Type='0' Data='0a005400680069006e006b00'/>Right now we just need to secure as
+  much food as possible.<0 Type='4'/><3 Type='0' Data='0701'/>If you can spare <0 Type='3' Data='0000'/>three glowing cave fish<0 Type='3' Data='ffff'/>,
+  I'll give you <0 Type='3' Data='0000'/>10 arrows <0 Type='3' Data='ffff'/>in return. They're
+  not hard to find if you look in caves.
+Talk06: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='0a0048006100700070007900'/>Ah! So you're carrying at least <0 Type='3' Data='0000'/>three
+  glowing cave fish<0 Type='3' Data='ffff'/>. <5 Type='0'/>Would you like to
+  exchange them for<0 Type='3' Data='0000'/> 10 arrows<0 Type='3' Data='ffff'/>?
+Talk07: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='0c004c0061007500670068004c00'/>Thank you. That really helps! Here's <0 Type='3' Data='0000'/>10
+  arrows<0 Type='3' Data='ffff'/>, as promised.
+Talk02_01: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='0e0053006900670068005f0030003000'/>Ah, never mind me. <5 Type='1'/>I was just thinking
+  about a friend of mine who hasn't come
+  back yet.
+Talk05_00_00: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0600530061006400'/>Ah, so you don't have enough right now.
+Talk08: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Oh, yes! <5 Type='0'/>Do you have any other spare
+  food on you?<0 Type='4'/><0 Type='3' Data='0000'/>Chillfin trout <0 Type='3' Data='ffff'/>and <0 Type='3' Data='0000'/>brightcaps <0 Type='3' Data='ffff'/>are the little
+  ones' favorite foods, so we can never get
+  enough around here.<0 Type='4'/><3 Type='0' Data='0800'/>If you come across extra of either of
+  those, bring them to me and I'll give you
+  more <0 Type='3' Data='0000'/>arrows<0 Type='3' Data='ffff'/> in exchange.<0 Type='4'/>Thanks in advance!
+Talk05_00_01: |
+  <3 Type='0' Data='0301'/>But I guess you don't have very many
+  right now.
+Talk00_00: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Oh, hey!<0 Type='4'/>You're the one who helped Tulin save the
+  village. <5 Type='0'/>We owe you big for that!
+Talk00_01: |
+  <3 Type='0' Data='0001'/>I think we met at Tabantha Bridge Stable.
+  Do you remember me?<0 Type='4'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>I couldn't have imagined then that you'd
+  be the one to save our village!
+Talk01: |
+  <3 Type='0' Data='0700'/>Now that the blizzard's died down, we're
+  stockpiling all the food and materials we
+  used to have in abundance.<0 Type='4'/>The others are all working together to
+  bring supplies to the village. I'm managing
+  the whole process from here.
+0001: |
+  It's a deal.
+Talk02: |
+  <3 Type='0' Data='0c01'/>Speaking of which... <5 Type='1'/>Huck was supposed
+  to bring me some food, but I haven't
+  seen him.<0 Type='4'/>He told me he'd collect food from
+  <0 Type='3' Data='0000'/>Snowfield Stable<0 Type='3' Data='ffff'/> in the Tabantha
+  Tundra, northeast of here.<0 Type='4'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>I hope nothing happened to him <0 Type='3' Data='0000'/>on his
+  way back to the village<0 Type='3' Data='ffff'/>.
+0002: |
+  I'll pass.

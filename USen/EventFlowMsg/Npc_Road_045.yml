@@ -1,0 +1,38 @@
+SavedLv1_00: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>I could have handled that on my own...<5 Type='0'/>
+  but thanks anyway!
+Guardian00: |
+  <3 Type='0' Data='0200'/><4 Type='0' Data='1200530075007200700072006900730065004d00'/>Not good! Very not good!<5 Type='0'/> This thing's
+  out for blood!
+  
+  Hitting it head-on is NOT an option, that's
+  for sure. So what's the play? <5 Type='0'/>Well, I'll let
+  you figure that out!
+Thanks00: |
+  <3 Type='0' Data='0100'/>I know it's not much, but please take this.
+SavedLv1_01: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>My thanks! That enemy wasn't quite as
+  easy as I'd thought.
+SavedLv2_00: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='08004500610073006500'/>Thanks! I was in trouble back there.
+Atacked00: |
+  <3 Type='0' Data='0200'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Thanks, but...<5 Type='0'/>be careful!
+SavedLv2_01: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='08004500610073006500'/>Thanks for helping me get away safely!
+SavedLv3_00: |
+  <3 Type='0' Data='0800'/>Thanks for your help! I wasn't sure which
+  way that fight would go...
+Atacked01: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Thanks for helping out! <5 Type='1'/>I really need it!
+EnokidaSignboard: |
+  Isn't that in Tarrey Town?
+SavedLv3_01: |
+  <3 Type='0' Data='0800'/>Thank you. If you hadn't come when
+  you did, my life might have been cut
+  tragically short...
+Failed00: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0c005300610064005f0030003000'/>That did not go well...<5 Type='0'/> I'm just glad that
+  I'm still breathing...
+Failed01: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0a0054006900720065006400'/>I'm sorry you had to see me like that.<5 Type='0'/>
+  Not my finest hour, that's for sure...

@@ -1,0 +1,143 @@
+Talk_0041: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1000540061006c006b00440065006e007900'/>Now, where is my sweetheart? I thought
+  this is where we agreed to meet...
+Talk_0006: |
+  <3 Type='0' Data='0000'/>Eh? <5 Type='0'/>Oh, this won't do!<5 Type='0'/>
+  
+  
+  K... <5 Type='0'/>Ki... <5 Type='0'/>Kil...<5 Type='0'/> Kil-what's-his-name bought
+  this place.
+  
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Now that I think about it, wasn't there a
+  monster here? Maybe someone drove
+  it away.
+Talk_0042: |
+  <3 Type='0' Data='0700'/>I just remembered that I'm supposed to
+  meet my wife.
+  
+  <3 Type='0' Data='0b00'/>Eh?<5 Type='0'/> Oh, this won't do...
+  
+  
+  I need to hurry if I'm going to be on time.
+Near_0001: |
+  Ooh, what a chill!
+Talk_0008: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0e00430061006c006c00460061007200'/><FontSize Value='125'/>Hellooo! Sweetheart! <5 Type='0'/>Hello!<FontSize Value='100'/>
+Talk_1001: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Eh? <5 Type='1'/>I don't remember arranging a visit.
+  
+  
+  But it's late and I'm going to sleep.
+  Could you come again tomorrow?
+Talk_0044: |
+  <3 Type='0' Data='0a00'/>Ooh, I feel rainy days right in the knees.
+Near_0002: |
+  Was it here?
+Talk_0009: |
+  <3 Type='0' Data='0701'/>Eh?<5 Type='0'/> The inn?<5 Type='0'/> Oh, this isn't right!
+Talk_1002: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Eh? <5 Type='1'/>Who are you?<5 Type='0'/> Are you lost?
+  
+  
+  I've also been getting more forgetful
+  lately, so I understand.
+Near_0003: |
+  My house...
+Near_0004: |
+  Fine work today!
+Talk_0095: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0600530061006400'/>Need to take shelter... This cold is no
+  good for these old bones!
+Talk_0035: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Oh! Well, well. It's been a while.
+Talk_0036: |
+  <3 Type='0' Data='0701'/>My memory isn't what it used to be, but of
+  course I remember you.
+  
+  <3 Type='0' Data='0c01'/>Yes, we met just over there. Or, ah,
+  maybe it was over there...
+Talk_0010: |
+  <3 Type='0' Data='0000'/>Eh? <5 Type='0'/>Ah, that's right!<5 Type='0'/>
+  
+  
+  K... <5 Type='0'/>Ki... <5 Type='0'/>Kil...<5 Type='0'/> Kil-something-or-other
+  bought the house.
+  
+  What is he planning on doing here,
+  I wonder?
+Talk_0037: |
+  <3 Type='0' Data='0c00'/>Now, what did I have for dinner again?
+  Or...perhaps I haven't had dinner yet?
+Talk_0011: |
+  <3 Type='0' Data='0700'/>The inn?<5 Type='0'/> Hmm. <5 Type='0'/>Now, where did we decide
+  to meet?
+Talk_0038: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0600530061006400'/>Whew, it's sure hard to stay up
+  late nowadays.
+Talk_0012: |
+  <3 Type='0' Data='0700'/>Ah, yes, Kil-something-or-other bought
+  this place.
+  
+  By the way, dear, would you remind me
+  where we decided to meet?
+Talk_0039: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1200530075007200700072006900730065005300'/>Eh? <5 Type='0'/>Who are you, again? I'm sure I
+  recognize you from somewhere.
+  
+  I just can't keep things straight,
+  these days...
+Talk_0013: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1200530075007200700072006900730065005300'/>What in Hyrule is this place? Is this really
+  Tarrey Town? <5 Type='1'/>Is it, dear?
+Talk_0001: |
+  <3 Type='0' Data='0700'/>It may be late, but I'm wide-awake.
+  
+  
+  I decided to take a little stroll until it's
+  time to meet my wife.
+  
+  Now then... <5 Type='0'/>Where did we decide to
+  meet? That's important...
+Talk_0014: |
+  <FontSize Value='125'/><3 Type='0' Data='0b00'/><4 Type='0' Data='1200530075007200700072006900730065004c00'/>A monster! Look out! A monster!<FontSize Value='100'/><0 Type='4'/>Is anyone else here? Am I alone?!
+  
+  
+  <3 Type='0' Data='0001'/><4 Type='0' Data='0c004e006f007400690063006500'/>Eh?<5 Type='0'/> Oh, this won't do.<5 Type='0'/> This is a mere
+  imitation. Hmph.
+Talk_Sleep: |
+  <4 Type='0' Data='0a0053006c00650065007000'/>Zzz... <5 Type='1'/>Zzz...
+Talk_0015: |
+  <3 Type='0' Data='0700'/>It may be late, but I'm wide-awake.
+  
+  
+  I decided to take a little stroll until it's
+  time to meet my wife.
+  
+  Now then... <5 Type='0'/>Where did we decide to
+  meet? That's important...
+Talk_0002: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1000540061006c006b00440065006e007900'/>Was this where we planned to meet?
+  I'm sure it was outside...
+Talk_0003: |
+  <3 Type='0' Data='0b00'/>What's this? <5 Type='0'/>Where did my house go?<5 Type='0'/>
+  Did it run off somewhere?
+Talk_0004: |
+  <3 Type='0' Data='0000'/>Eh? <5 Type='0'/>Oh, this won't do!<5 Type='0'/>
+  
+  
+  K... <5 Type='0'/>Ki... <5 Type='0'/>Kil...<5 Type='0'/> Kil-what's-his-name bought
+  this place.
+  
+  But what IS this? Is this really
+  Tarrey Town?
+Talk_0040: |
+  <3 Type='0' Data='0800'/>Well, that's nothing for you to worry
+  about. It certainly doesn't worry me!
+Talk_0005: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1000540061006c006b00440065006e007900'/>Eh? What's this?! <5 Type='0'/>My house is gone,<5 Type='0'/>
+  and instead there's...this?
+Talk_0053: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='08005300690067006800'/>It's late, isn't it? I should try and sleep.<5 Type='1'/>
+  Oh, yes...
+  
+  Have we...<5 Type='0'/>met before?

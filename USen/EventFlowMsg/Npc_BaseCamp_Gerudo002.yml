@@ -1,0 +1,122 @@
+BlackZelda_05: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>We Gerudo take full responsibility of
+  protecting Lookout Landing.
+  
+  Remain focused on your search for
+  Princess Zelda. We'll keep this area safe.
+AssassinClothes: |
+  What are they doing here?
+talk0000: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/><FontSize Value='80'/>It'll be dawn soon... <5 Type='1'/>Hm?<FontSize Value='100'/>
+talk0010: |
+  <FontSize Value='80'/><3 Type='0' Data='0700'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>Temperature should be dropping pretty soon... <5 Type='1'/>Hm?<FontSize Value='100'/>
+Talk_00: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='0a005400680069006e006b00'/>It's my first time being here in Central
+  Hyrule... The weather here is so strange!
+  
+  Who ever heard of a place that's basically
+  the same temperature in the afternoon
+  and at night?
+talk0011: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/><0 Type='3' Data='0000'/>Gerudo Town<0 Type='3' Data='ffff'/> is really beautiful at sunrise.
+talk0001: |
+  <3 Type='0' Data='0900'/>Everyone who can't fight, get to safety!
+  I will defend this place!
+  
+  If you want to help, protect the chief!
+Talk_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>This is the first time we've had a chance
+  to talk to one another, but I know a lot
+  about you already.
+  We fought together at Kara Kara Bazaar,
+  after all.
+talk0012: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>The sand shroud is a real pain, but it does
+  make it look like <0 Type='3' Data='0000'/>Gerudo Town<0 Type='3' Data='ffff'/> is floating
+  in a sea of sand...
+talk0002: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>It's all thanks to the lighthouse that the 
+  reinforcements could get here so quickly.
+  
+  It works like a guidepost, even in this
+  intense <0 Type='3' Data='0000'/>sand shroud<0 Type='3' Data='ffff'/>.
+Talk_02: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>I know a lot about you already. We fought
+  together at Kara Kara Bazaar, after all.
+talk0003: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>Hey! What are you... Listen, this is
+  the lighthouse for the bazaar.
+  
+  It's not a tourist destination, or a place
+  to play around on.
+  
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>That said, I guess it's fine now that you're
+  already here. Go ahead and enjoy
+  the view over the desert.
+  After all, this is the only place in
+  Kara Kara Bazaar where you can see
+  over the <0 Type='3' Data='0000'/>sand shroud<0 Type='3' Data='ffff'/>.
+talk0013: |
+  <3 Type='0' Data='0900'/>Hey!<5 Type='0'/> What's the Yiga Clan doing here?!<5 Type='1'/>
+  
+  
+  Listen, I'll overlook you getting to this
+  point—as long as you haven't caused any
+  trouble—but you must leave.<5 Type='1'/> Now!
+Talk_03: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1a00410064006d00690072006100740069006f006e005f0030003000'/>I was impressed to hear that you are such
+  close friends with our chief.
+  
+  And I'm grateful. We would have been in
+  serious danger if not for your help.
+  
+  In fact, it would be fair to say that you
+  saved Gerudo Town.
+  
+  <3 Type='0' Data='0100'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>That's probably obvious though.
+Talk_04: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Water falls from the sky here... <5 Type='1'/>Is there
+  an oasis floating up there, do you think?
+talk0005: |
+  <3 Type='0' Data='0700'/>This lighthouse is the only place in
+  Kara Kara Bazaar where you can see
+  over the sand shroud.
+  I'm not really supposed to let regular folks
+  up here, but since you've made the climb,
+  you might as well enjoy the view.
+talk0006: |
+  <FontSize Value='80'/><3 Type='0' Data='0700'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>It'll be getting hot before too long... <5 Type='1'/>Hm?<FontSize Value='100'/>
+talk0007: |
+  <FontSize Value='80'/><3 Type='0' Data='0700'/><0 Type='3' Data='0000'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/><0 Type='3' Data='ffff'/>Looks like things are normal in <0 Type='3' Data='0000'/>Gerudo Town<0 Type='3' Data='ffff'/>... Hm?<FontSize Value='100'/>
+BlackZelda_01: |
+  <3 Type='0' Data='0700'/>My eyes are good enough that I could
+  count the spikes on a Molduga from a
+  very, very safe distance...
+  But even I couldn't see any sign of the
+  princess without using <0 Type='3' Data='0000'/>Purah's telescope<0 Type='3' Data='ffff'/>.
+talk0008: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>Sunset really brings out the beauty of
+  <0 Type='3' Data='0000'/>Gerudo Town<0 Type='3' Data='ffff'/>, don't you think?
+near0000: |
+  I'll fight to the end!
+BlackZelda_02: |
+  <3 Type='0' Data='0700'/>You're looking for Princess Zelda, right?
+  I heard a rumor that she was spotted at
+  Hyrule Castle.
+talk0009: |
+  <FontSize Value='80'/><3 Type='0' Data='0700'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>The <0 Type='3' Data='0000'/>sand shroud <0 Type='3' Data='ffff'/>is a nuisance, but it doesn't
+  completely ruin the view...<FontSize Value='100'/>
+BlackZelda_03: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='0c005300610064005f0030003000'/>I was sad to hear that there was no sign
+  of Princess Zelda at Hyrule Castle...
+  
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>You're going to continue searching for the
+  princess, though, aren't you?
+  
+  Don't let the safety of this area worry you!
+  We'll protect it while you continue your
+  search!
+BlackZelda_04: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>Water falling from the sky won't deter us
+  from our duty. This place is safe under
+  our protection.

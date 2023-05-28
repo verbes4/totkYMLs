@@ -1,0 +1,79 @@
+Talk_01: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0c005300610064005f0030003000'/>My apologies.<5 Type='1'/> It looks like we have a
+  small problem over here.
+Talk_30: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Yep.<5 Type='0'/> There are<0 Type='3' Data='0000'/> caves at the bottom of
+  the hill<0 Type='3' Data='ffff'/>.
+  
+  I used to go mushroom hunting in them
+  all the time while we were building
+  the tower.
+0010: |
+  Caves?
+Talk_19: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='1200530075007200700072006900730065004d00'/>Huh?<5 Type='1'/> How'd you get inside?!
+Talk_25: |
+  <3 Type='0' Data='0501'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Say...<5 Type='0'/>since you're inside, can you open
+  the door?
+  
+  <3 Type='0' Data='0701'/>Is there anything strange near it?
+Talk_03: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>The door won't open.<5 Type='0'/> I have no clue why.
+Talk_26: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>Wha?!<5 Type='0'/> It opened!
+  
+  
+  <3 Type='0' Data='0101'/>How in the world did you manage to fix it?
+Talk_04: |
+  <3 Type='0' Data='0a01'/>The door isn't locked,<5 Type='0'/> but it won't budge,
+  no matter how hard I push or pull.
+  
+  <3 Type='0' Data='0801'/>Ah, of course I know it's a sliding door.<5 Type='1'/>
+  That's what I meant. Obviously.
+Talk_05: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>I heard that the terminal at this Skyview
+  Tower needed repairs,<5 Type='0'/> so I came to fix
+  it. But...
+Talk_11: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0c005300610064005f0030003100'/>My apologies.<5 Type='1'/> The door won't open for
+  some reason.
+Talk_06: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0e0045006100730065005f0030003100'/>*sigh* <5 Type='0'/>I worked up an appetite getting my
+  brain into gear for this. <5 Type='1'/>I bet the <0 Type='3' Data='0000'/>nearby
+  caves<0 Type='3' Data='ffff'/> would have some tasty mushrooms.
+Talk_07: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0c005300610064005f0030003100'/>OK,<5 Type='0'/> goodbye.
+Talk_13: |
+  <4 Type='0' Data='10005400680069006e006b005f0030003000'/>The mechanisms aren't working quite
+  right.<5 Type='0'/> I'll just give them a bit of oil...
+Near_01: |
+  How strange...
+Talk_08: |
+  <FontSize Value='125'/><3 Type='0' Data='0b01'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003100'/>Wha?! <5 Type='0'/>The door opened?!<FontSize Value='100'/>
+  
+  
+  Could it be... <5 Type='1'/>Did you fix it for me?!
+Talk_14: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Ta-da!<5 Type='0'/>
+  
+  
+  It wasn't a big problem,<5 Type='0'/> so a little oil
+  cleared it right up.
+  
+  <3 Type='0' Data='0101'/>Right. <5 Type='0'/>I'm going to hurry on ahead, so this
+  is goodbye!
+Talk_09: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>Eh?!<5 Type='0'/> I can't believe a couple of sticks
+  caused all this hassle.
+  
+  <3 Type='0' Data='0c01'/>I wonder if those were in there to begin
+  with and just fell over somehow...<5 Type='0'/>or if
+  some monster did that on purpose.<5 Type='1'/>
+  <3 Type='0' Data='0801'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>Either way, that really helped!<5 Type='1'/> Thank you.
+  
+  
+  <3 Type='0' Data='0701'/>Well...
+0001: |
+  What's going on?
+0002: |
+  Goodbye.

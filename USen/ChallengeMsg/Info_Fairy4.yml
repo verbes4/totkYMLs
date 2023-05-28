@@ -1,0 +1,31 @@
+Name: |
+  Serenade to Kaysa
+Search: |
+  The Great Fairy Kaysa near Outskirt Stable has
+  shut herself up inside her flower bud. The sound
+  of the music troupe's flute might draw her out,
+  but their flautist, Pyper, is missing.
+  
+  The only lead is that someone has heard the
+  sound of a flute near the <0 Type='3' Data='0000'/>stable in Faron<0 Type='3' Data='ffff'/>.
+CarryNPC: |
+  The Great Fairy Kaysa near Outskirt Stable has
+  shut herself up inside her flower bud. The <0 Type='3' Data='0000'/>sound
+  of the music troupe's flute<0 Type='3' Data='ffff'/> might draw her out.
+  
+  But the road to the Great Fairy is so cluttered
+  with sky debris that <0 Type='3' Data='0000'/>you can't get them to
+  her by horse<0 Type='3' Data='ffff'/>.
+GoToOrchestra: |
+  The Great Fairy Kaysa near Outskirt Stable has
+  shut herself up inside her flower bud. The <0 Type='3' Data='0000'/>sound
+  of the music troupe's flute<0 Type='3' Data='ffff'/> might draw her out.
+  
+  Now that the troupe's flautist, Pyper, has
+  returned, you should check in with <0 Type='3' Data='0000'/>Mastro at
+  Outskirt Stable<0 Type='3' Data='ffff'/>.
+Complete: |
+  The Stable Trotters put on a performance so
+  fine that the Great Fairy Kaysa emerged from
+  her bud. Now visitors to Outskirt Stable can visit
+  her nearby and receive her <0 Type='3' Data='0000'/>blessing<0 Type='3' Data='ffff'/>.

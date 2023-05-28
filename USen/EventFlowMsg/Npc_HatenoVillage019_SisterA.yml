@@ -1,0 +1,580 @@
+Talk034: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='12004c0061007500670068004c005f0030003100'/>Only the most impressive fashionista in
+  Hyrule's trendiest village is worthy of
+  such a crown!
+0000: |
+  It's fine like this.
+Talk_18: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='1c005300610067006f006e006f0043006800650063006b005f0030003000'/>What an...interesting ensemble. <5 Type='0'/>I can't
+  deny it's original, and yet...<0 Type='4'/><3 Type='0' Data='0701'/>You're neglecting the critical importance
+  of coordination. <5 Type='1'/>And so, alas...<5 Type='1'/><0 Type='4'/><FontSize Value='125'/><3 Type='0' Data='0400'/><4 Type='0' Data='1c005300610067006f006e006f0043006800650063006b005f0030003200'/>A mere 50 points!<FontSize Value='100'/>
+Talk035: |
+  <3 Type='0' Data='0901'/>Maybe you don't realize, but plants need
+  their sleep too.<0 Type='4'/>Those eyesores are so bright at night that
+  they're keeping the veggies awake! It's a
+  real problem for the crops!
+0001: |
+  Sure, I'll put it on.
+Talk036: |
+  <3 Type='0' Data='0901'/>Hateno's foundation is its produce!
+  What are we going to do if it fails?!
+0002: |
+  Sure, I'll remove it.
+Talk037: |
+  <3 Type='0' Data='0701'/>Who do you suppose you have to thank
+  for Hateno's rejuvenation?
+0003: |
+  Show me.
+NakedPlayer_00: |
+  Were your clothes stolen?
+Talk038: |
+  <3 Type='0' Data='0701'/>My avant-garde approach versus this
+  mayor's quaint, bygone ways!
+0004: |
+  I came to sell.
+NakedPlayer_01: |
+  I sell what you're lacking.
+Talk039: |
+  <3 Type='0' Data='0701'/>The citizens will decide which outlook
+  will drive the future of the village.
+Talk_20: |
+  <3 Type='0' Data='0700'/>So, then. Are you interested in perusing
+  my collection of exquisite wares?
+0005: |
+  Goodbye.
+NakedPlayer_02: |
+  Do you need measuring?
+Talk_21: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>If you've taken a liking to anything in my
+  collection, I'd make an exception for you
+  and sell it.
+0006: |
+  I'll buy.
+Talk_22: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Ah. <5 Type='0'/>While that is a dashing hood, it might
+  be better to show your face here.<0 Type='4'/><3 Type='0' Data='0701'/>If you like, I could give your outfit that
+  personal Cece touch.
+Talk_90: |
+  <3 Type='0' Data='0000'/>That, hmm? How many are you selling?
+Talk_23: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Ah. <5 Type='0'/>That's such a dashing hood that it
+  seems a shame not to wear it up.<0 Type='4'/><3 Type='0' Data='0701'/>If you like, I could give your outfit that
+  personal Cece touch.
+0008: |
+  Yes.
+Talk_91: |
+  <3 Type='0' Data='0000'/>Your entire supply? Well, for <2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/> of them,
+  I suppose I'd pay <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>.
+near0001: |
+  Just sorting my collection...
+Talk040: |
+  <3 Type='0' Data='0701'/>Sure. Suits me. <5 Type='0'/>I'll win that pretty easy.
+Talk_24: |
+  <3 Type='0' Data='0800'/>You see? My opinion is never wrong!
+0009: |
+  No.
+Talk_92: |
+  <3 Type='0' Data='0000'/>If you're selling <2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/> of them, I'd pay
+  <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/> in total.
+near0002: |
+  Did I just hear something?
+Talk041: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Ah...look who's here. <5 Type='0'/>What can I do for
+  you, O esteemed <0 Type='3' Data='0000'/>Mayor Reede<0 Type='3' Data='ffff'/>?
+Talk_25: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>No, you say? <5 Type='0'/>Well...<5 Type='0'/>the first rule of
+  fashion is to do whatever you think best.
+Talk_93: |
+  <3 Type='0' Data='0000'/>I'd pay <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/> for one of those.
+near0003: |
+  Is s-someone there?
+Talk042: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>By holding a <0 Type='3' Data='0000'/>mayoral election<0 Type='3' Data='ffff'/>!
+Talk_94: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1c005300610067006f006e006f0043006800650063006b005f0030003000'/>Oh! The bold elegance of walking in here
+  wearing such unequaled fashion! <5 Type='1'/>Such
+  perfect confidence! Such refined taste!<5 Type='1'/><FontSize Value='125'/><0 Type='4'/><3 Type='0' Data='0800'/>A full 100 points!<FontSize Value='100'/><0 Type='4'/>You can walk the streets or the runways
+  with pride, wearing the very finest and
+  most limited-edition Cece-brand couture!
+Talk_26: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Your pouch is stuffed. Come back when
+  you've jettisoned all that unnecessary
+  bric-a-brac.
+Talk043: |
+  <3 Type='0' Data='0800'/>My Cece hat is a work of art!
+Talk_95: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a005400680069006e006b00'/>Oho! I'd quite forgotten that we seem to
+  be out of rare pieces for sale.
+Talk_27: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Come now. You haven't enough rupees.
+Talk044: |
+  <3 Type='0' Data='0801'/>Do you see that luxurious curve? Do you
+  note my avant-garde color choices?
+Talk_96: |
+  <3 Type='0' Data='0701'/>Er...<0 Type='4'/><3 Type='0' Data='0900'/><4 Type='0' Data='100041006e006700720079005f0030003100'/>You heard nothing!<0 Type='4'/><3 Type='0' Data='0701'/>Anyway. <5 Type='1'/>Did you need something?
+Talk_28: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>I did mention, yes, that the merchandise I
+  curate is only the rarest of fine clothing?<0 Type='4'/>Meaning it's not always easy to come by.
+Talk045: |
+  <3 Type='0' Data='0801'/>Wouldn't you call it the pinnacle
+  of perfection?
+Talk_97: |
+  <3 Type='0' Data='0800'/>Aaah. It shows great personal growth that
+  you can recognize the quality of my most
+  uniquely luxurious design.<0 Type='4'/><3 Type='0' Data='0701'/>However, this piece is so special that
+  I would go so far as to call it priceless.
+  It's not for sale!<0 Type='4'/>The only way I would part with it is to find
+  <0 Type='3' Data='0000'/>someone meeting my personal approval<0 Type='3' Data='ffff'/>
+  that I could pass it on to.
+Talk_29: |
+  <3 Type='0' Data='0000'/>I shall accept <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/> for that.
+0011: |
+  Never mind.
+Talk046: |
+  <3 Type='0' Data='0700'/>Ahem. Excuse me.<5 Type='0'/>
+Talk_98: |
+  <3 Type='0' Data='0700'/>Oh, you mean the clothes this shop used
+  to sell?<0 Type='4'/><3 Type='0' Data='0c01'/>What was it, the <0 Type='3' Data='0000'/>royal guard<0 Type='3' Data='ffff'/> and...
+  the <0 Type='3' Data='0000'/>Hylian series<0 Type='3' Data='ffff'/>, yes?<0 Type='4'/><3 Type='0' Data='0700'/>I disposed of all that.<0 Type='4'/>There's no need for this shop to stock
+  anything that doesn't meet my exacting
+  standard for fashion.<0 Type='4'/>Unless and until I change my mind again,
+  this shop is now the flagship location for
+  the Cece brand!
+0012: |
+  I'll sell them all.
+0013: |
+  I want a Cece hat.
+Talk_99: |
+  <3 Type='0' Data='0c00'/>Be on your way, then. And please...
+  pay the slightest bit of consideration
+  to fashion.<0 Type='4'/>At least make <0 Type='3' Data='0000'/>the color<0 Type='3' Data='ffff'/> your own.
+  Try consulting with Sayge at the
+  <0 Type='3' Data='0000'/>Kochi Dye Shop<0 Type='3' Data='ffff'/>.
+Talk048: |
+  <3 Type='0' Data='0700'/>Window shopping is encouraged,<5 Type='0'/> but we
+  have a strict hands-off policy when it
+  comes to our displays.<0 Type='4'/>My sister would insist if she was here.
+  Where has she gone now?
+0014: |
+  Where's your stock?
+0015: |
+  Goodbye.
+Talk_30: |
+  <0 Type='3' Data='0200'/><FontSize Value='80'/><3 Type='0' Data='0000'/><4 Type='0' Data='08004500610073006500'/>That's a relief. Oh, how I hate to part with anything
+  in my precious collection of rarities!<FontSize Value='100'/><0 Type='3' Data='ffff'/>
+Talk_31: |
+  <3 Type='0' Data='0b00'/>My collection of rarities... The one I have
+  so painstakingly curated... It's completely
+  emptied out!<0 Type='4'/>But no matter. I'll replenish it one way
+  or another.
+0017: |
+  Yes.
+Talk_32: |
+  <FontSize Value='80'/><3 Type='0' Data='0a00'/>But...my precious collection of rarities...<5 Type='1'/><FontSize Value='100'/>
+0018: |
+  No, thanks.
+Talk_33: |
+  <FontSize Value='80'/><3 Type='0' Data='0700'/><4 Type='0' Data='08004500610073006500'/>Whew. My heart was racing.<FontSize Value='100'/>
+Talk_34: |
+  <3 Type='0' Data='0701'/>Fashion is a mirror that reflects our inner
+  selves. Be bold and express yours as you
+  continue your quest!
+0019: |
+  Fashion check, please!
+Talk_35: |
+  <3 Type='0' Data='0700'/>What do you have to sell?
+Talk_36: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0600530061006400'/>Ah, well, you see... <5 Type='0'/>My apologies, but this
+  isn't the sort of place that deals in that
+  kind of thing.
+Talk_37: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>If you can't even take it off, I have doubts
+  regarding your sincerity in wanting to get
+  rid of it.<0 Type='4'/>Return to me once you've managed to
+  extricate yourself from the garment.
+Talk_38: |
+  <3 Type='0' Data='0000'/>That, eh? I'd pay <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/> for it.
+Talk_39: |
+  <3 Type='0' Data='0800'/>Excellent! And have you anything else?
+Talk_100: |
+  <3 Type='0' Data='0c00'/>Before you go, I will concede that you're
+  starting to pay the barest minimum of
+  attention to fashion.<0 Type='4'/>Is that Sayge's hand I detect in your
+  outfit? I can always tell when someone
+  has visited the <0 Type='3' Data='0000'/>Kochi Dye Shop<0 Type='3' Data='ffff'/>.
+Talk_101: |
+  <3 Type='0' Data='0c00'/>Be on your way, then.<0 Type='4'/><3 Type='0' Data='0900'/>And put some clothes on as you go!<0 Type='4'/>To strut around bare isn't merely a public
+  nuisance, it's a crime against fashion!
+Talk_102: |
+  <3 Type='0' Data='0700'/>Only you have the nerve to address the
+  great Cece so casually.<0 Type='4'/>Do you need something?
+Talk_40: |
+  <3 Type='0' Data='0b00'/>You're selling your <0 Type='3' Data='0000'/>Cece hat<0 Type='3' Data='ffff'/>?! I'd...
+  I'd pay you <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/> for it, but...
+Talk_103: |
+  <3 Type='0' Data='0700'/>I have a private <0 Type='3' Data='0000'/>collection of rarities <0 Type='3' Data='ffff'/>from
+  antiquity, sourced from all over the world!<0 Type='4'/>Items from my collection aren't ordinarily
+  up for sale, but...I'd make an exception
+  for you.<0 Type='4'/><0 Type='3' Data='0000'/>If you ever part ways with an article of
+  clothing that's hard to come by<0 Type='3' Data='ffff'/>, see me.
+  I may have just the thing you're missing.
+Talk_41: |
+  <3 Type='0' Data='0a00'/>I'll return it to its place in the display case
+  later, I suppose. Have you anything else?
+Talk_104: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>With you getting out my vote, I'm certain
+  those Reede partisans will see the light!<0 Type='4'/>Excellent work, darling. Be assured that
+  I shan't forget all you've done.<0 Type='4'/>Once the election begins in earnest,
+  I hope you'll be on hand to witness my
+  triumphant ascendence to public office!
+Talk_42: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0600530061006400'/>Ah, more's the pity. Have you anything
+  else to sell instead?
+Talk_105: |
+  <3 Type='0' Data='0700'/>I have a private <0 Type='3' Data='0000'/>collection of rarities <0 Type='3' Data='ffff'/>from
+  all over the world. They were designed by
+  the finest artistes of generations past!<0 Type='4'/>Everything in it is so <0 Type='3' Data='0000'/>rare <0 Type='3' Data='ffff'/>that you won't
+  find them in any other shop. But for you,
+  I'd be happy to talk terms.
+Talk_43: |
+  <3 Type='0' Data='0a00'/>Goodness. <5 Type='1'/>Make no mistake, that set me
+  on the back foot. Have you anything else?
+TerrorAnimal: |
+  Wha?!
+Talk_44: |
+  <3 Type='0' Data='0b00'/>Gracious! <5 Type='0'/>Why aren't you wearing
+  anything?<0 Type='4'/><3 Type='0' Data='0901'/>Is this your idea of fashion?!<0 Type='4'/><3 Type='0' Data='0c01'/><4 Type='0' Data='1c005300610067006f006e006f0043006800650063006b005f0030003000'/>Then again, from a certain perspective,
+  that lean, disciplined physical form has
+  a certain undeniable aesthetic.<0 Type='4'/>Perhaps it's a new kind of fashion—one
+  that's far ahead of its time. Until that time
+  comes, however...<5 Type='1'/><0 Type='4'/><FontSize Value='125'/><3 Type='0' Data='0400'/><4 Type='0' Data='1c005300610067006f006e006f0043006800650063006b005f0030003100'/>Zero points!<FontSize Value='100'/>
+Talk_106: |
+  <3 Type='0' Data='0701'/>More should be arriving shortly, rest
+  assured. Until then, would you like to
+  see inside anyway?
+Talk_107: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Have you anything else to sell instead?
+Talk_46: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='1200530075007200700072006900730065005300'/>What an outfit! <5 Type='0'/>It's as though you've been
+  possessed by an <0 Type='3' Data='0000'/>ancient hero's aspect<0 Type='3' Data='ffff'/>.<0 Type='4'/>And you've put together a complete set!<5 Type='1'/><0 Type='4'/>I'm struck by its balance of eeriness and
+  dignity. <5 Type='1'/>Surely, its resolute presence in
+  the face of evil is worth...<5 Type='1'/><FontSize Value='125'/><0 Type='4'/><3 Type='0' Data='0800'/><4 Type='0' Data='1c005300610067006f006e006f0043006800650063006b005f0030003300'/>a full 100 points!<FontSize Value='100'/>
+TerrorFire_00: |
+  Wha?!
+Talk_47: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='0c004e006f007400690063006500'/>Ah, I recognize that apparel. <5 Type='0'/>It's from the
+  <0 Type='3' Data='0000'/>awakening <0 Type='3' Data='ffff'/>line.<0 Type='4'/><3 Type='0' Data='0b01'/><4 Type='0' Data='1200530075007200700072006900730065004c00'/>And you've put together a complete set!<5 Type='1'/><0 Type='4'/>It's deceptively hard to make such a cute
+  look into fashion. For that significant feat,
+  I award you...<5 Type='1'/><FontSize Value='125'/><0 Type='4'/><3 Type='0' Data='0800'/><4 Type='0' Data='1c005300610067006f006e006f0043006800650063006b005f0030003300'/>a full 100 points!<FontSize Value='100'/>
+TerrorFire_01: |
+  That's dangerous!
+Talk_48: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='0c004e006f007400690063006500'/>Ah, I recognize that apparel. <5 Type='0'/>It's from the
+  <0 Type='3' Data='0000'/>charged <0 Type='3' Data='ffff'/>line.<0 Type='4'/><3 Type='0' Data='0b01'/><4 Type='0' Data='1200530075007200700072006900730065004c00'/>And you've put together a complete set!<5 Type='1'/><0 Type='4'/>There's much to be gained from dressing
+  in those sparkling, volatile clothes. <5 Type='1'/>The
+  powers of the storm, as well as...<5 Type='1'/><FontSize Value='125'/><0 Type='4'/><3 Type='0' Data='0800'/><4 Type='0' Data='1c005300610067006f006e006f0043006800650063006b005f0030003300'/>a full 100 points!<FontSize Value='100'/>
+TerrorFire_02: |
+  What's this?!
+Talk_49: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='0c004e006f007400690063006500'/>I recognize that outfit. <5 Type='0'/>It's from the
+  <0 Type='3' Data='0000'/>ember <0 Type='3' Data='ffff'/>line.<0 Type='4'/><3 Type='0' Data='0b01'/><4 Type='0' Data='1200530075007200700072006900730065004c00'/>And you've put together a complete set!<5 Type='1'/><0 Type='4'/>This is the aesthetic of the great fire that
+  will one day consume the world!<5 Type='1'/><0 Type='4'/><FontSize Value='125'/><3 Type='0' Data='0800'/><4 Type='0' Data='1c005300610067006f006e006f0043006800650063006b005f0030003300'/>100 burning, screaming points!<FontSize Value='100'/>
+TerrorImpulse: |
+  Wha?!
+Talk_50: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='0c004e006f007400690063006500'/>Ah, I recognize that apparel. <5 Type='0'/>It's from the
+  <0 Type='3' Data='0000'/>frostbite <0 Type='3' Data='ffff'/>line.<0 Type='4'/><3 Type='0' Data='0b01'/><4 Type='0' Data='1200530075007200700072006900730065004c00'/>And you've put together a complete set!<5 Type='1'/><0 Type='4'/>Even under those layers, the heart's fire
+  burns through. Though I do appreciate
+  the frosty facade.<5 Type='1'/><FontSize Value='125'/><0 Type='4'/><3 Type='0' Data='0800'/><4 Type='0' Data='1c005300610067006f006e006f0043006800650063006b005f0030003300'/>An ice-cold 100 points to you!<FontSize Value='100'/>
+Talk_51: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='0c004e006f007400690063006500'/>Ah, I recognize that apparel. <5 Type='0'/>It's from the
+  <0 Type='3' Data='0000'/>climbing <0 Type='3' Data='ffff'/>line.<0 Type='4'/><3 Type='0' Data='0b01'/><4 Type='0' Data='1200530075007200700072006900730065004c00'/>And you've put together a complete set!<5 Type='1'/><0 Type='4'/>It's made of lightweight fabrics, but to
+  climb sheer cliffs shouldn't be taken
+  lightly. <5 Type='1'/>Nevertheless, a delightful outfit!
+  <FontSize Value='125'/><3 Type='0' Data='0800'/><4 Type='0' Data='1c005300610067006f006e006f0043006800650063006b005f0030003300'/>An elevated 100 points for you!<FontSize Value='100'/>
+Talk_52: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='0c004e006f007400690063006500'/>Ah, I recognize that apparel. <5 Type='0'/>It's from the
+  <0 Type='3' Data='0000'/>dark <0 Type='3' Data='ffff'/>line.<0 Type='4'/><3 Type='0' Data='0b01'/><4 Type='0' Data='1200530075007200700072006900730065004c00'/>And you've put together a complete set!<5 Type='1'/><0 Type='4'/>The expressionless face suits the
+  monochromatic outfit. <5 Type='1'/>That stoic look<5 Type='0'/>
+  is very in right now.<5 Type='1'/>
+  <FontSize Value='125'/><3 Type='0' Data='0800'/><4 Type='0' Data='1c005300610067006f006e006f0043006800650063006b005f0030003300'/>The full 100 points, naturally!<FontSize Value='100'/>
+TerrorLightning_00: |
+  Wha?!
+Talk001: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>Ahhh. <5 Type='0'/>Another practically <5 Type='0'/>perfect<5 Type='0'/>
+  masterpiece. <5 Type='0'/>It's an exemplar of the
+  form from every angle.
+Talk_53: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='0c004e006f007400690063006500'/>I recognize that apparel. <5 Type='0'/>It's from the
+  <0 Type='3' Data='0000'/>glide <0 Type='3' Data='ffff'/>line.<0 Type='4'/><3 Type='0' Data='0b01'/><4 Type='0' Data='1200530075007200700072006900730065004c00'/>And you've put together a complete set!<5 Type='1'/><0 Type='4'/>That birdlike design is so surprising and
+  fun! <5 Type='0'/>Not only that, the whole ensemble is
+  functional and nicely ventilated.<0 Type='4'/><FontSize Value='125'/><3 Type='0' Data='0800'/><4 Type='0' Data='1c005300610067006f006e006f0043006800650063006b005f0030003300'/>A soaring 100 points are yours!<FontSize Value='100'/>
+TerrorLightning_01: |
+  What's this?!
+Talk002: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Oh, pardon me. Are you an admirer here
+  to meet the incomparable <0 Type='3' Data='0000'/>Cece<0 Type='3' Data='ffff'/>?
+TerrorLightning_02: |
+  That's dangerous!
+TerrorEnemy: |
+  What's this?!
+Talk003: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Welcome to <0 Type='3' Data='0000'/>Ventest Clothing<0 Type='3' Data='ffff'/>, the only
+  boutique in the world which carries the
+  Cece brand. And if you weren't aware...
+Talk_55: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='0c004e006f007400690063006500'/>I recognize that apparel. <5 Type='0'/>It's from the
+  <0 Type='3' Data='0000'/>desert voe <0 Type='3' Data='ffff'/>line.<0 Type='4'/><3 Type='0' Data='0b01'/><4 Type='0' Data='1200530075007200700072006900730065004c00'/>And you've put together a complete set!<5 Type='1'/><0 Type='4'/>Coverage versus exposure is always a
+  tricky question. <5 Type='0'/>But there's no covering
+  up your passion, for which I award...<5 Type='1'/><0 Type='4'/><FontSize Value='125'/><3 Type='0' Data='0800'/><4 Type='0' Data='1c005300610067006f006e006f0043006800650063006b005f0030003300'/>the full 100 points!<FontSize Value='100'/>
+Talk004: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>The <0 Type='3' Data='0000'/>Cece hat<0 Type='3' Data='ffff'/>, the newest and most
+  magnificent work by yours truly, <5 Type='0'/>Cece!
+Talk005: |
+  <3 Type='0' Data='0900'/>What's all this about "Hyrule's trendiest
+  village"?! I don't remember approving any
+  new slogans for Hateno!
+Talk_57: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='0c004e006f007400690063006500'/>I recognize that apparel. <5 Type='0'/>It's from the
+  <0 Type='3' Data='0000'/>flamebreaker <0 Type='3' Data='ffff'/>line.<0 Type='4'/><3 Type='0' Data='0b01'/><4 Type='0' Data='1200530075007200700072006900730065004c00'/>And you've put together a complete set!<5 Type='1'/><0 Type='4'/>I appreciate the juxtaposition of the hard
+  metal with the careful matte finish. <5 Type='1'/>Does it
+  insulate you from a smoldering gaze?<5 Type='1'/><FontSize Value='125'/><0 Type='4'/><3 Type='0' Data='0800'/><4 Type='0' Data='1c005300610067006f006e006f0043006800650063006b005f0030003300'/>You earn a heated 100 points!<FontSize Value='100'/>
+TerrorBomb_00: |
+  Wha?!
+Talk006: |
+  <3 Type='0' Data='0900'/>Cece! You have got to quit littering the
+  village with your weird art pieces!
+Talk_58: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='0c004e006f007400690063006500'/>I recognize that apparel. <5 Type='0'/>It's from the
+  <0 Type='3' Data='0000'/>Hylian <0 Type='3' Data='ffff'/>line.<0 Type='4'/><3 Type='0' Data='0b01'/><4 Type='0' Data='1200530075007200700072006900730065004c00'/>And you've put together a complete set!<5 Type='1'/><0 Type='4'/>Are you the sort who wears the hood up
+  or lets the whole world see your face?<5 Type='1'/>
+  For the trick of two styles in one...<5 Type='1'/><FontSize Value='125'/><0 Type='4'/><3 Type='0' Data='0800'/><4 Type='0' Data='0a0048006100700070007900'/>two 100s, for 200 total points!<FontSize Value='100'/>
+TerrorBomb_01: |
+  What's this?!
+Talk007: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='0e0045006100730065005f0030003000'/>Now, now, dear. <5 Type='0'/>There's no need to get
+  so worked up. I think some of the people
+  here actually like her art, you know.<0 Type='4'/>Wouldn't it be better to hear her out?
+Talk_59: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='0c004e006f007400690063006500'/>I recognize that apparel. <5 Type='0'/>It's from the
+  <0 Type='3' Data='0000'/>Fierce Deity <0 Type='3' Data='ffff'/>line.<0 Type='4'/><3 Type='0' Data='0b01'/><4 Type='0' Data='1200530075007200700072006900730065004c00'/>And you've put together a complete set!<5 Type='1'/><0 Type='4'/>Its mysterious allure is just exquisite.<5 Type='1'/>
+  Even the strictest of scorers would be
+  forced to award you...<5 Type='1'/><0 Type='4'/><FontSize Value='125'/><3 Type='0' Data='0800'/><4 Type='0' Data='1c005300610067006f006e006f0043006800650063006b005f0030003300'/>the full 100 points!<FontSize Value='100'/>
+TerrorBomb_02: |
+  That's dangerous!
+Talk008: |
+  <3 Type='0' Data='0900'/><4 Type='0' Data='14005000610069006e00660075006c005f0030003000'/>Don't fall for her line of twaddle! She's
+  got everyone in Hateno wrapped around
+  her finger already!<0 Type='4'/>My duty is to look after the village, and
+  that's what I mean to do.
+Talk009: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>Looking after the village, you say?
+TerrorInsect: |
+  Wha?!
+Talk_60: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='0c004e006f007400690063006500'/>I recognize that apparel. <5 Type='0'/>It's from the
+  <0 Type='3' Data='0000'/>wild <0 Type='3' Data='ffff'/>line.<0 Type='4'/><3 Type='0' Data='0b01'/><4 Type='0' Data='1200530075007200700072006900730065004c00'/>And you've put together a complete set!<5 Type='1'/><0 Type='4'/>Not only is it a visual feast, it's a treat
+  for the nose as well. <5 Type='1'/>The smell wafting
+  from that ensemble takes me back...<5 Type='1'/><FontSize Value='125'/><0 Type='4'/><3 Type='0' Data='0800'/><4 Type='0' Data='1c005300610067006f006e006f0043006800650063006b005f0030003300'/>An aromatic 100 points!<FontSize Value='100'/>
+TerrorSword_00: |
+  Wha?!
+Talk_61: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='0c004e006f007400690063006500'/>I recognize that apparel. <5 Type='0'/>It's from the
+  <0 Type='3' Data='0000'/>miner's <0 Type='3' Data='ffff'/>line.<0 Type='4'/><3 Type='0' Data='0b01'/><4 Type='0' Data='1200530075007200700072006900730065004c00'/>And you've put together a complete set!<5 Type='1'/><0 Type='4'/>Your taste in fashion truly shines through
+  in these clothes. <5 Type='1'/>You have a bright future
+  in fashion, I'd say!<FontSize Value='125'/><0 Type='4'/><3 Type='0' Data='0800'/><4 Type='0' Data='1c005300610067006f006e006f0043006800650063006b005f0030003300'/>A full 100 points!<FontSize Value='100'/>
+TerrorSword_01: |
+  Stop it!
+Talk010: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>Do they? Then let us leave the matter to
+  the people to decide!
+Talk_62: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='0c004e006f007400690063006500'/>I recognize that apparel. <5 Type='0'/>It's from the
+  <0 Type='3' Data='0000'/>mystic <0 Type='3' Data='ffff'/>line.<0 Type='4'/><3 Type='0' Data='0b01'/><4 Type='0' Data='1200530075007200700072006900730065004c00'/>And you've put together a complete set!<5 Type='1'/><0 Type='4'/>It feels like it's summoning a cool, pure
+  breeze from nowhere. <5 Type='1'/>And yet, it remains
+  a sterling example of high fashion!<5 Type='1'/><FontSize Value='125'/><0 Type='4'/><3 Type='0' Data='0800'/><4 Type='0' Data='1c005300610067006f006e006f0043006800650063006b005f0030003300'/>A sacred 100 points!<FontSize Value='100'/>
+TerrorSword_02: |
+  That's dangerous!
+Talk011: |
+  <3 Type='0' Data='0200'/><4 Type='0' Data='0a0041006e00670072007900'/>You're calling for a <0 Type='3' Data='0000'/>mayoral election<0 Type='3' Data='ffff'/>?
+Talk_63: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='0c004e006f007400690063006500'/>I recognize that apparel. <5 Type='0'/>It's from the
+  <0 Type='3' Data='0000'/>radiant <0 Type='3' Data='ffff'/>line.<0 Type='4'/><3 Type='0' Data='0b01'/><4 Type='0' Data='1200530075007200700072006900730065004c00'/>And you've put together a complete set!<5 Type='1'/><0 Type='4'/>It's most easily appreciated when worn in
+  the dark. <5 Type='1'/>Yet there's a certain appeal to
+  seeing it in full display during the day...<5 Type='1'/>
+  <FontSize Value='125'/><3 Type='0' Data='0800'/><4 Type='0' Data='1c005300610067006f006e006f0043006800650063006b005f0030003300'/>One hundred shimmering points!<FontSize Value='100'/>
+TerrorIce: |
+  Stop it!
+Talk012: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0a005400680069006e006b00'/>I'm really sorry! <5 Type='0'/>I tried to stop him from
+  coming in like you asked, but he wouldn't
+  take no for an answer.
+Talk_64: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='0c004e006f007400690063006500'/>I recognize that apparel. <5 Type='0'/>It's from the
+  <0 Type='3' Data='0000'/>froggy <0 Type='3' Data='ffff'/>line.<0 Type='4'/><3 Type='0' Data='0b01'/><4 Type='0' Data='1200530075007200700072006900730065004c00'/>And you've put together a complete set!<5 Type='1'/><0 Type='4'/>I have a soft spot for idiosyncratically
+  cute designs. And this strange-looking
+  frog costume definitely fits the bill.<FontSize Value='125'/><0 Type='4'/><3 Type='0' Data='0800'/><4 Type='0' Data='1c005300610067006f006e006f0043006800650063006b005f0030003300'/>Anyone would give it 100 points!<FontSize Value='100'/>
+Talk013: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Sophie! I delegate management of the
+  <0 Type='3' Data='0000'/>mayoral election <0 Type='3' Data='ffff'/>to you.
+Talk_65: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='0c004e006f007400690063006500'/>I recognize that apparel. <5 Type='0'/>It's from the
+  <0 Type='3' Data='0000'/>time <0 Type='3' Data='ffff'/>line.<0 Type='4'/><3 Type='0' Data='0b01'/><4 Type='0' Data='1200530075007200700072006900730065004c00'/>And you've put together a complete set!<5 Type='1'/><0 Type='4'/>What I love most about that shirt is that
+  whether it's worn by a child or an adult,
+  its fashion statement is timeless.<FontSize Value='125'/><0 Type='4'/><3 Type='0' Data='0800'/><4 Type='0' Data='1c005300610067006f006e006f0043006800650063006b005f0030003300'/>It gets a unanimous 100 points!<FontSize Value='100'/>
+Talk014: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>Whaaat?<5 Type='0'/>
+Talk_66: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='0c004e006f007400690063006500'/>I recognize that apparel. <5 Type='0'/>It's from the
+  <0 Type='3' Data='0000'/>phantom <0 Type='3' Data='ffff'/>line.<0 Type='4'/><3 Type='0' Data='0b01'/><4 Type='0' Data='1200530075007200700072006900730065004c00'/>And you've put together a complete set!<5 Type='1'/><0 Type='4'/>"If you want to exude confidence, start
+  with glowing eyes." <5 Type='1'/>Is that an expression?
+  Well, it should be.<5 Type='1'/><FontSize Value='125'/><0 Type='4'/><3 Type='0' Data='0800'/><4 Type='0' Data='1c005300610067006f006e006f0043006800650063006b005f0030003300'/>A mesmerizing full 100 points!<FontSize Value='100'/>
+Talk_67: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='0c004e006f007400690063006500'/>I recognize that apparel. <5 Type='0'/>It's from the
+  <0 Type='3' Data='0000'/>evil spirit <0 Type='3' Data='ffff'/>line.<0 Type='4'/><3 Type='0' Data='0b01'/><4 Type='0' Data='1200530075007200700072006900730065004c00'/>And you've put together a complete set!<5 Type='1'/><0 Type='4'/>That ensemble is so vibrant that it's like
+  it leapt out of a painting. And part of me
+  wishes it would leap back in.<FontSize Value='125'/><0 Type='4'/><3 Type='0' Data='0800'/><4 Type='0' Data='1c005300610067006f006e006f0043006800650063006b005f0030003300'/>Still, a full 100 points are yours!<FontSize Value='100'/>
+TerrorFlash: |
+  Wha?!
+Talk_68: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='0c004e006f007400690063006500'/>I recognize that apparel. <5 Type='0'/>It's from the
+  <0 Type='3' Data='0000'/>barbarian <0 Type='3' Data='ffff'/>line.<0 Type='4'/><3 Type='0' Data='0b01'/><4 Type='0' Data='1200530075007200700072006900730065004c00'/>And you've put together a complete set!<5 Type='1'/><0 Type='4'/>Gracious me and mine. That's one rough-
+  and-tumble look you've assembled.<5 Type='1'/> Could
+  you possibly be any more feral?<5 Type='1'/><FontSize Value='125'/><0 Type='4'/><3 Type='0' Data='0800'/><4 Type='0' Data='1c005300610067006f006e006f0043006800650063006b005f0030003300'/>A full 100 points!<FontSize Value='100'/>
+TerrorExplosion_00: |
+  Wha?!
+Talk_69: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='0c004e006f007400690063006500'/>I recognize that apparel. <5 Type='0'/>It's from the
+  <0 Type='3' Data='0000'/>snowquill <0 Type='3' Data='ffff'/>line.<0 Type='4'/><3 Type='0' Data='0b01'/><4 Type='0' Data='1200530075007200700072006900730065004c00'/>And you've put together a complete set!<5 Type='1'/><0 Type='4'/>The Rito feathers look soft, delicate, and
+  comfortably warm. Why, they've even
+  thawed my heart.<5 Type='1'/><FontSize Value='125'/><0 Type='4'/><3 Type='0' Data='0800'/><4 Type='0' Data='1c005300610067006f006e006f0043006800650063006b005f0030003300'/>A balmy 100 points to you!<FontSize Value='100'/>
+TerrorExplosion_01: |
+  What's this?!
+TerrorExplosion_02: |
+  That's dangerous!
+Talk019: |
+  <3 Type='0' Data='0701'/>This piece is so special that I dare not
+  assign a price to it. It's not for sale!
+Talk_70: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='0c004e006f007400690063006500'/>I recognize that apparel. <5 Type='0'/>It's from the
+  <0 Type='3' Data='0000'/>royal guard <0 Type='3' Data='ffff'/>line.<0 Type='4'/><3 Type='0' Data='0b01'/><4 Type='0' Data='1200530075007200700072006900730065004c00'/>And you've put together a complete set!<5 Type='1'/><0 Type='4'/>It's quite a sight to see the old castle
+  uniform get trotted out again. <5 Type='1'/>Almost
+  brings a tear to my eye.<FontSize Value='125'/><0 Type='4'/><3 Type='0' Data='0800'/><4 Type='0' Data='1c005300610067006f006e006f0043006800650063006b005f0030003300'/>An unapologetic 100 points!<FontSize Value='100'/>
+Talk_71: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='0c004e006f007400690063006500'/>I recognize that apparel. <5 Type='0'/>It's from the
+  <0 Type='3' Data='0000'/>rubber <0 Type='3' Data='ffff'/>line.<0 Type='4'/><3 Type='0' Data='0b01'/><4 Type='0' Data='1200530075007200700072006900730065004c00'/>And you've put together a complete set!<5 Type='1'/><0 Type='4'/>Can you...<5 Type='0'/>see out of that mask? <5 Type='1'/>Well, if
+  you can't, I'm all the more impressed at
+  your commitment to the aesthetic.<5 Type='1'/><0 Type='4'/><FontSize Value='125'/><3 Type='0' Data='0800'/><4 Type='0' Data='1c005300610067006f006e006f0043006800650063006b005f0030003300'/>A full 100 points!<FontSize Value='100'/>
+Talk020: |
+  <3 Type='0' Data='0701'/>As proof, I present to you this...
+Talk_72: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='0c004e006f007400690063006500'/>I recognize that apparel. <5 Type='0'/>It's from the
+  <0 Type='3' Data='0000'/>stealth <0 Type='3' Data='ffff'/>line.<0 Type='4'/><3 Type='0' Data='0b01'/><4 Type='0' Data='1200530075007200700072006900730065004c00'/>And you've put together a complete set!<5 Type='1'/><0 Type='4'/>Among those in the know, the mask
+  covering your mouth is a sign of the sort
+  of wisdom that keeps its own counsel.<5 Type='1'/>
+  <FontSize Value='125'/><3 Type='0' Data='0800'/><4 Type='0' Data='1c005300610067006f006e006f0043006800650063006b005f0030003300'/>No less than 100 points will do!<FontSize Value='100'/>
+TerrorArrow_00: |
+  Wha?!
+Talk_73: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='0c004e006f007400690063006500'/>I recognize that apparel. <5 Type='0'/>It's from the
+  <0 Type='3' Data='0000'/>sky <0 Type='3' Data='ffff'/>line.<0 Type='4'/><3 Type='0' Data='0b01'/><4 Type='0' Data='1200530075007200700072006900730065004c00'/>And you've put together a complete set!<5 Type='1'/><0 Type='4'/>Green suits you, no? <5 Type='1'/>Fashion scholars
+  believe that outfit marks an important
+  milestone in one's development.<FontSize Value='125'/><0 Type='4'/><3 Type='0' Data='0800'/><4 Type='0' Data='1c005300610067006f006e006f0043006800650063006b005f0030003300'/>True or not, you get 100 points!<FontSize Value='100'/>
+TerrorArrow_01: |
+  Stop it!
+ClearTerrorEnemy: |
+  That was close...
+Talk_74: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='0c004e006f007400690063006500'/>I recognize that apparel. <5 Type='0'/>It's from the
+  <0 Type='3' Data='0000'/>Tingle <0 Type='3' Data='ffff'/>line.<0 Type='4'/><3 Type='0' Data='0b01'/><4 Type='0' Data='1200530075007200700072006900730065004c00'/>And you've put together a complete set!<5 Type='1'/><0 Type='4'/>It's a fetching outfit, yet I feel it's missing
+  something. <5 Type='1'/>A balloon or two, perhaps?<0 Type='4'/><FontSize Value='125'/><3 Type='0' Data='0800'/><4 Type='0' Data='1c005300610067006f006e006f0043006800650063006b005f0030003300'/>Regardless, 100 points are yours!<FontSize Value='100'/>
+TerrorArrow_02: |
+  That's dangerous!
+Talk023: |
+  <3 Type='0' Data='0900'/>It didn't need rejuvenating! Hateno Village
+  is a peaceful place where folks live quiet
+  lives, and that's the way they like it!
+Talk_75: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='0c004e006f007400690063006500'/>I recognize that apparel. <5 Type='0'/>It's from the
+  <0 Type='3' Data='0000'/>twilight <0 Type='3' Data='ffff'/>line.<0 Type='4'/><3 Type='0' Data='0b01'/><4 Type='0' Data='1200530075007200700072006900730065004c00'/>And you've put together a complete set!<5 Type='1'/><0 Type='4'/>What's that smell? <5 Type='0'/>I detect a bit of a
+  bestial musk. <5 Type='1'/>And is that an ambiguously
+  sinister aroma from the outfit's back?
+  <FontSize Value='125'/><3 Type='0' Data='0800'/><4 Type='0' Data='1c005300610067006f006e006f0043006800650063006b005f0030003300'/>No more questions—100 points!<FontSize Value='100'/>
+Talk_76: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='0c004e006f007400690063006500'/>I recognize that apparel. <5 Type='0'/>It's from the
+  <0 Type='3' Data='0000'/>Depths <0 Type='3' Data='ffff'/>line.<0 Type='4'/><3 Type='0' Data='0b01'/><4 Type='0' Data='1200530075007200700072006900730065004c00'/>And you've put together a complete set!<5 Type='1'/><0 Type='4'/>Most people who say they're clad in
+  darkness don't mean it so literally.<5 Type='1'/> I'd
+  love to know how you pulled it off.<FontSize Value='125'/><0 Type='4'/><3 Type='0' Data='0800'/><4 Type='0' Data='1c005300610067006f006e006f0043006800650063006b005f0030003300'/>Take an enigmatic 100 points!<FontSize Value='100'/>
+Talk_77: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='0c004e006f007400690063006500'/>I recognize that apparel. <5 Type='0'/>It's from the
+  <0 Type='3' Data='0000'/>wind <0 Type='3' Data='ffff'/>line.<0 Type='4'/><3 Type='0' Data='0b01'/><4 Type='0' Data='1200530075007200700072006900730065004c00'/>And you've put together a complete set!<5 Type='1'/><0 Type='4'/>You're really selling me on the shading
+  of that outfit. I can practically smell the
+  salty sea breeze now.<0 Type='4'/><FontSize Value='125'/><3 Type='0' Data='0800'/><4 Type='0' Data='1c005300610067006f006e006f0043006800650063006b005f0030003300'/>That's a flat 100 points!<FontSize Value='100'/>
+Talk026: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='14005000610069006e00660075006c005f0030003000'/>Come on, Clavia. I don't feel like sticking
+  around here any longer. It's time we
+  headed back <0 Type='3' Data='0000'/>home<0 Type='3' Data='ffff'/>!
+Talk_78: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='0c004e006f007400690063006500'/>I recognize that apparel. <5 Type='0'/>It's from the
+  <0 Type='3' Data='0000'/>Yiga <0 Type='3' Data='ffff'/>line.<0 Type='4'/><3 Type='0' Data='0b01'/><4 Type='0' Data='1200530075007200700072006900730065004c00'/>And you've put together a complete set!<5 Type='1'/><0 Type='4'/>A woman of my discernment can easily
+  tell the difference between genuine and
+  faux evil, for the record. Therefore...<0 Type='4'/><FontSize Value='125'/><3 Type='0' Data='0800'/><4 Type='0' Data='1c005300610067006f006e006f0043006800650063006b005f0030003300'/>100 points! No arguments!<FontSize Value='100'/>
+Talk_79: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='0c004e006f007400690063006500'/>I recognize that apparel. <5 Type='0'/>It's from the
+  <0 Type='3' Data='0000'/>hero <0 Type='3' Data='ffff'/>line.<0 Type='4'/><3 Type='0' Data='0b01'/><4 Type='0' Data='1200530075007200700072006900730065004c00'/>And you've put together a complete set!<5 Type='1'/><0 Type='4'/>It's deceptively difficult to make such an
+  ensemble pop. <5 Type='1'/>The hat's accent color is
+  doing a lot of work here.<FontSize Value='125'/><0 Type='4'/><3 Type='0' Data='0800'/><4 Type='0' Data='1c005300610067006f006e006f0043006800650063006b005f0030003300'/>The full 100 points, naturally!<FontSize Value='100'/>
+TerrorGeneric_00: |
+  Wha?!
+Talk028: |
+  <3 Type='0' Data='0701'/>This is the sort of thing on which I've
+  built my name and reputation as the
+  <0 Type='3' Data='0000'/>world-renowned Cece<0 Type='3' Data='ffff'/>. <5 Type='1'/>Hmm?
+TerrorGeneric_01: |
+  Stop it!
+Talk029: |
+  <3 Type='0' Data='0701'/>Hmm. <5 Type='1'/>I must say, you don't seem to show
+  any sort of interest in fashion.
+TerrorGeneric_02: |
+  What's this?!
+Talk_80: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='0c004e006f007400690063006500'/>I recognize that apparel. <5 Type='0'/>It's from the
+  <0 Type='3' Data='0000'/>zonaite <0 Type='3' Data='ffff'/>line.<0 Type='4'/><3 Type='0' Data='0b01'/><4 Type='0' Data='1200530075007200700072006900730065004c00'/>And you've put together a complete set!<5 Type='1'/><0 Type='4'/>What a striking design! <5 Type='1'/>It's brimming over
+  with vitality and élan.<5 Type='1'/><0 Type='4'/><FontSize Value='125'/><3 Type='0' Data='0800'/><4 Type='0' Data='1c005300610067006f006e006f0043006800650063006b005f0030003300'/>A full 100 points!<FontSize Value='100'/>
+TerrorHorse: |
+  That's dangerous!
+SagonoHat: |
+  That hat is...perfection.
+Talk_81: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='0c004e006f007400690063006500'/>I recognize that apparel. <5 Type='0'/>It's from the
+  <0 Type='3' Data='0000'/>Zora <0 Type='3' Data='ffff'/>line.<0 Type='4'/><3 Type='0' Data='0b01'/><4 Type='0' Data='1200530075007200700072006900730065004c00'/>And you've put together a complete set!<5 Type='1'/><0 Type='4'/>Those fins and tail fluttering in the wind...
+  You strike me as a beached mermaid.<0 Type='4'/>Or should I say, a merman!<0 Type='4'/><FontSize Value='125'/><3 Type='0' Data='0800'/><4 Type='0' Data='1c005300610067006f006e006f0043006800650063006b005f0030003300'/>One hundred waterlogged points!<FontSize Value='100'/>
+Talk030: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>You stand before the very woman who
+  changed this fusty old village into the
+  birthplace of nouveau fashion!
+Talk_82: |
+  <FontSize Value='80'/><3 Type='0' Data='0700'/><FontSize Value='100'/>No. One mustn't go back on one's word.
+  Now then, choose whatever piece you've
+  taken a liking to.
+Talk031: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/><1 Type='3' Data='b4000000'/>Do you see that luxurious curve? Do you
+  note my avant-garde color choices?
+Talk_83: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='0c004e006f007400690063006500'/>I recognize that apparel. <5 Type='0'/>It's from the
+  <0 Type='3' Data='0000'/>soldier's <0 Type='3' Data='ffff'/>line.<0 Type='4'/><3 Type='0' Data='0b01'/><4 Type='0' Data='1200530075007200700072006900730065004c00'/>And you've put together a complete set!<5 Type='1'/><0 Type='4'/>Normally, wearing work clothes casually is
+  a fashion don't. <5 Type='1'/>But this is certainly one
+  way to show that you mean business!<5 Type='1'/>
+  <FontSize Value='125'/><3 Type='0' Data='0800'/><4 Type='0' Data='1c005300610067006f006e006f0043006800650063006b005f0030003300'/>Have a full 100 points, soldier!<FontSize Value='100'/>
+Talk032: |
+  <3 Type='0' Data='0801'/><1 Type='3' Data='78000000'/>Wouldn't you call it the pinnacle
+  of perfection?
+Talk_84: |
+  <3 Type='0' Data='0200'/><4 Type='0' Data='0a005400680069006e006b00'/>I don't know which of us is going to win
+  the election, <5 Type='0'/>but I do know it won't
+  be Reede.
+Talk033: |
+  <3 Type='0' Data='0701'/>I shall only part with it when I find
+  someone <0 Type='3' Data='0000'/>truly worthy of owning it<0 Type='3' Data='ffff'/>.
+Talk_17: |
+  <3 Type='0' Data='0700'/>For you, only the warmest of welcomes!

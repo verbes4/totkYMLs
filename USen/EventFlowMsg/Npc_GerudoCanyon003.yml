@@ -1,0 +1,40 @@
+Talk_01: |
+  <3 Type='0' Data='0700'/>Ah, it's you! You have been diligent in
+  your training, I hope?<0 Type='4'/><3 Type='0' Data='0a00'/>No matter how hard I try, I cannot keep
+  up with my constantly punching friends
+  on the cliff over there.
+  So I've taken it upon myself to stand
+  guard here.<5 Type='0'/> It's all I'm good for, anyway...
+  
+Talk_02: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0600530061006400'/>I once thought that none could best me
+  in matters of endurance.<0 Type='4'/>But between you defeating me twice over
+  and my friends on the cliff, I have learned
+  how vast the world truly is.
+  Perhaps this is a sign that I must redouble
+  my training efforts...
+Talk_03: |
+  <3 Type='0' Data='0700'/>Ah, you again! I trust you've been keeping
+  up with your training?<0 Type='4'/><3 Type='0' Data='0c01'/>My friends continue to throw punches
+  up on that cliff, undeterred by the rain...<0 Type='4'/>Meanwhile, my limited punching capacity
+  has consigned me to guard duty.
+  Ugh, I'm so ashamed of myself...
+Talk_04: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0600530061006400'/>I'd like to have their unflinching focus
+  someday, but for now, I've no choice but
+  to endure...guard duty.
+Talk_00: |
+  <3 Type='0' Data='0700'/>Ah, hello again, my enduring friend! It's
+  been some time since our fateful match.<0 Type='4'/>In the time since, I have been traveling
+  from place to place in the hopes that I
+  may reforge myself.
+  That's when I met some like-minded
+  folks—the two throwing punches
+  on the cliff over there.
+  <3 Type='0' Data='0a00'/>Though it pains me to say it, I...cannot
+  keep up with them.<0 Type='4'/>Day or night, rain or shine, nothing stops
+  their endless barrage of punches.<0 Type='4'/><3 Type='0' Data='0700'/>But that just means I have room yet to
+  grow! There's always someone better out
+  there, so I must never stop training!
+Balloon_00: |
+  I still can't keep up...

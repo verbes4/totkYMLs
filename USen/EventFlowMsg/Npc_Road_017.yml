@@ -1,0 +1,194 @@
+StableHostelPicture: |
+  Wow, just like the rumors...
+BackRange_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hey! You look preoccupied, so I won't
+  keep you long.
+  
+  <3 Type='0' Data='0801'/>It's just... <5 Type='1'/>I saw sunken treasure in a
+  pond on the hill near <0 Type='3' Data='0000'/>Ludfo's Bog<0 Type='3' Data='ffff'/>!
+  
+  <3 Type='0' Data='0c00'/>Seems a shame to leave perfectly good
+  treasure chests down there.<5 Type='0'/> I wonder if
+  there's a way to lift them out...
+RainRun: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0600530061006400'/>Brr!<5 Type='1'/> Rain's making me chilly. I better go
+  get under something.
+BackRange_02: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Those <0 Type='3' Data='0000'/>Skyview Towers <0 Type='3' Data='ffff'/>are easy to pick
+  out on the horizon, huh?<5 Type='0'/> That's why they
+  make such good landmarks!<0 Type='4'/>Though the sky islands are grander,
+  of course. If ever I'm lost, I know I can
+  look up at them to find my way.<5 Type='1'/>
+  <3 Type='0' Data='0501'/>Is there some way to reach them?
+  As a consummate traveler, I'd love to
+  go up there just once...
+GoRange_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hey! Busy day?
+  
+  
+  You know, there used to be an awful—
+  and I mean awful—thunderstorm raging
+  throughout this whole area.
+  It never let up...<5 Type='0'/>until recently it did.
+  Which is why I was able to come here.<0 Type='4'/><3 Type='0' Data='0000'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Now that it's safer, maybe I should climb
+  a tall tree and scope things out.
+BackRange_03: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hey! Got a lot to do today?
+  
+  
+  When I'm traveling, I love to take in the
+  sight of sky islands floating overhead.
+GoRange_02: |
+  <3 Type='0' Data='0700'/>Look at that structure.<5 Type='1'/> Gotta be...<5 Type='0'/>one of
+  the <0 Type='3' Data='0000'/>Skyview Towers<0 Type='3' Data='ffff'/>, right?<0 Type='4'/>It's big, that thing! I bet it'd be easy to
+  spot from a distance.
+  
+  <3 Type='0' Data='0100'/>Maybe I'll use it as a <0 Type='3' Data='0000'/>landmark<0 Type='3' Data='ffff'/> when
+  I'm traveling.
+  
+  Always helps to have a <0 Type='3' Data='0000'/>landmark<0 Type='3' Data='ffff'/>. That
+  way, if you get mixed up, you can turn
+  yourself the right way around!
+RainPoint_01_2: |
+  <3 Type='0' Data='0700'/>If you get too cold, it'll sap your strength
+  and you won't be able to flee when you
+  need to. Best not to be reckless.
+GoRange_03: |
+  <3 Type='0' Data='0700'/>When I left on my journey, I used the
+  <0 Type='3' Data='0000'/>Skyview Tower <0 Type='3' Data='ffff'/>as a landmark to keep
+  track of my direction.
+  <3 Type='0' Data='0c01'/>But down in this valley, I can't see it,
+  so I'm getting all mixed up.
+  
+  If I could only scale the cliffs here,<5 Type='0'/> I'd be
+  able to see the <0 Type='3' Data='0000'/>Skyview Tower <0 Type='3' Data='ffff'/>and figure
+  out which way to go.
+Near_RainPoint_01: |
+  Will the rain ever let up?
+Guardian00: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='14005000610069006e00660075006c005f0030003100'/>Argh! <5 Type='0'/>That's no ordinary foe!<0 Type='4'/>We can try to attack, but I don't see a
+  way to win this one!
+Near_GoalPoint_01: |
+  Where to? Hm...
+Near_BackRange_01: |
+  What can I do?
+Near_BackRange_02: |
+  It's so high up...
+SavedLv3_00: |
+  <3 Type='0' Data='0800'/>Thank you so much! If you hadn't shown
+  up when you did, I'd be done for!
+Greeting: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hey! Busy day? At least with all the tall
+  trees around here, you don't have to
+  worry about getting lost.
+GoRange_02_2: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Since the <0 Type='3' Data='0000'/>Skyview Towers <0 Type='3' Data='ffff'/>are so easy to
+  see from far away, they're good for
+  <0 Type='3' Data='0000'/>keeping oriented <0 Type='3' Data='ffff'/>during a long journey.
+Near_Rain: |
+  Rain. Not my day.
+Near_GoRange_01: |
+  Just once, I wanna climb it.
+SavedLv3_01: |
+  <3 Type='0' Data='0800'/>Whew, that was close! <5 Type='0'/>Who taught you to
+  fight like that?
+BackRange_03_2: |
+  <3 Type='0' Data='0500'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>But from down here, you can't see them
+  at all... <5 Type='0'/>It's eerie.
+  
+  <3 Type='0' Data='0c01'/>If I could scale the cliffs, I'd be able to
+  see them and the Skyview Towers again.
+  Then I'd feel much better.
+Near_GoRange_02: |
+  It really stands out.
+EnokidaSignboard: |
+  Hudson Construction?
+Near_GoRange_03: |
+  I can't see them...
+Thanks00: |
+  <3 Type='0' Data='0100'/>Here. A small token of my appreciation.<5 Type='1'/>
+StartPoint_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hey, you taking a rest here too?
+  
+  
+  It's been a long journey. I figured
+  <0 Type='3' Data='0000'/>Tabantha Bridge Stable <0 Type='3' Data='ffff'/>was a good
+  place to stop and catch my breath.
+  And with all the tall trees nearby, it was
+  easy to spot from far away.
+SavedLv2_00: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='14005000610069006e00660075006c005f0030003100'/>Whew, thanks! They ambushed me out
+  of nowhere!
+GoalPoint_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hey there! You taking a pit stop too?
+  
+  
+  You may be surprised to learn that before
+  the Upheaval, this stable was more north.
+  
+  When the cold snap hit <0 Type='3' Data='0000'/>Hebra<0 Type='3' Data='ffff'/>, business
+  froze up and they had to relocate.
+  
+  I'm sure it's no accident they moved in
+  next to a geoglyph. Good chance to make
+  some dough off the sightseer crowd.
+  <3 Type='0' Data='0700'/>Oh! Word has it there's actually a <0 Type='3' Data='0000'/>giant
+  monster <0 Type='3' Data='ffff'/>prowling around <0 Type='3' Data='0000'/>north <0 Type='3' Data='ffff'/>of
+  the geoglyph.
+  So if you're passing that way, be sure to
+  keep an eye out.
+SavedLv2_01: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1000540069007200650064005f0030003100'/>I'm saved! Thanks! That would have been
+  tough to deal with on my own.
+BackRange_01_2: |
+  <3 Type='0' Data='0700'/>Those poor treasure chests lying there,
+  unopened, in that pond on the hill near
+  <0 Type='3' Data='0000'/>Ludfo's Bog<0 Type='3' Data='ffff'/>.
+  <3 Type='0' Data='0c01'/>I wish there was a way to get them out...
+SavedLv1_00: |
+  <3 Type='0' Data='0700'/>I probably could have handled that on
+  my own.<0 Type='4'/>But thanks!
+Failed00: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='1000540069007200650064005f0030003000'/>You...<5 Type='1'/> You saved me! <5 Type='1'/>I thought I was
+  done for.
+SavedLv1_01: |
+  <3 Type='0' Data='0700'/>Thanks! I probably didn't need your help,
+  but you never know.
+Failed01: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='1200530075007200700072006900730065005300'/>I'm still alive?<5 Type='1'/> Thank goodness!
+GoRange_03_2: |
+  <3 Type='0' Data='0800'/>When I left on my journey, I used the
+  <0 Type='3' Data='0000'/>Skyview Tower <0 Type='3' Data='ffff'/>as a landmark to keep
+  track of my direction.
+  <3 Type='0' Data='0c01'/>If I could only scale the cliffs here, I'd be
+  able to get a good look at it and wouldn't
+  feel quite so lost.
+Atacked00: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='100041006e006700720079005f0030003000'/>It's not safe! Stay back!
+Near_StartPoint_01: |
+  Eastward, then.
+Atacked01: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Are you here to help? Thanks!
+StartPoint_01_2: |
+  <3 Type='0' Data='0700'/>There are lots of tall trees around here,
+  which make the stable easy to find from
+  far away.
+  It's always a good idea to make note of
+  a few landmarks as you travel. <5 Type='1'/>Do that,
+  and you'll never get lost.
+Near_Thunder: |
+  I've gotta get to shelter.
+GoalPoint_01_2: |
+  <3 Type='0' Data='0700'/>Word has it there's a giant monster
+  prowling around <0 Type='3' Data='0000'/>north<0 Type='3' Data='ffff'/> of the geoglyph.<0 Type='4'/>You take care of yourself, OK?
+RainPoint_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Travelers like us always have to be wary
+  of wind and rain.<0 Type='4'/>If you're not careful, the chill will sap your
+  strength and you won't be able to flee
+  when you need to.
+  In short, don't be reckless, or you'll get
+  yourself hurt.
+GoRange_01_2: |
+  <3 Type='0' Data='0c00'/>If I'm going to climb a tree and look
+  around, I should do it soon. Never know
+  when that horrible storm will kick back up.

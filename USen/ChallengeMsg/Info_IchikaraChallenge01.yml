@@ -1,0 +1,59 @@
+Cooking: |
+  Mattison has been teaching the Gerudo
+  language to the people of Tarrey Town so that
+  her mother, Rhondson, won't feel so lonely.
+  
+  Now she's headed toward the <0 Type='3' Data='0000'/>railcar<0 Type='3' Data='ffff'/>. She
+  wants to help her father, Hudson, who's been
+  very busy with work.
+Name: |
+  Mattison's Independence
+Research: |
+  Hudson and Rhondson of Hudson Construction
+  were discussing the pending departure of
+  someone named Mattison. Rhondson seemed
+  upbeat about it, but <0 Type='3' Data='0000'/>Hudson<0 Type='3' Data='ffff'/> looked sad.
+  
+  He appears to be worried about something.
+Child_Talk: |
+  It seems Hudson's only daughter, Mattison,
+  is moving to Gerudo Town on her own in
+  accordance with Gerudo law.
+  
+  Both Hudson and Rhondson regret that they
+  are too busy to <0 Type='3' Data='0000'/>play with Mattison<0 Type='3' Data='ffff'/>, especially
+  since it won't be long before she leaves.
+Quiz2: |
+  Hudson and Rhondson's daughter, Mattison, is
+  studying the Gerudo language in preparation for
+  her move.
+  
+  She's going to find <0 Type='3' Data='0000'/>Granny Monari<0 Type='3' Data='ffff'/>, and said
+  something about giving her a quiz...
+Complete: |
+  Along with Rhondson, Hudson, and the people
+  of Tarrey Town, you saw Mattison off on her
+  journey to Gerudo Town.
+  
+  If you go to Gerudo Town, perhaps you can see
+  Mattison again.
+GotoRopeway: |
+  Mattison wants to go to the job site to
+  help Hudson with his work—but Hagie,
+  who's in charge of the railcar that
+  extends to the site, is charging a toll.
+  
+  Mattison doesn't have any money and
+  is, instead, trying to figure out a way to
+  <0 Type='3' Data='0000'/>obscure Hagie's line of sight<0 Type='3' Data='ffff'/>.
+PaPaTalk: |
+  Hudson is trying to make a balloon for
+  Mattison to help his daughter's departure feel
+  like a grand celebration.
+  
+  He needs <0 Type='3' Data='0000'/><2 Type='14' Data='3e0049006300680069006b006100720061004300680061006c006c0065006e0067006500300031005f0048006900640061006d006100720069004e0075006d00ffff00cd'/> sundelions<0 Type='3' Data='ffff'/> so he can dye it
+  yellow—Mattison's favorite color.
+MammyReport: |
+  Mattison managed to evade Hagie and ride 
+  the railcar. Was she was able to meet up
+  with Hudson at the worksite?

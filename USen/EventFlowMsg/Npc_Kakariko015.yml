@@ -1,0 +1,86 @@
+NewText_67: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hm? Well, well. Look who's here...
+NewText_73: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>If you're planning to travel, <0 Type='3' Data='0000'/>Enchanted<0 Type='3' Data='ffff'/>
+  should be your first stop!
+  
+  The <0 Type='3' Data='0000'/>radiant attire<0 Type='3' Data='ffff'/> would suit you, I think.
+NewText_68: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hm? Well, well. Look who's here. You're
+  looking spritely, I must say.
+NewText_74: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Let me get a good look at that outfit...
+  
+  
+  <3 Type='0' Data='0801'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>That's stealth attire, isn't it? My, my!
+  It suits you!
+  
+  You'll be happy with your purchase.
+  I'm sure of it!
+NewText_69: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0a005400680069006e006b00'/>Hm? Well, well. Look who's here. You're
+  looking peppy, even in this rain.
+NewText_75: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Let me get a good look at that outfit.
+  
+  
+  <3 Type='0' Data='0801'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>That's radiant attire, isn't it? My, my!
+  It suits you!
+  
+  You'll be happy with your purchase.
+  I'm sure of it!
+near01: |
+  <4 Type='0' Data='0e00430061006c006c00460061007200'/>Welcome!
+near02: |
+  Zzz...
+ReturnHome_01: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003000'/>Hyah!<5 Type='1'/>
+ReturnHome_02: |
+  <3 Type='0' Data='0701'/>Huh?<5 Type='1'/><0 Type='4'/>I wondered who was in my house, but I
+  recognize you. The one who gave us the
+  porridge, right?<0 Type='4'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>If you came hoping to buy clothes, do me
+  a favor and go to Enchanted instead.
+ReturnHome_03: |
+  <3 Type='0' Data='0501'/>Huh? I recognize you.<0 Type='4'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>If you came hoping to buy clothes, <5 Type='0'/>do me
+  a favor and go to Enchanted instead.
+NewText_63: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>I'm just leaving for the shop. Wait a
+  moment, if you please.
+NewText_70: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>That porridge... That was <0 Type='3' Data='0000'/>sunny veggie
+  porridge<0 Type='3' Data='ffff'/>, wasn't it?
+  
+  I've never tasted anything quite like that!
+  It was as if poison were drawn from my
+  body. And such a comforting flavor too!
+  <3 Type='0' Data='0801'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>I feel like I have a whole new lifetime
+  ahead of me.
+NewText_58: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>If you're planning to travel, <0 Type='3' Data='0000'/>Enchanted<0 Type='3' Data='ffff'/>
+  should be your first stop!
+  
+  The <0 Type='3' Data='0000'/>stealth attire<0 Type='3' Data='ffff'/> would suit you, I think.
+NewText_64: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='0e0045006100730065005f0030003100'/>I'm going to rest...
+  
+  
+  But <0 Type='3' Data='0000'/>Enchanted <0 Type='3' Data='ffff'/>is still open, so you still
+  have time to shop!
+NewText_65: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>My, my! What brought you here? Were
+  you worried about me, hm?
+  
+  <3 Type='0' Data='0801'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>Well, don't you fret. Thanks to you, I'm
+  feeling better than I ever have.
+NewText_71: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>No need to worry. All better...
+NewText_66: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Well, well. Look who's here. Isn't it a bit
+  early, hm?
+NewText_72: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>We sure appreciate your business! You're
+  one of our very best customers.
+  
+  Remember, we're happy to buy if you're
+  selling. So visit <0 Type='3' Data='0000'/>Enchanted<0 Type='3' Data='ffff'/> when you have
+  business to do!

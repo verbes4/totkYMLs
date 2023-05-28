@@ -1,0 +1,93 @@
+Talk_2000: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003100'/>There are Zonai devices inside this thing?
+Talk_2001: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003000'/>I think... Yes! I actually think this
+  might possibly be a truly amazing
+  discovery. Probably.
+  And contraptions like this one have shown
+  up in places other than just Tarrey Town.
+  <0 Type='4'/><0 Type='3' Data='0000'/>Kakariko Village <0 Type='3' Data='ffff'/>in Necluda, south of here,
+  has one.
+  <0 Type='4'/>And there's one in the southwest too—at
+  <0 Type='3' Data='0000'/>Digdogg Bridge <0 Type='3' Data='ffff'/>near the entrance to the
+  Gerudo region!
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/><FontSize Value='80'/>Could it be that...the types of Zonai devices inside
+  each area's contraption are different?<5 Type='1'/><FontSize Value='100'/>
+  
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Questions require answers! We've got to
+  investigate the other contraptions!
+  
+  <3 Type='0' Data='0701'/>But before that, I feel the need to
+  ceremonially award you for your
+  big discovery.
+Near_0001: |
+  This thing is...
+Talk_1000: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Ah! Are you interested in this too?
+Talk_2002: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>I found it while investigating some
+  fallen ruins.
+  
+  It's rare and was never seen before the
+  Upheaval, so its properties are something
+  of a mystery.
+  But there's a research team studying
+  the plant in <0 Type='3' Data='0000'/>Kakariko Village<0 Type='3' Data='ffff'/>—that's to
+  the south of here in Necluda.
+  If you want to learn more about it, you
+  might try talking to them.
+  
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Anyway, I'm off to more big adventures
+  and discoveries. Hope to see you again!
+Talk_1001: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Look at this. It seems like there might
+  be...things...inside it. I wonder if we can
+  get them out.
+  This thing <0 Type='3' Data='0000'/>fell from the sky <0 Type='3' Data='ffff'/>at the time of
+  the Upheaval...<0 Type='4'/><3 Type='0' Data='0c00'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>But what is it? And where did it fall from?
+Near_0002: |
+  I wonder what's inside...
+Talk_2003: |
+  <FontSize Value='125'/><3 Type='0' Data='0b01'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003100'/>Huh?
+  
+  
+  THAT'S what those things are?!<FontSize Value='100'/>
+Talk_1002: |
+  <3 Type='0' Data='0c00'/>I wonder... Can we remove the things
+  inside it?
+  
+  What is this? Why is it here?
+Talk_2004: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>It was rankling to see that thing and not
+  be able to get the stuff inside. Thanks for
+  figuring it out.
+  Even so...<5 Type='1'/>
+Talk_2005: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0600530061006400'/>Sorry, can you wait a moment? I'm getting
+  drenched out here...
+Near_0004: |
+  Those Zonai devices...
+Talk_2011: |
+  <3 Type='0' Data='0700'/>I want to give you a <0 Type='3' Data='0000'/>sundelion<0 Type='3' Data='ffff'/> to thank
+  you for your big discovery. Can you make
+  some room for it?
+  I'm not going to let you go without some
+  kind of reward!
+Talk_2006: |
+  <3 Type='0' Data='0c01'/>I wonder if it will break if it gets wet in
+  the rain. I hope not. It's not as though
+  it's totally underwater.
+Talk_2007: |
+  <3 Type='0' Data='0c01'/>There's no need to worry about lightning
+  strikes, so maybe I'll get just a little
+  bit closer...
+Talk_2008: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>Oh... It appears you have too many
+  thingies and knick-knacks, and no room
+  for this <0 Type='3' Data='0000'/>sundelion <0 Type='3' Data='ffff'/>I meant to give you.
+  Why don't you make some space and
+  come back? I wouldn't want to send you
+  away empty-handed.
+Talk_2009: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='0a0048006100700070007900'/>You made space in your pouch! Excellent!
+  Here's this, then!

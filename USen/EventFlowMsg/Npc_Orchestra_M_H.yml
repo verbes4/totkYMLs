@@ -1,0 +1,120 @@
+Greeting_Rain_M_H: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Thanks for coming out. I know it's not fun
+  traveling in this weather.
+Talk0002: |
+  <3 Type='0' Data='0701'/>Oh, and while you're here...would you like
+  me to tell your fortune?
+Talk0015: |
+  <3 Type='0' Data='0000'/>Your lucky color is...let's say white.
+Talk0003: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068005300'/>Great! First, tell me which instrument's
+  sound you want to hear most right now.
+Talk0016: |
+  <3 Type='0' Data='0000'/>Your luckiest results will come from
+  wearing coordinated outfits, all from the
+  same series.
+Talk0004: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004c0061007500670068005300'/>Haha, you make your own luck, eh?<5 Type='1'/>
+  Sounds about right for you.<0 Type='4'/>To me, a lucky day is one where you see
+  a shooting star, a rainbow, or maybe an
+  aurora if you're really lucky.<0 Type='4'/>Everyone has their superstitions on how
+  to bend luck in their favor. It could be fun
+  to come up with a few of your own.
+Talk0017: |
+  <3 Type='0' Data='0000'/>Your luckiest results will come from going
+  around talking to people.
+Talk0005: |
+  <3 Type='0' Data='0800'/>You have chosen the horn!
+Talk0018: |
+  <3 Type='0' Data='0000'/>Your luckiest results will come from taking
+  a leisurely horseback ride.
+Talk0006: |
+  <3 Type='0' Data='0800'/>You have chosen the flute!
+Talk0019: |
+  <3 Type='0' Data='0000'/>Your luckiest results will come from doing
+  some cooking.
+Talk0007: |
+  <3 Type='0' Data='0800'/>You have chosen the violin!
+Talk0008: |
+  <3 Type='0' Data='0000'/>That means your lucky direction is north.
+RideSeatDrown: |
+  Are we drowning?!
+Greeting_Noon_M_H: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Nice day, isn't it? Thanks for stopping by!
+Talk0009: |
+  <3 Type='0' Data='0000'/>That means your lucky direction is south.
+Greeting_Snow_M_H: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Thanks for braving the snow to see us.
+0000: |
+  Go for it.
+0001: |
+  No, thank you.
+RideSeatCower: |
+  I'm falling out!
+0002: |
+  The horn.
+0003: |
+  The flute.
+TerrorImpulse_00: |
+  Hey now!
+0004: |
+  The violin.
+TerrorImpulse_01: |
+  Quit it!
+Greeting_Morning_M_H: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Good morning. Nice of you to stop by!
+Greeting_Evening_M_H: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Good evening. Nice of you to stop by!
+0005: |
+  The drum.
+TerrorImpulse_02: |
+  Waaaaaah!
+Talk0020: |
+  <3 Type='0' Data='0800'/>Well? <5 Type='1'/>Did any of those fortunes spark an
+  idea in you?<0 Type='4'/>Sometimes you might find yourself not
+  sure of what to do next, like you can't
+  remember your big-picture goals.<0 Type='4'/>That's the time to consider letting fate
+  take the wheel by following your fortune.
+Talk0021: |
+  <3 Type='0' Data='0000'/>Your lucky color is...let's say black.
+Talk0022: |
+  <3 Type='0' Data='0000'/>Your luckiest results will come from filling
+  out your compendium.
+Talk0023: |
+  <3 Type='0' Data='0800'/>You have chosen the drum!
+Talk0010: |
+  <3 Type='0' Data='0000'/>That means your lucky direction is west.
+Talk0011: |
+  <3 Type='0' Data='0000'/>That means your lucky direction is east.
+Greeting_Snow_M_H_00: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>I can't believe you're walking around like
+  that. <5 Type='1'/>Is it some kind of health trend?
+Talk0012: |
+  <3 Type='0' Data='0000'/>Your lucky color is...let's say pink.
+Talk0025: |
+  <3 Type='0' Data='0700'/>You're probably in a hurry to get back to
+  the road, but since you're here, why not
+  listen to our performance before you go?<0 Type='4'/>Putting some leeway into your schedule
+  is important even when you're in a hurry.
+  Maybe especially then!<0 Type='4'/>You've got to take time to let your body
+  and mind rest before you go charging
+  off again.<0 Type='4'/>If you don't, then you could end up like
+  me—<5 Type='0'/>stuck in a hole.
+Talk0013: |
+  <3 Type='0' Data='0000'/>Your lucky color is...let's say blue.
+Talk0026: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>You have a pretty casual attitude toward
+  clothing, huh?<0 Type='4'/>I can relate. Personally, I don't like to
+  sleep in my clothes.<0 Type='4'/><3 Type='0' Data='0c00'/>That said...uh...I do try to put in the
+  effort when I'm around people...
+Talk0001: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>Now that the Great Fairies are back with
+  us, the stables are more cheerful and
+  vibrant places to be.<0 Type='4'/>We intend to keep going from stable to
+  stable and improving our performances
+  every day to ease people's hearts.<FontSize Value='80'/><0 Type='4'/><3 Type='0' Data='0a00'/>I wanted to work on my wagon-driving skills too,
+  but Mastro put his foot down on that one.<FontSize Value='100'/><0 Type='4'/><3 Type='0' Data='0701'/>I'm putting my whole heart and soul into
+  my horn sound. If you have time, unwind
+  a bit while listening to us play.
+Talk0014: |
+  <3 Type='0' Data='0000'/>Your lucky color is...let's say yellow.

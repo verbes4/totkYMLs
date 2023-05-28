@@ -1,0 +1,152 @@
+talk_Day_00_2: |
+  <3 Type='0' Data='0a00'/>Ahhh... Investigating ruins is not an easy
+  job, that's for sure.
+  
+  I used to get through the days by looking
+  forward to Fenlin's cooking...
+  
+  But now she's gone off to Gerudo Town,
+  so I can't even do that!
+  
+  She should return at some point, but it's
+  been a while since she left... <5 Type='1'/>I really do
+  miss her cooking.
+talk_Day_01_2: |
+  <3 Type='0' Data='0a00'/>I wonder when Fenlin will get back.
+  
+  
+  Maybe there's some reason she can't
+  leave Gerudo Town right now?
+  
+  I hope she returns soon though. Without
+  her cooking, I'm really feeling the wear
+  and tear of investigating.
+Greeting_Morning: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Good morning.
+talk_Day_Rain_01: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0c004c0061007500670068005300'/>Even when the sun is high in the sky,
+  a good rainstorm makes it possible to get
+  work done.
+  It's time to investigate our very
+  hearts out!
+  
+  <3 Type='0' Data='0300'/>Or it would be, but now that everything is
+  soaked, it's a bit harder to spot details...
+Greeting_Evening: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Good evening. <5 Type='0'/>It's dark out, so mind
+  where you're walking.
+talk_Evening_Rain_00: |
+  <3 Type='0' Data='0700'/>Are you here to help us with our
+  investigation of these ruins? Sadly, we
+  can't really work right now...
+  The temperatures are pretty extreme
+  around here, you see.
+  
+  The nights are so cold that, without a
+  fire, you'd freeze solid! And with the rain
+  on top of that...
+  Well, we just can't get any work done
+  safely right now.
+talk_Day_00: |
+  <3 Type='0' Data='0700'/>Are you here to help us with our
+  investigation of these ruins?
+  
+  Thanks to the extreme temperatures
+  around here, we're only able to work a
+  little bit at a time.
+  The days are so hot that you'll pass out
+  quick if you're not in the shade. And the
+  nights... <5 Type='0'/>Just so, so cold...
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>Really, the only thing to look forward to is
+  Fenlin's cooking.
+  
+  Her meals fill me up with enough energy
+  to forget about the temperature! <5 Type='1'/>It must
+  be some kind of secret recipe.
+talk_Evening_Rain_01: |
+  <3 Type='0' Data='0c00'/>Looks like I might as well give up on
+  furthering the investigation today. <5 Type='0'/>Time to
+  prep for tomorrow and get some sleep.
+talk_Midnight: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='08004500610073006500'/>Make sure you rest up so your mind and
+  body are ready for whatever the next
+  day might hold.
+  The temperature will get you if you
+  aren't careful...
+Greeting_Evening_Rain_00: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Good evening. But... What are you doing
+  out in this rain?
+talk_Day_01: |
+  <3 Type='0' Data='0a00'/>So hot... If not for the shade, I'd pass
+  out from this heat. <5 Type='1'/>Ugh.
+  
+  <3 Type='0' Data='0300'/>If only it would rain... Being soaked would
+  keep us cool while we investigate
+  these ruins.
+  Hmph. <5 Type='1'/>I could go for some of Fenlin's
+  cooking right now.
+  
+Greeting_Noon: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Hello.
+  
+  
+  Stay aware of the surroundings here.
+  Things sometimes fall from above...
+Balloon_Evening_Rain: |
+  Rain? That's too bad.
+Greeting_Midnight: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='0c00570061006b00650075007000'/>Mmm...
+Greeting_Day_Rain: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='0c004e006f007400690063006500'/>Oh, what are you doing out in this rain?
+talk_Day_Rain_ItemGet: |
+  <3 Type='0' Data='0101'/>Take a look at this... You know, why don't
+  you keep it?
+Balloon_Day_Rain: |
+  Ahh, this rain is nice...
+Balloon_Midnight: |
+  Zzz... Zzz...
+talk_Day_Rain_00_00: |
+  <3 Type='0' Data='0700'/>Are you here to help us with our
+  investigation of these ruins?
+  
+  Thanks to the extreme temperatures
+  around here, we're only able to work a
+  little bit at a time.
+  The days are so hot that you'll pass out
+  quick if you're not in the shade. And the
+  nights... Just so, so cold...
+  <3 Type='0' Data='0800'/>But thanks to this rain, we can actually
+  get some stuff done!
+talk_Evening_00: |
+  <3 Type='0' Data='0700'/>Are you here to help us with our
+  investigation of these ruins?
+  
+  Thanks to the extreme temperatures
+  around here, we're only able to work a
+  little bit at a time.
+  The nights are so cold that, without a
+  fire, you'd freeze solid! And the days...
+  Just so, so hot...
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>Really, the only thing to look forward to is
+  Fenlin's cooking.
+  
+  Her meals fill me up with enough energy
+  to forget about the temperature! <5 Type='1'/>It must
+  be some kind of secret recipe.
+talk_Day_Rain_00_01: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0600530061006400'/>If only it would rain in Gerudo Canyon...<5 Type='0'/>
+  Being soaked would keep us cool while
+  we work.
+talk_Evening_01: |
+  <3 Type='0' Data='0a00'/>Brr... It's so cold...
+  
+  
+  If I don't keep myself warm, I'm gonna
+  freeze solid!
+  
+  Hmph.<5 Type='1'/> I could go for some of Fenlin's
+  cooking right now.
+Balloon_Evening: |
+  It's getting cold...
+Balloon_Day: |
+  It's getting hot...

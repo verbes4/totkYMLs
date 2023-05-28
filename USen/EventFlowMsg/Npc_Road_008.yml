@@ -1,0 +1,138 @@
+GoRange_01_2: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>If you're curious about <0 Type='3' Data='0000'/>Misko's treasure<0 Type='3' Data='ffff'/>,
+  you should ask those treasure-hunting
+  brothers about it!<0 Type='4'/>They're near <0 Type='3' Data='0000'/>Foothill Stable<0 Type='3' Data='ffff'/> to the<0 Type='3' Data='0000'/> north<0 Type='3' Data='ffff'/>.
+Near_RainPoint_01: |
+  A cave would be nice...
+SagonoHat: |
+  That's a Cece exclusive!
+StartPoint_01_2: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>If you're curious about <0 Type='3' Data='0000'/>Misko's treasure<0 Type='3' Data='ffff'/>,
+  you should ask those brothers about it!<0 Type='4'/>They're <0 Type='3' Data='0000'/>in front of a cave north of here<0 Type='3' Data='ffff'/>.
+StartPoint_01: |
+  <3 Type='0' Data='0700'/>I heard the story from a <0 Type='3' Data='0000'/>pair of treasure-
+  hunting brothers<0 Type='3' Data='ffff'/> I met.
+  
+  <3 Type='0' Data='0000'/>If you want to know more, why not talk to
+  them yourself? They were <0 Type='3' Data='0000'/>in front of a
+  cave just up north<0 Type='3' Data='ffff'/>.
+SavedLv1_00: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='08004500610073006500'/>You saved me!
+RainPoint_01: |
+  <3 Type='0' Data='0a00'/>Unfortunately, I can't find a cave to
+  shelter in... What I wouldn't give to be
+  out of this rain.
+Near_Rain: |
+  My poor clothes are wet!
+SavedLv1_01: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='08004500610073006500'/>And not a scratch on me!
+SavedLv2_00: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='08004500610073006500'/>My precious clothes are still immaculate,
+  thank heavens!
+GoalPoint_01: |
+  <3 Type='0' Data='0700'/>They say the caves of Eldin are practically
+  bursting with treasure.<0 Type='4'/><3 Type='0' Data='0c01'/>Which would be very exciting if they
+  weren't also <0 Type='3' Data='0000'/>bursting with lava<0 Type='3' Data='ffff'/>.
+  
+  <3 Type='0' Data='0c01'/>If I walked into one dressed like this,
+  my clothes would be burned to a crisp.
+GoRange_01: |
+  <3 Type='0' Data='0700'/>I heard the story from a <0 Type='3' Data='0000'/>pair of
+  treasure-hunting brothers<0 Type='3' Data='ffff'/> I met
+  near Foothill Stable.
+  <3 Type='0' Data='0000'/>If you want to know more, why not go
+  talk to them? Foothill Stable is <0 Type='3' Data='0000'/>north<0 Type='3' Data='ffff'/>
+  of here.
+SavedLv2_01: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>You're pretty strong, aren't you?<5 Type='0'/> Thanks!
+SavedLv3_00: |
+  <3 Type='0' Data='0800'/>That was scary!<5 Type='0'/> But I'm OK, and that's
+  what matters!
+talk00: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>Heh heh...<5 Type='1'/> I overheard some great info
+  on <0 Type='3' Data='0000'/>Misko's treasure<0 Type='3' Data='ffff'/>.
+GoRange_02: |
+  <3 Type='0' Data='0700'/>They say that several of <0 Type='3' Data='0000'/>Misko's treasures<0 Type='3' Data='ffff'/>
+  are hidden in the many caves of Lanayru!<0 Type='4'/>So it's a shame that the walls of those
+  caves are <0 Type='3' Data='0000'/>wet and slippery<0 Type='3' Data='ffff'/> and slimy and
+  BLECH because of all the water in there.
+  If you think I'm bringing any part of my
+  wardrobe into that muck, think again!<0 Type='4'/>If only there were some chic outfit that
+  let me climb walls without slipping...
+SavedLv3_01: |
+  <3 Type='0' Data='0800'/>Thanks!<5 Type='0'/> You saved my life!
+talk01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004e006f007400690063006500'/>Aaand it looks like you overheard me.<0 Type='4'/><3 Type='0' Data='0701'/>Perfect! This is so juicy, I've gotta share!
+  You've heard of Misko's treasure? The
+  famous bandit's huge <0 Type='3' Data='0000'/>clothing collection<0 Type='3' Data='ffff'/>?
+  <3 Type='0' Data='0000'/>The story goes that Misko <0 Type='3' Data='0000'/>hid it in caves
+  all throughout the land<0 Type='3' Data='ffff'/>. Just the thought
+  gets my fashion-loving heart pounding!
+Near_StartPoint_01: |
+  I heard something good!
+talk03: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Oh, hey! We meet again.
+  
+  
+  The story goes that Misko's legendary
+  clothing collection is <0 Type='3' Data='0000'/>hidden in caves
+  throughout the land<0 Type='3' Data='ffff'/>.<0 Type='4'/>As a devotee of fashion, I intend to find
+  every last piece!
+Near_Thunder: |
+  Shivers down my spine...
+GoalPoint_01_2: |
+  <3 Type='0' Data='0a00'/>Many of <0 Type='3' Data='0000'/>Misko's treasures <0 Type='3' Data='ffff'/>are hidden
+  in caves across Eldin...but those caves
+  are <0 Type='3' Data='0000'/>white hot with bubbling lava<0 Type='3' Data='ffff'/>.
+  Unfortunately for me, I'm not dressed for
+  cave-diving. I'd hate for my outfit to catch
+  on fire.<5 Type='1'/> Again.
+RainPoint_01_2: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a005400680069006e006b00'/>Rainy days are the worst. I start the day
+  as an elegant fashionista and end it as a
+  sad, soggy mop.
+  Now I understand why Misko hid their
+  collection in caves.<5 Type='0'/> You have to keep
+  your clothes dry somehow.
+Near_GoRange_02: |
+  I hate getting wet.
+Atacked00: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0a0053006300610072006500'/>What do I do?<5 Type='1'/> I'm scared...<5 Type='1'/>
+Guardian00: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0a0053006300610072006500'/>You'd better run away too!
+GoalPoint_01_3: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>I was hoping a nice concert might help
+  perk me up.
+  
+  But the band seems busy right now.<5 Type='1'/> I'll
+  try waiting a bit. If they don't get things
+  sorted out, I can come back later.
+Near_GoalPoint_01: |
+  What if the hems singe?
+Failed00: |
+  <3 Type='0' Data='0900'/><4 Type='0' Data='100041006e006700720079005f0030003000'/>Oh, darn it!<5 Type='0'/> Why'd this happen to me?
+Atacked01: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0a0053006300610072006500'/>Hey, stop!<5 Type='1'/> Please?<5 Type='1'/>
+ComNakedCheck_W_001: |
+  <3 Type='0' Data='0900'/>Excuse me!<0 Type='4'/>Don't you think it's a little rude to talk to
+  a stylish lady like myself in such distinctly
+  UN-stylish dress?<0 Type='4'/>Sorry, I have no interest in chatting with
+  someone who thinks that underpants are
+  a worthy fashion statement.
+GoalPoint_01_4: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>I was hoping a nice concert might help
+  brighten my day.<0 Type='4'/>But it looks like the band isn't even here.
+  Just my luck.<5 Type='1'/>
+Failed01: |
+  <3 Type='0' Data='0a00'/>Owww...<5 Type='1'/> Ugh, and now my clothes are
+  all dirty too.
+EnokidaSignboard: |
+  Ah, "son and done," right?
+GoalPoint_01_5: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>Well, since I'm here, I can do my thinking
+  after I watch the band perform.
+Thanks00: |
+  <3 Type='0' Data='0700'/>You're the only reason I'm still here.<5 Type='0'/>
+  Please take this little thank-you!
+NakedPlayer: |
+  Where's the style in that?

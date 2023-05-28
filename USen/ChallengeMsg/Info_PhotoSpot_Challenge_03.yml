@@ -1,0 +1,27 @@
+Name: |
+  A Picture for Wetland Stable
+Step02: |
+  Lawdon, the owner of Wetland Stable, is
+  pleased to have a painting of the Ring Ruins
+  hanging on the wall of his establishment.
+  
+  He wants to give you a reward, but your
+  inventory is full. Be sure to trim your
+  belongings before you accept his gift.
+Step01: |
+  Lawdon, the owner of Wetland Stable, wants to
+  hang up a big painting of the Ring Ruins—one
+  that <0 Type='3' Data='0000'/>shows the ring shape of the ruins clearly<0 Type='3' Data='ffff'/>.
+  He says they can be found in Kakariko Village
+  to the southeast.
+  
+  Maybe there's a way to show a picture of the
+  ruins to Lawdon.
+Complete: |
+  Lawdon, the owner of Wetland Stable, is
+  pleased to have a painting of the Ring Ruins
+  hanging on the wall of his establishment.
+  
+  Still, he's happy to replace it with a different
+  picture of the ruins. Just show him a new image
+  and he'll make a copy to put on display.

@@ -1,0 +1,114 @@
+Near_1002: |
+  Zzz...
+Talk_2008: |
+  <3 Type='0' Data='0501'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>Hey, we are heading somewhere, right?
+Talk_1060: |
+  <3 Type='0' Data='0900'/>I really, <5 Type='0'/>REALLY hate rain!
+Near_1003: |
+  Goodniiight!
+Talk_2009: |
+  <3 Type='0' Data='0500'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Huh?<5 Type='1'/> Not in this weather!
+GoldHorse: |
+  Such a pretty color.
+LargeHorse: |
+  Very impressive...
+Talk_1050: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='0c004c0061007500670068005300'/>I had such a good day today!<0 Type='4'/>And tomorrow's looking good too.<5 Type='0'/>
+  <1 Type='1' Data='00004040'/>So<5 Type='0'/><1 Type='1' Data='0000803f'/> goodniiight!
+Near_10: |
+  Pyper...
+Near_11: |
+  Where did he go...
+Near_12: |
+  Where are we going?
+Talk_1040: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='0a0053006c00650065007000'/>Zzz...<5 Type='0'/> Pyper...
+Near_13: |
+  I'm heading back...
+Near_14: |
+  Grr...Pyper!
+Talk_1030: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='180057006f0072006b00480065006100760079005f0030003000'/>Here I go!<5 Type='0'/> I'm going to get to work and
+  put my good mood to use.
+0001: |
+  Hi! Follow me, please!
+0002: |
+  Goodbye.
+Talk_2010: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='0c004c0061007500670068005300'/>Whenever I hear the sound of Pyper's
+  flute, it brings back such sweet memories.
+Talk_1020: |
+  <3 Type='0' Data='0a00'/>I'm sure Pyper plans to rejoin the
+  musical troupe.<0 Type='4'/><3 Type='0' Data='0301'/>Maybe I'll be a little lonelier without
+  him here...<0 Type='4'/><3 Type='0' Data='0801'/><4 Type='0' Data='0c004c0061007500670068005300'/>He's always tried to keep me feeling
+  happy. I'll smile just thinking about that.
+Talk_2011: |
+  <3 Type='0' Data='0800'/>Hee-hee! <5 Type='0'/>The sound of Pyper's flute has
+  got me energized too!
+Talk_1021: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='08004500610073006500'/>His "glowing tree" was so beautiful.<0 Type='4'/><3 Type='0' Data='0801'/><4 Type='0' Data='0c004c0061007500670068005300'/>That's the best gift anyone's ever given
+  me.<5 Type='1'/> It really,<5 Type='0'/> really<5 Type='0'/> was.
+Talk_1022: |
+  <3 Type='0' Data='0800'/>And I'm doing well too!<5 Type='0'/> What a good day!
+Talk_2000: |
+  <3 Type='0' Data='0a00'/>Honestly...<5 Type='0'/> Where did Pyper go?<0 Type='4'/>*sigh*<5 Type='1'/> That "glowing tree" we've been
+  talking about... He's probably forgotten
+  his promise to show me one of those.
+Talk_1010: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>Oh,<5 Type='0'/> hello again.<0 Type='4'/><3 Type='0' Data='0301'/>Um...<5 Type='0'/> I wanted to say thank you for all
+  your help earlier.<0 Type='4'/><3 Type='0' Data='0a01'/>I was just thinking...<5 Type='0'/> I didn't tell you
+  about how I met Pyper, did I?<0 Type='4'/>Pyper reached out when I first showed
+  up looking for work.<5 Type='1'/> He knows it can be
+  lonely being new.<0 Type='4'/><3 Type='0' Data='0801'/><4 Type='0' Data='0e0045006100730065005f0030003100'/>He's so good at the flute, and he tells
+  lots of wonderful stories!<0 Type='4'/><3 Type='0' Data='0201'/>Sometimes I have to tell him to lay off the
+  pranks though.<5 Type='0'/> I mean, really...<0 Type='4'/><3 Type='0' Data='0101'/>But...<5 Type='0'/>I guess most of his jokes are pretty
+  funny. And I've never felt lonely!<0 Type='4'/>*sigh*<0 Type='4'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>I love working here. Everyone is so nice.<0 Type='4'/><3 Type='0' Data='0501'/>And that's why...<0 Type='4'/><3 Type='0' Data='0801'/>I can keep on smiling! I know I can!<0 Type='4'/><3 Type='0' Data='0a01'/><FontSize Value='80'/>Probably...<FontSize Value='100'/>
+Talk_1023: |
+  <3 Type='0' Data='0501'/><4 Type='0' Data='0a005400680069006e006b00'/>Hello, goats...<5 Type='0'/> Hello, cows...<5 Type='0'/> A very nice
+  day to you...<0 Type='4'/><3 Type='0' Data='0101'/>Yep!<5 Type='0'/> You're all looking good today.
+Talk_2001: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='0c004e006f007400690063006500'/>Oh!<5 Type='0'/> Good evening.<0 Type='4'/><3 Type='0' Data='0a01'/>Pyper isn't back, even though it's night...<5 Type='1'/>
+  Honestly, where did he go?
+Talk_2002: |
+  <3 Type='0' Data='0500'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003100'/>Huh?<5 Type='1'/> All right. What's this all about?
+BoneHorse: |
+  That thing is...rattling...
+Talk_1500: |
+  <3 Type='0' Data='0900'/>Good grief!<5 Type='0'/> Where did Pyper go?
+Talk_2003: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='0e0045006100730065005f0030003100'/>Oh. <5 Type='0'/>Goodbye.<0 Type='4'/>Um...<5 Type='0'/> If you find Pyper,<5 Type='0'/> please let
+  me know.
+Talk_1501: |
+  <3 Type='0' Data='0801'/>Doesn't a glowing tree sound pretty,
+  though? Imagine a tree twinkling away!<0 Type='4'/>I've only seen one in a picture book, but
+  I'd like to see the real thing, even if it's
+  just once.<0 Type='4'/><3 Type='0' Data='0301'/><4 Type='0' Data='08004500610073006500'/>Pyper promised to show me...<5 Type='0'/><0 Type='4'/>But then he burned down part of the
+  field here and ran off!<5 Type='1'/> What got into him?
+Talk_2004: |
+  <3 Type='0' Data='0900'/><4 Type='0' Data='100041006e006700720079005f0030003100'/>I really shouldn't go this far away. I'm
+  going to head back.
+Talk_1502: |
+  <3 Type='0' Data='0c00'/>Honestly, where has Pyper run off to?
+Talk_2005: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='0600530061006400'/>Oh, there you are...<5 Type='0'/> So, are we going
+  after all?
+WakkaCharm: |
+  You have a ring garland!
+Talk_1070: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='1200530075007200700072006900730065004c00'/>Oh nooo!<5 Type='0'/> Not rain!
+Near_1000: |
+  Hello, goats, cows...
+Talk_1503: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Hey! Can you believe it...<0 Type='4'/>My friend Pyper lit part of the field
+  outside on fire, flowers and all.<5 Type='0'/> He's
+  always trying to get a laugh out of me...
+  <3 Type='0' Data='0c01'/>But that wasn't funny. What was he
+  thinking? He said he was about to show
+  me a "glowing tree."<0 Type='4'/><3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>I mean, that sounds nice, but when I saw
+  what he was about to do...I told him
+  NOT to.
+  Still, he did. And THAT happened. And
+  now he's vanished into thin air!<0 Type='4'/>Well, given it's Pyper,<5 Type='0'/> I bet he's only
+  hiding somewhere, <0 Type='3' Data='0000'/>playing his flute<0 Type='3' Data='ffff'/>.
+Near_1001: |
+  I hate the rain...

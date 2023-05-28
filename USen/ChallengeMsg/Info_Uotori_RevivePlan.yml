@@ -1,0 +1,24 @@
+Name: |
+  Lurelin Village Restoration Project
+CollectWood: |
+  The monsters that took over Lurelin Village
+  left destroyed homes in their wake. The
+  buildings will have to be repaired before the
+  villagers can return home, and that will take
+  lots of <0 Type='3' Data='0000'/>logs <0 Type='3' Data='ffff'/>and <0 Type='3' Data='0000'/>Hylian rice<0 Type='3' Data='ffff'/>.
+  
+  Help rebuild Lurelin Village.
+Revive: |
+  You collected all the required materials and
+  gave them to Bolson. At last it's time to begin
+  the repair work.
+  
+  Follow <0 Type='3' Data='0000'/>Bolson's instructions<0 Type='3' Data='ffff'/>, and help restore
+  Lurelin Village's buildings.
+Complete: |
+  The buildings destroyed by the monsters have
+  all been repaired, and the Lurelin Village
+  reconstruction project is complete. The villagers
+  are so grateful for everything you did, they've
+  vowed to give you <0 Type='3' Data='0000'/>free access<0 Type='3' Data='ffff'/> to all of the
+  village's facilities and goods from here on out.

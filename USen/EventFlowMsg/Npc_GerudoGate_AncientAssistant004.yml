@@ -1,0 +1,88 @@
+Greeting_Evening: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Good evening.
+Fukidashi_02: |
+  Zzz... Zzz...
+Talk_05_2: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0a005400680069006e006b00'/>We used to have a fantastic cook, Fenlin,
+  but she's off visiting Gerudo Town.
+  
+  Now that I think about it, she should have
+  returned already...
+Greeting_Noon: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Good day.
+Greeting_Rain: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>It's a little chilly...
+Talk_10: |
+  <3 Type='0' Data='0700'/>Gerudo Canyon is a huge canyon to the
+  south. It leads to Gerudo Desert, where
+  you would find Gerudo Town.
+Talk_04: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0a005400680069006e006b00'/>However, lately the days in Gerudo
+  Canyon have been blisteringly hot and the
+  nights have been absolutely freezing.
+  You'll collapse before long if you aren't
+  prepared to deal with extreme weather.
+  
+  For example, I've been maintaining a
+  careful diet to help me deal with these
+  extreme temperatures.
+Talk_05: |
+  <3 Type='0' Data='0700'/>If you want to know more, chat with the
+  girl in that tent over there.
+  
+  She should be able to answer any
+  questions you have.
+Talk_11: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>Rubble and ruins have been falling all over
+  since the Upheaval, but the ruins at the
+  border are particularly immense.
+  We've set up this camp so we can carry
+  out a full investigation of that site.
+  
+  This area has a very harsh environment,
+  but we make interesting discoveries
+  every day, so it's worth it!
+Talk_12: |
+  <3 Type='0' Data='0700'/>You should keep an eye out for other
+  investigators or travelers.
+  
+  If you're going to pass through
+  Gerudo Canyon, you may find others
+  with useful information to share!
+Talk_07: |
+  <3 Type='0' Data='0700'/>If you like the unique ruins up ahead,
+  you might also be interested in visiting
+  Kakariko Village off to the east.
+  The various ruins there are fascinating,
+  and definitely worth your time.
+Talk_13: |
+  <3 Type='0' Data='0701'/>Was there anything else?
+Greeting_Midnight: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='0c005300610064005f0030003100'/>Mmm.<5 Type='1'/> What are you doing out this late?
+Talk_14: |
+  <3 Type='0' Data='0700'/>Give me a chance to get where I am
+  going, all right?
+0000: |
+  Giant ruins?
+Talk_09: |
+  <3 Type='0' Data='0700'/>Ah, it's the young fellow from before.
+  
+  
+  If you have some time, you should go take
+  a look at the giant ruins on the border of
+  Gerudo Canyon. They are quite a sight!
+0001: |
+  Gerudo Canyon?
+Greeting_Morning: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Good morning.
+Talk_00: |
+  <3 Type='0' Data='0700'/>Oho...<5 Type='1'/> Might you be a traveler?
+  
+  
+  I'm camping here so I can investigate
+  the giant ruins that fell at the entrance to
+  Gerudo Canyon, just up ahead.
+0002: |
+  Goodbye.
+Fukidashi_01: |
+  Fascinating...

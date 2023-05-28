@@ -1,0 +1,18 @@
+Name: |
+  WANTED: Stone Talus 
+Report: |
+  Gralens of the monster-control crew in
+  Lookout Landing told you about a Stone Talus.
+  
+  You defeated it at North Akkala Foothill.
+Defeat: |
+  Gralens of the monster-control crew at
+  Lookout Landing told you that the team
+  discovered a <0 Type='3' Data='0000'/>Stone Talus<0 Type='3' Data='ffff'/>.
+  
+  This huge boulder-like monster was spotted
+  at North Akkala Foothill in Akkala.
+Complete: |
+  You reported your victory over the Stone Talus
+  at North Akkala Foothill to Gralens at
+  Lookout Landing.

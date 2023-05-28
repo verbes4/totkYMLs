@@ -1,0 +1,165 @@
+GoalPoint_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Raffish hairstyle aside, I am in fact a
+  doctor. <5 Type='0'/>Really! I'll prove it by teaching
+  you how to make elixirs.
+  The explanation is rather long, so you may
+  want to write it down. <5 Type='0'/>*ahem*
+  
+  Step one—<5 Type='0'/>simmer <0 Type='3' Data='0000'/>bugs <0 Type='3' Data='ffff'/>and <0 Type='3' Data='0000'/>monster parts<0 Type='3' Data='ffff'/>
+  in a <0 Type='3' Data='0000'/>pot<0 Type='3' Data='ffff'/>.
+  
+  Oh... That's it. <5 Type='1'/>Didn't take as long as
+  I was expecting.
+  
+  <4 Type='0' Data='0a0048006100700070007900'/>You can yield different medicines
+  depending on the ingredients' properties,
+  so please, experiment at will!
+GoRange_01: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='0a005400680069006e006b00'/>We're close now—<5 Type='0'/>very near the <0 Type='3' Data='0000'/>chasm<0 Type='3' Data='ffff'/>.<5 Type='1'/>
+  But I think perhaps I won't go closer.
+  
+  I'd hate to get hurt and bring my travels
+  to a premature end.
+GoRange_02_2: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Among all the <0 Type='3' Data='0000'/>fallen ruins <0 Type='3' Data='ffff'/>here in the
+  <0 Type='3' Data='0000'/>Lanayru Wetlands<0 Type='3' Data='ffff'/>, there's said to be a
+  structure big enough to walk around in.
+  The trick would be knowing how to get
+  inside... Which I don't.
+GoRange_02: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>A number of <0 Type='3' Data='0000'/>ruins<0 Type='3' Data='ffff'/> fell from the sky and
+  landed here in the <0 Type='3' Data='0000'/>Lanayru Wetlands<0 Type='3' Data='ffff'/>.
+  
+  They range from small fragments to huge
+  pieces of debris. I hear you can even go
+  inside one of them!
+  <3 Type='0' Data='0500'/>Intrigued as I am, I'm not sure I'd know
+  how to enter an ancient <0 Type='3' Data='0000'/>ruin<0 Type='3' Data='ffff'/>.
+BackRange_01_2: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Everyone's talking about the <0 Type='3' Data='0000'/>chasm <0 Type='3' Data='ffff'/>that
+  was found on <0 Type='3' Data='0000'/>Mercay Island<0 Type='3' Data='ffff'/>.
+  
+  I would love to go, but...<5 Type='1'/>it's sure to be
+  quite the health hazard.
+Near_StartPoint_01: |
+  It's a doctor's dream!
+Comment_01: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>I know you... <5 Type='0'/>We met that one time,
+  didn't we?
+  
+  <3 Type='0' Data='0701'/>You know. <5 Type='0'/>After my interview with <0 Type='3' Data='0000'/>Josha<0 Type='3' Data='ffff'/>
+  for the <0 Type='3' Data='0000'/>chasm researcher position<0 Type='3' Data='ffff'/>.
+  
+  <0 Type='3' Data='0200'/><FontSize Value='80'/>When I walked away a miserable failure...<FontSize Value='100'/><0 Type='3' Data='ffff'/>
+  
+  
+  Quite a tough interviewer, Josha was.
+  I doubt even the most gifted scientific
+  mind could have held up to her scrutiny.
+StartPoint_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>You may look at me and think, <5 Type='0'/>"That
+  man is not a doctor." <5 Type='0'/>But in fact, that is
+  precisely my vocation.
+  And being somewhat not-young, I feel an
+  urgency to make a lasting mark on the
+  profession before my sunset years.
+  That was why I volunteered for the
+  <0 Type='3' Data='0000'/>Zonai Survey Team<0 Type='3' Data='ffff'/>.
+  
+  You see, I believe that new elixirs and
+  remedies might be derived from the <0 Type='3' Data='0000'/>plant
+  and animal life <0 Type='3' Data='ffff'/>found in <0 Type='3' Data='0000'/>chasms<0 Type='3' Data='ffff'/>.<5 Type='1'/>
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>That's why I'm here. This is my chance to
+  be on the ground floor of the new field of
+  chasm medicine!
+Comment_02: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Huh? <5 Type='0'/>You?! <5 Type='0'/>It's fate!
+StartPoint_01_2: |
+  <3 Type='0' Data='0d00'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>It is my belief that new elixirs might be
+  derived from the <0 Type='3' Data='0000'/>plant and animal life<0 Type='3' Data='ffff'/>
+  found in <0 Type='3' Data='0000'/>chasms<0 Type='3' Data='ffff'/>.
+Comment_03: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>I know you... <5 Type='0'/>We met once before,
+  didn't we?
+  
+  <3 Type='0' Data='0701'/>Yes, I remember now! <5 Type='0'/>I ran into you
+  after my interview with <0 Type='3' Data='0000'/>Josha <0 Type='3' Data='ffff'/>for the
+  <0 Type='3' Data='0000'/>chasm-researcher position<0 Type='3' Data='ffff'/>.
+  Quite a tough interviewer, Josha was.
+  I wonder who could possibly have held up
+  to her scrutiny.
+BackRange_01: |
+  <3 Type='0' Data='0700'/>Are you familiar with<0 Type='3' Data='0000'/> Mercay Island<0 Type='3' Data='ffff'/>?<5 Type='1'/>
+  A <0 Type='3' Data='0000'/>chasm<0 Type='3' Data='ffff'/> was just discovered there.<5 Type='1'/>
+  
+  A deep, gaping hole that's bound to be
+  full of undiscovered <0 Type='3' Data='0000'/>plant and animal life<0 Type='3' Data='ffff'/>!
+  
+  <3 Type='0' Data='0c01'/>I would simply love to explore it...<5 Type='1'/>were it
+  not a surefire way to get myself killed.
+Near_GoRange_01: |
+  Chasms... Not very safe.
+Near_BackRange_01: |
+  Mercay Island, huh?
+RestPoint_01_2: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>The best remedy for low stamina is a
+  good night's rest in one of the stables'
+  <0 Type='3' Data='0000'/>Malanya beds<0 Type='3' Data='ffff'/>.
+  <FontSize Value='80'/><0 Type='3' Data='0200'/>Side effects may include hearing a strange voice in
+  your sleep...<0 Type='3' Data='ffff'/><FontSize Value='100'/>
+BackRange_02: |
+  <3 Type='0' Data='0700'/>Among the <0 Type='3' Data='0000'/>ruins<0 Type='3' Data='ffff'/> that fell in the <0 Type='3' Data='0000'/>Lanayru
+  Wetlands<0 Type='3' Data='ffff'/>, there are large pieces of debris.
+  
+  Apparently one structure there is so large,
+  you can even walk around inside it.
+  
+  <3 Type='0' Data='0500'/>It's like a gift from the sky to explorers
+  everywhere.
+Near_GoRange_02: |
+  Lots of ruins around here.
+Near_BackRange_02: |
+  Could it be true?
+RainPoint_01_2: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Rain covers up the sound of footsteps.<5 Type='0'/>
+  It's ideal for evading notice by monsters.
+GoRange_01_2: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a005400680069006e006b00'/>I came to see the <0 Type='3' Data='0000'/>chasm<0 Type='3' Data='ffff'/> nearby, but now
+  that I'm here, I think I ought to turn back.
+  
+  What if I got too close and fell in?<5 Type='0'/>
+  I might get hurt!
+RestPoint_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1000540069007200650064005f0030003100'/>I must admit...<5 Type='1'/>all this walking has worn me
+  out.<5 Type='1'/> I long for a cozy bed at the stable.
+  
+  Since I'm low on stamina, I may treat
+  myself to a <0 Type='3' Data='0000'/>Malanya bed<0 Type='3' Data='ffff'/>. Then I'll wake
+  up good and refreshed!
+  <FontSize Value='80'/><0 Type='3' Data='0200'/>I'll also hear a strange voice in my sleep, but that's
+  neither here nor there...<0 Type='3' Data='ffff'/><FontSize Value='100'/>
+BackRange_02_2: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Among all the <0 Type='3' Data='0000'/>fallen ruins <0 Type='3' Data='ffff'/>in the <0 Type='3' Data='0000'/>Lanayru
+  Wetlands<0 Type='3' Data='ffff'/>, there's said to be a structure
+  big enough to walk around in.
+Near_RestPoint_01: |
+  We all need our rest.
+Near_Thunder: |
+  Watch for lightning strikes.
+GoalPoint_01_2: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>By simmering <0 Type='3' Data='0000'/>bugs<0 Type='3' Data='ffff'/> and <0 Type='3' Data='0000'/>monster parts<0 Type='3' Data='ffff'/> in
+  a <0 Type='3' Data='0000'/>pot<0 Type='3' Data='ffff'/>, you can make <0 Type='3' Data='0000'/>elixirs<0 Type='3' Data='ffff'/> with a variety
+  of benefits.
+RainPoint_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Most people seem to dislike rain, but
+  I've always been a fan.<5 Type='0'/>
+  
+  <3 Type='0' Data='0101'/>After all, rain covers up the sound of
+  footsteps. It's perfect for walking past
+  monsters without being noticed.
+Near_RainPoint_01: |
+  Rain isn't so bad.
+Near_Rain: |
+  I'll stay where it's dry.
+Near_GoalPoint_01: |
+  Short on elixirs?

@@ -1,0 +1,43 @@
+GoTemple: |
+  You found one of the mysterious Dragon's
+  Tears within a geoglyph and received a vision
+  about <0 Type='3' Data='0000'/>Princess Zelda<0 Type='3' Data='ffff'/> by investigating it.
+  
+  Impa thinks that the mystery of the geoglyphs
+  might connect to something that's inside the
+  Forgotten Temple. It's located somewhere
+  along the <0 Type='3' Data='0000'/>bottom of a canyon in Hebra<0 Type='3' Data='ffff'/>.
+Name: |
+  The Dragon's Tears
+Step01: |
+  Inside the Forgotten Temple is a map of Hyrule
+  and 11 murals related to the geoglyphs.
+  It seems that these geoglyphs appeared in
+  various places after the Upheaval when
+  Princess Zelda went missing.
+  
+  You have <0 Type='3' Data='0000'/><2 Type='14' Data='320052006500730069006400750065005f004d0065006d006f00720079004f00660054006800650044007200610067006f006e00ffff00cd'/> <201 Type='6' Data='1000670065006f0067006c007900700068001200670065006f0067006c0079007000680073000000'/> <0 Type='3' Data='ffff'/>left to investigate.
+Complete: |
+  You visited all the geoglyphs and witnessed all
+  the memories in the Dragon's Tears. These
+  visions showed you Princess Zelda sacrificing
+  herself, becoming the Light Dragon, and hoping
+  to eventually entrust the Master Sword to you.
+  You must honor the princess's wish, somehow.
+GoTemple2: |
+  You saw Cado at the entrance to the Forgotten
+  Temple. He said that he's come here with Impa
+  to find <0 Type='3' Data='0000'/>something inside that's connected to
+  the geoglyphs<0 Type='3' Data='ffff'/>. She's apparently gone deeper
+  into the temple.
+  
+  See what you can discover in this mysterious
+  place.
+Step2: |
+  You visited all 11 geoglyphs and witnessed all
+  the memories in the Dragon's Tears. Afterward,
+  a Light Dragon appeared above you and shed a
+  new tear.
+  
+  The tear seems to have fallen to the <0 Type='3' Data='0000'/>Rist
+  Peninsula <0 Type='3' Data='ffff'/>in the <0 Type='3' Data='0000'/>Akkala <0 Type='3' Data='ffff'/>region.

@@ -1,0 +1,23 @@
+Name: |
+  Piaffe, Packed Away
+Step1: |
+  Gerudo Canyon Stable is being shut down
+  after the abnormal weather dried up their
+  supply of customers.
+  
+  Unfortunately for Piaffe, the building is packed
+  full of rubbish and he can't bring himself to
+  clean it all up. It's a tough situation to be in
+  when he's supposed to <0 Type='3' Data='0000'/>dispose of it all<0 Type='3' Data='ffff'/>.
+Reward: |
+  Piaffe offered you a <0 Type='3' Data='0000'/>Pony Point<0 Type='3' Data='ffff'/> as thanks for
+  helping clean up the stable.
+  
+  However, because Gerudo Canyon Stable is
+  officially shut down, you'll need to register as
+  a stable member somewhere else.
+Complete: |
+  You tidied the clutter filling up the stable.
+  Now Gerudo Canyon Stable can finally close its
+  doors once and for all. Piaffe was appreciative,
+  but he also seemed a little sad...

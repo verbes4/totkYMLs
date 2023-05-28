@@ -1,0 +1,109 @@
+RainPoint_01_2: |
+  <3 Type='0' Data='0700'/>Once I spruce up my wardrobe with a few
+  Misko pieces, maybe I'll go west to <0 Type='3' Data='0000'/>Lucky
+  Clover Gazette<0 Type='3' Data='ffff'/>.
+  <3 Type='0' Data='0800'/>They've got a set of <0 Type='3' Data='0000'/>froggy clothes<0 Type='3' Data='ffff'/> there.
+  Wouldn't it be nice to travel through the
+  rain in comfort?
+Talk_001_2: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0e00540072006f00750062006c006500'/>I'm sorry to say that I don't have any
+  info on <0 Type='3' Data='0000'/>Misko's treasure <0 Type='3' Data='ffff'/>right now...<0 Type='4'/>I went out west to a <0 Type='3' Data='0000'/>cave near Foothill
+  Stable<0 Type='3' Data='ffff'/> to ask those treasure-hunting
+  brothers to share what they'd heard...
+  But they wouldn't tell me anything. So
+  much for respecting your elders...
+Talk_01_3: |
+  <3 Type='0' Data='0000'/>Y'know, those clothes really do look
+  froggy. A perfect design for a rainy day.<0 Type='4'/><3 Type='0' Data='0801'/>That's a great outfit, fella! You're making
+  an old man jealous.
+Near_Rain: |
+  Gotta go!
+Talk_001: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0c005300610064005f0030003100'/>Wellll, truth be told, I don't have any
+  information to share.<0 Type='4'/>Wish I could say different. I heard tell that
+  this pair of treasure-hunting brothers
+  might have a lead...<0 Type='4'/>But I went way out west to <0 Type='3' Data='0000'/>the cave near
+  Foothill Stable <0 Type='3' Data='ffff'/>to talk to them, and
+  they still wouldn't tell me anything.
+Talk_01_4: |
+  <3 Type='0' Data='0700'/>At first I thought I might ask the horse
+  god <0 Type='3' Data='0000'/>Malanya<0 Type='3' Data='ffff'/> to grant my wish.<0 Type='4'/>But I'm too scared to get any closer, so
+  I'll just do my wishing from here...
+GoalPoint_01_3: |
+  <3 Type='0' Data='0701'/>That's why I plan on going to <0 Type='3' Data='0000'/>East Akkala
+  Stable<0 Type='3' Data='ffff'/> and making a wish to the horse
+  god Malanya. Maybe he can guide me!<0 Type='3' Data='0000'/><0 Type='3' Data='ffff'/>
+  East Akkala Stable is an establishment on
+  the <0 Type='3' Data='0000'/>eastern edge <0 Type='3' Data='ffff'/>of Hyrule.<0 Type='4'/>Sure, I might have been tricked into
+  going, but I've always wanted to see
+  what the <0 Type='3' Data='0000'/>northeast<0 Type='3' Data='ffff'/> had to offer.
+  There's joy in any journey, so long as
+  you look.
+GoRange_03: |
+  <3 Type='0' Data='0701'/>I went to <0 Type='3' Data='0000'/>East Akkala Stable<0 Type='3' Data='ffff'/> to make a
+  wish to the horse god <0 Type='3' Data='0000'/>Malanya<0 Type='3' Data='ffff'/>.<0 Type='4'/>I asked him to help me find the treasure!<0 Type='4'/><3 Type='0' Data='0800'/>Wishes are tricky things. If it doesn't
+  come true right away, I can always go
+  back and make the wish again!
+  Besides, this gives me a chance to finally
+  explore the <0 Type='3' Data='0000'/>northeast<0 Type='3' Data='ffff'/>. <5 Type='0'/>There's joy in the
+  journey, treasure or no treasure.
+Talk_01_5: |
+  <3 Type='0' Data='0000'/>I just remembered something.
+Near_StartPoint_01: |
+  I'll just wish from here...
+Near_RestPoint_01: |
+  That's a looong swim.
+talk00: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Hey, I know you!<5 Type='0'/> You're the fella who
+  showed the All-Clucking Cucco for what
+  it was. <5 Type='0'/>A sham. A Yiga Clan trap.
+  I would have stayed fooled, if not for you.
+  So...thanks!
+  
+  Still, I couldn't help wondering if there
+  might've something to that prophecy.<5 Type='1'/>
+  Now here I am, in Akkala.
+  <3 Type='0' Data='0700'/>Have you ever heard of <0 Type='3' Data='0000'/>Misko's treasure<0 Type='3' Data='ffff'/>?<5 Type='0'/>
+  It's a <0 Type='3' Data='0000'/>collection of rare clothes<0 Type='3' Data='ffff'/> gathered
+  up and hidden away by the bandit Misko!
+  <3 Type='0' Data='0800'/>I'm fairly sure a piece of that treasure is
+  tucked away in a cave here in Akkala!
+  
+  You helped me out of a jam, so I'll tell you
+  everything I know. If you're interested,
+  just ask!
+RestPoint_01_2: |
+  <3 Type='0' Data='0700'/>Rumor has it there are rare clothes
+  stashed somewhere on Lomei Labyrinth
+  Island <0 Type='3' Data='0000'/>northeast<0 Type='3' Data='ffff'/> of here.
+  But it's so far off coast, there's no way to
+  swim there. You'd need an <0 Type='3' Data='0000'/>undersea
+  tunnel<0 Type='3' Data='ffff'/> or something to reach it.
+Near_GoalPoint_01: |
+  I want that treasure.
+Near_RainPoint_01: |
+  Rainy-day clothes...
+RestPoint_01: |
+  <3 Type='0' Data='0701'/>Rumor has it there are rare clothes
+  stashed somewhere on Lomei Labyrinth
+  Island <0 Type='3' Data='0000'/>northeast<0 Type='3' Data='ffff'/> of here.
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='1600540061006c006b00440065006e0079005f0030003000'/>But it's waaay out in the ocean. <5 Type='0'/>If I tried
+  swimming there, I'd end up very drowned.
+  
+  Makes you wish there was an <0 Type='3' Data='0000'/>undersea
+  tunnel <0 Type='3' Data='ffff'/>between here and there, huh?
+talk02: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hey, fella! <5 Type='1'/>Want me to bend your ear
+  about <0 Type='3' Data='0000'/>Misko's treasure<0 Type='3' Data='ffff'/>?
+RainPoint_01: |
+  <3 Type='0' Data='0701'/>You ever wear <0 Type='3' Data='0000'/>froggy clothes<0 Type='3' Data='ffff'/>? <5 Type='0'/>They're
+  said to keep you nice and comfortable
+  when it's raining. Like now.
+  <3 Type='0' Data='0500'/>There are some on display at the Lucky
+  Clover Gazette, I hear, but that's so far
+  to the <0 Type='3' Data='0000'/>west<0 Type='3' Data='ffff'/>. All the way in Hebra!
+RainPoint_02: |
+  <3 Type='0' Data='0000'/>Now, this has nothing to do with any of
+  Misko's outfits, but...
+Near_Thunder: |
+  Ugh! Lightning!

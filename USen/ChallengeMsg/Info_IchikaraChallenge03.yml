@@ -1,0 +1,12 @@
+Search: |
+  Hagie was scheming to sell off a strange rock
+  for <0 Type='3' Data='0000'/>100 rupees<0 Type='3' Data='ffff'/>, but his wife Ruli chided him,
+  and he lowered it to <0 Type='3' Data='0000'/>50 rupees<0 Type='3' Data='ffff'/> instead.
+Name: |
+  Rock for Sale
+Complete: |
+  You bought the weird rock from Hagie for <0 Type='3' Data='0000'/>50
+  rupees<0 Type='3' Data='ffff'/>.
+  
+  If his wife Ruli hadn't intervened, you might
+  have had to pay <0 Type='3' Data='0000'/>100 rupees<0 Type='3' Data='ffff'/>.

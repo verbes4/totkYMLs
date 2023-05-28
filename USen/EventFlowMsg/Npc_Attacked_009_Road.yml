@@ -1,0 +1,149 @@
+GoalPoint_01: |
+  <3 Type='0' Data='0c00'/>Parts of this bridge are missing. Is it
+  really...<5 Type='0'/>safe to cross?
+  
+  It'd be the worst to end my long journey
+  in search of mushrooms here.
+GoRange_01: |
+  <3 Type='0' Data='0700'/>I think you know this, but within that one
+  beautiful word "mushroom," there's
+  room for many varieties.<0 Type='4'/>They grow in different places... They have
+  different effects...
+  
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004c0061007500670068005300'/>But each kind has its uses as you travel,
+  so collect them as you go, and you'll
+  never be disappointed!
+GoRange_02_2: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0a005400680069006e006b00'/>I'm not great with high-up places. But
+  I can cross as long as I don't look down.
+  Isn't that what you do?
+GoRange_02: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0a005400680069006e006b00'/>I can't say I'm great with high-up places.
+  But as long as I don't look down, I'll be
+  fine, right?
+  There is no down. Never heard of it.<5 Type='0'/>
+  Only up.
+BackRange_01_2: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>I wonder if mushrooms grow on the
+  islands in the sky. I'm curious, but I'll
+  never have a way to get up there.
+Near_StartPoint_01: |
+  Anything on mushrooms?
+StartPoint_01: |
+  <3 Type='0' Data='0700'/>I've got to say I think it's strange that
+  the newspaper doesn't devote coverage
+  to mushrooms. Very odd, right?
+  Mushrooms are so useful. They have all
+  kinds of effects. But the paper just won't
+  write about any of that.
+GoRange_03: |
+  <3 Type='0' Data='0700'/>They say that a big ruin just dropped right
+  out of the sky onto a hill near here!
+  
+  I'd like to see it for myself, but the way
+  there is too steep. I can't climb it.<5 Type='1'/>
+  
+  What's the world coming to—ruins just
+  falling out of the sky? Think of the poor
+  mushrooms. They'll be crushed!
+BackRange_03_2: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='0c004c0061007500670068005300'/>If you combine mushrooms with other
+  ingredients, you can make all sorts
+  of delicious dishes. Try it!
+StartPoint_01_2: |
+  <3 Type='0' Data='0700'/>The newspaper really needs to put out
+  news about the uses of mushrooms!
+BackRange_01: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>I wonder if mushrooms grow even on
+  those islands up in the sky.
+  
+  Not that I have a way of getting there.
+  Besides, I've got a long way to go just
+  hunting for mushrooms down here!
+Near_GoRange_01: |
+  Mushrooms are so useful!
+Near_BackRange_01: |
+  Are they up there too?
+RestPoint_01_2: |
+  <3 Type='0' Data='0a00'/>Rain is great for mushroom growth,
+  just not for mushroom hunting.
+  
+  It's making the cliffs and stuff all slippery!
+  Will it stop now, please?
+BackRange_02: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0600530061006400'/>You'd think I'd be fine on this bridge.
+  I've crossed it before.
+  
+  All the same, I'm way too scared to
+  look down.<5 Type='1'/>
+Near_GoRange_02: |
+  Don't look down...
+Near_BackRange_02: |
+  Not scared, not scared...
+GoRange_01_2: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0c004c0061007500670068005300'/>Gather mushrooms as you go. You'll
+  never be sorry if you do. They have so
+  many uses.
+BackRange_03: |
+  <3 Type='0' Data='0700'/>The thing with mushrooms is there are
+  many ways to prepare them.<5 Type='1'/> Just baking
+  a mushroom is very tasty.
+  But they're even more delicious if you
+  combine them with other ingredients.
+Near_GoRange_03: |
+  Who needs ruins?
+Near_BackRange_03: |
+  Mushrooms, so healthy!
+GoRange_03_2: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>A big ruin fell from the sky and landed
+  right on top of a hill near here!
+  
+  I wouldn't mind seeing it, but I can't climb
+  up there, and it's dangerous. Safer to stay
+  here and hunt for mushrooms in peace!
+RestPoint_01: |
+  <3 Type='0' Data='0700'/>Say, did you know that rain is essential
+  for mushroom growth?
+  
+  <3 Type='0' Data='0a01'/>But it does make cliffs and stuff all
+  slippery, which really messes up my
+  mushroom-hunting game.
+  So while I'm grateful for the rain, I wish
+  it would stop now.
+BackRange_02_2: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0600530061006400'/>I should be fairly used to the height.
+  But no! I'm scared to look down.<5 Type='0'/>
+Near_Thunder: |
+  Lightning! Scary!
+GoalPoint_01_2: |
+  <3 Type='0' Data='0c00'/>With parts of this bridge missing, it is
+  actually safe to cross? I have so many
+  more mushrooms to find on my journey.
+FriendGreet_00: |
+  <3 Type='0' Data='0100'/>Hey, thanks for sharing your mushrooms
+  and getting my tent back!
+  
+  It's because of you that the mushroom-
+  haven mystery is solved!
+  
+  Now I'm traveling the world in search of
+  mushrooms I've never seen before.
+  
+  <3 Type='0' Data='0700'/>My sister, Nat, and I have split up to go
+  on separate mushrooms hunts, so I'm
+  on my own.<0 Type='4'/>But we promised to share whatever we've
+  gathered once we're reunited!
+FriendGreet_01: |
+  <3 Type='0' Data='0100'/>Are you still collecting mushrooms too?
+  
+  
+  My sister, Nat, and I are on separate
+  journeys to hunt for mushrooms we
+  haven't ever seen before!<5 Type='1'/>
+Near_Rain: |
+  Hope I don't catch a cold.
+Greeting: |
+  <3 Type='0' Data='0800'/>Wow! Who'd have thought I'd run into
+  you again...
+Near_GoalPoint_01: |
+  Can I cross this?

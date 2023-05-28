@@ -1,0 +1,75 @@
+near_02: |
+  An apple could work...
+Talk_1_2: |
+  <3 Type='0' Data='0a01'/>I'm plumb out of <0 Type='3' Data='0000'/>apples<0 Type='3' Data='ffff'/>! If I don't have my
+  most important ingredient, say goodbye to
+  rich, full flavor!
+Talk_1_10: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>I like to make a big deal out of it, but...
+  
+  
+  Anyone can make it. All you need is an
+  apple, a mushroom, and a pot.
+  
+  <3 Type='0' Data='0701'/>You should try making some!
+Talk_1_11: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>Mmm... My nose is detecting an aroma, a
+  sweet, tangy, pleasant aroma.<5 Type='1'/> Could it
+  be?<5 Type='1'/> Do you have an <0 Type='3' Data='0000'/>apple<0 Type='3' Data='ffff'/>?
+Talk_1_4: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>I thought I was so ready to energize folks
+  around here with my <0 Type='3' Data='0000'/>fruit and mushroom
+  mix<0 Type='3' Data='ffff'/>...
+  But I've got no <0 Type='3' Data='0000'/>apples<0 Type='3' Data='ffff'/>! I'm missing my
+  most important ingredient!
+Talk_1_12: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0c005300610064005f0030003000'/>Right. Of course. As if you'd just magically
+  have one... My nose is rarely mistaken, 
+  but I understand.
+  Now, if you did have an <0 Type='3' Data='0000'/>apple<0 Type='3' Data='ffff'/>, I'd let you
+  in on some <0 Type='3' Data='0000'/>fruit and mushroom mix<0 Type='3' Data='ffff'/>
+  goodness. So keep that in mind.
+Talk_1_5: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003000'/>Wow! You're really generous!<0 Type='4'/><3 Type='0' Data='0801'/>I'm giving you first crack at some grub.
+  Hold on a sec!
+Talk_1_13: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>It, uh, seems like your pouch is full.
+  
+  
+  If you want to sample my fabulous
+  cooking, you'll need to be able to hold it!
+Talk_1_14: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>New kid! It looks like you cleared some
+  space in your pouch.
+  
+  I'll get on with the cooking right away!
+Talk_1_6: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>If I just had an <0 Type='3' Data='0000'/>apple<0 Type='3' Data='ffff'/>, I could whip up
+  some <0 Type='3' Data='0000'/>fruit and mushroom mix<0 Type='3' Data='ffff'/>...
+Talk_1_15: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='12004c0061007500670068004c005f0030003100'/>It'll be better for both of us if you sample
+  my cooking while it's piping hot!
+  
+  Hurry up, and clear some space in your
+  pouch so I can get cooking!
+Talk_1_9: |
+  <3 Type='0' Data='0801'/>I'm calling it "Burmano's special fruit and
+  mushroom mix"! Looks tasty, doesn't it?
+0000: |
+  Take this.
+0001: |
+  Don't give up.
+near_01: |
+  Healthy cooking... Hmm...
+Talk_1_1: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='100041006e006700720079005f0030003000'/>Hey, are you new here? You may scoff,
+  but I know a fresh face when I see one.<0 Type='4'/><3 Type='0' Data='0801'/>I can say that because I'm a newcomer
+  too! My name's Burmano, and they put
+  me in charge of cooking for some reason.
+  I want to say something fancy like, "For
+  today's menu, we have a <0 Type='3' Data='0000'/>fruit and
+  mushroom mix<0 Type='3' Data='ffff'/> that'll rev you right up!"<5 Type='1'/>
+  <3 Type='0' Data='0701'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>Yeah... I was really looking forward to
+  saying that, but...
+0002: |
+  I don't have one.

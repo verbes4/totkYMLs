@@ -1,0 +1,111 @@
+talk0000: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>Hm? Another Hylian, huh?
+  
+  
+  I commend you and those merchants
+  for making it here under these
+  abnormal conditions...
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='0c005300610064005f0030003100'/>But the area south of <0 Type='3' Data='0000'/>Kara Kara Bazaar<0 Type='3' Data='ffff'/> is
+  covered by the <0 Type='3' Data='0000'/>sand shroud<0 Type='3' Data='ffff'/> right now, so
+  visibility is extremely low.
+  Then there are the eyewitness reports of
+  <0 Type='3' Data='0000'/>strange monsters<0 Type='3' Data='ffff'/>. I won't think any less
+  of you if you call off your trip here.
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Besides, this oasis is under the protection
+  of us Gerudo soldiers, so you know it's
+  a safe place to rest and relax!
+talk0001: |
+  <3 Type='0' Data='0900'/><4 Type='0' Data='0e005000610069006e00660075006c00'/>Urgh... These monsters are relentless...<5 Type='0'/>
+  <0 Type='3' Data='0000'/>Where<0 Type='3' Data='ffff'/> are these swarms coming from?!
+talk0002: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Let me thank you again for helping us
+  clear those monsters out of here!
+  
+  Some of my fellow guards were slacking
+  off before, but ever since the battle,
+  everyone's regained their focus!
+  We won't be letting any more monsters
+  into this oasis!
+  
+  <4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>So, go relax and let the stresses of battle
+  melt away. We have things covered
+  around here.
+talk0003: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0600530061006400'/>The area south of this oasis is cloaked in
+  a <0 Type='3' Data='0000'/>sand shroud<0 Type='3' Data='ffff'/>, and there's no end to the
+  reports of <0 Type='3' Data='0000'/>strange monsters <0 Type='3' Data='ffff'/>nearby.
+  <3 Type='0' Data='0701'/>But you're safe here in <0 Type='3' Data='0000'/>Kara Kara Bazaar<0 Type='3' Data='ffff'/>!
+  
+  
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>That's because our protection is flawless!<5 Type='0'/>
+  So you can relax and unwind from your
+  travels without a care in the world!
+AssassinClothes: |
+  One of you...
+talk0004: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Some of the guards were slacking off
+  before, but they've all regained their
+  focus since the battle!
+  And now with the sand shroud gone, we
+  can see threats coming from farther away!
+  
+  We won't be letting any more monsters
+  into this oasis, that's for sure.
+  
+  <4 Type='0' Data='1000480061007000700079005f0030003100'/>So, you have nothing to worry about. Go
+  relax, and let the strain of battle melt off
+  of you.
+talk0010: |
+  <3 Type='0' Data='0900'/>You are not welcome here.
+  
+  
+  Get lost before I misplace my spear.<5 Type='1'/>
+  In you.
+talk0011: |
+  <3 Type='0' Data='0900'/>It's pretty foolish for you to show up
+  here, Yiga.
+  
+  If it weren't for the innocents around who
+  might flinch at the sight of blood, I would
+  cut you down right now.
+  Leave before I change my mind.
+near0000: |
+  Now what are they up to?
+talk0006: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='10004700720065006500740069006e006700'/>The battle against the Gibdos has
+  renewed our focus. We won't be letting
+  any more monsters into this place.
+  So, go relax and let the stresses of battle
+  melt away.
+talk0012: |
+  <3 Type='0' Data='0900'/>I don't know what you think you're doing,
+  but you are not welcome.
+  
+  Leave at once, or I will make you regret
+  your decision to come here.
+near0001: |
+  Hyah!
+talk0007: |
+  <3 Type='0' Data='0900'/>I've got nothing to say to the likes of you.
+  Get out of my sight.
+near0002: |
+  It's important to stay alert.
+talk0008: |
+  <3 Type='0' Data='0b00'/>A member of the Yiga Clan? What are you
+  doing here?
+  
+  It would not be appropriate for me to cut
+  you down without a warning, so consider
+  this the warning.
+  <3 Type='0' Data='0900'/>Leave at once.
+talk0009: |
+  <3 Type='0' Data='0900'/>How dare you show yourself here.
+  
+  
+  If it were up to me, I would attack you
+  without a second thought.
+  
+  But people come here to rest, and I do
+  not want to disrupt that peace if I don't
+  have to.
+  <3 Type='0' Data='0900'/>So leave.<5 Type='1'/> Immediately.

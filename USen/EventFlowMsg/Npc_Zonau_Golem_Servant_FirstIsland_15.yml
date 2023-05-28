@@ -1,0 +1,76 @@
+talk_02: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>I hope you brought <0 Type='3' Data='0000'/>brightbloom seeds<0 Type='3' Data='ffff'/>.
+0003: |
+  Brightbloom seeds?
+talk_03: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>The path to the mining site ahead is
+  a dark cave. I hope you brought
+  <0 Type='3' Data='0000'/>brightbloom seeds<0 Type='3' Data='ffff'/>.
+0004: |
+  Yes, I did.
+talk_04: |
+  <3 Type='0' Data='0701'/>The glowing flowers there are
+  <0 Type='3' Data='0000'/>brightblooms<0 Type='3' Data='ffff'/>.<5 Type='0'/><0 Type='4'/>They <0 Type='3' Data='0000'/>shine very brightly<0 Type='3' Data='ffff'/>. <5 Type='0'/>Many use them
+  as illumination in dark places.
+talk_10: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a0048006100700070007900'/>That is excellent. <5 Type='1'/>A light will be necessary
+  in order to see anything past here.<0 Type='4'/><0 Type='3' Data='0000'/>Brightbloom seeds<0 Type='3' Data='ffff'/> grow primarily in
+  <0 Type='3' Data='0000'/>caves<0 Type='3' Data='ffff'/>. <5 Type='0'/>There was a time once when they
+  grew here as well.<0 Type='4'/>But this cave is largely empty of the seeds
+  by now. <5 Type='0'/>My associates took most of them
+  due to their pressing needs.<0 Type='4'/><3 Type='0' Data='0700'/>Do not forget to bring some if you intend
+  to venture inside.
+talk_05: |
+  <3 Type='0' Data='0700'/>This cave is especially dark.<0 Type='4'/>You will need a light in order to proceed
+  to the mining site ahead. <5 Type='0'/>Do you have any
+  <0 Type='3' Data='0000'/>brightbloom seeds<0 Type='3' Data='ffff'/>?
+talk_11: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>It seems you are unaware of
+  <0 Type='3' Data='0000'/>brightbloom seeds<0 Type='3' Data='ffff'/>.
+talk_06: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Please wait.
+talk_12: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0701'/>Brightbloom seeds<0 Type='3' Data='ffff'/> grow primarily in
+  caves. <5 Type='0'/>There was a time once when they
+  grew here as well.<0 Type='4'/>This cave has been mostly picked clean of
+  them. That is because it is especially dark.
+  The seeds were often necessary.<0 Type='4'/><3 Type='0' Data='0700'/>My associates often forget to bring
+  <0 Type='3' Data='0000'/>brightbloom seeds<0 Type='3' Data='ffff'/>. <5 Type='0'/>I am posted here
+  to provide a reminder.<0 Type='4'/>Use them to light your way if you are
+  proceeding ahead. <5 Type='0'/>Watch your step.
+talk_07: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a005400680069006e006b00'/>These <0 Type='3' Data='0000'/>brightblooms<0 Type='3' Data='ffff'/><5 Type='0'/> grow natively in <0 Type='3' Data='0000'/>caves<0 Type='3' Data='ffff'/>
+  such as this one.<0 Type='4'/>This cave has been picked mostly clean of
+  them. That is because it is especially dark.
+  The seeds were often necessary.<0 Type='4'/>I am posted here to provide a reminder to
+  bring <0 Type='3' Data='0000'/>brightbloom seeds<0 Type='3' Data='ffff'/>.<0 Type='4'/><3 Type='0' Data='0700'/>By the way. <5 Type='0'/>Did you know <0 Type='3' Data='0000'/>brightblooms<0 Type='3' Data='ffff'/>
+  require a stimulus to blossom?<0 Type='4'/>Striking a <0 Type='3' Data='0000'/>brightbloom seed<0 Type='3' Data='ffff'/> or attaching
+  it to an arrow will cause it to activate
+  on <0 Type='3' Data='0000'/>impact<0 Type='3' Data='ffff'/>.<0 Type='4'/>The <0 Type='3' Data='0000'/>brightbloom<0 Type='3' Data='ffff'/> you see growing there<5 Type='0'/>
+  is no different. I caused it to blossom.<0 Type='4'/><3 Type='0' Data='0700'/>It will generally be in your best interest to
+  use <0 Type='3' Data='0000'/>brightbloom seeds <0 Type='3' Data='ffff'/>in dark places
+  such as this.
+talk_13: |
+  <3 Type='0' Data='0700'/>Yes. They are the seeds of a plant that
+  grows natively in caves.
+talk_08: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a0048006100700070007900'/>What a relief. <5 Type='0'/>You would not otherwise be
+  able to see anything as you proceed.
+talk_14: |
+  <3 Type='0' Data='0701'/>Their seeds bloom immediately from the
+  <0 Type='3' Data='0000'/>impact<0 Type='3' Data='ffff'/> of a sword or arrow.<0 Type='4'/>The flowers <0 Type='3' Data='0000'/>shrine brightly<0 Type='3' Data='ffff'/> after blooming.<5 Type='0'/>
+  This makes them useful as lights in dark
+  places such as this.<0 Type='4'/><3 Type='0' Data='0a01'/><4 Type='0' Data='0a005400680069006e006b00'/>I do not have many myself. I would give
+  them to you otherwise.<0 Type='4'/>My associates have picked the area past
+  here clean of them. They no longer grow
+  here. <5 Type='0'/>Do not forget to bring your own.
+talk_09: |
+  <3 Type='0' Data='0700'/>Yes. I mentioned them before. They are
+  the seeds of a plant that grows natively
+  in caves.
+0001: |
+  Brightbloom seeds?
+0002: |
+  Yes, I do.
+talk_01: |
+  <3 Type='0' Data='0700'/>Ah. You do not know of them.<5 Type='0'/>

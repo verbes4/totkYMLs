@@ -1,0 +1,403 @@
+StartPoint_07: |
+  <3 Type='0' Data='0800'/>Oh, and I hear a new <0 Type='3' Data='0000'/>amusement park<0 Type='3' Data='ffff'/>
+  opened there recently.
+  
+  Go try it out. <5 Type='1'/>Even a treasure hunter
+  needs a little fun in their life.
+StartPoint_08: |
+  So anyway. That's why I'm thinking of
+  going and visiting <0 Type='3' Data='0000'/>Lurelin Village<0 Type='3' Data='ffff'/>.
+  
+  It may be all the way out on the
+  <0 Type='3' Data='0000'/>southeastern <0 Type='3' Data='ffff'/>coast of Hyrule, but it's
+  worth the trip.
+StartPoint_09: |
+  <3 Type='0' Data='0800'/>So anyway. That's why I'm thinking of
+  going and visiting <0 Type='3' Data='0000'/>Lurelin Village<0 Type='3' Data='ffff'/>.
+  
+  All I gotta do is walk this road.
+  
+  
+  It may be a long trip, but when I get there,
+  I know it'll have been worth it.
+Greeting: |
+  <3 Type='0' Data='0700'/>What is it?<5 Type='1'/> Are you heading to <0 Type='3' Data='0000'/>Lurelin
+  Village <0 Type='3' Data='ffff'/>too?
+Near_BackRange_01: |
+  Better head back...
+Near_GoRange_02: |
+  Almost at Lurelin...
+StartPoint_01_2: |
+  <3 Type='0' Data='0800'/><0 Type='3' Data='0000'/>Lurelin Village <0 Type='3' Data='ffff'/>is Hyrule's number one
+  vacation spot. Even the princess herself
+  used to stay there.
+  Thank goodness those pirates were
+  chased out and they could restore it
+  to its former beauty.
+BackRange_02_2: |
+  <3 Type='0' Data='0c00'/>I walked all the way to the village, and
+  what did I find?
+  
+  A whole lotta rubble, that's what. The
+  pirates really left their mark.
+  
+  So, I guess it makes sense they're not
+  taking tourists.
+  
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0600530061006400'/>And it explains why the <0 Type='3' Data='0000'/>village head <0 Type='3' Data='ffff'/>and
+  that <0 Type='3' Data='0000'/>carpenter <0 Type='3' Data='ffff'/>were so somber when
+  I passed them on the shore.
+  Those two looked so pitiful, I couldn't
+  even get up the nerve to talk to them.
+FriendGreet_01: |
+  <3 Type='0' Data='0501'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>I know that smell... <5 Type='0'/>*sniff* *sniff* <5 Type='0'/>You're
+  a treasure hunter, aren't you?
+  
+  <3 Type='0' Data='0701'/>You probably think you'll strike it rich
+  searching the debris—<5 Type='0'/>the "Zonai ruins"—<5 Type='0'/>
+  from the Upheaval.
+  I used to be like you. I was going to shake
+  all the treasure loose from those ruins and
+  get my one-in-a-million score!
+  ...<5 Type='1'/>So I thought.<5 Type='1'/>
+  
+  
+  <3 Type='0' Data='0a00'/>And you know what happened?<5 Type='1'/>
+  
+  
+  The <0 Type='3' Data='0000'/>Zonai Survey Team <0 Type='3' Data='ffff'/>crowded me out.
+  They went and claimed all the best ruins
+  for themselves.
+  And <0 Type='3' Data='0000'/>Cece <0 Type='3' Data='ffff'/>and her smartly dressed
+  sycophants, they took up the hunt for
+  <0 Type='3' Data='0000'/>Misko's treasure<0 Type='3' Data='ffff'/>.
+  <3 Type='0' Data='0700'/>In short? It's over. The bones are picked
+  clean. You'd be better off just going to
+  <0 Type='3' Data='0000'/>Lurelin Village <0 Type='3' Data='ffff'/>in the <0 Type='3' Data='0000'/>southeast<0 Type='3' Data='ffff'/>.<0 Type='3' Data='0000'/><0 Type='3' Data='ffff'/>
+  That's what I'm going to do—kick back on
+  the beach and try to enjoy retirement.
+BackRange_02_3: |
+  <3 Type='0' Data='0800'/>I get it! <5 Type='0'/>I mean, this is Lurelin Village
+  we're talking about. Hyrule's number one
+  vacation spot.
+  What kinda halfwit comes here and
+  doesn't drop by the village?
+  
+  Oh, right...<5 Type='1'/> Me.<5 Type='1'/>
+  
+  
+  <3 Type='0' Data='0a00'/>But only because I forgot to bring
+  my swimsuit.
+  
+  <3 Type='0' Data='0700'/>I just have to go to <0 Type='3' Data='0000'/>Lakeside Stable <0 Type='3' Data='ffff'/>and
+  find it. Then I'll be back and ready to
+  relax myself silly.
+BackRange_02_4: |
+  <3 Type='0' Data='0800'/>And I'll finally get to experience the new
+  <0 Type='3' Data='0000'/>Lurelin Water Rally <0 Type='3' Data='ffff'/>firsthand!
+BackRange_02_5: |
+  Forget rubies and pearls! <5 Type='1'/>Good times
+  are the real treasure!
+GoalPoint_01: |
+  <3 Type='0' Data='0c00'/>But this sign says <0 Type='3' Data='0000'/>no one's allowed <0 Type='3' Data='ffff'/>into
+  Lurelin Village.
+  
+  I'd heard some <0 Type='3' Data='0000'/>pirates attacked<0 Type='3' Data='ffff'/>, but I
+  didn't realize it was so dire they had to
+  shut the village down.
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0600530061006400'/>Wow. I guess that explains why the
+  <0 Type='3' Data='0000'/>village head <0 Type='3' Data='ffff'/>looked so crestfallen when
+  I passed him on the side road.
+  The guy was in such rough shape,
+  I couldn't even talk to him.
+BackRange_02_6: |
+  <3 Type='0' Data='0a00'/>*siiigh* <5 Type='1'/>I'm still kicking myself for
+  forgetting to bring a swimsuit to
+  <0 Type='3' Data='0000'/>Lurelin Village<0 Type='3' Data='ffff'/>.
+  But it's OK. I just have to go to <0 Type='3' Data='0000'/>Lakeside
+  Stable <0 Type='3' Data='ffff'/>and find it.
+  
+  <3 Type='0' Data='0700'/>Then I'll be back and ready to relax 
+  myself silly.
+Atacked00: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>You gonna take out that monster,
+  tough guy? <5 Type='0'/>Ha! Let's see it, then!
+Atacked01: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>Whoa... <5 Type='0'/>Who taught you how to fight?
+  <5 Type='1'/>Anyway, let's show 'em what's what!
+Guardian00: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1200530075007200700072006900730065004c00'/>No way I'm going up against that thing.
+  <5 Type='0'/>Don't know about you, but I'm fond of
+  my vitals.
+BackRange_01: |
+  <3 Type='0' Data='0a00'/>But...<0 Type='3' Data='0000'/>pirates are occupying the village<0 Type='3' Data='ffff'/>,
+  so they're not letting anyone in.
+  
+  I really thought someone would have
+  gotten rid of them by the time I got there.
+  
+  But I snuck a peek, and there were still
+  pirates all over the place.
+BackRange_02: |
+  <3 Type='0' Data='0c00'/>But...it sounds like Lurelin Village still
+  isn't taking tourists.
+  
+  Which makes sense. I snuck a peek, and
+  the whole village was still in rough shape.
+  
+  *sigh* Not what I was hoping for after that
+  long journey.
+  
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0600530061006400'/>But I guess it explains why the <0 Type='3' Data='0000'/>village
+  head <0 Type='3' Data='ffff'/>and that <0 Type='3' Data='0000'/>carpenter <0 Type='3' Data='ffff'/>were so somber
+  when I passed them on the shore.
+  Those two looked so pitiful, I couldn't
+  even get up the nerve to talk to them.
+StartPoint_11: |
+  <3 Type='0' Data='0800'/>Oh, and you might like this.<5 Type='1'/> There's a
+  brand-new <0 Type='3' Data='0000'/>restaurant <0 Type='3' Data='ffff'/>in the village.
+  
+  They'll serve you <0 Type='3' Data='0000'/>meals you've never
+  tried before<0 Type='3' Data='ffff'/>.
+  
+  Sounds like an absolute treasure trove
+  for foodies.
+GoalPoint_01_10: |
+  <3 Type='0' Data='0a00'/>Ugh...<5 Type='0'/> I really wanted to check out the
+  new <0 Type='3' Data='0000'/>Lurelin Water Rally<0 Type='3' Data='ffff'/>...
+BackRange_03: |
+  <3 Type='0' Data='0700'/>So anyway, I decided to head back
+  to <0 Type='3' Data='0000'/>Lakeside Stable<0 Type='3' Data='ffff'/>.
+  
+  At every stable, there's someone who's
+  reading the newspaper.
+  
+  I figure that person can tell me when it's
+  OK to visit <0 Type='3' Data='0000'/>Lurelin Village<0 Type='3' Data='ffff'/>.
+SavedLv3_00: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='08004500610073006500'/>I... <5 Type='1'/>I saw my life flash before my eyes...<5 Type='1'/>
+  So much wasted time... <5 Type='1'/>Oh, uh, thanks.
+Greeting_00: |
+  So. Not going to let bad weather come
+  between you and what you want.
+  
+  Trust me, I was a treasure hunter. I get it.
+StartPoint_12: |
+  <3 Type='0' Data='0800'/>Oh, and there's a <0 Type='3' Data='0000'/>restaurant <0 Type='3' Data='ffff'/>there that'll
+  serve <0 Type='3' Data='0000'/>meals you've never tried before<0 Type='3' Data='ffff'/>.
+  
+  Sounds like an absolute treasure trove
+  for foodies.
+BackRange_04: |
+  <3 Type='0' Data='0800'/>I know a meal from that new <0 Type='3' Data='0000'/>restaurant<0 Type='3' Data='ffff'/>
+  will make all the hassle worthwhile.
+SavedLv3_01: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003000'/>Wow... <5 Type='0'/>If I was as tough as you, I'd brag
+  about it to everyone I met! Modesty's not
+  such a virtue, my friend!
+  <3 Type='0' Data='0100'/>Anyway, thanks for saving me.
+Failed00: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0e005000610069006e00660075006c00'/>Owww... <5 Type='1'/>I guess even the great Mina gets
+  walloped now and again...<0 Type='4'/><3 Type='0' Data='0001'/>Thanks for rescuing me...<5 Type='0'/>sorta.
+Thanks00: |
+  <3 Type='0' Data='0101'/>Here, take this. <5 Type='0'/>Don't pretend like you
+  didn't earn it.
+Greeting_01: |
+  <3 Type='0' Data='0700'/>What is it?<5 Type='1'/> You take an interest in
+  <0 Type='3' Data='0000'/>Lurelin Village<0 Type='3' Data='ffff'/>?
+StartPoint_13: |
+  <3 Type='0' Data='0800'/>Oh, and did you hear? They're offering
+  a <0 Type='3' Data='0000'/>salt spa <0 Type='3' Data='ffff'/>at the <0 Type='3' Data='0000'/>inn<0 Type='3' Data='ffff'/>.
+  
+  It sounds waaay more relaxing than
+  hunting treasure all day.
+BackRange_05: |
+  <3 Type='0' Data='0800'/>I know the <0 Type='3' Data='0000'/>salt spa <0 Type='3' Data='ffff'/>at the <0 Type='3' Data='0000'/>inn <0 Type='3' Data='ffff'/>will make all
+  this stress melt away.
+Failed01: |
+  <3 Type='0' Data='0901'/><4 Type='0' Data='0600530061006400'/>Urgh... <5 Type='0'/>That hurt my pride and my
+  everything else.<0 Type='4'/>Let's pretend that didn't happen, OK?
+StartPoint_14: |
+  <3 Type='0' Data='0800'/>On top of that, it sounds like the <0 Type='3' Data='0000'/>inn<0 Type='3' Data='ffff'/>
+  added a <0 Type='3' Data='0000'/>salt spa <0 Type='3' Data='ffff'/>to its selection.
+  
+  It sounds waaay more relaxing than
+  hunting treasure all day.
+BackRange_06: |
+  <3 Type='0' Data='0800'/>I'll play a round at the <0 Type='3' Data='0000'/>Lucky Treasure
+  Shop <0 Type='3' Data='ffff'/>and win a prize that makes it all
+  worth it!
+StartPoint_15: |
+  <3 Type='0' Data='0800'/>By the way, did you hear?<0 Type='4'/>The<0 Type='3' Data='0000'/> Lucky Treasure Shop <0 Type='3' Data='ffff'/>was rebuilt, and
+  the<0 Type='3' Data='0000'/> prizes are better than ever<0 Type='3' Data='ffff'/>.
+  
+  Why not give it a spin? <5 Type='1'/>You never know—
+  might hit the jackpot.
+Near_Thunder: |
+  Lightning too?!
+StartPoint_16: |
+  <3 Type='0' Data='0800'/>Plus, the<0 Type='3' Data='0000'/> Lucky Treasure Shop <0 Type='3' Data='ffff'/>was
+  rebuilt, and the<0 Type='3' Data='0000'/> prizes are better
+  than ever<0 Type='3' Data='ffff'/>.
+  Why not give it a spin? <5 Type='1'/>You never know—
+  might hit the jackpot.
+GoalPoint_01_2: |
+  <3 Type='0' Data='0c00'/>This sign... It says <0 Type='3' Data='0000'/>no one's allowed <0 Type='3' Data='ffff'/>into
+  Lurelin Village.
+  
+  I guess those <0 Type='3' Data='0000'/>pirates <0 Type='3' Data='ffff'/>who attacked are
+  still hanging around.
+  
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0600530061006400'/>That would explain why the <0 Type='3' Data='0000'/>village head<0 Type='3' Data='ffff'/>
+  looked so crestfallen when I passed him
+  on the side road.
+  The guy was in such rough shape,
+  I couldn't even talk to him.
+GoalPoint_01_3: |
+  <3 Type='0' Data='0c00'/>But it looks like Lurelin Village still isn't
+  letting tourists in.
+  
+  Not what I wanted to hear after that
+  long journey.
+  
+  But if those pirates ransacked the village,
+  there's probably not much to do anyway.
+  
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0600530061006400'/>*sigh* I guess that explains why the<0 Type='3' Data='0000'/>
+  village head <0 Type='3' Data='ffff'/>and that <0 Type='3' Data='0000'/>carpenter <0 Type='3' Data='ffff'/>were so
+  somber when I passed them on the shore.
+  Those two looked so pitiful, I couldn't
+  even get up the nerve to talk to them.
+SavedLv2_00: |
+  <3 Type='0' Data='0500'/><4 Type='0' Data='0a0054006900720065006400'/>Whee-ew, they were tougher than
+  I thought!<0 Type='4'/><3 Type='0' Data='0101'/>As much as I hate to share the spoils,
+  you did help me out of a jam, so...<5 Type='0'/>thanks.
+GoalPoint_01_4: |
+  <3 Type='0' Data='0800'/>After all, Lurelin Village is Hyrule's
+  number one vacation spot.
+  
+  You'd be a fool not to go in. Especially
+  after you just walked all the way here.
+  
+  And, well...<5 Type='1'/>
+  
+  
+  <3 Type='0' Data='0a00'/>I guess that makes me a fool.
+  
+  
+  It's a beachside resort, and I forgot my
+  swimsuit...<5 Type='0'/>*sigh* so I have to go back.
+SavedLv2_01: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0c004c0061007500670068004c00'/>You're not bad! <5 Type='0'/>Not that you even hold a
+  candle to me, but still.
+GoalPoint_01_5: |
+  <3 Type='0' Data='0c00'/>So <0 Type='3' Data='0000'/>Lurelin Village <0 Type='3' Data='ffff'/>still<0 Type='3' Data='0000'/> <0 Type='3' Data='ffff'/>isn't taking tourists.
+  
+  
+  *sigh* All that time I spent getting here,
+  and now I have to turn back.
+  
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0600530061006400'/>But I guess that explains why the
+  <0 Type='3' Data='0000'/>village head <0 Type='3' Data='ffff'/>and that <0 Type='3' Data='0000'/>carpenter <0 Type='3' Data='ffff'/>were so
+  somber when I passed them on the shore.
+  Those two looked so pitiful, I couldn't
+  even get up the nerve to talk to them.
+Near_RainPoint_01: |
+  Darn rain.
+GoalPoint_01_6: |
+  <3 Type='0' Data='0a00'/>How...how did I forget my swimsuit? <5 Type='1'/>
+  I walked all the way to <0 Type='3' Data='0000'/>Lurelin Village<0 Type='3' Data='ffff'/>,
+  and now I have to go back?
+  I guess I'd better start packing...<5 Type='0'/>for the
+  journey home... <5 Type='0'/>*siiigh* 
+GoalPoint_01_7: |
+  <3 Type='0' Data='0a00'/>Ugh... <5 Type='0'/>Here I thought I'd be eating at
+  that new <0 Type='3' Data='0000'/>restaurant <0 Type='3' Data='ffff'/>tonight...
+GoalPoint_01_8: |
+  <3 Type='0' Data='0a00'/>Ugh... <5 Type='0'/>I was so excited to enjoy that
+  <0 Type='3' Data='0000'/>salt spa<0 Type='3' Data='ffff'/> at the <0 Type='3' Data='0000'/>inn<0 Type='3' Data='ffff'/>...
+Near_GoalPoint_01: |
+  Well, this stinks.
+GoalPoint_01_9: |
+  <3 Type='0' Data='0a00'/>Ugh... <5 Type='0'/>I was so excited to go to the
+  <0 Type='3' Data='0000'/>Lucky Treasure Shop <0 Type='3' Data='ffff'/>and finally win my
+  one-in-a-million score...
+SavedLv1_00: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>You really think I needed your help?
+  Puh-lease! <5 Type='1'/>But thanks, I guess...
+SavedLv1_01: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0c004c0061007500670068005300'/>I was seconds away from triumph when
+  you showed up and stole the glory.
+  <5 Type='1'/>Thanks, I guess, but geez!<5 Type='0'/> 
+StartPoint_01: |
+  <3 Type='0' Data='0c00'/>But no one can get into Lurelin right now
+  because of what's happening there.
+  
+  They say it's been <0 Type='3' Data='0000'/>attacked by pirates<0 Type='3' Data='ffff'/>.
+  
+  
+  <3 Type='0' Data='0700'/>Then again, news travels slow. For all I
+  know someone might have fought 'em all
+  off by now.
+StartPoint_02: |
+  <3 Type='0' Data='0c00'/>Now, it sounds like Lurelin Village was
+  raided by pirates.
+  
+  From what I heard, it's in no shape to
+  welcome tourists.
+  
+  <3 Type='0' Data='0700'/>But you never know—I've been on the
+  road a while. Maybe they rebuilt it by now.
+BackRange_01_2: |
+  <3 Type='0' Data='0700'/><0 Type='3' Data='0000'/>Pirates are occupying Lurelin Village<0 Type='3' Data='ffff'/>,
+  so they're not letting anyone in.
+  
+  I'd heard as much, but I thought someone
+  might have gotten rid of them by the time
+  I arrived.
+  No such luck.
+Near_StartPoint_01: |
+  Gotta make it to Lurelin.
+StartPoint_03: |
+  <3 Type='0' Data='0800'/>This is Lurelin Village we're talking about.
+  Hyrule's number one vacation spot!
+  
+  I was devastated when I heard the pirates
+  had gotten to it.
+  
+  I thought I'd never get back to those
+  crystalline waters. Who knew they'd
+  rebuild so quickly?
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068005300'/>I hear someone from outside came in
+  and helped 'em put back the pieces.
+  They're calling them the "village savior."
+  I'd sure like to meet that person and
+  shake their hand.
+Near_Rain: |
+  It's really comin' down!
+StartPoint_04: |
+  <3 Type='0' Data='0700'/><0 Type='3' Data='0000'/>Pirates took over Lurelin Village<0 Type='3' Data='ffff'/>, I heard,
+  so no one can get in.
+  
+  <3 Type='0' Data='0800'/>But you never know!<5 Type='1'/> Maybe that's
+  old news.
+  
+  It could be somebody's already sent
+  them packing. Wouldn't that be nice?
+EnokidaSignboard: |
+  Isn't that in Tarrey Town?
+StartPoint_05: |
+  <3 Type='0' Data='0700'/><0 Type='3' Data='0000'/>Lurelin Village <0 Type='3' Data='ffff'/>was<0 Type='3' Data='0000'/> <0 Type='3' Data='ffff'/>raided by pirates.
+  From what I heard, it's still looking
+  banged up.
+  <3 Type='0' Data='0800'/>But hey!<5 Type='1'/> You never know.
+  
+  
+  Maybe by the time I get there, they'll have
+  finished rebuilding it.
+StartPoint_06: |
+  <3 Type='0' Data='0800'/>Oh, and did you hear?<5 Type='1'/> A new <0 Type='3' Data='0000'/>amusement
+  park <0 Type='3' Data='ffff'/>opened there recently.
+  
+  Go try it out. <5 Type='1'/>Even a treasure hunter
+  needs a little fun in their life.

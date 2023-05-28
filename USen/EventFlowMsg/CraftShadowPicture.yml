@@ -1,0 +1,77 @@
+talk0004: |
+  <3 Type='0' Data='0301'/>Oh. You discovered the shrine already?
+  Before I imparted my words of guidance?<0 Type='4'/><3 Type='0' Data='0a00'/>Well. That makes me feel rather
+  superfluous.<0 Type='4'/>I should have spoken up sooner.
+  Apologies.
+Near0002: |
+  My task is complete.
+talk0005: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='08004500610073006500'/>The task I was given is complete thanks
+  to you.
+  
+  <3 Type='0' Data='0001'/>Now I will watch over the sacred shrine.
+talk0006: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0a0048006100700070007900'/>Welcome back to the land of the sacred
+  shrine.<5 Type='0'/> I am glad to have you here again.
+talk0000: |
+  <3 Type='0' Data='0700'/>Welcome.<5 Type='0'/> You have tread upon the land
+  of a sacred shrine. I am the keeper of
+  said shrine.
+talk0007: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0c004e006f007400690063006500'/>My task is complete thanks to you.
+  
+  
+  Now I will watch over the sacred shrine.
+talk0001: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='0a005400680069006e006b00'/>This shrine is mine to oversee whether in
+  the sky or on the surface. As is the land
+  where it resides.
+talk0008: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0a0048006100700070007900'/>Your skill is impressive.<5 Type='0'/> Have you
+  considered taking part in the
+  <0 Type='3' Data='0000'/>dive ceremony<0 Type='3' Data='ffff'/>?
+  You should participate if you have not
+  done so.
+  
+  <3 Type='0' Data='0800'/><4 Type='0' Data='08004500610073006500'/>The dive ceremony is a test of bravery
+  that young Zonai must pass in order to be
+  considered adults.
+  You can earn a <0 Type='3' Data='0000'/>special outfit <0 Type='3' Data='ffff'/>as proof of
+  your maturity by clearing the trial.
+  
+  But this island is not where it takes place.
+talk0010: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='1200530075007200700072006900730065005300'/>Oh... You have already gone to all three
+  sky islands and completed the ceremony?
+  
+  I should have guessed as much...<5 Type='0'/>
+  Your talent is plain as day.
+talk0002: |
+  <3 Type='0' Data='0001'/>My task is to guide visitors here to the
+  sacred shrine by conveying this message:
+  
+  <3 Type='0' Data='0800'/><0 Type='3' Data='0000'/>"Dye the white pattern black when the
+  sun awakens in the sky. Then will the
+  sacred shrine appear."<0 Type='3' Data='ffff'/>
+talk0009: |
+  <3 Type='0' Data='0700'/>The dive ceremony is held on three
+  sky islands.
+  
+  One <0 Type='3' Data='0000'/>north of Central Hyrule Sky<0 Type='3' Data='ffff'/>...
+  
+  
+  another <0 Type='3' Data='0000'/>west of Central Hyrule Sky<0 Type='3' Data='ffff'/>...
+  
+  
+  and a third <0 Type='3' Data='0000'/>south of Lanayru Sky<0 Type='3' Data='ffff'/>.
+  
+  
+  <3 Type='0' Data='0001'/><4 Type='0' Data='08004500610073006500'/>I have no doubt you will be able to pass
+  the trials on all three islands and thereby
+  obtain the outfit.
+  Please do so when you have time.
+Near0000: |
+  I have information.
+talk0003: |
+  <3 Type='0' Data='0101'/>The shrine will appear when you unlock
+  the true meaning of these words.

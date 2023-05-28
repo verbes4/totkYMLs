@@ -1,0 +1,260 @@
+Pa_Temp_00-T_Error_00: |
+  Error
+Pa_Cursor_00-T_StampPin_00: |
+  Stamp/Pin
+SpotSmallTimber: |
+  Timber
+Guide_Stamp: |
+  Select
+Guide_Labo: |
+  Travel
+Action_Yes: |
+  Yes
+SpotBigMagma: |
+  Magma
+SpotBigTimber: |
+  Timber
+Guide_Put: |
+  Set
+SpotMiddleTimber: |
+  Timber
+SpotBigWater: |
+  Water
+Name_Player: |
+  Current Location
+Pa_RecycleBox_00-Pa_Item_02-T_PouchNumRX_01: |
+  x
+Name_FrontierPoint: |
+  Last Location
+Action_ChangePin: |
+  Edit pin
+SpotSmallOther: |
+  Location
+SpotBigArtifact: |
+  Artifact
+Pa_SensorBox_00-Pa_Btn_00-T_Btn_00: |
+  Off
+Pa_RecycleBox_00-Pa_Item_02-T_PouchNumLX_01: |
+  x
+Pa_RecycleBox_00-Pa_Item_04-T_PouchNumRX_01: |
+  x
+Pa_RecycleBox_00-Pa_Item_00-T_PouchNumR_00: |
+  In Inventory
+Guide_DragonTears: |
+  Select
+Pa_RecycleBox_00-Pa_Item_02-T_PouchNumR_00: |
+  In Inventory
+SpotSmallMountain: |
+  Mountain
+Name_LargeDungeonFire: |
+  Fire Temple Entrance
+Pa_RecycleBox_00-Pa_Item_04-T_PouchNumR_00: |
+  In Inventory
+Floor_6F: |
+  6F
+Name_Rouge: |
+  Riju
+PlayStop: |
+  Pause
+Pa_RecycleBox_00-Pa_Item_04-T_PouchNumLX_01: |
+  x
+ChangeSpeed: |
+  Change Speed
+Name_LargeDungeonWind: |
+  Wind Temple Entrance
+Pa_SensorIcon_00-T_Off_00: |
+  Off
+Name_LargeDungeonWater: |
+  Water Temple Entrance
+Floor_4F: |
+  4F
+Underground: |
+  Depths
+Pa_SensorIcon_00-T_SensorOn_00: |
+  Shrine of Light
+Text_Warp: |
+  You can't travel from here.
+Pa_StampBox_00-T_StampText_00: |
+  Can't put a pin here.
+Floor_B2F: |
+  B2
+SensorBox_PictureBook: |
+  Pick from Compendium
+SpotSmallArtifact: |
+  Artifact
+SpotMiddleOther: |
+  Location
+Floor_2F: |
+  2F
+Name_Pin: |
+  Pin
+Guide_Pin: |
+  Select
+Temp: |
+  <2 Type='15' Data='2600530069006d0070006c00650049006e00740046006f0072004d00650073007300610067006500ffff01cd'/>
+Scroll: |
+  Back/Forward [Hold]
+Pa_StampBox_00-T_StampBoxTitle_00: |
+  Stamp Box
+Pa_RecycleBox_00-Pa_Item_03-T_PouchNumLX_01: |
+  x
+Pa_RecycleBox_00-Pa_Item_05-T_PouchNumRX_01: |
+  x
+SpotBigMountain: |
+  Mountain
+Guide_Player: |
+  Stamp/Pin
+Guide_Challenge: |
+  Select
+Pa_RecycleBox_00-Pa_Item_00-T_PouchNumRX_01: |
+  x
+Guide_WarpMarker: |
+  Travel
+SpotMiddleArtifact: |
+  Artifact
+Name_MiniGameGoal: |
+  Goal
+Action_DeleteStamp: |
+  Delete stamp
+PlayStart: |
+  Play
+Pa_RecycleBox_00-Pa_Item_05-T_PouchNumLX_01: |
+  x
+StampBox_Num: |
+  <2 Type='15' Data='2600530069006d0070006c00650049006e00740046006f0072004d00650073007300610067006500ffff01cd'/>
+Pa_RecycleBox_00-Pa_Item_00-T_PouchNumLX_01: |
+  x
+Pa_StampBox_00-Pa_PinNum_00-T_Sla_00: |
+  /
+SkyArchipelago: |
+  Islands
+Pa_RecycleBox_00-T_HeadlineR_00: |
+  Device Dispenser
+Pa_StampBox_00-Pa_StampNum_00-T_Sla_00: |
+  /
+SensorTargetOff: |
+  Sensor
+Guide_Dungeon: |
+  Travel
+Action_ChangeStamp: |
+  Edit stamp
+Pa_SensorBox_00-T_SensorTitle_00: |
+  Select Sensor Target
+Name_LargeDungeonSoul: |
+  Spirit Temple Entrance
+Action_DeleteWarpMarker: |
+  Collect Medallion
+Pa_Comp_00-T_Percentage_00: |
+  %
+District: |
+  District
+SensorBox_TargetActor: |
+  <2 Type='32' Data='3600530065006e0073006f0072005400610072006700650074004e0061006d0065004f006e004100630074006f0072004d006f0064006500ffff'/>
+Pa_PlayerNavi_00-T_R_00: |
+  
+Pa_Comp_00-T_Percentage_02: |
+  %
+SpotSmallMagma: |
+  Magma
+Action_DeletePin: |
+  Delete pin
+Pa_PlayerNavi_00-T_R_01: |
+  
+Name_Stamp: |
+  Stamp
+Name_WarpMarker: |
+  Travel Medallion
+Floor_7F: |
+  7F
+SpotSmallWater: |
+  Water
+Guide_ArrivalPoint: |
+  Travel
+Guide_LargeDungeon: |
+  Travel
+Name_Dead: |
+  R.I.P.
+SensorTargetChange: |
+  Sensor Target
+Name_Armor: |
+  Misko's Treasure
+Floor_5F: |
+  5F
+RecycleBoxUnknownSpecialParts: |
+  ???
+Pa_RecycleBox_00-Pa_Item_01-T_PouchNumRX_01: |
+  x
+Floor_B3F: |
+  B3
+Sky: |
+  Sky
+Action_ViewMemory: |
+  Open Adventure Log
+0000: |
+  <2 Type='20' Data='32004d006100700044006100740061002e0043006f006f007200640046006f0072004d006500730073006100670065002e005800ffff00cd'/>, <2 Type='20' Data='32004d006100700044006100740061002e0043006f006f007200640046006f0072004d006500730073006100670065002e005900ffff00cd'/>, <2 Type='20' Data='32004d006100700044006100740061002e0043006f006f007200640046006f0072004d006500730073006100670065002e005a00ffff00cd'/>
+Ground: |
+  Surface
+Pa_SensorBox_00-Pa_SubBtnChange_00-T_Btn_00: |
+  Change Target
+0001: |
+  <2 Type='20' Data='32004d006100700044006100740061002e0043006f006f007200640046006f0072004d006500730073006100670065002e005800ffff01cd'/>
+Floor_3F: |
+  3F
+Action_ChallengeLog: |
+  Open Adventure Log
+SpotMiddleMountain: |
+  Mountain
+0002: |
+  <2 Type='20' Data='32004d006100700044006100740061002e0043006f006f007200640046006f0072004d006500730073006100670065002e005900ffff01cd'/>
+Pa_RecycleBox_00-Pa_Item_01-T_PouchNumLX_01: |
+  x
+Pa_RecycleBox_00-Pa_Item_03-T_PouchNumRX_01: |
+  x
+0003: |
+  <2 Type='20' Data='32004d006100700044006100740061002e0043006f006f007200640046006f0072004d006500730073006100670065002e005a00ffff01cd'/>
+Floor_B1F: |
+  B1
+Action_Warp: |
+  Travel
+Name_LargeDungeonThunder: |
+  Lightning Temple Entrance
+Guide_StartPoint: |
+  Travel
+Comp: |
+  <2 Type='15' Data='2600530069006d0070006c00650049006e00740046006f0072004d00650073007300610067006500ffff01cd'/>.<2 Type='19' Data='2800530069006d0070006c00650049006e00740046006f0072004d006500730073006100670065003200ffff01cd'/>/100
+WarpMarker_Delete: |
+  Collect This Travel Medallion?
+Pa_SensorBox_00-Pa_Btn_01-T_Btn_00: |
+  Shrine of Light
+Pa_RecycleBox_00-T_TitleR_00: |
+  Zonai Devices Available
+Name_ZonauRelief: |
+  Ancient Tablet
+Hint_ZonauRelief: |
+  Deciphered
+Floor_1F: |
+  1F
+Action_Cancel: |
+  Cancel
+SpotMiddleMagma: |
+  Magma
+Name_TreasureMapTarget: |
+  Spot Marked on an Old Map
+Pa_RecycleBox_00-Pa_Item_01-T_PouchNumR_00: |
+  In Inventory
+Name_Korok: |
+  Korok
+ChangeType: |
+  Toggle Display
+Pa_RecycleBox_00-Pa_Item_03-T_PouchNumR_00: |
+  In Inventory
+SpotMiddleWater: |
+  Water
+Guide_Cannon: |
+  Travel
+Pa_RecycleBox_00-Pa_Item_05-T_PouchNumR_00: |
+  In Inventory
+SpotBigOther: |
+  Location
+1000: |
+  <2 Type='15' Data='2600530069006d0070006c00650049006e00740046006f0072004d00650073007300610067006500ffff01cd'/>

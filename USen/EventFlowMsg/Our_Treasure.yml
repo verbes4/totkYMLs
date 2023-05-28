@@ -1,0 +1,172 @@
+Near04: |
+  Hmmm, I can hardly see...
+Talk43: |
+  <3 Type='0' Data='0901'/>So you used the rain to sneak up on us,
+  did you?
+Talk14: |
+  <3 Type='0' Data='0901'/><4 Type='0' Data='100041006e006700720079005f0030003100'/>I WAS keeping watch!
+Near05: |
+  This rain's a nuisance.
+Talk44: |
+  <3 Type='0' Data='0901'/><4 Type='0' Data='100041006e006700720079005f0030003100'/>I mean, yeah, I had to squint through the
+  rain, but my gaze never once left the bog!<5 Type='0'/>
+Talk15: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0c005300610064005f0030003000'/>You gotta tell me these things. Keeping
+  watch means you have to do more than
+  just...watch.
+Talk45: |
+  <3 Type='0' Data='0c01'/>The rain only makes things worse too.
+  How are we gonna get through this?
+Talk16: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1000540069007200650064005f0030003100'/>Ah, well. Can't get 'em all. No use crying
+  about it.
+  
+  You know, you're pretty good. Almost
+  as good as us at hunting treasure.
+Talk46: |
+  <3 Type='0' Data='0a01'/><0 Type='3' Data='0200'/><FontSize Value='80'/><4 Type='0' Data='0e0045006100730065005f0030003100'/>It's hard to keep an eye out in this rain.<FontSize Value='100'/><0 Type='3' Data='ffff'/><5 Type='0'/>
+Talk17: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>Huh? You're a treasure hunter too? Are
+  you also going after <0 Type='3' Data='0000'/>Misko's treasu<0 Type='3' Data='ffff'/>—
+Talk18: |
+  <3 Type='0' Data='0901'/><4 Type='0' Data='100041006e006700720079005f0030003000'/>Prissen! Hush!
+Talk47: |
+  <3 Type='0' Data='0801'/>Can't get soaked by rain or struck by
+  lightning if we're in a cave, right?
+Talk48: |
+  <3 Type='0' Data='0c01'/>The problem is, so did everyone else.
+  Every would-be treasure hunter in the
+  kingdom is out to expand their wardrobe.
+Talk19: |
+  <3 Type='0' Data='0701'/>Uh, sorry. Just ignore him.
+Talk20: |
+  <3 Type='0' Data='0201'/><4 Type='0' Data='14005000610069006e00660075006c005f0030003100'/>So much for the "just ignore him" gambit.<5 Type='0'/>
+Talk21: |
+  <3 Type='0' Data='0701'/>There's no way you're also a treasure
+  hunter if you don't know about <0 Type='3' Data='0000'/>Misko's
+  treasure<0 Type='3' Data='ffff'/>, so we can tell you a little.
+Talk22: |
+  <3 Type='0' Data='0701'/><0 Type='3' Data='0000'/>Misko <0 Type='3' Data='ffff'/>was one of the greatest bandits
+  Hyrule ever saw. And not just a bandit...
+  
+  They were also a fashionista. Rumor has it
+  Misko's renowned <0 Type='3' Data='0000'/>clothing collection<0 Type='3' Data='ffff'/> is
+  hidden somewhere in Hyrule.
+Talk23: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>We think the clothes are hidden in the
+  <0 Type='3' Data='0000'/>caves<0 Type='3' Data='ffff'/> that appeared during the Upheaval!
+  
+  Like up ahead in the Eldin region.
+  You couldn't really explore back
+  when Death Mountain was erupting.
+  But now everything's cooled down, and
+  the place is all rocky and rugged.
+  
+  <3 Type='0' Data='0801'/>There are probably tons of secret <0 Type='3' Data='0000'/>caves<0 Type='3' Data='ffff'/>
+  perfect for hiding treasure!
+Talk24: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='1400520075006e0061007700610079005f0030003000'/>PRISSEN!<5 Type='1'/> What...are...you...doing?!
+Talk25: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>Haha, <5 Type='1'/>um, <5 Type='0'/>oops. Definitely forget he
+  said anything.
+Talk26: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>I've almost got it... Almooost...
+  
+  
+  Maybe we can get the treasure chest if
+  we... <5 Type='1'/>Huh?
+Talk27: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003100'/>H-<5 Type='0'/>hey! Prissen! <5 Type='0'/>Where'd the treasure go?
+Talk28: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>The treasure? Oh, that guy took it.
+Talk29: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>Wha... Weren't you keeping watch?!
+Talk01: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>I've almost figured it out. Just a bit more
+  brainstorming, and... Hmm...
+0001: |
+  Misko's treasure?
+Talk02: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>You've got this, Dak! That treasure is as
+  good as ours!
+Talk31: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Hey, Dak! Let's head to those caves to
+  get <0 Type='3' Data='0000'/>Misko's treasure<0 Type='3' Data='ffff'/>!
+Talk03: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>Hang on a sec, Prissen.
+Talk04: |
+  <3 Type='0' Data='0201'/>Hey! You! We're having a private
+  conversation here!
+Talk33: |
+  <3 Type='0' Data='0801'/>Before, you couldn't get close to Eldin
+  with the lava and all.
+  
+  <3 Type='0' Data='0801'/>But now that it's cooled off, I'll bet there
+  are lots of <0 Type='3' Data='0000'/>caves<0 Type='3' Data='ffff'/> no one knows about!
+Talk05: |
+  <3 Type='0' Data='0901'/><4 Type='0' Data='100041006e006700720079005f0030003000'/>Huh? What are you— How long have you
+  been there?!
+Talk34: |
+  <3 Type='0' Data='0901'/><4 Type='0' Data='0e0057006f0072006b005f0030003000'/>Prissen! What did I tell you about
+  keeping quiet?
+Talk06: |
+  <3 Type='0' Data='0901'/><4 Type='0' Data='100041006e006700720079005f0030003100'/>We found that chest first! It's ours!
+  
+  
+  I mean, it's in a <0 Type='3' Data='0000'/>bottomless bog<0 Type='3' Data='ffff'/> of certain
+  doom<5 Type='0'/> with no place to <0 Type='3' Data='0000'/>put your feet<0 Type='3' Data='ffff'/>, so
+  you probably can't get to it anyway.
+  <3 Type='0' Data='0501'/>But any <0 Type='3' Data='0000'/>hidden treasure<0 Type='3' Data='ffff'/> that's maybe,
+  certainly, definitely in there is OURS!
+Talk35: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>Put the foothold there...<5 Type='1'/> No, higher...
+  
+  
+  If it weren't for this <0 Type='3' Data='0000'/>bottomless bog<0 Type='3' Data='ffff'/>,
+  getting the treasure would be a piece
+  of cake.
+Talk07: |
+  <3 Type='0' Data='0900'/><4 Type='0' Data='100041006e006700720079005f0030003000'/>Prissen! Cut it out!
+Talk08: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>S-<5 Type='0'/>sorry, Dak.<5 Type='1'/> It just slipped out.
+Talk37: |
+  <3 Type='0' Data='0901'/>That guy took it! I was watching him the
+  whole time!
+Talk38: |
+  <3 Type='0' Data='0201'/>Oh, it's you. You know it's rude to
+  eavesdrop, right?
+Talk09: |
+  <3 Type='0' Data='0201'/><4 Type='0' Data='0c005300610064005f0030003100'/>Yeesh. I need to think about how to get
+  that treasure, so do your job and keep
+  watch. Got it?
+Talk10: |
+  <3 Type='0' Data='0200'/>As you can see, we're working here.
+  So buzz off.
+Talk39: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1000540069007200650064005f0030003100'/>Ah, well. Can't get 'em all. <5 Type='0'/>No use crying
+  about it.
+  <0 Type='4'/>You're pretty good, y'know. You might
+  just make it as a treasure hunter!
+Near01: |
+  Almost got iiit...
+Talk40: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>The treasure? Oh, he took it.
+Near02: |
+  The treasure...
+Talk12: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='0c005300610064005f0030003100'/>D-Dak... I'm not sure how to tell you
+  this, but...
+  
+  The treasure is gone.
+Talk41: |
+  <3 Type='0' Data='0701'/>Surely you've heard the rumors that
+  Misko hid pieces of their famous
+  <0 Type='3' Data='0000'/>clothing collection <0 Type='3' Data='ffff'/>across Hyrule.
+Near03: |
+  He took it...
+Talk13: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003100'/>Wha?! Prissen, you were supposed to
+  be keeping watch!
+Talk42: |
+  <3 Type='0' Data='0b00'/>Wait, don't tell me you're after Misko's
+  treasure too...

@@ -1,0 +1,15 @@
+Talk_000: |
+  Read the Yiga Clan journal?
+0000: |
+  Read.
+Talk_001: |
+  This cave is a natural fortress made up of
+  <0 Type='3' Data='0000'/>five chambers<0 Type='3' Data='ffff'/>.
+  
+  All members are to memorize the route to
+  the <0 Type='3' Data='0000'/>hidden room <0 Type='3' Data='ffff'/>containing our uniforms
+  and the map of all our branches.
+  Remember—follow the eyes of the frogs.<0 Type='4'/>The punishment for letting this secret out
+  will be most severe.
+0001: |
+  Don't read.

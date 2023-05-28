@@ -1,0 +1,16 @@
+Name: |
+  Dyeing to Find It
+Step1: |
+  Near some ruins on Quatta's Shelf, northwest
+  of Mount Lanayru, a Steward Construct said
+  this riddle would guide you to a sacred shrine:
+  
+  "<0 Type='3' Data='0000'/>When the sun awakens in the sky, dye the
+  white pattern black. Then will the sacred
+  shrine appear.<0 Type='3' Data='ffff'/>"
+Complete: |
+  By reorienting the mechanism in the ruins
+  to receive the morning light, you lined up its
+  shadow to cover the white symbol.
+  
+  A Shrine of Light appeared in the ruins.

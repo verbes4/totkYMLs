@@ -1,0 +1,270 @@
+Talk46: |
+  <3 Type='0' Data='0800'/>Holy moly, kid!<5 Type='1'/> I can't believe ya made it
+  here when the footing's so slippery!
+Talk47: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Hmm... Your score didn't wow me,<5 Type='1'/> but I'll
+  still give ya a little something.
+Near11: |
+  You all ready?
+Talk201: |
+  <3 Type='0' Data='0700'/>Yer pretty good, kid. So good that I'll let
+  ya try the <0 Type='3' Data='0000'/>extended course<0 Type='3' Data='ffff'/> where you've
+  got twice as much time to play!
+  Give it a try sometime. I wanna see what
+  you can really do!
+Talk203: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>Ya wanna hear the rules again? <5 Type='0'/>That's
+  why I like ya, kid. Brawn and brains!
+  
+  The rules are simple as can be!<5 Type='0'/> Carry the
+  ball as far as ya can before time runs out!
+  
+  How do ya carry it? Up ta you! Put it on a
+  cart, lug it in yer arms, whatever ya want!
+  
+  Careful though—lose that ball and ya lose
+  the game!
+  
+  <3 Type='0' Data='0101'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>The farther ya take it, the better
+  yer reward!
+  
+  And if ya wanna flex yer brain muscles,
+  the extended course gives ya <0 Type='3' Data='0000'/>more time<0 Type='3' Data='ffff'/>
+  to go farther still!
+Talk204: |
+  <3 Type='0' Data='0700'/>Maybe I sprung the extended course on
+  ya a little too early, kid... <5 Type='0'/>But I know you
+  can do better!
+0001: |
+  Let's give it a try!
+Talk205: |
+  <3 Type='0' Data='0700'/>I knew ya had it in ya! But there's still
+  higher heights ta shoot for and better
+  records ta set!
+  But until ya do, here's a little somethin'
+  from me!
+0002: |
+  No, thanks.
+Talk206: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1200530075007200700072006900730065004d00'/>I-I can't believe what I just saw! Ya
+  carried that orb clean into next week!
+  
+  <3 Type='0' Data='0000'/>You're well on yer way ta bein' the best
+  ball hauler of all!
+0003: |
+  All ready!
+Talk207: |
+  <3 Type='0' Data='0701'/>Wanna give it another go?
+Talk11: |
+  <3 Type='0' Data='0d00'/>Heya, kid! Are you ready?
+0004: |
+  What are the rules?
+Talk208: |
+  <3 Type='0' Data='0700'/>The top score for the beginner course is...
+  <0 Type='3' Data='0000'/><2 Type='9' Data='3800420061006c006c004200720069006e0067005f004d0069006e006900470061006d0065005f004200650073007400530063006f0072006500ffff00cd'/> m<0 Type='3' Data='ffff'/>!<5 Type='1'/> But I bet you can beat it!
+Talk12: |
+  <3 Type='0' Data='0700'/>Now we're rollin'! OK, get to your mark!
+0005: |
+  Just give me a sec.
+Talk101: |
+  <3 Type='0' Data='0b00'/>Uh, kid? The startin' spot is right here in
+  front of me. Takin' the ball too far away
+  is just askin' for trouble.
+Talk209: |
+  <3 Type='0' Data='0700'/>You set the record at <0 Type='3' Data='0000'/><2 Type='9' Data='4800420061006c006c004200720069006e0067005f004d0069006e006900470061006d0065005f0043006f00750072007300650042005f004200650073007400530063006f0072006500ffff00cd'/> m<0 Type='3' Data='ffff'/> for the
+  extended course.<5 Type='1'/> Think ya can beat it?
+Talk13: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Carry that ball like it's never been
+  carried before!
+0006: |
+  I'm out.
+Talk102: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='14005000610069006e00660075006c005f0030003100'/>Hm? Ya lost the ball? Aww, sorry, kid,
+  but that's game over.
+Talk14: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>Ya wanna hear the rules again? That's
+  why I like ya, kid. Brawn and brains!
+  
+  The rules are simple. <5 Type='0'/>Carry the ball as far
+  as ya can before time runs out.
+  
+  How ya carry it is up to you. Put it on a
+  cart, lug it in yer arms, whatever works.
+  
+  Careful though—lose that ball and ya lose
+  the game!
+  
+  <3 Type='0' Data='0101'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>The farther ya take it, the better yer
+  reward! So make sure ya hustle.
+0007: |
+  I'm still in this!
+Talk31: |
+  <FontSize Value='125'/><3 Type='0' Data='0700'/><4 Type='0' Data='0e00430061006c006c00460061007200'/>Tiiime's up!<FontSize Value='100'/>
+Talk103: |
+  <3 Type='0' Data='0b00'/>What the—<5 Type='0'/> Did ya really break the ball?!<5 Type='1'/>
+  Sorry, but that's the end of the game.
+Talk15: |
+  <3 Type='0' Data='0700'/>Take yer time! The readier ya get, the
+  better you'll do!
+0008: |
+  Sorry, I'm out.
+Talk32: |
+  <3 Type='0' Data='0c00'/>Ya took that ball a grand total of...
+  <0 Type='3' Data='0000'/><2 Type='9' Data='3000420061006c006c004200720069006e0067005f004d0069006e006900470061006d0065005f00530063006f0072006500ffff00cd'/> m<0 Type='3' Data='ffff'/> away!
+Talk104: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>Don't tell me ya threw the ball away...<5 Type='1'/>
+  Sorry, but that's game over.
+0009: |
+  Here you go.
+Talk16: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0600530061006400'/>Oh, really?<5 Type='1'/> Well, all right. I'll give ya yer
+  rupees back, so come on by if the mood
+  strikes ya.
+Talk33: |
+  <3 Type='0' Data='0c00'/>Ya took that ball a grand total of...
+  <0 Type='3' Data='0000'/><2 Type='9' Data='3000420061006c006c004200720069006e0067005f004d0069006e006900470061006d0065005f00530063006f0072006500ffff00cd'/> m<0 Type='3' Data='ffff'/> away! <5 Type='1'/>That's a new record!
+Talk105: |
+  <3 Type='0' Data='0700'/>Oops.<5 Type='0'/> No puttin' the ball away now!<5 Type='1'/>
+  Hate ta tell ya, but that's game over.
+Talk17: |
+  <3 Type='0' Data='0700'/>So, you ready for the thrill of a lifetime?
+Talk34: |
+  <3 Type='0' Data='0a00'/>If ya decide ya wanna give it another go,
+  come on back.
+Talk106: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1400430061006c006c004600610072005f0030003100'/>Hey, kid!<5 Type='1'/> It's against the rules ta move
+  the ball that far away before I say go!<0 Type='4'/>Back to your starting spots!
+Talk35: |
+  <3 Type='0' Data='0a00'/>Hmmm...<5 Type='1'/> C'mon, kid, I know ya can take
+  it farther than that! I wanna give ya a
+  reward, but ya gotta earn it!
+Talk107: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>What the—<5 Type='0'/> Did ya really break the ball?!<5 Type='1'/>
+  Gimme a bit to set things back up...
+Talk36: |
+  <3 Type='0' Data='0700'/>There ya go! <5 Type='0'/>That's pretty good, kid!<5 Type='1'/> Bet
+  ya can do even better next time too!
+Talk108: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>Don't tell me ya threw the ball away...<5 Type='1'/>
+  Gimme a minute to set back up.
+Talk37: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068004c00'/>Amazing! Ya got that ball far!<5 Type='1'/> I knew you
+  were special, kid.
+Talk109: |
+  <3 Type='0' Data='0700'/>Oops.<5 Type='0'/> No puttin' the ball away now!<5 Type='1'/>
+  Gimme a minute to set back up.
+Near01: |
+  Ain't easy makin' it here!
+Talk38: |
+  <3 Type='0' Data='0701'/>That was a ball haul fer the ages.
+  Now here, this is for you!
+Talk39: |
+  <3 Type='0' Data='0700'/>If ya wanna play again, gimme a shout!
+Near21: |
+  Carry on!
+Talk210: |
+  <3 Type='0' Data='0800'/>Wow!<5 Type='0'/> Now that's a score!<5 Type='1'/> You lookin' ta
+  go pro at this, kid?
+Talk208_01: |
+  <3 Type='0' Data='0700'/>The top score so far is <0 Type='3' Data='0000'/><2 Type='9' Data='3800420061006c006c004200720069006e0067005f004d0069006e006900470061006d0065005f004200650073007400530063006f0072006500ffff00cd'/> m<0 Type='3' Data='ffff'/>!<5 Type='1'/>
+  Ya gotta try to beat <2 Type='15' Data='5200420061006c006c004200720069006e0067005f004d0069006e006900470061006d0065005f0043006f00750072007300650041005f005400680072006500730068006f006c006400530063006f0072006500ffff00cd'/> m! Give it
+  yer all!
+Talk211: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003100'/>Whoaaa!<5 Type='1'/> I can't believe what I'm seein'!<5 Type='1'/>
+  If this is a dream, I don't wanna wake up!<5 Type='1'/><0 Type='4'/><3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>What a record, kid... I don't even have the
+  words. <5 Type='0'/>Future ball-haulers will be talkin'
+  about what ya did here for generations!
+Near41: |
+  Takin' all challengers!
+Talk212: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Ya made me believe in miracles today.
+  I wanna give ya something special, but
+  I can only do it once.<5 Type='1'/> Here!
+0010: |
+  On second thought...
+Talk01: |
+  <3 Type='0' Data='0100'/>That must mean ya got a hankerin' fer
+  <0 Type='3' Data='0000'/>Ultra Ball Haul<0 Type='3' Data='ffff'/>! Am I right?
+0011: |
+  Yeah, I quit.
+Talk02: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>What's with the blank stare?<5 Type='0'/> Ya never
+  heard of the super-popular, habit-forming
+  Ultra Ball Haul?!
+  <3 Type='0' Data='0701'/>I guess that figures, since I'm the only
+  one who's ever played it! Thought it up
+  all on my lonesome.
+  <3 Type='0' Data='0700'/>The rules are simple.<5 Type='0'/> Carry the ball as far
+  as ya can before time runs out.
+  
+  It's up to you how ya carry it. Put it on a
+  cart, lug it in yer arms, whatever works.
+  
+  Careful though—lose that ball and ya lose
+  the game!
+  
+  But the farther ya take it, the better yer
+  reward! So make sure ya hustle.
+0012: |
+  I'll do the basic course.
+Talk03: |
+  <3 Type='0' Data='0700'/>So, how about it? You wanna give the ol'
+  <0 Type='3' Data='0000'/>Ultra Ball Haul<0 Type='3' Data='ffff'/> a shot?
+0013: |
+  Extended course!
+Talk04: |
+  <3 Type='0' Data='0800'/>All right! I'll get the ball, so just gimme
+  a holler when yer ready!
+Talk21: |
+  <3 Type='0' Data='0500'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003100'/>Hm? What's the story, kid? You callin'
+  it quits?
+Talk110: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1200530075007200700072006900730065004c00'/>Whoa!<5 Type='1'/> You sent that ball so far, we can't
+  even see it anymore!<0 Type='4'/>Didn't think that'd happen...<5 Type='1'/> Sorry ta say
+  it, but that's game over.
+0014: |
+  Bring it on.
+Talk05: |
+  <3 Type='0' Data='0a00'/>Ya sure?<5 Type='0'/> Aw, that's no good!<0 Type='4'/><3 Type='0' Data='0701'/>But if ya ever change yer mind, come
+  find me. I'll be here.
+0015: |
+  No, I'll keep going.
+Talk22: |
+  <3 Type='0' Data='0a00'/>I see...<5 Type='0'/> Well, if that's what yer heart says,
+  I'm not about ta stop ya.
+Talk111: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='08004500610073006500'/>Man, oh man.<5 Type='0'/> You're full of surprises, kid.
+  <5 Type='1'/>How'd ya pull that off?<0 Type='4'/>Well, I'll record your score up ta when
+  we lost sight of the ball.
+Talk06: |
+  <3 Type='0' Data='0700'/>That's the way! It'll cost ya
+  <0 Type='3' Data='0000'/>20 rupees<0 Type='3' Data='ffff'/>, OK?
+Talk23: |
+  <3 Type='0' Data='0800'/>Now yer talkin'! <5 Type='0'/>Give it all ya got, and
+  take that ball far!
+Talk07: |
+  <3 Type='0' Data='0a00'/>You don't have enough rupees...<5 Type='1'/> Oh, kid.
+  Save up yer money so you can play!
+Talk24: |
+  <3 Type='0' Data='0700'/>If ya quit now, I can't give ya yer
+  <0 Type='3' Data='0000'/>20 rupees <0 Type='3' Data='ffff'/>back. Are ya sure?
+Talk41: |
+  <3 Type='0' Data='0700'/>Wanna give Ultra Ball Haul another go?
+Talk08: |
+  <3 Type='0' Data='0a00'/>No foolin'? That's too bad.<5 Type='1'/> But if ya ever
+  wanna play, ya know where ta find me!
+Talk42: |
+  <3 Type='0' Data='0101'/>How 'bout it? Ready ta haul another ball?
+Talk106_01: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1400430061006c006c004600610072005f0030003100'/>Hey, kid!<5 Type='1'/> Where ya goin'?!<5 Type='1'/> Ya got
+  somewhere else ta be?<0 Type='4'/>If ya wanna stop the game,<5 Type='0'/> lemme know!
+Talk43: |
+  <3 Type='0' Data='0800'/>Holy moly, kid! <5 Type='1'/>If ya got to the bottom of
+  this valley, you must have legs of iron
+  and guts of steel!
+Talk44: |
+  <3 Type='0' Data='0800'/>Hey there, kid!<5 Type='1'/> Hard not to sleep in on a
+  nice mornin' like this!
+Talk45: |
+  <3 Type='0' Data='0800'/>Hey there, kid!<5 Type='1'/> Makin' it here this late
+  takes guts, gusto, and gumption!

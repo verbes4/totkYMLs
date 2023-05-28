@@ -1,0 +1,116 @@
+Talk_07: |
+  <3 Type='0' Data='0900'/>Hey! What are you doing?! I'm trying to
+  repair that frame! Don't touch it!
+  
+  Or do you wanna be made into parts?
+Talk_08: |
+  <3 Type='0' Data='0900'/>Hey! Can you stop looming? I can't focus
+  if you just stand there all silently!
+  
+  Can't you see the Depths team left me an
+  armored vehicle to fix?!
+Talk_03_2: |
+  <3 Type='0' Data='0700'/>Well, that certainly is <0 Type='3' Data='0000'/>500 rupees<0 Type='3' Data='ffff'/> there.<5 Type='1'/>
+  Heh,<5 Type='0'/> this marks the beginning of a very
+  rewarding friendship.
+  <FontSize Value='80'/>Let me know what needs tuning, and we'll make the
+  Gloomdredger more monstrous than ever!<FontSize Value='100'/>
+Talk_09: |
+  <3 Type='0' Data='0900'/>Then get lost! Waste my time with
+  chitchat again, and I'll be using YOU
+  as vehicle parts!
+Talk_05_2: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/><FontSize Value='80'/>If you really won't take no for an answer, I could
+  sell you one for <0 Type='3' Data='0000'/>999 rupees<0 Type='3' Data='ffff'/>...
+  
+  Huh...<5 Type='1'/> You're a blademaster, aren't you? For you,
+  I'll let it go for a much cheaper <0 Type='3' Data='0000'/>500 rupees<0 Type='3' Data='ffff'/>.
+  
+  Just as long as you tell me your thoughts on how
+  to improve this vicious vehicle.
+  
+  Oh, and don't tell anybody you got it from me.
+  It'd be bad for me if this got out.
+  
+  You OK if we do the handover outside?<FontSize Value='100'/>
+Talk_10: |
+  <3 Type='0' Data='0c00'/>Hmph, the way they treat my creations...
+  Just because I can fix it doesn't mean
+  they can smash it to bits!
+Talk_11: |
+  <3 Type='0' Data='0900'/>What's your problem?! I'm busy!
+  
+  
+  Or are you interested my ripsnorting
+  ripper, after all? My mad machine?
+  My masterpiece, the Gloomdredger?!
+0000: |
+  I'm interested.
+Talk_12: |
+  <3 Type='0' Data='0900'/>Then get lost! Waste my time again and
+  I'll mount you to the front of one of these!
+Talk_00: |
+  <3 Type='0' Data='0c00'/>Next I'll just mount this tire here... And
+  fix it real tight so it won't come off...
+0001: |
+  I'm good.
+Talk_13: |
+  <3 Type='0' Data='0900'/>Then get outta here with your small talk!
+  Waste my time again and I'll use ya as a
+  tire tread!
+Talk_14: |
+  <3 Type='0' Data='0900'/>Then beat it! Waste my time with small
+  talk again and I'll tie your head to the
+  lights and shine 'em right in your eyes!
+0002: |
+  You got a deal.
+Talk_02: |
+  <3 Type='0' Data='0700'/>Huh? You're interested in this raging
+  roadster? My fiendish, armor-clad
+  masterwork?! The Gloomdredger?!
+0003: |
+  Not a chance.
+Talk_15: |
+  <3 Type='0' Data='0900'/>Hey! Cut it out! I told you that frame's in
+  the middle of being repaired!
+  
+  Do you want me to repair the inside of
+  your head too?!
+Talk_16: |
+  <3 Type='0' Data='0700'/>What's with you? Oh, no, no, no...
+  Don't tell me...<5 Type='1'/>
+  
+  <3 Type='0' Data='0900'/>You smashed up my Gloomdredger, didn't
+  you?! My poor little fiendish, armored
+  monster machine!
+0004: |
+  Gimme a Gloomdredger.
+Talk_03: |
+  <3 Type='0' Data='0700'/>Well, that certainly is <0 Type='3' Data='0000'/>999 rupees<0 Type='3' Data='ffff'/>.<5 Type='1'/>
+  Heh,<5 Type='0'/> this marks the beginning of a
+  very rewarding friendship.
+Talk_17: |
+  <3 Type='0' Data='0700'/>You're back again. My snarling, skewering
+  Gloomdredger really is impossible to get
+  out of your head, isn't it?
+Talk_04: |
+  <FontSize Value='80'/><3 Type='0' Data='0700'/>The product in question is outside... Follow me.
+  This way.<FontSize Value='100'/>
+TerrorImpulse_00: |
+  Stay away from my ride.
+Talk_05: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/><FontSize Value='80'/>If you really won't take no for an answer, I could
+  sell you one for <0 Type='3' Data='0000'/>999 rupees<0 Type='3' Data='ffff'/>...
+  
+  But if word gets around that I sold one to some
+  random Yiga member, it'll be "so long, reputation"
+  for me.
+  OK if we do the handover outside?<FontSize Value='100'/>
+Talk_18: |
+  <3 Type='0' Data='0700'/>There it is, tires and all. Take it.
+Talk_06: |
+  <3 Type='0' Data='0900'/>Why you! You don't have enough money!
+  Are you mocking me? I'll run you over!<0 Type='4'/>I don't rub elbows with losers. Forget we
+  ever talked, and get outta here!
+TerrorImpulse_02: |
+  Don't mess with that.

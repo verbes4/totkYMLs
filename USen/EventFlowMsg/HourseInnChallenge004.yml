@@ -1,0 +1,125 @@
+Talk_Ready_1001: |
+  <3 Type='0' Data='0900'/>What? <5 Type='1'/>I found this ore deposit, so I'm
+  gonna smash it and get the <0 Type='3' Data='0000'/>gems <0 Type='3' Data='ffff'/>inside!
+Talk_Warning_1001: |
+  <FontSize Value='125'/><3 Type='0' Data='0b00'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003100'/>AAAAAAH!<FontSize Value='100'/>
+baloon_Ready_0001: |
+  Come on! Break already!
+Talk_Ready_1002: |
+  <3 Type='0' Data='0201'/>The rain's making my hands all slippery,
+  so I can't get a good grip. Otherwise this
+  rock would be dust by now.
+Talk_Success_1001: |
+  <3 Type='0' Data='0401'/>How?<5 Type='1'/> HOW?<5 Type='1'/> I was joking when I said to
+  break it in one go!<5 Type='1'/>
+  
+  <3 Type='0' Data='0701'/>I came up short because I was only using
+  my arm muscles. But you?
+  
+  <3 Type='0' Data='0800'/><4 Type='0' Data='12004c0061007500670068004c005f0030003000'/><FontSize Value='125'/>You used your brain muscles!<FontSize Value='100'/>
+  
+  
+  Now all I can do is admit that you won.
+  Congratulations. That was a perfect strike.
+  
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>The <0 Type='3' Data='0000'/>gems <0 Type='3' Data='ffff'/>are yours, like we agreed.
+  And you've inspired me to get more
+  creative with my weapon designs!
+baloon_Ready_0002: |
+  Rain won't stop me!
+Talk_Ready_1003: |
+  <3 Type='0' Data='0201'/>...<5 Type='1'/>
+  
+  
+  <3 Type='0' Data='0900'/>What's with that look?! You don't think
+  I can do it?!
+  
+  Fine, then! Let's make it interesting!
+  
+  
+  <3 Type='0' Data='0701'/>If you can break this ore deposit in <0 Type='3' Data='0000'/>one
+  strike<0 Type='3' Data='ffff'/>, I'll give you all the <0 Type='3' Data='0000'/>gems<0 Type='3' Data='ffff'/> that
+  come out.
+  <4 Type='0' Data='12004c0061007500670068004c005f0030003100'/>So step up...if you've got the GUTS.<5 Type='1'/>
+  
+  
+  I'm pretty confident in my skills, but with
+  my <0 Type='3' Data='0000'/>sword<0 Type='3' Data='ffff'/>, I can't even make a dent.
+  
+  There's no way a nobody like you can
+  break it in <0 Type='3' Data='0000'/>one strike<0 Type='3' Data='ffff'/>.
+Talk_TryToDestroy_1001: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003100'/><FontSize Value='125'/>OH, COME ON!<FontSize Value='100'/>
+Talk_Warning_1003: |
+  <3 Type='0' Data='0401'/>How?<5 Type='1'/> HOW?<5 Type='1'/> I was trying so hard to break
+  it in one go! <5 Type='0'/>But you actually did it!<5 Type='1'/>
+  
+  <3 Type='0' Data='0700'/>This ore deposit fell down from Death
+  Mountain. I was really hoping to keep
+  its <0 Type='3' Data='0000'/>gems <0 Type='3' Data='ffff'/>for myself.
+  But you're the one who got them out,
+  so I'll let you keep them.
+  
+  <3 Type='0' Data='0800'/><4 Type='0' Data='12004c0061007500670068004c005f0030003000'/>At least I got to see that perfect strike.
+  I'll have to get more creative with my own
+  weapon designs!
+Talk_Ready_1004: |
+  <3 Type='0' Data='0201'/>My hands are a little sweaty, so my grip's
+  not as firm as usual. Otherwise I'd have
+  busted it by now.
+Talk_TryToDestroy_1002: |
+  <FontSize Value='125'/><3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>All right! You're done!<FontSize Value='100'/>
+Talk_TryToDestroy_1003: |
+  <3 Type='0' Data='0701'/>I thought you had it for a second.
+  But maybe breaking it in <0 Type='3' Data='0000'/>one strike<0 Type='3' Data='ffff'/>
+  just isn't possible.
+  Hey, that's all right. No need to look so
+  bummed out.
+  
+  I couldn't break it with my <0 Type='3' Data='0000'/>sword <0 Type='3' Data='ffff'/>no
+  matter how many times I hit it, and I'm
+  a sword master.
+  <4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>I like your grit. Even though you know
+  it's impossible, you still want to try.
+  
+  If you ever want to give it another shot,
+  let me know.
+  
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068005300'/>I say that, but of course, soon I'll have
+  smashed this ore deposit myself. Those
+  <0 Type='3' Data='0000'/>gems <0 Type='3' Data='ffff'/>will be mine!
+Talk_Warning_1005: |
+  <3 Type='0' Data='0900'/>I found this ore deposit, and I'll be the
+  one who busts it open! Those gems will
+  be mine!
+Talk_Warning_1006: |
+  <3 Type='0' Data='0900'/><4 Type='0' Data='180057006f0072006b00480065006100760079005f0030003100'/><FontSize Value='125'/>Will you cut it out!<FontSize Value='100'/>
+Talk_TryToDestroy_1005: |
+  <3 Type='0' Data='0701'/>I almost thought you'd do it this time...
+  Guess it just isn't possible to break that
+  thing in <0 Type='3' Data='0000'/>one swing<0 Type='3' Data='ffff'/>.
+  I couldn't break it with my <0 Type='3' Data='0000'/>sword <0 Type='3' Data='ffff'/>no
+  matter how many times I hit it, and I'm
+  a sword master.
+  <4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>But I'm liking the determination. If you
+  ever want to try again, just give me
+  a shout.
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068005300'/>I say that, but of course soon I'll have
+  smashed this ore deposit myself. And the
+  goodies inside will be mine!
+Talk_TryToDestroy_1006: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>I gotta ask. Are you OK being out at night
+  like this?<0 Type='4'/>Doesn't bother me since I'm such a
+  sword master, but nighttime's dangerous.
+  It's when the monsters come out.
+  No shame in going back to the inn if
+  you're scared.
+Talk_TryToDestroy_1008: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004c0061007500670068005300'/>If you can break this ore deposit with
+  <0 Type='3' Data='0000'/>one strike<0 Type='3' Data='ffff'/>, I'll give you all the <0 Type='3' Data='0000'/>gems <0 Type='3' Data='ffff'/>that
+  come out.<0 Type='3' Data='0000'/><0 Type='3' Data='ffff'/>
+  I'm pretty confident in my skills, but with
+  my <0 Type='3' Data='0000'/>sword<0 Type='3' Data='ffff'/>, even I can't make a dent.
+  
+  There's no way a nobody like you can
+  break it in <0 Type='3' Data='0000'/>one strike<0 Type='3' Data='ffff'/>.

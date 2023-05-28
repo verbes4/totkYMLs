@@ -1,0 +1,163 @@
+Com_Talk_02c: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>Got it. Selling anything else today?
+5507: |
+  I'll take 'em all!
+Com_Talk_02d: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>You have a lot of stuff, huh? Is there
+  anything else you want to get rid of?
+5508: |
+  I'll sell them all.
+TerrorImpulse_00: |
+  Hmm?
+Talk_10: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Oops. Your pouch is too full to hold any
+  of our delicious Hateno cheese.<0 Type='4'/>Come back later after you make some
+  room. I'll be waiting here with a fresh
+  batch for you.
+TerrorImpulse_01: |
+  What?
+Com_Talk_50: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>If you're going to buy that, we charge
+  <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>.
+TerrorImpulse_02: |
+  Whoa!
+Talk_12: |
+  <3 Type='0' Data='0800'/>Thanks once again. Always happy to see
+  a satisfied customer.<5 Type='1'/><0 Type='4'/><3 Type='0' Data='0c01'/><FontSize Value='80'/>Especially when it's...you know...you.<FontSize Value='100'/>
+Com_Talk_52: |
+  OK, <2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/> of those is <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>.
+Com_Talk_05b: |
+  <3 Type='0' Data='0101'/>Take your time. Not like I was doing
+  anything important.
+Com_Talk_53: |
+  <3 Type='0' Data='0c00'/>I see. And you're sure you don't want any
+  of our rich, delicious Hateno cheese?
+Talk_15: |
+  <3 Type='0' Data='0700'/>I'm glad you came out here anyway.
+  It's worth making the cheese just for that.
+Com_Talk_05c: |
+  <3 Type='0' Data='0101'/>I'll find a use for whatever you want to
+  sell me, I promise.
+Com_Talk_13: |
+  Yeah? How many do you want to sell?
+Com_Talk_54: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='0a005400680069006e006b00'/>There's no nice way to say this—you don't
+  have enough rupees for that.
+Near_01: |
+  ♪Hum te dum.♪
+Talk_16: |
+  <3 Type='0' Data='0700'/>Even if it's late at night, I'm still glad you
+  came out here.
+Com_Talk_05d: |
+  <3 Type='0' Data='0101'/>Relax. I don't want you to feel stressed
+  out when going through your pouch.
+Com_Talk_14: |
+  I'll pay <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/> for <2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/>.
+Com_Talk_55: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Hm? Won't the cheese get smushed if you
+  try to fit it into a pouch that full?<0 Type='4'/>Let's try this again sometime after you've
+  reorganized that thing.
+Near_02: |
+  Welcome!
+Talk_17: |
+  <3 Type='0' Data='0700'/>I'm glad you came out here. You should
+  stick around a while to take shelter from
+  the rain.
+Com_Talk_15: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='0600530061006400'/>Oh, sorry, but that's one thing I won't
+  buy off of you.
+Com_Talk_56: |
+  A single one will run <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>.
+Talk_18: |
+  <3 Type='0' Data='0700'/>This might sound out of the blue, but do
+  you want some <0 Type='3' Data='0000'/>Hateno cheese<0 Type='3' Data='ffff'/>? I'd be
+  fine giving you some, if you want!<0 Type='4'/>And don't worry if you can't afford it.
+  I'll accept <0 Type='3' Data='0000'/>fresh milk <0 Type='3' Data='ffff'/>as<0 Type='3' Data='0000'/> trade<0 Type='3' Data='ffff'/>.<0 Type='4'/>For customers willing to trek directly
+  to the pasture, it's the least I can do!
+0001: |
+  I'm looking to buy.
+Com_Talk_16: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='0600530061006400'/>OK, you understand that I'm not going to
+  buy your clothes while you're still wearing
+  them, right? For obvious reasons?
+Talk_19: |
+  <3 Type='0' Data='0700'/>If you're here for Hateno cheese, pick out
+  whichever block you like from the ones
+  lined up there.
+Talk_01: |
+  <3 Type='0' Data='0700'/>I'm glad you made the trek out. Since
+  you're here, you should treat yourself
+  to some <0 Type='3' Data='0000'/>Hateno cheese<0 Type='3' Data='ffff'/>!<0 Type='4'/>Don't worry about the price. If you don't
+  have any money, I'll <0 Type='3' Data='0000'/>trade<0 Type='3' Data='ffff'/> you the cheese
+  for some <0 Type='3' Data='0000'/>fresh milk<0 Type='3' Data='ffff'/>.
+0002: |
+  Yeah, let's trade!
+Talk_02: |
+  <3 Type='0' Data='0700'/>Thanks to you, my great-grandpa's dream
+  of a uniquely Hateno cheese wasn't lost.<0 Type='4'/>I'm really and truly grateful for that.
+Com_Talk_00: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>What are you thinking of selling?
+Talk_03: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Leaving already?<5 Type='1'/><0 Type='4'/><FontSize Value='80'/><3 Type='0' Data='0c01'/>That's OK. <5 Type='0'/>Just be sure to visit again...<FontSize Value='100'/>
+Com_Talk_01: |
+  <3 Type='0' Data='0701'/>That, huh? I can part with <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>
+  for it. OK with you?
+0005: |
+  Goodbye.
+Talk_04: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a005400680069006e006b00'/>Hmm... It's not much of a trade if you
+  don't have any <0 Type='3' Data='0000'/>fresh milk <0 Type='3' Data='ffff'/>on your end.
+Com_Talk_02: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>Thanks. Was there anything else you had
+  in mind to sell?
+0006: |
+  I have things to sell.
+Talk_05: |
+  <3 Type='0' Data='0800'/>Thanks. Eat it in health.
+Talk_06: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>Good choice! Presenting a chunk of
+  thiiick, rich, highly nutritious, and
+  absolutely unbeatable Hateno cheese!
+Com_Talk_04: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Changed your mind? Fair enough.
+Talk_07: |
+  <3 Type='0' Data='0700'/>You want to trade a bottle of <0 Type='3' Data='0000'/>fresh milk<0 Type='3' Data='ffff'/>
+  for one chunk of our <0 Type='3' Data='0000'/>Hateno cheese<0 Type='3' Data='ffff'/>?
+Com_Talk_05: |
+  <3 Type='0' Data='0101'/>I'll buy anything off of you, so don't hold
+  back on my account.
+Talk_08: |
+  <3 Type='0' Data='0800'/>Thank you for buying out my stock!<0 Type='4'/>I'm going to wear out my gratitude
+  muscles if I keep thanking you so much.<0 Type='4'/>Don't worry, I'll make more cheese!<0 Type='4'/><FontSize Value='80'/><3 Type='0' Data='0c00'/>I mean...I basically just make it for you...<FontSize Value='100'/>
+Talk_09: |
+  <3 Type='0' Data='0701'/>I'm only a one-woman cheese-making
+  operation, but stay as long as you like,
+  and buy to your heart's content!
+Com_Talk_31: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>How many you need?
+Com_Talk_33: |
+  One is <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>. How does
+  that sound?
+Com_Talk_34: |
+  That's...my entire stock of those. For <2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/>,
+  I'll need <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>, OK?
+Com_Talk_35: |
+  You mean your whole supply of <2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/>?
+  I can give you <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>.
+5500: |
+  Yes.
+Talk_20: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0a005400680069006e006b00'/>Sorry, but I'm out of Hateno cheese
+  right now.
+5501: |
+  No.
+Talk_21: |
+  <3 Type='0' Data='0001'/>I also buy things, if you're in the market
+  to sell whatever you don't need.
+5502: |
+  I'll buy.
+5503: |
+  Never mind.
+Com_Talk_02b: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>Sure, I'll find some use for this. Are you
+  still in a selling mood?

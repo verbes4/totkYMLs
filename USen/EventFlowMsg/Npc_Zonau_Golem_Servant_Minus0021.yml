@@ -1,0 +1,14 @@
+talk_0002: |
+  <3 Type='0' Data='0700'/>You should now be able to Autobuild <0 Type='3' Data='0000'/>an
+  additional design<0 Type='3' Data='ffff'/>.<0 Type='4'/><3 Type='0' Data='0701'/>Please wait while I prepare the necessary
+  parts for you to test this <0 Type='3' Data='0000'/>schema stone<0 Type='3' Data='ffff'/>.
+talk_0001: |
+  <3 Type='0' Data='0700'/>Thank you for driving out the trespassers.
+  I will no longer need to hide in order to
+  avoid detection.<0 Type='4'/>There is another reason that it is good
+  you have come.<0 Type='4'/>I see that you have the ability to
+  Autobuild. That means this <0 Type='3' Data='0000'/>schema
+  stone<0 Type='3' Data='ffff'/> I carry is for you.
+talk_0003: |
+  <3 Type='0' Data='0700'/>Schema stones can help you to <0 Type='3' Data='0000'/>build
+  things you have never before imagined<0 Type='3' Data='ffff'/>.<0 Type='4'/>I hope that you find this one useful.

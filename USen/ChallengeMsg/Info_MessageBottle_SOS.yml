@@ -1,0 +1,23 @@
+Name: |
+  A Bottled Cry for Help
+MessageBottle_SOS_02: |
+  You found Chumin trapped in a cave in the
+  eastern cliffs of Mapla Point.
+  
+  You should <0 Type='3' Data='0000'/>clear the rock<0 Type='3' Data='ffff'/> covering the exit
+  so he can get out.
+MessageBottle_SOS_01: |
+  You found a letter inside a bottle that had
+  floated its way to Hateno Bay. It seems its
+  writer is trapped inside a cave and needs
+  your help.
+  
+  Fortunately, they've left a trail of <0 Type='3' Data='0000'/>brightbloom
+  seeds and flowers floating in the sea to guide
+  you to the cave<0 Type='3' Data='ffff'/>.
+Complete: |
+  You found Chumin trapped in a cave in the
+  eastern cliffs of Mapla Point.
+  
+  You saved him by removing the rock blocking
+  the exit.

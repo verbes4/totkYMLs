@@ -1,0 +1,289 @@
+Com_Talk_14: |
+  <3 Type='0' Data='0701'/>So, <2 Type='2' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/> would be <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>.
+  That OK?
+Com_Talk_00: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>What you got for me?
+Com_Talk_15: |
+  <3 Type='0' Data='0c00'/>Sorry, but no. I don't think I can flip that.
+Com_Talk_01: |
+  <3 Type='0' Data='0701'/>You're selling that? I guess I can give you
+  <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>.
+Com_Talk_16: |
+  <3 Type='0' Data='0c00'/>Sorry, but I'm not going to buy clothes
+  that you're still wearing. That'd be weird.
+Com_Talk_02: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Great!<5 Type='0'/> Was that all you wanted?
+Com_Talk_04: |
+  <3 Type='0' Data='0a00'/>I see...<5 Type='1'/> Too bad.
+Com_Talk_05: |
+  <3 Type='0' Data='0701'/>I buy anything.
+Com_Talk_06: |
+  <3 Type='0' Data='0a00'/>I getcha. No worries.
+StartPoint_01_2: |
+  <3 Type='0' Data='0700'/>Ever heard of the <0 Type='3' Data='0000'/>god of horses<0 Type='3' Data='ffff'/>?<5 Type='0'/>
+  He's supposed to be near East Akkala
+  Stable, northeast of here.
+Com_Talk_07: |
+  <3 Type='0' Data='0a00'/>Sorry.<5 Type='1'/> Fresh out of those.
+5500: |
+  Yes.
+Greeting: |
+  <3 Type='0' Data='0700'/>Hm?<5 Type='0'/> Oh, it's you... <5 Type='1'/>And so early!
+  Couldn't wait till after lunch to talk to
+  me again, huh?
+GoalPoint_01: |
+  <3 Type='0' Data='0c00'/>I hear the <0 Type='3' Data='0000'/>god of horses<0 Type='3' Data='ffff'/> is around here.
+  He's a big eater, or so they say.
+  
+  <3 Type='0' Data='0701'/>Guess I'd better whip up a meal for him
+  before I drop by.
+Com_Talk_08: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0a005400680069006e006b00'/>You're short on rupees... <5 Type='1'/>Plump up your
+  pockets, then come talk to me.
+5501: |
+  No.
+Atacked00: |
+  <3 Type='0' Data='0a00'/>Why this?<5 Type='0'/> Why now?<5 Type='0'/> Why me?
+GoRange_01_2: |
+  <3 Type='0' Data='0700'/>The <0 Type='3' Data='0000'/>god of horses<0 Type='3' Data='ffff'/> can make steeds
+  stronger, they say... Maybe I'll try paying
+  him a visit.
+Com_Talk_09: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0a005400680069006e006b00'/>Looks like your pouch is out of room.<5 Type='1'/>
+  Make some space, and then we'll talk.
+5502: |
+  I'll buy.
+Atacked01: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='0a0053006300610072006500'/>Aieee! Heeelp!
+5503: |
+  Never mind.
+Guardian00: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='0a0053006300610072006500'/>Oh, I'm so dead!<5 Type='0'/> Save yourself!
+Talk_2000: |
+  <3 Type='0' Data='0a00'/>The only thing putting a damper on my
+  wonderful day is this darned rain.<0 Type='4'/><3 Type='0' Data='0500'/>Then again, if it's washing away all this
+  muck, maybe it's a good thing...
+NakedPlayer: |
+  That's a lot of skin.
+Near_Rain: |
+  My cargo's getting soaked.
+SavedLv1_00: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='08004500610073006500'/>Well, I'm still alive.<5 Type='0'/> Guess that counts
+  for something.
+GoRange_01: |
+  <3 Type='0' Data='0c00'/>I love my mare, but a heavyweight hauler
+  she is not. If the girl had more muscle,
+  I could load more onto my wagon.
+  <3 Type='0' Data='0701'/>The <0 Type='3' Data='0000'/>god of horses<0 Type='3' Data='ffff'/> can make steeds
+  stronger, they say... Maybe I'll try paying
+  him a visit.
+BackRange_01_2: |
+  <3 Type='0' Data='0700'/>My mare, bless her, likes to take it slow.
+  Think the <0 Type='3' Data='0000'/>god of horses<0 Type='3' Data='ffff'/> could make her
+  run a little quicker?
+SavedLv1_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='08004500610073006500'/>Thanks. I mean it—<5 Type='0'/>thank you.
+GoRange_02: |
+  <3 Type='0' Data='0700'/>A horse is every merchant's best friend.<5 Type='0'/>
+  That's why I reward my dear mare after a
+  hard day's work.
+  <3 Type='0' Data='0801'/>She just loves endura carrots. Can't get
+  enough of 'em.
+  
+  That <0 Type='3' Data='0000'/>god of horses <0 Type='3' Data='ffff'/>who's supposed to be
+  nearby... I wonder if he eats them too.
+  He's a horse himself, right? Or no?
+Near_BackRange_01: |
+  Pick it up, girl! Come on!
+5507: |
+  I'll take 'em all!
+Near_BackRange_02: |
+  It doesn't sit right.
+5508: |
+  All of them.
+ShopGoodBye_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1a00410064006d00690072006100740069006f006e005f0030003100'/>Stay safe out there!
+Com_Talk_05b: |
+  <3 Type='0' Data='0701'/>I'm happy to buy more stuff off you.
+Com_Talk_05c: |
+  <3 Type='0' Data='0701'/>What are you offering?
+Near_1000: |
+  My wagon is just perfect!
+Com_Talk_05d: |
+  <3 Type='0' Data='0701'/>If you have something to sell, don't hold
+  out on me.
+ShopGreet_00: |
+  <3 Type='0' Data='0400'/>Anyway!<5 Type='0'/> More importantly. I'm open
+  for business.
+  
+  <3 Type='0' Data='0800'/>You want to buy or sell anything?
+StartPoint_01: |
+  <3 Type='0' Data='0000'/>Say, you ever heard of the <0 Type='3' Data='0000'/>god of horses<0 Type='3' Data='ffff'/>?<5 Type='0'/>
+  He's supposed to be near East Akkala
+  Stable, northeast of here.
+  <3 Type='0' Data='0c01'/>They say he makes horses stronger...<5 Type='1'/> 
+  Maybe I can ask him to work his magic on
+  my beloved mare.
+Greeting_00: |
+  <3 Type='0' Data='0700'/>Hm?<5 Type='0'/> Oh, it's you!<5 Type='1'/> So you trudged through
+  the rain just to talk to me again?
+Greeting_01: |
+  <3 Type='0' Data='0700'/>Hm?<5 Type='0'/> Oh, it's you...<5 Type='1'/>again! Couldn't get
+  enough of my mellifluous voice, huh?
+Greeting_02: |
+  <3 Type='0' Data='0700'/>Hm?<5 Type='0'/> Oh, it's you!<5 Type='1'/> Couldn't wait until
+  morning to talk to me again, huh?
+Thanks00: |
+  <3 Type='0' Data='0800'/>You saw me through alive. Say, any
+  chance you'd want this?
+Near_GoRange_01: |
+  The god of horses, eh?
+0001: |
+  I'll buy.
+SavedLv2_00: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='08004500610073006500'/>Wow, look at you. <5 Type='0'/>Nice "moves."
+Near_GoRange_02: |
+  Carrots...
+0002: |
+  Can I sell to you?
+SavedLv2_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='08004500610073006500'/>That sure woke me up... <5 Type='1'/>Thanks.
+0003: |
+  Goodbye.
+Near_Thunder: |
+  Yipes...
+Near_GoalPoint_01: |
+  A big eater, they say.
+Com_Talk_30: |
+  <3 Type='0' Data='0000'/>And how many?
+Com_Talk_31: |
+  <3 Type='0' Data='0000'/>OK, <2 Type='2' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/> would come to a total of
+  <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>. That all right?
+Talk_3002: |
+  <3 Type='0' Data='0700'/>Hm? Hey, I could see you staring through
+  the rain... Something up?
+GoRange_02_2: |
+  <3 Type='0' Data='0700'/>That <0 Type='3' Data='0000'/>god of horses <0 Type='3' Data='ffff'/>nearby... Do you think
+  he likes endura carrots as much as my
+  darling mare?
+Com_Talk_02b: |
+  <3 Type='0' Data='0800'/>*nod*
+Com_Talk_11_b: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>That was a smart purchase you made.
+Com_Talk_32: |
+  <3 Type='0' Data='0000'/>One? Sure. That's <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>. OK?
+Talk_3003: |
+  <3 Type='0' Data='0700'/>Hm? Hey, you've been staring for a while
+  now... Something up?
+Com_Talk_02c: |
+  <3 Type='0' Data='0800'/>Thanks.
+Com_Talk_11_c: |
+  <3 Type='0' Data='0800'/>Thanks.
+Com_Talk_33: |
+  <3 Type='0' Data='0000'/>One, eh? That would be <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>.
+  Is that OK?
+Near_StartPoint_01: |
+  Attagirl.
+Com_Talk_02d: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Did you have anything else?
+Com_Talk_11_d: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Thanks. And feel free to buy more.
+Com_Talk_34: |
+  <3 Type='0' Data='0401'/>All of them?! Dear me! <5 Type='0'/>Well, <2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/> would
+  cost <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>, but are you sure?
+EnokidaSignboard: |
+  Won't forget this soon...
+GoalPoint_01_2: |
+  <3 Type='0' Data='0700'/>I hear the <0 Type='3' Data='0000'/>god of horses<0 Type='3' Data='ffff'/> is around here.
+  He's a big eater, or so they say.
+Com_Talk_20: |
+  <3 Type='0' Data='0700'/>When it's raining, I like to mix up my
+  selection. Take a look-see.
+Com_Talk_35: |
+  <3 Type='0' Data='0401'/>Your entire stock?!<5 Type='0'/> Well, for all <2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/>,
+  I could offer you <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>. Is that
+  all right?
+BackRange_02_2: |
+  <3 Type='0' Data='0a00'/>I hear <0 Type='3' Data='0000'/>pirates<0 Type='3' Data='ffff'/> have been appearing on the
+  waters near here. This world can be a
+  scary place sometimes.
+Com_Talk_36: |
+  <3 Type='0' Data='0800'/>I'm fresh out of stock for the day!
+  Thanks for buying so much!
+Com_Talk_37: |
+  <3 Type='0' Data='0700'/>I have to thank you again! You helped me
+  sell through my entire stock for today.<5 Type='1'/><0 Type='4'/>While I don't have anything left to sell
+  you, I'm happy to show you what I plan
+  to stock!
+ShopTalk_01: |
+  <3 Type='0' Data='0700'/>Did you need anything else?
+Near_RainPoint_01: |
+  *sigh*
+ShopGreet_01_2: |
+  <3 Type='0' Data='0000'/>You know, my favorite part of this job
+  is all the people I meet.
+  
+  <3 Type='0' Data='0800'/>It's always fun hearing folks' stories!<5 Type='0'/>
+Talk_1000: |
+  <3 Type='0' Data='0500'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>It's...it's finally mine! The <0 Type='3' Data='0000'/>towing harness<0 Type='3' Data='ffff'/>
+  of my dreams!
+  
+  Took a while to save up enough<0 Type='3' Data='0000'/> Pony
+  Points<0 Type='3' Data='ffff'/> for it. So many wild horses
+  registered, so many nights at stables...
+  But it's all been worth it! Now that I've
+  got this harness, I can tow to my heart's
+  content!
+BackRange_01: |
+  <3 Type='0' Data='0700'/>I love my horse, but she's not what you'd
+  call "fast."
+  
+  You think the <0 Type='3' Data='0000'/>god of horses <0 Type='3' Data='ffff'/>could make
+  her run a little quicker?
+Com_Talk_10: |
+  <3 Type='0' Data='0701'/>You want that, then?
+Talk_1001: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004e006f007400690063006500'/>You wouldn't happen to be jealous of my
+  <0 Type='3' Data='0000'/>towing harness<0 Type='3' Data='ffff'/>, would you?
+BackRange_02: |
+  <3 Type='0' Data='0700'/>I hear <0 Type='3' Data='0000'/>pirates<0 Type='3' Data='ffff'/> have been appearing on the
+  waters near here. It's a dangerous place,
+  this world we live in.
+  <3 Type='0' Data='0a01'/>Folks will probably avoid this area, which
+  is bad news for my balance sheet.
+Com_Talk_11: |
+  <3 Type='0' Data='0800'/>OK. Thanks.
+Talk_1002: |
+  <3 Type='0' Data='0700'/>Like my <0 Type='3' Data='0000'/>towing harness<0 Type='3' Data='ffff'/> that much, do ya?<0 Type='4'/>Then you gotta hit the stables and build
+  up some <0 Type='3' Data='0000'/>Pony Points<0 Type='3' Data='ffff'/> of your own!<0 Type='4'/>You can earn points by using the stable
+  facilities, handing 'em new wild horses,
+  and staying the night there.
+  <3 Type='0' Data='0800'/>Build up enough points and you'll get
+  your own harness. Then you can pull a
+  wagon all day long!
+  I do my trading northeast of here in
+  <0 Type='3' Data='0000'/>Akkala<0 Type='3' Data='ffff'/>, so come find me if you're nearby.<0 Type='4'/>And hey, spend enough time on the road
+  and I'm sure we'll see each other again!
+RainPoint_01_2: |
+  <3 Type='0' Data='0c00'/>Rain... It keeps my customers indoors,
+  exactly where I don't want 'em.
+Com_Talk_12: |
+  <3 Type='0' Data='0700'/>Take a look at my wares. <5 Type='1'/>I think you'll
+  like what you see.
+SavedLv3_00: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='08004500610073006500'/>Yipes... That could've gone better.
+Talk_1003: |
+  <3 Type='0' Data='0800'/>I totally get it!<0 Type='4'/>I mean, if you had a <0 Type='3' Data='0000'/>harness<0 Type='3' Data='ffff'/> of your own,
+  <0 Type='3' Data='0000'/>your horse could pull a wagon<0 Type='3' Data='ffff'/> or all kinds
+  of other stuff.
+  Doing business from a wagon's always
+  been a dream of mine, me being a
+  merchant and all.
+  <3 Type='0' Data='0700'/>I trade around <0 Type='3' Data='0000'/>Akkala<0 Type='3' Data='ffff'/>, to the northeast,
+  so if you ever pass me on the road,
+  definitely give me a shout!
+Com_Talk_13: |
+  <3 Type='0' Data='0701'/>How many would you like to sell?
+SavedLv3_01: |
+  <3 Type='0' Data='0a00'/>Whew... I'm not in any hurry to run into
+  one of those again.

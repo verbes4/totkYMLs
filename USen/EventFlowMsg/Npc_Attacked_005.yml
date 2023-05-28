@@ -1,0 +1,102 @@
+Talk03: |
+  <3 Type='0' Data='0700'/>Oh, sure! Maybe stick around and listen
+  to a song or two though? <5 Type='0'/>Really helps to
+  calm the prebattle jitters.
+Talk10: |
+  <3 Type='0' Data='0700'/>At my level, you can tell how strong a
+  weapon is by just looking at it.
+  
+  And that Lynel weapon you showed me?<5 Type='0'/> 
+  That was the strongest I've seen in all my
+  days of looking at weapons!
+  <3 Type='0' Data='0801'/>It's inspired me to get out there, fight a
+  big monster, and harvest its parts to use
+  in my own smithing.
+  Won't be easy. But if I train enough,
+  I'm sure I can do it!
+Near02: |
+  Rain again, huh?
+Talk11: |
+  <3 Type='0' Data='0c00'/>Question is, what kind of monster should
+  I go for?<0 Type='4'/>A Lynel, like you? Maybe a Hinox?<5 Type='0'/>
+  Or what about a Talus?<5 Type='1'/>
+0005: |
+  A Lynel.
+Near03: |
+  Gotta be prepared.
+Talk12: |
+  <3 Type='0' Data='0701'/>If you were me, what would you go for?<5 Type='0'/>
+  A Lynel, a Hinox,<5 Type='0'/> or a Talus?
+0006: |
+  A Hinox.
+Talk13: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>You've got to pretty fearless to take on
+  a Lynel.
+  
+  One was spotted northwest of here <0 Type='3' Data='0000'/>near
+  the entrance to Tempest Gulch<0 Type='3' Data='ffff'/>.
+  
+  <3 Type='0' Data='0c01'/>Though knowing you, I guess that one
+  might've been defeated already.
+  
+  Lynels are swift, they're strong...<5 Type='0'/>and
+  they can fling fireballs from a distance.
+  Not easily beaten.
+  <3 Type='0' Data='0701'/>But if I could <0 Type='3' Data='0000'/>get on its back <0 Type='3' Data='ffff'/>and ride it
+  like a horse, maybe I'd have a shot.
+0007: |
+  A Talus.
+Talk20: |
+  <3 Type='0' Data='0c00'/>To get the materials for a strong weapon,
+  I'll have to fight one of the biggies.
+Talk14: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>But a Hinox... <5 Type='1'/>That one's really for the
+  stout of heart!
+  
+  I actually did hear about one at <0 Type='3' Data='0000'/>Rist
+  Peninsula <0 Type='3' Data='ffff'/>to the south of here.
+  
+  <3 Type='0' Data='0c01'/>Hinox though... <5 Type='1'/>They're huge and can
+  deal loads of damage.
+  
+  Strong attacks wouldn't be enough.
+  I'd have to fortify my defense as well.
+  
+  <3 Type='0' Data='0701'/>Doable, I think... But I'll need to get some
+  better armor and stock up on food.
+0008: |
+  Goodbye.
+Talk15: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>A Talus though... <5 Type='1'/>Fighting one of those
+  takes real guts!
+  
+  I did hear a rumor that there's one in
+  <0 Type='3' Data='0000'/>North Akkala Foothill<0 Type='3' Data='ffff'/> to the northwest
+  of here.
+  <3 Type='0' Data='0701'/>But those things are solid as boulders...<5 Type='0'/>
+  I doubt my current weapon would even
+  make one flinch.
+  If I want to fight a Talus, I'll have to invest
+  in a hammer that can smash rocks.
+Talk21: |
+  <3 Type='0' Data='0800'/>Off to fight monsters that come out
+  at night? How very you!
+Talk16: |
+  <3 Type='0' Data='0700'/>Right! I'd better train.<5 Type='0'/> Have to be ready if
+  I want to beat one of those monsters.
+Talk17: |
+  <3 Type='0' Data='0700'/>Any other monster you think I ought
+  to consider? 
+Talk18: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003100'/>Didn't you already say that one?<5 Type='0'/>
+  Well, that's OK.
+Talk19: |
+  <3 Type='0' Data='0700'/>Oh, hello again.
+  
+  
+  I'm hoping to make a weapon as strong as
+  the one you showed me.
+  
+  But to do that, I'll have to fight a big
+  monster...and that means preparing
+  myself for a tough battle.

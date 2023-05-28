@@ -1,0 +1,106 @@
+WakeUpMasterSword: |
+  The Master Sword's power has been restored.
+DropWeapon: |
+  You dropped the <2 Type='28'/>.
+CouldNotPutWeapon: |
+  You can't carry any more melee weapons.
+CannotSetPinHere: |
+  You can't place a pin here.
+CannotCarryNow: |
+  You can't do that now.
+NoTimeForThat: |
+  Not a good time!
+CannotCallNow: |
+  You can't summon here.
+CouldNotPutBow: |
+  You can't carry any more of those.
+CouldNotPutFood: |
+  You can't carry any more meals.
+CannotSetMorePin: |
+  You can't place any more pins.
+ConnotGoAnyFurther: |
+  You can't go any farther.
+DropBow: |
+  You dropped the <2 Type='11' Data='2a00530069006d0070006c00650049006e0066006f005f00440072006f00700070006500640042006f007700ffff'/>.
+CannotExtractNow: |
+  You can't take that out now.
+CannotCarryHere: |
+  You can't do that here.
+CannotUseAmiiboToday: |
+  This amiibo can't be used again today.
+CannotIncreaseHeart: |
+  You have the maximum number of hearts.
+CannotSetPinThere: |
+  You can't place a pin there.
+NotExistBluePrintDraft: |
+  There are no registered designs.
+CannotAttachAlreadyAttached: |
+  Fuse has already been used on this.
+RupeeShortage: |
+  You don't have enough rupees.
+CannotScraBuildBrokenMasterSword: |
+  You can't use Fuse on a damaged blade.
+CannotBuildAutoBuilderTooNarrow: |
+  You don't have enough room to build with Autobuild.
+RicketyShield: |
+  Your <2 Type='28'/> is badly damaged.
+CouldNotPutArmor: |
+  You can't carry any more armor.
+CannotAttachMore: |
+  You can't attach any more.
+AttackedGerudoQueen: |
+  Riju is under attack.
+CannotDisplayBow: |
+  You don't have a bow equipped.
+RicketyWeapon: |
+  Your <2 Type='28'/> is badly damaged.
+EatenEquipment: |
+  Your <2 Type='28'/> was stolen!
+CannotAttachSpecialEquipment: |
+  You can't use Fuse on this equipment.
+CannotPickUpMore: |
+  You can't pick up any more of this.
+CannotExtractHere: |
+  You can't take that out here.
+CannotKillTime: |
+  You can't pass time while enemies are near.
+CannotCook: |
+  You can't cook while enemies are near.
+CannotDisplayWeapon: |
+  You don't have a melee weapon equipped.
+CannotCopyWell: |
+  There's not enough room here to take a picture.
+CannotBuyMore: |
+  You can't buy any more of this.
+CannotUseHere: |
+  You can't use that here.
+CannotAttachNoEquipment: |
+  You can't use Fuse with nothing equipped.
+CannotDisplayMasterSword: |
+  You cannot display the Master Sword.
+CannotBuildAutoBuilder: |
+  You don't have enough zonaite to build with Autobuild.
+RicketyBow: |
+  Your <2 Type='11' Data='1c00530069006d0070006c00650049006e0066006f005f0042006f007700ffff'/> is badly damaged.
+BrokenBow: |
+  Your <2 Type='11' Data='1c00530069006d0070006c00650049006e0066006f005f0042006f007700ffff'/> broke!
+ZonaniumShortage: |
+  You don't have enough zonaite.
+BrokenShield: |
+  Your <2 Type='28'/> broke!
+BigZonaniumShortage: |
+  You don't have enough large zonaite.
+NotHaveArrow: |
+  You don't have any arrows left.
+BrokenWeapon: |
+  Your <2 Type='28'/> broke!
+RicketyMasterSword: |
+  The Master Sword is running low on energy.
+CannotDisplayShield: |
+  You don't have a shield equipped.
+DropShield: |
+  You dropped the <2 Type='28'/>.
+CouldNotPutShield: |
+  You can't carry any more shields.
+SleepMasterSword: |
+  The Master Sword has run out of energy.

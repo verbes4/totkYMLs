@@ -1,0 +1,248 @@
+Talk_0061: |
+  <3 Type='0' Data='0700'/>Ooh, that's right. President Budson.
+Talk_0096: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Oh my, a traveler! Good morning.
+Talk_0062: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a0048006100700070007900'/><0 Type='3' Data='0000'/>Hudson<0 Type='3' Data='ffff'/>, darling, Hudson. Not "Budson."
+Near_0001: |
+  Oh dear...
+Talk_0097: |
+  <3 Type='0' Data='0700'/>To me, the Unity Bell is just a useful
+  landmark for my strolls around town.
+  
+  But I've heard folks come in from out
+  of town just to see it.
+  
+  The bell's become quite famous since
+  <0 Type='3' Data='0000'/>President Hudson<0 Type='3' Data='ffff'/> had his wedding there.
+Talk_0063: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004e006f007400690063006500'/>Oh, Mattison! <5 Type='0'/>There you are.<5 Type='0'/> You've
+  gotten so big.
+Talk_0098: |
+  <3 Type='0' Data='0700'/>I hope when Mattison grows up, she'll
+  want to have her wedding here. Just like
+  her parents.
+Talk_0064: |
+  <3 Type='0' Data='0700'/>That's not her, darling.<0 Type='4'/>Didn't Mattison say she was <0 Type='3' Data='0000'/>going
+  back home<0 Type='3' Data='ffff'/>?
+Talk_0065: |
+  <3 Type='0' Data='0700'/>Oh, that's right. To President Budson's.
+Talk_1001: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003100'/>Oh my! <5 Type='0'/>Do you need something in
+  my house?<0 Type='4'/>I don't have much to offer, but make
+  yourself at home.
+Talk_0066: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a0048006100700070007900'/>Darling, it's Hudson, not "Budson."
+Talk_1002: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003100'/>Oh my! <5 Type='0'/>You again?<5 Type='1'/><0 Type='4'/><3 Type='0' Data='0000'/><4 Type='0' Data='0e0045006100730065005f0030003100'/>I suppose if you're so comfortable here,
+  you might as well make yourself at home.
+Talk_0067: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Why wouldn't we be? You're still a young
+  woman, dear.
+Talk_0068: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>Hehe. That's right.
+Talk_0069: |
+  <3 Type='0' Data='0c00'/>I hope Mattison will be all right on
+  the railcar.<0 Type='4'/>It's been harder to use ever since Hagie
+  became the manager.
+Talk_0080: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a0048006100700070007900'/>I'm so pleased Mattison was able to board
+  the railcar to see President Hudson.<0 Type='4'/>I wonder if the manager turned a blind
+  eye for her this time.
+Talk_0081: |
+  <3 Type='0' Data='0700'/>Ever since Mattison moved, even the
+  Goddess Statue seems lonely.
+  
+  I hope someday when Mattison's all grown
+  up, she has her wedding ceremony here,
+  just like her parents.
+Talk_0082: |
+  <3 Type='0' Data='0700'/>It's "Budson," dear.
+Talk_0083: |
+  <3 Type='0' Data='0700'/>I heard the <0 Type='3' Data='0000'/>president <0 Type='3' Data='ffff'/>is in the office at
+  the moment. That doesn't happen often
+  these days.
+Talk_0084: |
+  <3 Type='0' Data='0700'/>I told you, darling, that's not her.<0 Type='4'/>Mattison is probably <0 Type='3' Data='0000'/>back at home<0 Type='3' Data='ffff'/>
+  by now.
+Talk_0085: |
+  <3 Type='0' Data='0c00'/>Hm... <5 Type='0'/>But if the manager doesn't see her,
+  he won't be able to stop her.
+Talk_0051: |
+  <3 Type='0' Data='0700'/>Thanks to<0 Type='3' Data='0000'/> Hudson<0 Type='3' Data='ffff'/>, <0 Type='3' Data='0000'/>Tarrey Town <0 Type='3' Data='ffff'/>has
+  grown rather famous.
+Talk_0086: |
+  <3 Type='0' Data='0700'/>By the way, <5 Type='0'/>where was Mattison going on
+  the railcar?
+0000: |
+  Goodbye.
+Talk_0052: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a005400680069006e006b00'/>Hmm. <5 Type='0'/>Where has that girl gone off to?
+Talk_0087: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>I'm looking forward to it!
+0001: |
+  Hudson?
+Talk_0088: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Oh, hello.
+Talk_0007: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a005400680069006e006b00'/>I need to sleep soon. I've got an early day
+  again tomorrow, after all.
+Talk_0053: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a0048006100700070007900'/>I'm so pleased Mattison was able to board
+  the railcar to see Hudson.<0 Type='4'/>I wonder if the manager turned a blind
+  eye for her this time.
+Talk_0089: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Oh, good evening.
+Talk_0054: |
+  <3 Type='0' Data='0700'/>With a blind eye, it couldn't have been
+  hard for her to sneak by, after all.
+Talk_0055: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Oh my, a traveler! Good evening.
+Talk_0056: |
+  <3 Type='0' Data='0700'/>We were talking about how Hudson
+  and Rhondson had their wedding
+  ceremony here.
+  I do hope we're still around to see
+  Mattison's wedding ceremony.
+Talk_0057: |
+  <3 Type='0' Data='0700'/><0 Type='3' Data='0000'/>Hudson<0 Type='3' Data='ffff'/>, darling, not "Mudson."
+  
+  
+  You shouldn't forget a <0 Type='3' Data='0000'/>founder of
+  Tarrey Town<0 Type='3' Data='ffff'/>.
+Talk_0100: |
+  <3 Type='0' Data='0700'/>Are you here to see Tarrey Town's Unity
+  Bell? You know, there's a Goddess Statue
+  in the area as well.
+  <0 Type='3' Data='0000'/>Hudson<0 Type='3' Data='ffff'/> even had his wedding at the bell.
+Talk_0058: |
+  <3 Type='0' Data='0701'/><0 Type='3' Data='0000'/>Tarrey Town<0 Type='3' Data='ffff'/> has grown quite popular,
+  after all.
+Talk_0059: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004e006f007400690063006500'/>Ah, Mattison.<5 Type='0'/> ...Oh? <5 Type='0'/> What broad
+  shoulders you have nowadays.
+Talk_0102: |
+  <3 Type='0' Data='0300'/>Still...
+Talk_0070: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Eh? What is he doing?
+Talk_0071: |
+  <3 Type='0' Data='0700'/>Well, he charges a <0 Type='3' Data='0000'/>fee<0 Type='3' Data='ffff'/> to use it now,
+  doesn't he, darling?
+  
+  Paying for a ride would be a problem for a
+  child, after all.
+Talk_0103: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a0048006100700070007900'/>Speaking of Hudson, it seems his
+  daughter, Mattison,<5 Type='0'/> was able to board
+  the railcar.
+  I wonder if the manager turned a blind
+  eye for her this time.
+Talk_0072: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Oh my, a traveler! Hello.
+Talk_Sleep: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a0053006c00650065007000'/>Darling... <5 Type='1'/>Not that direction...
+Talk_0073: |
+  <3 Type='0' Data='0700'/>She went to help Hudson. She's such a
+  sweet vai for one so young.
+Talk_0074: |
+  <3 Type='0' Data='0700'/>Oh my, another traveler?<0 Type='4'/><0 Type='3' Data='0000'/>Tarrey Town<0 Type='3' Data='ffff'/> has grown quite popular,
+  after all.
+  
+  All of that is thanks to <0 Type='3' Data='0000'/>President Hudson<0 Type='3' Data='ffff'/>.
+  
+  
+  I'm so very grateful.
+Talk_0040: |
+  <3 Type='0' Data='0700'/>Oh my. It's a traveler, darling.
+Talk_0075: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>I hope someday when Mattison grows up,
+  she has her wedding ceremony here, just
+  like her parents.
+Talk_0076: |
+  <3 Type='0' Data='0700'/>I'm talking about the president of <0 Type='3' Data='0000'/>Hudson
+  Construction<0 Type='3' Data='ffff'/>. He helped build this town.
+Talk_0077: |
+  <3 Type='0' Data='0700'/>I'm friends with Hudson's whole family.
+  
+  
+  I'm especially fond of their only daughter,
+  Mattison. What a dear.
+Talk_0043: |
+  <3 Type='0' Data='0700'/>He's the president of <0 Type='3' Data='0000'/>Hudson
+  Construction<0 Type='3' Data='ffff'/>, who built this town.
+Talk_0078: |
+  <3 Type='0' Data='0700'/>Tarrey Town has grown popular indeed if
+  visitors are coming at this hour.
+  
+  Are you here to see the Unity Bell?
+  
+  
+  It's become quite famous since <0 Type='3' Data='0000'/>President
+  Hudson<0 Type='3' Data='ffff'/> hosted his wedding there.
+  
+  As for me, the bell marks the perfect
+  distance for my little strolls.
+  
+  <3 Type='0' Data='0800'/>The fountain always brings me peace,
+  even if I'm just passing by.
+Talk_0044: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a0048006100700070007900'/>Over there, darling.
+  
+  
+  It's the place with the sign you always
+  mistake for <0 Type='3' Data='0000'/>Hudson<0 Type='3' Data='ffff'/> and say hello to.
+Talk_0090: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Oh dear. Traveling in the rain, I see.
+Talk_0079: |
+  <3 Type='0' Data='0c00'/>Still, I hope Mattison will be all right.
+  
+  
+  The railcar has been harder to use
+  ever since Hagie became the manager.
+Talk_0045: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a005400680069006e006b00'/>Eh? Didn't they open an office
+  around here?
+Talk_0091: |
+  <3 Type='0' Data='0700'/>See that cutout? That's Hudson. Not the
+  real Hudson, of course.
+  
+  But my husband can't always tell, and
+  sometimes he'll greet the sign like it's
+  the man himself.
+Talk_0046: |
+  <3 Type='0' Data='0700'/>Sorry about that.
+  
+  
+  My husband has been getting more
+  forgetful lately.
+  
+  Never mind us. Please enjoy your visit.
+Talk_0047: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>It's all thanks to President Mudson.
+Talk_0093: |
+  <3 Type='0' Data='0700'/>Have you seen that person-shaped
+  cutout, hm?
+  
+  That's a painting of Hudson, sure enough.
+  
+  
+  It's such a fine likeness that my husband
+  has a habit of greeting the sign.
+Talk_0013: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Oh, good morning.
+Talk_0094: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='08004500610073006500'/>My husband isn't the only one who has
+  trouble remembering things. Age isn't
+  kind to memory.
+  I need to learn from Mattison's example
+  and write down important things in
+  a <0 Type='3' Data='0000'/>notebook<0 Type='3' Data='ffff'/>.
+  It's awfully sad to think that I only have
+  a little longer to play with Mattison.
+Talk_0095: |
+  <3 Type='0' Data='0700'/>It won't do to chit-chat in the rain. Why
+  don't we continue this under a roof?
+Talk_0060: |
+  <3 Type='0' Data='0700'/>I wonder if Mattison will be able to board
+  the railcar. Hopefully the manager
+  won't stop her.

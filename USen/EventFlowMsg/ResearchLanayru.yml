@@ -1,0 +1,76 @@
+Talk_02: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003100'/>Huh?!<5 Type='0'/> So the sludge disappeared thanks
+  to Prince Sidon...<5 Type='0'/>and what's more, he has
+  ascended the throne?!
+  <3 Type='0' Data='0401'/>Wow!
+  
+  
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a0048006100700070007900'/>Thank you so much for letting me know!<5 Type='1'/>
+  I owe you a token of gratitude.
+Talk_03: |
+  <3 Type='0' Data='0800'/>Aha! I know just the thing!<5 Type='0'/> I would like for
+  you to have this <0 Type='3' Data='0000'/>Zora spear<0 Type='3' Data='ffff'/>!
+  
+  <3 Type='0' Data='0701'/>Like the other weapons, it fell to decay
+  during the Upheaval. Still...<5 Type='0'/>it is not
+  completely without use.
+  <3 Type='0' Data='0c00'/>Hm... <5 Type='0'/>What is this?<5 Type='0'/> You have too many
+  weapons at the moment.
+  
+  If you can make some space, I will gladly
+  hand over this <0 Type='3' Data='0000'/>Zora spear<0 Type='3' Data='ffff'/>!
+Talk_04: |
+  <3 Type='0' Data='0800'/>Aha! I know just the thing!<5 Type='0'/> I would like
+  you to have this <0 Type='3' Data='0000'/>Zora spear<0 Type='3' Data='ffff'/>!
+  
+  <3 Type='0' Data='0701'/>Just like the other weapons, this fell to
+  decay during the Upheaval. Still...<5 Type='0'/>it is not
+  completely without use.
+talk1020: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Ahem, you still have too many weapons,
+  I am afraid.<5 Type='1'/> I see your passion for
+  collecting has not waned, hm?
+  When you have made some space, I will
+  gladly hand over this <0 Type='3' Data='0000'/>Zora spear<0 Type='3' Data='ffff'/>!
+talk1019: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>You came back!<5 Type='0'/> Wonderful. Let us try
+  this again.
+talk1021: |
+  <3 Type='0' Data='0100'/>Here. This <0 Type='3' Data='0000'/>Zora spear <0 Type='3' Data='ffff'/>is yours now!<5 Type='0'/>
+  
+  
+  Just like the other weapons, this fell to
+  decay during the Upheaval. Still...<5 Type='0'/>it is not
+  completely without use.
+talk1013: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0054006900720065006400'/>You came back!<5 Type='0'/> You must allow me to
+  thank you.
+near1004: |
+  Urp...
+talk1014: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Ah, you still have too many weapons.<5 Type='1'/>
+  You must enjoy collecting things, hm?
+  
+  When you have made some space, I will
+  hand over this <0 Type='3' Data='0000'/>Zora spear<0 Type='3' Data='ffff'/>!
+Balloon_01: |
+  It's gone!
+talk1015: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0e0045006100730065005f0030003100'/>Thank you for saving me!<5 Type='0'/> Here, this
+  <0 Type='3' Data='0000'/>Zora spear <0 Type='3' Data='ffff'/>is yours now.
+  
+  Just like the other weapons, this fell to
+  decay during the Upheaval. Still...<5 Type='0'/>it is not
+  completely without use.
+Talk_01: |
+  <FontSize Value='125'/><3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068004c00'/>The sludge is gone!<FontSize Value='100'/>
+  
+  
+  <FontSize Value='125'/><3 Type='0' Data='0701'/><FontSize Value='100'/>I was covered in sludge and my gills were
+  filling up fast.<5 Type='0'/> I thought it was all over for
+  me. <5 Type='0'/>But then, all of a sudden...<FontSize Value='125'/><FontSize Value='100'/>
+  Well, I am not sure precisely what
+  transpired, but one thing is certain.
+  I am saved!
+Balloon_02: |
+  It's gone!

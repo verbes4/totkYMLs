@@ -1,0 +1,23 @@
+Name: |
+  Cave Mushrooms That Glow
+GetPresent: |
+  You gave Nat 10 brightcaps. She wants to
+  repay you with a homemade meal, but you
+  don't have room for it in your pouch.
+  
+  Report to Nat after you've <0 Type='3' Data='0000'/>organized
+  your things<0 Type='3' Data='ffff'/>.
+Step01: |
+  The sisters Nat and Meghyn have come to
+  search for brightcaps in a cave, but they
+  can't quite seem to step inside.
+  
+  The older sister, Nat, won't leave until she
+  gets <0 Type='3' Data='0000'/>10 <0 Type='3' Data='ffff'/>brightcaps.
+Complete: |
+  You gave Nat 10 brightcaps and learned that
+  she and her sister, Meghyn, are on a journey
+  looking for..."that." They wouldn't tell you what
+  "that" is, but said they would let you in on the
+  secret if you meet again. It sounds like they're
+  going to <0 Type='3' Data='0000'/>northern Hebra<0 Type='3' Data='ffff'/> next.

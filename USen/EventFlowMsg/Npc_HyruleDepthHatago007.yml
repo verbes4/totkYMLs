@@ -1,0 +1,135 @@
+Talk_05: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>Oho! Another wonderful horse.
+Near_07: |
+  Mm. A fine morning.
+Talk_06: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>Hm...<5 Type='0'/> That white horse...<5 Type='0'/>
+  
+  
+  <3 Type='0' Data='0001'/>The Hyrulean royal family once had a
+  beautiful pure-white horse.
+  
+  I wonder if this darling is descended from
+  a royal horse.
+Talk_23: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>To think I'd see the legendary horse
+  Epona yet again...<5 Type='1'/><0 Type='4'/><3 Type='0' Data='0801'/>You've brought a lot of joy to my life,
+  traveler. A lot of joy, indeed.
+Talk_07: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>Hm! Now that's quite the horse...<5 Type='0'/> It's not
+  often you see such a splendid steed.
+Talk_24: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003000'/>Oh my! Is that...<5 Type='0'/>a golden horse?!
+  
+  
+  What a rare sight! It's said that only one
+  is born every 100 years.
+  
+  I never thought that I'd be fortunate
+  enough to see one in my lifetime.
+  
+  <3 Type='0' Data='0801'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>Thank you, traveler. Meeting you has
+  made my days more lively.
+Talk_08: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003100'/>N-no way...<5 Type='0'/> Is that horse...<5 Type='0'/>
+  
+  
+  <FontSize Value='125'/>Epona?!<5 Type='0'/><FontSize Value='100'/>
+  
+  
+  To be accompanied by such a
+  legendary horse...<5 Type='1'/>
+  
+  I thought this ever since you brought a
+  skeletal horse by. But this? You must be
+  extraordinary indeed.
+Talk_25: |
+  <3 Type='0' Data='0501'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>Hmm. The metallic sheen is beautiful.
+  I wonder what causes it.
+Talk_26: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Be careful out there. That afternoon <0 Type='3' Data='0000'/>heat<0 Type='3' Data='ffff'/>
+  can be ruthless.
+Talk_09: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>Ooh. This skeletal horse is remarkable.
+  Its appearance might be a little...unusual,
+  but it has the most adorable face.
+Talk_27: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Be careful out there. That nighttime <0 Type='3' Data='0000'/>chill<0 Type='3' Data='ffff'/>
+  can be brutal.
+Talk_10: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Heading out? If you have any business
+  with the stable, they can take care of you
+  at the counter.
+Talk_11: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='10004700720065006500740069006e006700'/>The sun's so high right now.
+GoldHorse: |
+  What a beautiful creature...
+Talk_12: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>I'll never tire of looking at this lovely,
+  snowy horse. So dignified. Just like
+  Princess Zelda.
+TerrorAnimal_00: |
+  Please don't maul me...
+Talk_13: |
+  <3 Type='0' Data='0501'/><4 Type='0' Data='08004500610073006500'/>You've caught me on my break. I need a
+  moment to sit down.
+TerrorAnimal_01: |
+  Easy, big guy!
+Talk_14: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='08004500610073006500'/>It might be dark, but that's no bother
+  to a horse. They have sharp eyes.
+  Even at night.
+TerrorAnimal_02: |
+  It's on a rampage!
+Talk_15: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0c004e006f007400690063006500'/>Huh? Oh, hm. I was just resting my eyes.
+  It's a mite late for traveling, isn't it?
+LargeHorse: |
+  That's a splendid horse.
+Talk_16: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0c005300610064005f0030003000'/>What wretched rain... I need to make sure
+  the horses don't catch a chill.
+Talk_17: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0c005300610064005f0030003000'/>Looks like <0 Type='3' Data='0000'/>lightning<0 Type='3' Data='ffff'/> could strike at any
+  minute. The poor horses are terrified.
+WakkaCharm: |
+  Something cute there!
+Near_01: |
+  How sweet you are...
+Near_02: |
+  Need to keep 'em warm...
+Talk_01: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>Truly I live in a wondrous time. Skeletal
+  horses are not mere stories...
+  
+  And creatures I thought would never get
+  used to people can be tamed.<5 Type='1'/>
+  
+  <3 Type='0' Data='0101'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>When I think that there might be other
+  miracles I've yet to see, well... What a
+  time to be alive.
+Talk_19: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>Oho. What a sweet darling you have
+  there! Just be careful when you dismount.
+  I hear they can be feisty.
+Near_03: |
+  There, there. Stay calm...
+Talk_02: |
+  <3 Type='0' Data='0101'/>Where are you heading now, traveler?<0 Type='4'/>If you're setting out toward the desert in
+  the <0 Type='3' Data='0000'/>southwest<0 Type='3' Data='ffff'/>, then make sure to rest
+  here while you can.
+  <3 Type='0' Data='0001'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>There used to be a stable at the entrance
+  to the desert, but it's long gone.<0 Type='4'/>Nowadays you'll find a <0 Type='3' Data='0000'/>mini stable<0 Type='3' Data='ffff'/> on
+  the way, but it doesn't have an inn.
+Near_04: |
+  Time for a break.
+Talk_20: |
+  <3 Type='0' Data='0101'/>If you're setting out toward the desert in
+  the <0 Type='3' Data='0000'/>southwest<0 Type='3' Data='ffff'/>, then make sure to rest
+  here while you can.
+  <3 Type='0' Data='0001'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>You'll find a <0 Type='3' Data='0000'/>mini stable<0 Type='3' Data='ffff'/> on the way,
+  but it doesn't have an inn.
+BoneHorse: |
+  It's clearly fond of you.
+Near_05: |
+  Another day down...

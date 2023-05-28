@@ -1,0 +1,14 @@
+Search: |
+  Fera wants to visit all of the wells in Hyrule
+  and asked you to tell her the <0 Type='3' Data='0000'/>locations of any
+  wells<0 Type='3' Data='ffff'/> that you know. She said she is going to
+  go see the Lookout Landing Well.
+  
+  There are a total of <0 Type='3' Data='0000'/><2 Type='14' Data='2800570065006c006c0044006900730063006f007600650072004e0075006d0054006f00740061006c00ffff00cd'/> wells<0 Type='3' Data='ffff'/> in Hyrule. So far,
+  you've told her the locations of <0 Type='3' Data='0000'/><2 Type='14' Data='2a00570065006c006c005200650070006f00720074004e0075006d004d0069006e00750073004f006e006500ffff00cd'/> of them<0 Type='3' Data='ffff'/>.
+Name: |
+  Where Are the Wells?
+Complete: |
+  You told Fera the locations of all the wells in
+  Hyrule. She was delighted and said she intends
+  to set out on a journey to visit all of them.

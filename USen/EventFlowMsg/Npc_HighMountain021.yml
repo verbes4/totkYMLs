@@ -1,0 +1,181 @@
+Talk1003: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Welcome to the <0 Type='3' Data='0000'/>Slippery Falcon <0 Type='3' Data='ffff'/>general
+  store. <5 Type='0'/>Do you never sleep?
+Talk1006: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>What brought you here today?
+Talk1007: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Of course. <5 Type='0'/>What do you have for me?
+Com_Talk_13: |
+  <3 Type='0' Data='0001'/>And how many are you offering?
+near3000: |
+  How strange...
+Com_Talk_14: |
+  <3 Type='0' Data='0001'/>Ah, <2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/>, hmm? <5 Type='0'/>I'd happily pay you
+  <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/> for them.
+Talk1008: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Thank you for your patronage!
+Talk1020: |
+  <3 Type='0' Data='0000'/>I'm sold out of everything, but if you're
+  here to sell, we can still make a deal.
+Com_Talk_15: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0a005400680069006e006b00'/>My apologies, but that's one thing
+  I can't buy from you.
+Talk1009: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='0c004c0061007500670068005300'/>This is a general store. We stock whatever
+  you may need, from personal-defense
+  tools to useful materials.
+Com_Talk_16: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='0a005400680069006e006b00'/>Why don't we try this again sometime
+  when you're not actively wearing that?
+Talk1022: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0c004c0061007500670068005300'/>That shop being the <0 Type='3' Data='0000'/>Slippery Falcon<0 Type='3' Data='ffff'/>
+  general store. Browse at your leisure.
+Talk1024: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Welcome! You've come to the <0 Type='3' Data='0000'/>Slippery
+  Falcon <0 Type='3' Data='ffff'/>general store.
+0001: |
+  I'm here to sell.
+Com_Talk_31: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>How many are you looking for?
+0002: |
+  What is this place?
+Com_Talk_33: |
+  <3 Type='0' Data='0001'/>Just one? <5 Type='0'/>I'd happily pay you
+  <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/> <0 Type='3' Data='ffff'/>for it.
+0003: |
+  Goodbye.
+Com_Talk_05b: |
+  <3 Type='0' Data='0001'/>What do you have on offer?
+Com_Talk_34: |
+  <3 Type='0' Data='0401'/>All of them, you say? My goodness!
+  For <2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/>, the total cost will be
+  <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>.
+Com_Talk_00: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Show me what you're offering to sell.
+Com_Talk_05c: |
+  <3 Type='0' Data='0001'/>And what are you willing to part with?
+Com_Talk_35: |
+  <3 Type='0' Data='0001'/>I'll buy all <2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/> for <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>.
+Com_Talk_05d: |
+  <3 Type='0' Data='0001'/>So, what are you selling today?
+Com_Talk_01: |
+  <3 Type='0' Data='0001'/>How about <0 Type='3' Data='0000'/><2 Type='2' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>? Is that OK?
+Com_Talk_02: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0c004c0061007500670068005300'/>Thank you for that!
+near2000: |
+  What IS this stuff?
+Talk2014: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Thank you! Looks like I'm sold out now.
+Com_Talk_02b: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0c004c0061007500670068005300'/>I'm grateful for your business.
+Com_Talk_04: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0a005400680069006e006b00'/>Ah, too bad.
+Com_Talk_50: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>You'd like to purchase that, would you?
+  It'll come to <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>.
+Talk2015: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Thank you very much! I'll have to restock.
+Com_Talk_05: |
+  <3 Type='0' Data='0001'/>I'll buy whatever you like.
+Com_Talk_02c: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0c004c0061007500670068005300'/>How could I pass up such a deal?
+Talk1010: |
+  <3 Type='0' Data='0001'/>Be sure to take a gander at my <0 Type='3' Data='0000'/>recipe
+  book <0 Type='3' Data='ffff'/>near the store entrance.<0 Type='4'/>If you're not sure how to use our
+  ingredients to cook a nice meal, you'll
+  find plenty of ideas in its pages!
+Talk2016: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Thanks very much! I'll get these back in
+  stock as soon as I can.
+5500: |
+  Sure.
+Com_Talk_02d: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0c004c0061007500670068005300'/>Another smooth transaction!
+Talk1011: |
+  <3 Type='0' Data='0001'/>Have you already perused the <0 Type='3' Data='0000'/>recipe book<0 Type='3' Data='ffff'/>
+  at the store's entrance?<0 Type='4'/>If anything in it looks good to you,
+  then you're in luck—you can buy the
+  ingredients you need right here.
+Com_Talk_52: |
+  <3 Type='0' Data='0101'/>So <2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/> of those will come to
+  <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>.
+Talk2017: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Wow, you've cleaned me out! Thank you!
+5501: |
+  No.
+Talk1012: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Think of us the next time you
+  need anything.
+Com_Talk_53: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0a005400680069006e006b00'/>Did nothing suit your fancy? Perhaps next
+  time, then.
+Talk1013: |
+  <3 Type='0' Data='0001'/>Anything else you wanted?
+5502: |
+  I'll buy.
+Com_Talk_54: |
+  <3 Type='0' Data='0501'/><4 Type='0' Data='0a005400680069006e006b00'/>I'm sorry, <5 Type='0'/>but you don't seem to have
+  enough rupees to cover your purchase.
+Talk001: |
+  <3 Type='0' Data='0700'/>We found these strange things at the foot
+  of the Hebra Mountains. <5 Type='0'/>They're oddly
+  shaped, aren't they?<0 Type='4'/><3 Type='0' Data='0c00'/>I've done every test I can think of, but I
+  haven't learned anything. <5 Type='0'/>Not even what
+  they're made of or what they're for.<0 Type='4'/><3 Type='0' Data='0c01'/>All I know is that they're pretty heavy
+  and pretty sharp. <5 Type='0'/>It'd probably hurt if
+  you got hit with one, huh?<0 Type='4'/><3 Type='0' Data='0100'/>Well, I've got all I'm going to get out of
+  these things. <5 Type='0'/>If you want them for some
+  reason, they're all yours.
+near1000: |
+  Welcome to the shop!
+5503: |
+  Never mind.
+Com_Talk_55: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='0a005400680069006e006b00'/>It seems that your pouch is full.<0 Type='4'/>Are you sure you really need everything
+  you're carrying? You could always sell
+  some of it here.
+Talk1014: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0c004c0061007500670068005300'/>Thank you for your purchase!
+Talk002: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a005400680069006e006b00'/>These things sure are strange, huh?
+  I can't begin to guess who made them
+  or for what purpose.<0 Type='4'/><3 Type='0' Data='0300'/>All I know is that it'd hurt pretty bad if
+  you got hit by one.<0 Type='4'/><3 Type='0' Data='0301'/>And they've been falling from the sky!
+  What is going on in the air up above the
+  Hebra Mountains?<0 Type='4'/><3 Type='0' Data='0000'/>I don't have any use for these, so they're
+  yours if you want them.
+Com_Talk_56: |
+  <3 Type='0' Data='0101'/>One of those comes to <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>.
+Talk1015: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0c004c0061007500670068005300'/>Thank you for your business!
+Talk003: |
+  <3 Type='0' Data='0700'/>We found these strange things at the foot
+  of the Hebra Mountains. <5 Type='0'/>They're oddly
+  shaped, aren't they?<0 Type='4'/><3 Type='0' Data='0c00'/>I've done every test I can think of, but I
+  haven't learned anything. <5 Type='0'/>Not even what
+  they're made of or what they're for.<0 Type='4'/><3 Type='0' Data='0c01'/>All I know is that they're pretty heavy
+  and pretty sharp. <5 Type='0'/>It'd probably hurt if
+  you got hit with one, huh?<0 Type='4'/><3 Type='0' Data='0100'/>Well, I've got all I'm going to get out of
+  these things. <5 Type='0'/>If you want them for some
+  reason, they're all yours.
+Talk1016: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0c004c0061007500670068005300'/>I look forward to your future patronage.
+Talk1017: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0c004c0061007500670068005300'/>Thank you for your business! We sell
+  other things as well, if you'd like to have
+  a look around.
+Talk1018: |
+  <3 Type='0' Data='0001'/>Do you want anything else?
+5507: |
+  I'll buy them all!
+Talk2001: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>Thanks to the kids, my shop is back
+  in business!<0 Type='4'/>Even now that she doesn't need to run
+  the shop anymore, Cree is going around
+  the village advertising for me.<0 Type='4'/><3 Type='0' Data='0001'/>Plus, with the blizzard gone, I can stay
+  stocked up on products again. <5 Type='1'/>With a bit
+  of work, my shop will be better than ever!
+Talk1019: |
+  <3 Type='0' Data='0001'/>If you need anything else, just ask!
+5508: |
+  I'll sell them all.

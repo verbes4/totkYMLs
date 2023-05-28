@@ -1,0 +1,12 @@
+Name: |
+  The Blocked Cave
+Dig: |
+  Mazli was hauling food supplies out of a cave
+  when a cave-in blocked the<0 Type='3' Data='0000'/> entrance<0 Type='3' Data='ffff'/>, keeping
+  him out.
+  
+  Perhaps you could do something to help him...
+Complete: |
+  You cleared a path through the rocks blocking
+  the cave's entrance. Relieved to have access
+  again, Mazli gave you a red rupee.

@@ -1,0 +1,91 @@
+NPC_Talk_0003: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>All right, I'm outta here.
+  
+  
+  <3 Type='0' Data='0101'/>If our paths ever do cross again, you
+  should buy some fish off me!<5 Type='0'/>
+  
+  <3 Type='0' Data='0001'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>Oh...<5 Type='0'/>this isn't the time to play the
+  peddler, huh?<5 Type='1'/>
+  
+  Anyway, thanks again, and so long!
+NPC_Near_0005: |
+  *sigh* This darn rock...
+NPC_Talk_0013: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0e0045006100730065005f0030003000'/>It really worked...<5 Type='0'/> I knew it was a long
+  shot, but it was worth it!
+  
+  <3 Type='0' Data='0301'/>After what went down in Lurelin Village,<5 Type='0'/>
+  I couldn't exactly refresh my stock of fish,
+  so I went out to try to catch my own.
+  That's when a storm kicked up. <5 Type='0'/>I tried to
+  shelter in this cave, but got shut in.
+  
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Yeah, things were pretty bad for a while,
+  but look at me now!<5 Type='0'/> That bottle really
+  turned things around!
+  <3 Type='0' Data='0801'/>If this lucky streak keeps up, it's gotta
+  bode well for business!
+NPC_Talk_0009_2: |
+  <3 Type='0' Data='0501'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>Which kinda raises the question...<5 Type='0'/>
+  How did you get in here?
+NPC_Talk_0003_00: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>I really owe ya.<5 Type='0'/> A little reward's the least
+  I can do!
+NPC_Near_0000: |
+  I-it can't be...
+NPC_Talk_0000: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>Wh-whoa! Who are you?!<5 Type='0'/> You know what?
+  I don't care!
+  
+  If you're here, then I'm saved! <5 Type='0'/>Ugh, I've
+  been stuck in here for ages!
+  
+  <3 Type='0' Data='0101'/>Did you...<5 Type='0'/>find my message in a bottle and
+  come to rescue me?
+NPC_Talk_0001: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>Oh? <5 Type='0'/>You didn't even see my message?<5 Type='0'/>
+  No, of course you didn't...
+  
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0c005300610064005f0030003100'/>I put my hopes and dreams into that little
+  bottle...<5 Type='0'/>but I guess they're all sunk.
+  
+  First there's the attack on Lurelin Village,<5 Type='0'/>
+  which meant I couldn't restock my supply
+  of fish...
+  Then I go out to fish up my own, but the
+  only thing I catch is a storm. <5 Type='0'/>So I go take
+  shelter in this cave, and BOOM, I'm stuck.
+  <4 Type='0' Data='0c005300610064005f0030003000'/>Now you tell me that my letter—my ONE
+  shot at getting out of here—never found a
+  reader?<5 Type='0'/> It's just one thing after another...
+  ...<5 Type='1'/>Huh.<0 Type='4'/><3 Type='0' Data='0501'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>Wait, hold on.<5 Type='1'/> The whole point of the
+  letter was to get someone to come help
+  me. You're someone... You can help me!
+  <3 Type='0' Data='0101'/>Maybe my luck's finally turning around!<0 Type='4'/><3 Type='0' Data='0800'/><4 Type='0' Data='12004c0061007500670068004c005f0030003100'/>Yeah! <5 Type='0'/>Yeah, it has to be!<5 Type='0'/> That's gotta
+  bode well for business.
+NPC_Talk_0010: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0c005300610064005f0030003000'/>*sigh*<5 Type='0'/> I thought I was saved...
+  
+  
+  But I'm not going anywhere with that rock
+  in my way.
+NPC_Talk_0009: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>But, uh...<5 Type='1'/> It looks like the rock's still
+  blocking the exit there.
+  
+  I thought I could finally get out too...<5 Type='0'/>
+  Guess I started celebrating a bit too early.
+NPC_Talk_0011_0: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003100'/>Hold on! <5 Type='0'/>How long has the entrance
+  been unblocked?
+NPC_Talk_0011: |
+  <3 Type='0' Data='0401'/>Did...<5 Type='0'/>did you move the rock for me?<0 Type='4'/><3 Type='0' Data='0801'/>Then that means...<5 Type='1'/>I can finally get outta
+  here!<5 Type='1'/> Oh! I've gotta thank you!
+NPC_Talk_0002: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Here, this is for you!<5 Type='0'/> I picked it up off the
+  ground here in the cave.
+  
+  That sounded better in my head. It's a
+  nice reward, honest! I was planning to
+  take it home with me once I got out.

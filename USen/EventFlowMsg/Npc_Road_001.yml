@@ -1,0 +1,29 @@
+Talk_01: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Music is a wonderful thing. It's a salve for
+  a weary, long-traveled soul.<0 Type='4'/>When I was hiding from those monsters
+  in Gerudo Canyon, I felt like I'd never be
+  able to relax again.<0 Type='4'/>But thanks to you, here I am. And thanks
+  to this music, I feel at ease.<5 Type='1'/> I'm so
+  grateful for all of it.
+Talk_06: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='1200530075007200700072006900730065005300'/>Gah! Rain, now?<5 Type='1'/> Careful you don't get
+  completely soaked!
+Talk_02: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Relaxing here, listening to music... It's all
+  so soothing.
+Talk_07: |
+  <3 Type='0' Data='0700'/>Let me get a little closer to the troupe,
+  then we can chat.
+Talk_00: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Oh,<5 Type='0'/> you're the one who saved us back at
+  Gerudo Canyon!<0 Type='4'/>It's been a while. <5 Type='0'/>How have you been?<0 Type='4'/>Us? Well, after the whole incident, we all
+  decided to go our separate ways for now.<0 Type='4'/>It's been stressful. <5 Type='0'/>I keep worrying I'll be
+  attacked by monsters I can't handle on
+  my own again.
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>But this music is really helping wash all
+  that stress away.
+Talk_05: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0a005400680069006e006b00'/>I was just enjoying the music when down
+  came the rain. Unbelievable.
+Balloon_00: |
+  This is so calming.

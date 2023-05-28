@@ -1,0 +1,12 @@
+talk_00: |
+  <3 Type='0' Data='0a00'/>These river rafts are seriously damaged.<0 Type='4'/>They may be beyond repair. <5 Type='0'/>This could
+  present a problem.
+talk_09: |
+  <3 Type='0' Data='0a00'/>I am only thinking in circles at this point.<5 Type='0'/>
+  I will consider the problem again at dawn.
+talk_07: |
+  <3 Type='0' Data='0a00'/>Now what do I do?
+talk_08: |
+  <3 Type='0' Data='0a00'/>The rafts are damaged. We are unsure 
+  how to proceed. <5 Type='0'/>We will reconsider the
+  problem at dawn after resting.

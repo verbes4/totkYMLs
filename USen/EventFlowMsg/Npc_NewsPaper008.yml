@@ -1,0 +1,16 @@
+Goodbye_02: |
+  <3 Type='0' Data='0c00'/>You know, I've heard that some Yiga Clan
+  types have been spotted near here.
+  
+  I hate to think that assassins who are
+  after Princess Zelda might be nearby!<5 Type='1'/>
+  Heavens forbid!
+Goodbye_03: |
+  <3 Type='0' Data='0a00'/>Oh, to think that the Yiga Clan was right
+  under our noses...<5 Type='1'/> How awful!
+  
+  Supposedly they're skilled with
+  disguises. So does that mean you
+  can't trust anyone?
+  <0 Type='3' Data='0200'/><FontSize Value='80'/>And can they disguise themselves as objects and
+  such?<5 Type='1'/> Nah, not possible.<FontSize Value='100'/><0 Type='3' Data='ffff'/>

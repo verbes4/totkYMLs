@@ -1,0 +1,100 @@
+Talk_0010: |
+  <3 Type='0' Data='0700'/>You see the buildings atop the cliff?<5 Type='0'/>
+  That's <0 Type='3' Data='0000'/>Tarrey Town<0 Type='3' Data='ffff'/>.
+  
+  That's where the business desk is for
+  <0 Type='3' Data='0000'/>Hudson Construction<0 Type='3' Data='ffff'/>, where I work.
+  
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Hudson Construction is a company that
+  handled assembly of Lookout Landing and
+  the Skyview Towers, to name a few.
+  President Hudson is always saying things
+  like "there's nothing I can't make!"
+  
+  Anyhoo. If you're headed to <0 Type='3' Data='0000'/>Tarrey Town<0 Type='3' Data='ffff'/>,
+  use the <0 Type='3' Data='0000'/>railcar<0 Type='3' Data='ffff'/>.
+0001: |
+  The railcar?
+Talk_0020: |
+  <3 Type='0' Data='0701'/>The rain makes everything slick, so you'd
+  better watch your footing.
+Talk_0001: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068005300'/><FontSize Value='125'/>Son and done!<0 Type='4'/><3 Type='0' Data='0701'/><FontSize Value='100'/>Hey! It's rare to have visitors at the
+  workshop. Were you looking for the
+  entrance to <0 Type='3' Data='0000'/>Tarrey Town<0 Type='3' Data='ffff'/>?
+  If you're going there, the <0 Type='3' Data='0000'/>railcar<0 Type='3' Data='ffff'/>
+  right in front of you should come
+  in handy.
+0002: |
+  Tarrey Town?
+Talk_0011: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>It's a suspended cart that'll take you from
+  this workshop to <0 Type='3' Data='0000'/>Tarrey Town<0 Type='3' Data='ffff'/>, like son
+  and done!
+  <3 Type='0' Data='0001'/>It's President Hudson's pride and joy!
+  It doesn't cost anything to use, so use
+  it whenever you like.
+Talk_0021: |
+  <3 Type='0' Data='0701'/>Careful of the lightning! You should
+  remove all your metal gear before you
+  get on.
+Talk_0012: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Lately folks have been into affixing
+  decorations to weapons and shields
+  and such.
+  Turns out most of them can't deconstruct
+  what they've done, so my brother Pelison
+  started a business to <0 Type='3' Data='0000'/>do it for them<0 Type='3' Data='ffff'/>.
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0a0048006100700070007900'/>He gets it done—son and done! Give it
+  a shot sometime.
+Talk_0022: |
+  <3 Type='0' Data='0701'/>It's pretty dark, so watch your step when
+  you get on the railcar.
+Talk_0023: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003000'/>Aaah! Whaddaya think you're doin'?!
+Talk_0014: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068005300'/><FontSize Value='125'/>Son and done!<0 Type='4'/><3 Type='0' Data='0701'/><FontSize Value='100'/>If you want to go to <0 Type='3' Data='0000'/>Tarrey Town<0 Type='3' Data='ffff'/>, try
+  using the <0 Type='3' Data='0000'/>railcar<0 Type='3' Data='ffff'/>.
+Talk_9005: |
+  <FontSize Value='125'/><3 Type='0' Data='0b00'/><4 Type='0' Data='1200530075007200700072006900730065004d00'/>Oof!<5 Type='1'/> That's it for this!<FontSize Value='100'/>
+Talk_0025: |
+  <FontSize Value='80'/><3 Type='0' Data='0001'/>Phew, the Zonai device isn't broken. Up next, this
+  goes like thiiis...<5 Type='1'/> There.<FontSize Value='100'/>
+Talk_9006: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>I'll replace it with a new one, so come on
+  over to the construction site for a minute.
+Talk_0026: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0e0045006100730065005f0030003100'/>Whew. It was a cinch to fix, but still...
+  
+  
+  <3 Type='0' Data='0201'/><4 Type='0' Data='100041006e006700720079005f0030003100'/>Ease up so it doesn't break again, will ya!
+Talk_9007: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='08004500610073006500'/>Thanks for waiting! These things don't
+  last forever, so make sure you don't ride
+  for too long, OK?
+Near_0001: |
+  Use it whenever.
+Talk_0017: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='0c004e006f007400690063006500'/>Aw, shoot! The railcar! Hang on a sec!
+Talk_0027: |
+  <3 Type='0' Data='0700'/>If you wanna move or stop the railcar,
+  <0 Type='3' Data='0000'/>just strike it<0 Type='3' Data='ffff'/> directly.
+Talk_9008: |
+  <FontSize Value='125'/><3 Type='0' Data='0b00'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003000'/>Hey!<5 Type='1'/> You can't take that!<FontSize Value='100'/>
+Talk_0028: |
+  You're welcome to ride it, but can ya be
+  more careful? You're not the only one
+  who uses it.
+  <3 Type='0' Data='0300'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>I'll fix it up. Just hang on.
+Talk_9009: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003100'/>That doesn't belong to you. I'm gonna ask
+  you to return it.
+Talk_0019: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>All right, there we go! If you're headed to
+  Tarrey Town, you can use the railcar!
+0000: |
+  Goodbye.
+Talk_9010: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='08004500610073006500'/>If you want the railcar to roll, you can get
+  in and strike it. Carrying it around won't
+  do ya much good.

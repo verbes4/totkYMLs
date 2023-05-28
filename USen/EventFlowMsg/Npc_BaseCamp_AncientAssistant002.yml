@@ -1,0 +1,133 @@
+Talk_40: |
+  <3 Type='0' Data='0700'/>Sorry, didn't see you there. I was pretty
+  deep in thought about these ruins.
+0003: |
+  Ring Ruins?
+Talk_41: |
+  <3 Type='0' Data='0700'/>Oh, hi there.
+  
+  
+  I was captivated by the sight of the ruins
+  in the glowing daylight.
+Talk_31: |
+  <3 Type='0' Data='0700'/>Oh, hi there.
+  
+  
+  I was captivated by the sight of the ruins
+  glistening in the rain.
+0004: |
+  Goodbye.
+near_01: |
+  Ugh, it's cold...
+Talk_42: |
+  <3 Type='0' Data='0700'/>Oh, hi there.
+  
+  
+  I was captivated by the sight of the ruins
+  in the setting light.
+Talk_32: |
+  <3 Type='0' Data='0700'/>These ruins are very unusual.
+  
+  
+  <3 Type='0' Data='0c00'/>They're unique among all the ruins that
+  our survey team has discovered. On the
+  surface, at least.
+  We need to investigate it fully, but most
+  of the team is at the <0 Type='3' Data='0000'/>Ring Ruins<0 Type='3' Data='ffff'/>. We're
+  stretched thin these days.
+  We'll have to make do. The <0 Type='3' Data='0000'/>Ring Ruins<0 Type='3' Data='ffff'/>
+  are <0 Type='3' Data='0000'/>very important<0 Type='3' Data='ffff'/>, after all.
+near_02: |
+  Is it true?
+Talk_43: |
+  <3 Type='0' Data='0700'/>Oh, hi there.
+  
+  
+  I was captivated by the sight of the ruins
+  in the moonlight.
+Talk_33: |
+  <3 Type='0' Data='0700'/>See those ruins over yonder? Those are
+  the <0 Type='3' Data='0000'/>Ring Ruins<0 Type='3' Data='ffff'/>—at least the ones we can
+  see from here. Impressive, right?
+  But the ones here are important too.
+  Unique among all the ruins!
+  
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0600530061006400'/>Still, ever since the Zonai Survey Team
+  found <0 Type='3' Data='0000'/>stone slabs inscribed with Zonai
+  text<0 Type='3' Data='ffff'/> at the Ring Ruins...
+  our leader has been spending all of his
+  time there, and he took most of the team
+  with him.
+near_03: |
+  Fascinating...
+Talk_34: |
+  <3 Type='0' Data='0700'/>Those ruins fell all over <0 Type='3' Data='0000'/>Kakariko Village<0 Type='3' Data='ffff'/>,
+  far off in the Necluda region to the
+  southeast.
+  They're called the <0 Type='3' Data='0000'/>Ring Ruins<0 Type='3' Data='ffff'/> because,
+  well, they're still partially intact and are
+  in the shape of rings.
+  You can't see them from here, but climb
+  up high at Lookout Landing and you
+  can make them out on the horizon.
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0a005400680069006e006b00'/>But these ruins here are special too.
+  Truly unique...
+  
+  Still, the Ring Ruins hold something
+  mysterious that's got the attention of
+  the Zonai Survey Team's leader.
+  He's there looking into <0 Type='3' Data='0000'/>stone slabs
+  inscribed with Zonai text<0 Type='3' Data='ffff'/>, and he took
+  most of our team with him.
+Talk_35: |
+  <3 Type='0' Data='0700'/>Those ruins fell all over <0 Type='3' Data='0000'/>Kakariko Village<0 Type='3' Data='ffff'/>.
+  
+  
+  The village used to be a quiet place,
+  and kind of isolated up in the mountains.
+  Almost a secret in some ways.
+  That's all changed. It's far busier now.
+  All sorts of people go there to see
+  what's happened.
+Talk_26: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='0c004e006f007400690063006500'/>Hmm?<5 Type='1'/> Oh...
+Talk_36: |
+  <0 Type='3' Data='0200'/><FontSize Value='80'/><3 Type='0' Data='0c00'/>Though, I guess I'm lucky that I get to investigate
+  ruins this important all on my own without anyone
+  here to bother me.<FontSize Value='100'/><0 Type='3' Data='ffff'/>
+near_06: |
+  There's something here...
+Talk_37: |
+  <3 Type='0' Data='0700'/>You sure are interested in this ruin,
+  aren't you?
+  
+  Well, right now, most of the survey team
+  is far away at the <0 Type='3' Data='0000'/>Ring Ruins<0 Type='3' Data='ffff'/>.
+  
+  <3 Type='0' Data='0a00'/>The whole team is stretched thin, so our
+  research here is slower than I'd like.
+  
+  We'll have to make do. The <0 Type='3' Data='0000'/>Ring Ruins<0 Type='3' Data='ffff'/>
+  are <0 Type='3' Data='0000'/>very important<0 Type='3' Data='ffff'/>, after all.
+BlackZelda_01: |
+  <3 Type='0' Data='0c00'/>Even if people saw someone at the castle,
+  I kind of doubt it was Princess Zelda...
+  
+  Unfortunately, it's too far to see from
+  here.<5 Type='1'/> You'd probably need a telescope
+  to get a good look, really.
+Talk_38: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a0053006c00650065007000'/>I will be the one—<5 Type='1'/>the one <5 Type='0'/>who solves<5 Type='0'/> the
+  riddle of <5 Type='1'/>our local ruins.<5 Type='1'/>
+Talk_39: |
+  <3 Type='0' Data='0700'/>Oh, hi there.
+  
+  
+  I was captivated by the sight of the ruins
+  in the gentle morning light.
+Talk_19: |
+  <3 Type='0' Data='0a00'/>I was prepared for plenty of danger when
+  I joined the Zonai Survey Team.
+  
+  But that doesn't mean that scary things
+  aren't still scary, you know?

@@ -1,0 +1,277 @@
+talk0021: |
+  <3 Type='0' Data='0800'/>Thank you! Before you go, I'll add an
+  extra little bit of love to it...
+Ballon_05: |
+  *yawn*
+talk0023: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Here you go!
+Ballon_07: |
+  Zzz... Zzz...
+talk0024: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>So I started making garlands that look
+  like the <0 Type='3' Data='0000'/>Ring Ruins<0 Type='3' Data='ffff'/>, hoping they'd bring
+  people together even more.
+  I want them to make lots of people happy,
+  so I'm only charging a little bit.
+  
+  That's right—only <0 Type='3' Data='0000'/>five rupees <0 Type='3' Data='ffff'/>each. Well?
+Ballon_08: |
+  Rain?
+talk_01: |
+  <FontSize Value='80'/><3 Type='0' Data='0a00'/><4 Type='0' Data='0c00570061006b00650075007000'/>*yawn* I have to wake up Cottla...<FontSize Value='100'/>
+talk0025: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='1200530075007200700072006900730065005300'/>Whaaat?<5 Type='0'/> You're an adult, and you don't
+  even have <0 Type='3' Data='0000'/>five rupees<0 Type='3' Data='ffff'/>?
+  
+  <3 Type='0' Data='0300'/><0 Type='3' Data='0200'/><FontSize Value='80'/>How will I make lots of people happy if these are
+  too expensive?<FontSize Value='100'/><0 Type='3' Data='ffff'/>
+Ballon_09: |
+  I'll work hard today!
+talk_02: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1400430061006c006c004600610072005f0030003100'/>Cottla! It's morning! Wake up!
+talk0026: |
+  <3 Type='0' Data='0701'/>After the <0 Type='3' Data='0000'/>Ring Ruins<0 Type='3' Data='ffff'/> fell from the sky,
+  <0 Type='3' Data='0000'/>Kakariko Village <0 Type='3' Data='ffff'/>got much busier.
+  
+  It's like we're more a part of everyone's
+  lives now, and they're more a part of
+  our village!
+talk_03: |
+  <FontSize Value='80'/><3 Type='0' Data='0500'/>Big sisters...have to be strong... Huh?<FontSize Value='100'/>
+talk0027: |
+  <FontSize Value='80'/><3 Type='0' Data='0801'/>Mwah!<FontSize Value='100'/>
+talk_04: |
+  <FontSize Value='80'/><3 Type='0' Data='0500'/>Maybe we can have family time today... <5 Type='1'/>Huh?<FontSize Value='100'/>
+talk0028: |
+  <3 Type='0' Data='0c00'/>I'm sorry, but I can make only so many
+  ring garlands.
+  
+  I'll sell you one each day. I hope you
+  really like them though!
+talk0029: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>How about a <0 Type='3' Data='0000'/>ring garland <0 Type='3' Data='ffff'/>as a souvenir?
+  Only <0 Type='3' Data='0000'/>five rupees<0 Type='3' Data='ffff'/> each!
+talk0040: |
+  <3 Type='0' Data='0a01'/>Are you, um, going to take your <0 Type='3' Data='0000'/>ring
+  garland<0 Type='3' Data='ffff'/>? I've been watching it for you,
+  but it's really late...
+talk_06: |
+  <3 Type='0' Data='0700'/>Cottla, Father is busy with work today, so
+  the two of us will talk to Mother together!
+talk0041: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003000'/>Umm... <5 Type='0'/>That spot is reserved for my
+  ring garlands!
+talk_07: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='1000540069007200650064005f0030003000'/>Sorry, I'm in a hurry. Mother is waiting,
+  so please excuse me.
+talk0042: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='0c004e006f007400690063006500'/>You already have it, silly. Don't forget to
+  take it with you!
+talk0043: |
+  <3 Type='0' Data='0200'/><4 Type='0' Data='100041006e006700720079005f0030003000'/>Get down from there! You're gonna get it
+  all dirty!
+talk_09: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0600530061006400'/>I've used up every scrap of energy
+  working hard. Time to get some sleep
+  so I can work hard again tomorrow...
+talk_20: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='1000540069007200650064005f0030003000'/>Eek, the ring garlands will get wet!
+  Please come back later!
+talk0044: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>I don't like to take this tone with
+  customers, but you're an adult. You
+  should know manners better than that.
+talk_21: |
+  <3 Type='0' Data='0500'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Mother used to say that people who
+  spend lots of time in the rain are trying
+  to hide something.
+  What are you trying to hide? Your
+  footsteps? Or maybe...your tears?
+  
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068005300'/>Just kidding! It's a joke!
+  
+  
+  <3 Type='0' Data='0701'/>For some reason, Koko always—I mean,
+  I always feel sad on rainy days.
+talk0045: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='0e0045006100730065005f0030003000'/>Umm...
+ReturnHome_01: |
+  <3 Type='0' Data='0700'/>Oh! Dad's back early!<5 Type='1'/>
+  
+  
+  <3 Type='0' Data='0b00'/>Wait. <5 Type='1'/>You're not Dad!<5 Type='1'/>
+talk_22: |
+  <FontSize Value='80'/><0 Type='3' Data='0200'/><3 Type='0' Data='0800'/><4 Type='0' Data='100041006e006700720079005f0030003000'/>Yesss!<0 Type='3' Data='ffff'/><FontSize Value='100'/>
+  
+  
+  All right. Will you please follow Kok—
+  I mean, follow me?
+talk0046: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>You look like an adult, but you act like
+  more of a kid than I do. <5 Type='1'/>Even my little
+  sister, Cottla, is more mature than that.
+ReturnHome_02: |
+  <3 Type='0' Data='0400'/>Oh, are you maybe here to buy a
+  ring garland?
+  
+  <3 Type='0' Data='0300'/>Sorry, but I don't sell them at night.<5 Type='0'/>
+  Come to our shop in the daytime!
+talk_First_talk_03: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='100041006e006700720079005f0030003000'/><FontSize Value='80'/><0 Type='3' Data='0200'/>Yesss!<0 Type='3' Data='ffff'/><FontSize Value='100'/>
+  
+  
+  You're in luck! I'm selling my very
+  super-special ring garlands.
+  
+  I make them to look like the Ring Ruins.
+  Maybe they'll bring people together like
+  never before. Like the ruins here have!
+  I've opened my shop under the tree in
+  front of the chief's house. We aren't open
+  all the time, so keep an eye out!
+  <3 Type='0' Data='0800'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>You'll know you're in the right place
+  when you see the adorable shopkeeper.
+  Tee-hee!
+talk_23: |
+  <3 Type='0' Data='0700'/>Is everything all right? Oh, I know what's
+  bothering you.
+  
+  You're looking for a souvenir to mark your
+  visit to the Ring Ruins, aren't you?
+0000: |
+  What's a ring garland?
+talk0047: |
+  <3 Type='0' Data='0200'/><4 Type='0' Data='100041006e006700720079005f0030003000'/>Could you please get down now?
+talk_First_talk_04: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>Oh... I see. Even though you came aaall
+  the way to town?
+  
+  If you change your mind, try the shop by
+  the chief's house. It isn't open all the
+  time, but it has the best souvenirs!
+talk_24: |
+  <3 Type='0' Data='0500'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Rain might be good for hiding tears, but
+  you shouldn't need to hide. Let tears
+  flow. Use rain for hiding other things.
+  <3 Type='0' Data='0801'/>Just kidding! About hiding things, I mean.
+  It's important not to feel ashamed of
+  your tears.
+  <3 Type='0' Data='0701'/>You know, for some reason, I always feel
+  sad on rainy days.
+0001: |
+  Goodbye.
+talk0048: |
+  <FontSize Value='125'/><3 Type='0' Data='0b00'/><4 Type='0' Data='1200530075007200700072006900730065004c00'/>Auuugh! <5 Type='1'/>Fire!<FontSize Value='100'/>
+  
+  
+  What have you done?! <5 Type='1'/>We have to put
+  that out right away!<5 Type='1'/>
+talk_25: |
+  <FontSize Value='80'/><3 Type='0' Data='0700'/>Mother... I'm sorry I don't come to visit more often.
+  
+  
+  It's because Paya—I mean, the chief—is hard at work
+  under the <0 Type='3' Data='0000'/>Ring Ruin <0 Type='3' Data='ffff'/>closest to your grave.
+  
+  Wait a little longer, OK?<FontSize Value='100'/>
+0002: |
+  I'll take one.
+Ballon_10: |
+  Ring garlands for sale!
+0004: |
+  I need a souvenir.
+Ballon_11: |
+  That's it for today!
+0005: |
+  Not today.
+talk0019: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>You should mark your visit to the Ring
+  Ruins and Kakariko Village!
+  
+  How about a <0 Type='3' Data='0000'/>ring garland<0 Type='3' Data='ffff'/>? They're made
+  with lots of love, and they're only <0 Type='3' Data='0000'/>five
+  rupees<0 Type='3' Data='ffff'/> each!
+talk0030: |
+  <3 Type='0' Data='0700'/>Excuse me! I made this <0 Type='3' Data='0000'/>ring garland<0 Type='3' Data='ffff'/>,
+  and it only costs <0 Type='3' Data='0000'/>five rupees<0 Type='3' Data='ffff'/>.
+  
+  Please pay me if you want one!
+Talk_Greeting_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Good morning! Welcome to
+  <0 Type='3' Data='0000'/>Kakariko Village<0 Type='3' Data='ffff'/>!
+WakkaCharm: |
+  Have a friend-filled day!
+talk0031: |
+  <3 Type='0' Data='0700'/>I made this <0 Type='3' Data='0000'/>ring garland<0 Type='3' Data='ffff'/>, and it only
+  costs <0 Type='3' Data='0000'/>five rupees<0 Type='3' Data='ffff'/>.
+  
+  You mustn't take one unless you've paid
+  for it!
+Talk_Greeting_02: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hello! Welcome to <0 Type='3' Data='0000'/>Kakariko Village<0 Type='3' Data='ffff'/>!
+Talk_Greeting_03: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Good evening! Welcome to
+  <0 Type='3' Data='0000'/>Kakariko Village<0 Type='3' Data='ffff'/>!
+Talk_Greeting_04: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Welcome to <0 Type='3' Data='0000'/>Kakariko Village<0 Type='3' Data='ffff'/>! I'm happy
+  you made it even in the rain.
+talk_10: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1000540069007200650064005f0030003100'/>Father...
+talk0034: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>Bye! I hope you have all sorts of good
+  things ahead of you!
+talk_11: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>Cottla... Where are you...going?
+talk_12: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1000540069007200650064005f0030003100'/>Mother...
+talk_13: |
+  <3 Type='0' Data='0700'/>Cottla, it's time to pray to Mother!
+talk0037: |
+  <3 Type='0' Data='0800'/>All right, I hope you have a lot of people
+  in your day too!
+talk_14: |
+  <3 Type='0' Data='0700'/>Are you looking for a souvenir to mark
+  your visit to the Ring Ruins?
+talk0038: |
+  <3 Type='0' Data='0b00'/>Wait, wait! Where are you going?!
+talk0039: |
+  <3 Type='0' Data='0701'/>You almost walked off without your <0 Type='3' Data='0000'/>ring
+  garland<0 Type='3' Data='ffff'/>, silly!
+talk0051: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>Looks like you really enjoy <0 Type='3' Data='0000'/>ring garlands<0 Type='3' Data='ffff'/>!
+  Now, I hope you have all sorts of good
+  things ahead of you!
+talk_17: |
+  <FontSize Value='80'/><3 Type='0' Data='0700'/>Mother... Cottla, Father, and I are all well.
+  
+  
+  It's a little lonely now that Father works for the chief,
+  though. He doesn't come home much anymore.<FontSize Value='100'/>
+Ballon_01: |
+  Time to visit Mother...
+talk_18: |
+  <FontSize Value='80'/><3 Type='0' Data='0700'/>Mother... I'm sorry I don't come to visit more often.
+  
+  
+  I want to, but <0 Type='3' Data='0000'/>Princess Zelda <0 Type='3' Data='ffff'/>said we mustn't go
+  near the <0 Type='3' Data='0000'/>Ring Ruin <0 Type='3' Data='ffff'/>closest to your grave. I don't
+  know why.
+  Paya—I mean, the chief—doesn't know either.
+  She says she's worried.
+  
+  It must be hard to be an adult, huh?<FontSize Value='100'/>
+Ballon_02: |
+  Oh, Mother...
+talk_19: |
+  <FontSize Value='80'/><3 Type='0' Data='0700'/>Mother... Cottla, Father, and I are all well.
+  
+  
+  The path to your grave was blocked for a while, but
+  Paya—she's the chief now—said we can go through.
+  
+  We can visit you properly from now on!<FontSize Value='100'/>
+Ballon_03: |
+  Rise and shine, Cottla!
+talk0020: |
+  <3 Type='0' Data='0700'/>They're decorations I made using flowers
+  and plants and things.

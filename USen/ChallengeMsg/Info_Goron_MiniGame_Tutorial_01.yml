@@ -1,0 +1,30 @@
+Name: |
+  Mine-Cart Land: Open for Business!
+BeforeGame: |
+  Mine-Cart Land, an entertainment experience
+  built by YunoboCo, is now open!
+  
+  <0 Type='3' Data='0000'/>Hit <2 Type='2' Data='3c0047006f0072006f006e005f004d0069006e006900470061006d0065005f00300031005f00500061007300730069006e006700530063006f0072006500ffff00cd'/> or more targets <0 Type='3' Data='ffff'/>within the time
+  limit to clear the game. See Bayge in the
+  Southern Mine for more information.
+Craft: |
+  Mine-Cart Land, an entertainment experience
+  built by YunoboCo, is now open!
+  
+  <0 Type='3' Data='0000'/>Hit <2 Type='2' Data='3c0047006f0072006f006e005f004d0069006e006900470061006d0065005f00300031005f00500061007300730069006e006700530063006f0072006500ffff00cd'/> or more targets <0 Type='3' Data='ffff'/>within the time
+  limit to win. Put the mine cart on the track,
+  and climb aboard to begin the game.
+Playing: |
+  Mine-Cart Land, an entertainment experience
+  built by YunoboCo, is now open!
+  
+  <0 Type='3' Data='0000'/>Hit <2 Type='2' Data='3c0047006f0072006f006e005f004d0069006e006900470061006d0065005f00300031005f00500061007300730069006e006700530063006f0072006500ffff00cd'/> or more targets <0 Type='3' Data='ffff'/>within the time
+  limit to win. But be careful—if you fall out
+  of the cart, you lose!
+Complete: |
+  Mine-Cart Land, an entertainment experience
+  built by YunoboCo, is now open!
+  
+  You destroyed <2 Type='2' Data='3c0047006f0072006f006e005f004d0069006e006900470061006d0065005f00300031005f00500061007300730069006e006700530063006f0072006500ffff00cd'/> or more targets within the
+  time limit and beat the game. Heehl invited you
+  to try out the intermediate course.

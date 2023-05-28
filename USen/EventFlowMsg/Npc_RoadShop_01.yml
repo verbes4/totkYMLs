@@ -1,0 +1,245 @@
+5503: |
+  Never mind.
+GoalPoint_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Heya, friend! <5 Type='0'/>You here to soak in the
+  hot springs? Excellent choice.<0 Type='4'/>Speaking of excellent choices...<5 Type='1'/> Do you
+  like <0 Type='3' Data='0000'/>hard-boiled eggs<0 Type='3' Data='ffff'/>?<0 Type='4'/>Just toss a <0 Type='3' Data='0000'/>bird egg<0 Type='3' Data='ffff'/> in a hot spring,
+  wait a little while, and poof! A perfect
+  hard-boiled egg every time.
+  <3 Type='0' Data='0800'/>Those delicious gooey yolks are to die for.<5 Type='1'/>
+  Give it a try! The other patrons won't mind
+  a few eggs in the water.
+  <3 Type='0' Data='0101'/>Wondering where to get bird eggs?<5 Type='1'/> Well,
+  wonder no more! Because I sell 'em.
+RainPoint_01_2: |
+  <3 Type='0' Data='0700'/>If you drink an <0 Type='3' Data='0000'/>elixir of boiled sticky frogs<0 Type='3' Data='ffff'/>,
+  you'll hardly ever slip—even in the
+  pouring rain!
+  They're a real must in this weather.<0 Type='4'/><3 Type='0' Data='0100'/>It'd sure be handy if you knew someone
+  who sold sticky frogs...<5 Type='1'/> Oh, wait, that's
+  me! So how 'bout it?
+5507: |
+  I'll take 'em all!
+Com_Talk_00: |
+  <3 Type='0' Data='0700'/>Something to sell, I presume?
+5508: |
+  All of them.
+GoRange_02_2: |
+  <3 Type='0' Data='0700'/>If you're heading to Lanayru, you'd be
+  wise to bring <0 Type='3' Data='0000'/>splash fruit<0 Type='3' Data='ffff'/> as a <0 Type='3' Data='0000'/>sludge
+  countermeasure<0 Type='3' Data='ffff'/>!
+  <3 Type='0' Data='0701'/>And of course, if you're low on splash
+  fruit, I know a guy... <5 Type='0'/>The guy is me.
+  Buy my splash fruit.
+Near_Thunder: |
+  Yikes! Gotta take shelter!
+Com_Talk_01: |
+  <3 Type='0' Data='0000'/>Just one? How about <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>?
+GoRange_02_3: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hm? <5 Type='1'/>Friend, something tells me that you
+  may be Lanayru-bound.
+  
+  Lanayru's home to a lot of caves, and
+  most of their walls are wet and slippery.<0 Type='4'/><3 Type='0' Data='0800'/>If you want to make sure your climbing
+  <0 Type='3' Data='0000'/>grip rarely slips<0 Type='3' Data='ffff'/>, simply knock back an
+  <0 Type='3' Data='0000'/>elixir made of boiled sticky frogs<0 Type='3' Data='ffff'/>.
+  And as luck would have it...<5 Type='0'/>I sell sticky
+  frogs for all your elixiring needs! Care to
+  buy a few?
+Com_Talk_02: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>Many thanks, friend! <5 Type='0'/>Is there anything
+  else you want to sell me?
+GoRange_02_4: |
+  <3 Type='0' Data='0700'/>If you drink an <0 Type='3' Data='0000'/>elixir made by boiling
+  sticky frogs<0 Type='3' Data='ffff'/>, you'll <0 Type='3' Data='0000'/>slip less<0 Type='3' Data='ffff'/> on walls,
+  even when they're wet!
+  It's a travel essential if ever there
+  was one!<0 Type='4'/>Fresh out of sticky frogs to elixirize? <5 Type='0'/>
+  Never fear, my pack is here!
+0001: |
+  Show me what you have!
+Com_Talk_20: |
+  <3 Type='0' Data='0700'/>On lousy-weather days like these, I stock
+  special products to put some sun back in
+  your skies!
+SavedLv3_00: |
+  <3 Type='0' Data='0700'/>That was a real humdinger of a monster.
+  You really are amazing, friend!
+0002: |
+  Check out what I have!
+Com_Talk_04: |
+  <3 Type='0' Data='0a00'/>I see... <5 Type='1'/>I got my hopes up too.
+SavedLv3_01: |
+  <3 Type='0' Data='0800'/>Wow, I can't thank you enough! <5 Type='0'/>If you
+  weren't here, then... Well, let's not think
+  about that!
+Near_Rain: |
+  This is the worst!
+0003: |
+  No, thanks.
+Com_Talk_05: |
+  <3 Type='0' Data='0701'/>I'll buy anything!
+Com_Talk_05b: |
+  <3 Type='0' Data='0701'/>Sell me as much as you'd like!
+Com_Talk_06: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>There are no wrong choices at my shop!
+StartPoint_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hey there, friend. You on your way to
+  Goron City?
+  
+  Ever since Death Mountain's eruptions
+  stopped, getting there is so easy, any
+  Hylian can make the trek.
+  Still, walking up that steep mountain road
+  can really take it out of you if you're not
+  adequately prepared.<0 Type='4'/><3 Type='0' Data='0501'/>Buuut, <5 Type='0'/>if you drink an <0 Type='3' Data='0000'/>elixir made with
+  restless crickets<0 Type='3' Data='ffff'/>, you can <0 Type='3' Data='0000'/>recover from
+  exhaustion right away<0 Type='3' Data='ffff'/>!
+  <3 Type='0' Data='0800'/>And what a handy coincidence <5 Type='0'/>that I sell
+  restless crickets! So, what do you say?
+Com_Talk_05c: |
+  <3 Type='0' Data='0701'/>My wallet is ready! Sell away!
+Com_Talk_07: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0600530061006400'/>Oh, wait, sorry...<5 Type='1'/> That's sold out for now.
+Com_Talk_05d: |
+  <3 Type='0' Data='0701'/>You name it, I'll buy it!
+Com_Talk_08: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0600530061006400'/>You're a little short on rupees, there.<5 Type='1'/>
+Com_Talk_09: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0a005400680069006e006b00'/>Looks like your pouch is fuller than we
+  thought.<5 Type='1'/> Make a little space in there, and
+  come back soon!
+StartPoint_01_2: |
+  <3 Type='0' Data='0700'/>No matter how exhausted you get, one
+  drink of a <0 Type='3' Data='0000'/>restless-cricket-filled elixir<0 Type='3' Data='ffff'/> will
+  <0 Type='3' Data='0000'/>perk you right up<0 Type='3' Data='ffff'/>.
+  I never travel without it! <5 Type='1'/>Now, can I
+  interest you in some crickets?<5 Type='0'/>
+Atacked00: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='0a0053006300610072006500'/>Help meee!
+Guardian00: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1200530075007200700072006900730065004c00'/>Why did this have to happen to me?
+  Run, friend! Run for your life!
+Atacked01: |
+  <3 Type='0' Data='0900'/>Away with you, monster!
+SavedLv2_00: |
+  <3 Type='0' Data='0800'/>You're pretty strong, friend!<5 Type='0'/> You remind
+  me of me back in the day.
+SavedLv2_01: |
+  <3 Type='0' Data='0800'/>Phew! Thanks to you, both my cart and I
+  got out of that intact.
+GoRange_02: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hello, hello, friend! Making your way to
+  Lanayru?<5 Type='0'/> Then tread carefully.<0 Type='4'/>Word is, these blackish clumps of <0 Type='3' Data='0000'/>sludge<0 Type='3' Data='ffff'/>
+  have been falling all over the region.<0 Type='4'/>It's really sticky and gross if the sludge
+  lands on you, but thankfully you can
+  <0 Type='3' Data='0000'/>wash it off with water<0 Type='3' Data='ffff'/>.
+  <3 Type='0' Data='0800'/>In other words...<5 Type='1'/>everything will turn out
+  fine as long as you have a healthy supply
+  of <0 Type='3' Data='0000'/>splash fruit<0 Type='3' Data='ffff'/> on hand!
+  And if you don't have a healthy supply...<5 Type='0'/>
+  I sell splash fruit! Need to restock?
+Near_RainPoint_01: |
+  Stop slipping, just like that!
+GoalPoint_01_2: |
+  <3 Type='0' Data='0700'/>Next time you hit the hot springs, try a
+  <0 Type='3' Data='0000'/>hard-boiled egg<0 Type='3' Data='ffff'/>. Just put a <0 Type='3' Data='0000'/>bird egg <0 Type='3' Data='ffff'/>in
+  the spring, and it'll cook while you soak.
+  <3 Type='0' Data='0701'/>And wow, it just so happens<5 Type='0'/> that I sell
+  bird eggs! You looking to stock up?
+Near_GoRange_02: |
+  Boy, that stuff is gloopy.
+ShopGreet_00: |
+  <3 Type='0' Data='0101'/>What can I get you?
+Com_Talk_02b: |
+  <3 Type='0' Data='0800'/>Always a pleasure!
+Com_Talk_10: |
+  <3 Type='0' Data='0000'/>Coming up!
+Thanks00: |
+  <3 Type='0' Data='0100'/>This is to show my gratitude. So take it!
+Com_Talk_02c: |
+  <3 Type='0' Data='0800'/>Thanks a bunch!
+Com_Talk_11: |
+  <3 Type='0' Data='0800'/>Thanks, friend!
+Com_Talk_02d: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>Got anything else for me to buy?
+Com_Talk_12: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>All my items come highly recommended.<5 Type='1'/>
+  By me! Take your time browsing.
+Near_GoRange_02_1: |
+  For the wettest of walls!
+Com_Talk_13: |
+  <3 Type='0' Data='0000'/>How many would you like to sell?
+Com_Talk_30: |
+  <3 Type='0' Data='0000'/>And how many would you like?
+Com_Talk_11_b: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>You just made my day.
+Com_Talk_14: |
+  <3 Type='0' Data='0000'/>OK, <2 Type='2' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/> it is. I can buy those for a grand
+  total of <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>. Deal?
+Com_Talk_31: |
+  <3 Type='0' Data='0000'/>OK, <2 Type='2' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/> of them will be <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>.
+  That sound good to you?
+Com_Talk_11_c: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>That one has my seal of approval!
+Com_Talk_15: |
+  <3 Type='0' Data='0c00'/>I always say I can buy anything, but
+  you've found the exception...
+Com_Talk_32: |
+  <3 Type='0' Data='0000'/>Just the one? That'll be <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>.
+SavedLv1_00: |
+  <3 Type='0' Data='0800'/>Thanks for the help there, friend!
+Near_GoalPoint_01: |
+  They sure are tasty.
+Com_Talk_11_d: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>I hope you enjoy!
+Com_Talk_16: |
+  <3 Type='0' Data='0b00'/>I can't buy the clothes off your back!
+  Get changed, and then we'll talk.
+Com_Talk_33: |
+  <3 Type='0' Data='0000'/>Just selling one? Let's see here, does
+  <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/> strike your fancy?
+ShopGoodBye_01: |
+  <3 Type='0' Data='0700'/>If you ever need anything, my door is
+  always open! Metaphorically, at least.
+SavedLv1_01: |
+  <3 Type='0' Data='0800'/>Thank you! They almost got me!
+Com_Talk_34: |
+  <3 Type='0' Data='0401'/>Every last one?!<5 Type='0'/> Why, all <2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/> of them
+  would be <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>! Are you sure?
+Com_Talk_35: |
+  <3 Type='0' Data='0401'/>Every one you have?!<5 Type='0'/> Well, for <2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/>, I can
+  give you <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>. Sound good?
+ShopTalk_01: |
+  <3 Type='0' Data='0701'/>Anything else?
+Com_Talk_36: |
+  <3 Type='0' Data='0800'/>I'm all sold out for the day thanks to you!
+  You're not just an eager customer but a
+  true friend!
+Com_Talk_37: |
+  <3 Type='0' Data='0700'/>I appreciate your business. Thanks to you,
+  I'm all sold out for the day!<5 Type='1'/>
+  
+  I don't have anything left to sell, but
+  you're welcome to look at what I plan
+  on stocking!
+EnokidaSignboard: |
+  Isn't that in Tarrey Town?
+5500: |
+  Yes.
+5501: |
+  No.
+RainPoint_01: |
+  <3 Type='0' Data='0a00'/>The rain always gets me down...<0 Type='4'/>The worst part is the slick surfaces.<5 Type='1'/>
+  A few drops of rain and I start slipping
+  and sliding off of walls.
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>But there's a solution!<5 Type='1'/> <0 Type='3' Data='0000'/>Boil some sticky
+  frogs into an elixir<0 Type='3' Data='ffff'/>, take a swig, and just
+  like that, you'll start <0 Type='3' Data='0000'/>slipping less<0 Type='3' Data='ffff'/>.
+  Wherever will you find sticky frogs?<5 Type='0'/> Why,
+  right here, in my pack! So, how many can
+  I put you down for?
+Near_StartPoint_01: |
+  Best part of an elixir!
+5502: |
+  I'll take it.

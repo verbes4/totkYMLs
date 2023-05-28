@@ -1,0 +1,162 @@
+Talk1009: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Out on night patrol already? I'd expect
+  nothing less from you.
+Talk1010: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Are you out patrolling the village?
+  You do so much for us.
+0000: |
+  What's the matter?
+Talk1011: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Are you patrolling the village even in this
+  rain? I'd expect nothing less from you.
+0001: |
+  I'll...leave you to it.
+Near0001: |
+  Such awful manners...
+Talk1012: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>If you take the cloth I gave you to the
+  <0 Type='3' Data='0000'/>dye shop in Hateno Village<0 Type='3' Data='ffff'/>, they should
+  be able to do something with it.<0 Type='4'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>It would make me so happy to know that
+  you were putting it to good use!<0 Type='4'/><0 Type='3' Data='0200'/><FontSize Value='80'/>Plus, it'll be great advertising for Lurelin Village!<FontSize Value='100'/><0 Type='3' Data='ffff'/>
+Talk1030: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='0a005400680069006e006b00'/>My hometown is <0 Type='3' Data='0000'/>Lurelin Village<0 Type='3' Data='ffff'/>, a small
+  fishing village along the shore southeast
+  of here.<0 Type='4'/>It's been suffering constant <0 Type='3' Data='0000'/>pirate <0 Type='3' Data='ffff'/>attacks.
+  I've heard it's almost entirely <0 Type='3' Data='0000'/>destroyed<0 Type='3' Data='ffff'/>...<0 Type='4'/>At least the villagers fled without any
+  loss of life, or so they say.<0 Type='4'/><3 Type='0' Data='0a00'/><4 Type='0' Data='0c005300610064005f0030003000'/>But what good is it if all their homes are
+  destroyed? <5 Type='0'/>I'm afraid that the village
+  is finished.<0 Type='4'/>My poor father...<5 Type='0'/>he was the head of
+  Lurelin Village.<0 Type='4'/><4 Type='0' Data='0a005400680069006e006b00'/>That village was his whole life. <5 Type='0'/>If it's
+  really gone, I worry that the shock could
+  finish him.
+Talk1013: |
+  <3 Type='0' Data='0700'/><0 Type='3' Data='0000'/>Lover's Pond<0 Type='3' Data='ffff'/> on <0 Type='3' Data='0000'/>Tuft Mountain<0 Type='3' Data='ffff'/>, the place
+  where Rhodes and I met, is a sacred pond
+  rumored to help you find your true love.<0 Type='4'/>It used to be a popular spot, despite the
+  steep climb to get there.
+Talk1031: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0c005300610064005f0030003100'/>Where I'm from, we believed in welcoming
+  everyone with a smile.<0 Type='4'/>That's why I don't want anyone from home
+  to see me so down.
+Talk1014: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003100'/>What is it, Rhodes? <5 Type='1'/>Surely it's not time
+  to wake up yet... <5 Type='1'/>Oh?<0 Type='4'/><3 Type='0' Data='0300'/><4 Type='0' Data='0a005400680069006e006b00'/>I'm sorry. <5 Type='1'/>I thought you were my husband.
+Talk1032: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Oh...you're back again. *sigh*<0 Type='4'/>I'm sorry... I still don't have it in me to
+  be very welcoming.
+Talk1015: |
+  <3 Type='0' Data='0100'/>We love watching the tides by moonlight.
+  Thank you for giving us our shores back.
+Talk1033: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0c005300610064005f0030003000'/>I'm sorry... I don't have it in me to be
+  very welcoming right now.
+Talk1016: |
+  <3 Type='0' Data='0100'/>We love watching the tides in the sunrise.
+  Thank you for giving us our shores back.
+Talk1034: |
+  <3 Type='0' Data='0a00'/>I'll take care of it later. Maybe by
+  tomorrow morning.
+Talk1017: |
+  <3 Type='0' Data='0700'/>I think we'd still be together anyway,
+  even if we had met at the other pond on
+  <0 Type='3' Data='0000'/>Ebon Mountain<0 Type='3' Data='ffff'/> to the <0 Type='3' Data='0000'/>northeast<0 Type='3' Data='ffff'/> of here.
+Talk1035: |
+  <3 Type='0' Data='0500'/><4 Type='0' Data='0a005400680069006e006b00'/>My hometown is <0 Type='3' Data='0000'/>Lurelin Village<0 Type='3' Data='ffff'/>, a small
+  fishing village along the shore southeast
+  of here.<0 Type='4'/>It's suffered constant <0 Type='3' Data='0000'/>pirate <0 Type='3' Data='ffff'/>attacks.
+  I've heard it's almost entirely <0 Type='3' Data='0000'/>destroyed<0 Type='3' Data='ffff'/>...<0 Type='4'/>I did hear that the villagers fled without
+  any loss of life, and that the pirates had
+  been driven off...<0 Type='4'/><3 Type='0' Data='0a00'/><4 Type='0' Data='0c005300610064005f0030003000'/>But what good is it if all their homes
+  are destroyed? <5 Type='0'/>I'm afraid that the village
+  is finished.<0 Type='4'/>My poor father...<5 Type='0'/>he was the head of
+  Lurelin Village.<0 Type='4'/><4 Type='0' Data='0a005400680069006e006b00'/>It was his whole life. <5 Type='0'/>I worry a lot about
+  how its loss is affecting him.
+Talk1018: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Rhodes...
+Talk1036: |
+  <3 Type='0' Data='0500'/><4 Type='0' Data='0a005400680069006e006b00'/>My hometown is <0 Type='3' Data='0000'/>Lurelin Village<0 Type='3' Data='ffff'/>, a small
+  village along the shore southeast of here.<0 Type='4'/>I think I told you that it's been suffering
+  constant <0 Type='3' Data='0000'/>pirate <0 Type='3' Data='ffff'/>attacks to the point where
+  it's almost entirely <0 Type='3' Data='0000'/>destroyed<0 Type='3' Data='ffff'/>.<0 Type='4'/>At least the villagers fled without any
+  loss of life, or so they say.<0 Type='4'/><3 Type='0' Data='0a00'/>But what good is it if all their homes
+  are destroyed? <5 Type='0'/>I'm afraid that Lurelin
+  is finished.<0 Type='4'/>My poor father...that place was his
+  whole life.<0 Type='4'/><4 Type='0' Data='0a005400680069006e006b00'/>He was the head of the village, so I worry
+  about how its loss is affecting him.
+Talk1001: |
+  <3 Type='0' Data='0800'/>The flag I made is getting an even better
+  reception than I'd hoped. <5 Type='0'/><0 Type='4'/>I hear that even Mubs, who set up shop
+  all the way out at Lookout Landing, hung
+  it up over there!<0 Type='4'/><3 Type='0' Data='0700'/><4 Type='0' Data='0c004c0061007500670068005300'/>My hope is that the flag lets people all
+  over Hyrule know about Lurelin, <5 Type='0'/>even if
+  they never come here.
+Talk1019: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>Ralera...
+Talk1037: |
+  <3 Type='0' Data='0500'/><4 Type='0' Data='0a005400680069006e006b00'/>My hometown is <0 Type='3' Data='0000'/>Lurelin Village<0 Type='3' Data='ffff'/>, a small
+  village along the shore southeast of here.<0 Type='4'/>I think I told you that it's suffered
+  constant <0 Type='3' Data='0000'/>pirate <0 Type='3' Data='ffff'/>attacks to the point
+  where it's almost entirely <0 Type='3' Data='0000'/>destroyed<0 Type='3' Data='ffff'/>.<0 Type='4'/>I did hear that the villagers fled without
+  any loss of life, and that the pirates had
+  been driven off...<0 Type='4'/><3 Type='0' Data='0a00'/>But what good is it if all their homes
+  are destroyed? <5 Type='0'/>I'm afraid that Lurelin
+  is finished.<0 Type='4'/>My poor father...that place was his
+  whole life.<0 Type='4'/><4 Type='0' Data='0a005400680069006e006b00'/>He was the head of the village, so I worry
+  about how its loss is affecting him.
+Talk1002: |
+  <3 Type='0' Data='0800'/>The flag I made is getting a lot of praise
+  for the way it doesn't tear or smudge,
+  no matter what the weather's like.<0 Type='4'/>I hear that even Mubs, who set up shop
+  all the way out at Lookout Landing, hung
+  it up over there!<0 Type='4'/><3 Type='0' Data='0700'/><4 Type='0' Data='0c004c0061007500670068005300'/>My hope is that the flag lets people all
+  over Hyrule know about Lurelin, <5 Type='0'/>even if
+  they never come here.
+Talk1038: |
+  <3 Type='0' Data='0800'/>I've been giving away the flags I made.<0 Type='4'/><3 Type='0' Data='0500'/>I've enjoyed seeing everyone again after
+  so long. <5 Type='0'/>It's made me reluctant to go back
+  to Hateno Village.<0 Type='4'/><3 Type='0' Data='0100'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>So my husband and I think we'll take it
+  easy here for a while.
+Talk1003: |
+  <3 Type='0' Data='0800'/>Did you find a use for the cloth I
+  gave you?<0 Type='4'/><0 Type='3' Data='0000'/><3 Type='0' Data='0701'/><0 Type='3' Data='ffff'/>If you take it to the <0 Type='3' Data='0000'/>dye shop in
+  Hateno Village<0 Type='3' Data='ffff'/>, they should be able
+  to do something with it.<0 Type='4'/><4 Type='0' Data='0c004c0061007500670068005300'/>It would make me so happy to know that
+  you were putting it to good use!<0 Type='4'/><0 Type='3' Data='0200'/><FontSize Value='80'/>Plus, it'll be great advertising for Lurelin Village!<FontSize Value='100'/><0 Type='3' Data='ffff'/>
+Talk1021: |
+  <3 Type='0' Data='0a00'/>I'll take care of it later. Maybe by
+  this afternoon.
+Talk1039: |
+  We've moved! Come find us in our old
+  hometown, Lurelin Village.<0 Type='4'/>Let this house be used as a rest stop for
+  travelers passing through Hateno Village.
+                                   -Ralera and Rhodes
+Talk1004: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>My husband and I met at <0 Type='3' Data='0000'/>Lover's Pond<0 Type='3' Data='ffff'/>
+  on <0 Type='3' Data='0000'/>Tuft Mountain<0 Type='3' Data='ffff'/> behind the house.<0 Type='4'/><3 Type='0' Data='0000'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Maybe nobody believes it anymore, but
+  it used to be a rumor that couples who
+  met there were destined for each other.<0 Type='4'/>It used to be a popular spot, despite the
+  steep climb to get there.<0 Type='4'/><3 Type='0' Data='0500'/>Thinking back on it, maybe so many
+  couples fell in love there because they
+  all came looking for love to begin with.<0 Type='4'/><3 Type='0' Data='0800'/><4 Type='0' Data='0a0048006100700070007900'/>Even so, I think the two of us really were
+  destined to find each other.
+Talk1022: |
+  <3 Type='0' Data='0a00'/>I'll take care of it later. Maybe by
+  this evening.
+Talk1023: |
+  <3 Type='0' Data='0a00'/>I'll take care of it later. Hopefully before it
+  gets too dark.
+Talk1040: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068005300'/>Someone told me Princess Zelda used to
+  go there often.
+Talk1024: |
+  <3 Type='0' Data='0a00'/>Oh...a visitor. *sigh*<0 Type='4'/>I'm sorry... I don't have it in me to be
+  very welcoming right now.
+Talk1007: |
+  <3 Type='0' Data='0800'/>Everyone's calling you the town savior.<0 Type='4'/>And I'm no exception. <5 Type='0'/>I even credit you
+  with the flag I made for Lurelin.<0 Type='4'/><3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Have you thought about bringing the
+  cloth I gave you to the <0 Type='3' Data='0000'/>dye shop in
+  Hateno Village<0 Type='3' Data='ffff'/>?<0 Type='4'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>It would make me very happy to know that
+  you'd found your own use for it.
+Talk1008: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Up early patrolling? I'd expect nothing
+  less from you.

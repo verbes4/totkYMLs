@@ -1,0 +1,48 @@
+Talk_0005: |
+  <3 Type='0' Data='0701'/>The map in the Forgotten Temple showed
+  a geoglyph <0 Type='3' Data='0000'/>shaped like a castle<0 Type='3' Data='ffff'/>.
+Talk_0006: |
+  <3 Type='0' Data='0701'/>The map in the Forgotten Temple showed
+  a geoglyph that <0 Type='3' Data='0000'/>looks like a stone tablet<0 Type='3' Data='ffff'/>.
+Near_0001: |
+  Where is that geoglyph?
+Talk_0007: |
+  <3 Type='0' Data='0701'/>The map in the Forgotten Temple showed
+  a geoglyph <0 Type='3' Data='0000'/>shaped like a monster<0 Type='3' Data='ffff'/>.
+Talk_0001: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Hm?<5 Type='1'/> This is the last place I expected to
+  find you, courageous one.
+  
+  <3 Type='0' Data='0701'/>I came to investigate the local geoglyph,
+  but the sandstorm scuttled my plans.
+  
+  Now that it has finally died down, I intend
+  to resume my search.
+Talk_0008: |
+  <3 Type='0' Data='0701'/>The map in the Forgotten Temple showed
+  a geoglyph <0 Type='3' Data='0000'/>shaped like a person<0 Type='3' Data='ffff'/>.
+Talk_0002: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0e00540072006f00750062006c006500'/>There is also the matter of the temple at
+  the bottom of the canyon in Hebra.<0 Type='4'/>Cado has been studying the relevant
+  literature and is certain it will aid us
+  in our search for the geoglyphs.<0 Type='4'/>Clearly, we must investigate this
+  <0 Type='3' Data='0000'/>Forgotten Temple<0 Type='3' Data='ffff'/>.
+Talk_0009: |
+  <3 Type='0' Data='0701'/>We are on a journey to find every
+  geoglyph depicted on that map.<0 Type='4'/><3 Type='0' Data='0c00'/>Poor Cado had a miserable time copying
+  the whole thing down.<0 Type='4'/>If only we had a camera, he could have
+  been spared a lot of effort...
+  
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Oh well. No use worrying about that now.
+Talk_0003: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0e00540072006f00750062006c006500'/>We have heard of geoglyphs all across
+  Hyrule...<5 Type='1'/>but our search for them has been
+  haphazard at best.
+  <3 Type='0' Data='0c01'/>Perhaps a visit to the <0 Type='3' Data='0000'/>Forgotten Temple<0 Type='3' Data='ffff'/>
+  in that canyon in Hebra could provide us
+  better guidance.
+Talk_0004: |
+  <3 Type='0' Data='0701'/>Now, I must finish my preparations and
+  reunite with Cado.<0 Type='4'/>I've left him waiting at the entrance to
+  town for so long, I will be half-surprised
+  if he has not left without me.

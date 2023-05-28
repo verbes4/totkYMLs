@@ -1,0 +1,87 @@
+Talk21: |
+  You need <0 Type='3' Data='0000'/><2 Type='2' Data='380048006f0072007300650049006e006e005f004e006500780074005200650077006100720064004e0065006500740050006f0069006e007400ffff00cd'/> <201 Type='6' Data='0a0070006f0069006e0074000c0070006f0069006e00740073000000'/><0 Type='3' Data='ffff'/> to register an
+  additional horse.
+Talk22: |
+  You need <0 Type='3' Data='0000'/><2 Type='2' Data='380048006f0072007300650049006e006e005f004e006500780074005200650077006100720064004e0065006500740050006f0069006e007400ffff00cd'/> <201 Type='6' Data='0a0070006f0069006e0074000c0070006f0069006e00740073000000'/><0 Type='3' Data='ffff'/> to receive the
+  extravagant saddle and extravagant
+  bridle.
+Talk10: |
+  You need <0 Type='3' Data='0000'/><2 Type='2' Data='380048006f0072007300650049006e006e005f004e006500780074005200650077006100720064004e0065006500740050006f0069006e007400ffff00cd'/> <201 Type='6' Data='0a0070006f0069006e0074000c0070006f0069006e00740073000000'/><0 Type='3' Data='ffff'/> to unlock the
+  Malanya bed.
+Talk23: |
+  You need <0 Type='3' Data='0000'/><2 Type='2' Data='380048006f0072007300650049006e006e005f004e006500780074005200650077006100720064004e0065006500740050006f0069006e007400ffff00cd'/> <201 Type='6' Data='0a0070006f0069006e0074000c0070006f0069006e00740073000000'/><0 Type='3' Data='ffff'/> to register an
+  additional horse.
+Talk11: |
+  You need <0 Type='3' Data='0000'/><2 Type='2' Data='380048006f0072007300650049006e006e005f004e006500780074005200650077006100720064004e0065006500740050006f0069006e007400ffff00cd'/> <201 Type='6' Data='0a0070006f0069006e0074000c0070006f0069006e00740073000000'/><0 Type='3' Data='ffff'/> to receive the
+  traveler's saddle and traveler's bridle.
+Talk24: |
+  You need <0 Type='3' Data='0000'/><2 Type='2' Data='380048006f0072007300650049006e006e005f004e006500780074005200650077006100720064004e0065006500740050006f0069006e007400ffff00cd'/> <201 Type='6' Data='0a0070006f0069006e0074000c0070006f0069006e00740073000000'/><0 Type='3' Data='ffff'/> to receive a
+  50% discount on all stable fees.
+Talk12: |
+  You need <0 Type='3' Data='0000'/><2 Type='2' Data='380048006f0072007300650049006e006e005f004e006500780074005200650077006100720064004e0065006500740050006f0069006e007400ffff00cd'/> <201 Type='6' Data='0a0070006f0069006e0074000c0070006f0069006e00740073000000'/><0 Type='3' Data='ffff'/> to unlock the
+  mane restyling service.
+Talk25: |
+  You need <0 Type='3' Data='0000'/><2 Type='2' Data='380048006f0072007300650049006e006e005f004e006500780074005200650077006100720064004e0065006500740050006f0069006e007400ffff00cd'/> <201 Type='6' Data='0a0070006f0069006e0074000c0070006f0069006e00740073000000'/><0 Type='3' Data='ffff'/> to receive three
+  endura carrots.
+Talk26: |
+  You need <0 Type='3' Data='0000'/><2 Type='2' Data='380048006f0072007300650049006e006e005f004e006500780074005200650077006100720064004e0065006500740050006f0069006e007400ffff00cd'/> <201 Type='6' Data='0a0070006f0069006e0074000c0070006f0069006e00740073000000'/><0 Type='3' Data='ffff'/> to receive the
+  horse-god fabric.
+Talk13: |
+  You need <0 Type='3' Data='0000'/><2 Type='2' Data='380048006f0072007300650049006e006e005f004e006500780074005200650077006100720064004e0065006500740050006f0069006e007400ffff00cd'/> <201 Type='6' Data='0a0070006f0069006e0074000c0070006f0069006e00740073000000'/><0 Type='3' Data='ffff'/> to register an
+  additional horse.
+Talk14: |
+  The Stable Association has a point system
+  to reward members <0 Type='3' Data='0000'/>every time they use
+  stable services<0 Type='3' Data='ffff'/>.
+  You can collect points in a variety of ways,
+  like <0 Type='3' Data='0000'/>staying at inns<0 Type='3' Data='ffff'/> and <0 Type='3' Data='0000'/>registering horses
+  at stables<0 Type='3' Data='ffff'/>.
+Talk50: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>You can <0 Type='3' Data='0000'/>trade your Pony Points for prizes<0 Type='3' Data='ffff'/>
+  at the <0 Type='3' Data='0000'/>ledger counter <0 Type='3' Data='ffff'/>over there.<0 Type='3' Data='0000'/><0 Type='4'/><0 Type='3' Data='ffff'/>Check out the <0 Type='3' Data='0000'/>ledger <0 Type='3' Data='ffff'/>for prize details,
+  member rules, and other information.
+Talk02: |
+  The Pony Points ledger is placed here.
+Talk15: |
+  Read another page?
+Talk03: |
+  This book contains useful <0 Type='3' Data='0000'/>member
+  information <0 Type='3' Data='ffff'/>for those who have registered
+  with the Stable Association.
+  Which entry would you like to read?
+Talk16: |
+  Members can check their <0 Type='3' Data='0000'/>Pony Point tally<0 Type='3' Data='ffff'/>
+  and see available <0 Type='3' Data='0000'/>member rewards<0 Type='3' Data='ffff'/>.
+Talk04: |
+  Read the Pony Points ledger?
+Talk17: |
+  For a limited time, new stable members
+  can receive a special sign-up reward!<0 Type='4'/>Please talk with a <0 Type='3' Data='0000'/>stable manager <0 Type='3' Data='ffff'/>to
+  learn more.
+0000: |
+  Do nothing.
+0001: |
+  Points and rewards.
+Talk19: |
+  (Remember, you can also check your
+  <0 Type='3' Data='0000'/>Pony Points card <0 Type='3' Data='ffff'/>to see how many points
+  are needed for rewards!)
+0002: |
+  Never mind.
+Talk07: |
+  Your Pony Point information.
+0003: |
+  About Pony Points.
+Talk08: |
+  You need <0 Type='3' Data='0000'/><2 Type='2' Data='380048006f0072007300650049006e006e005f004e006500780074005200650077006100720064004e0065006500740050006f0069006e007400ffff00cd'/> <201 Type='6' Data='0a0070006f0069006e0074000c0070006f0069006e00740073000000'/><0 Type='3' Data='ffff'/> to receive the
+  towing harness.
+0004: |
+  Read the ledger.
+Talk09: |
+  You need <0 Type='3' Data='0000'/><2 Type='2' Data='380048006f0072007300650049006e006e005f004e006500780074005200650077006100720064004e0065006500740050006f0069006e007400ffff00cd'/> <201 Type='6' Data='0a0070006f0069006e0074000c0070006f0069006e00740073000000'/><0 Type='3' Data='ffff'/> to receive five
+  free sleepover tickets.
+0005: |
+  Receive reward.
+Talk20: |
+  You need <0 Type='3' Data='0000'/><2 Type='2' Data='380048006f0072007300650049006e006e005f004e006500780074005200650077006100720064004e0065006500740050006f0069006e007400ffff00cd'/> <201 Type='6' Data='0a0070006f0069006e0074000c0070006f0069006e00740073000000'/><0 Type='3' Data='ffff'/> to receive the
+  knight's saddle and knight's bridle.

@@ -1,0 +1,198 @@
+GoalPoint_01: |
+  <3 Type='0' Data='0700'/>Hmph... I can't find a path that leads
+  down to the <0 Type='3' Data='0000'/>Forgotten Temple<0 Type='3' Data='ffff'/>.
+  
+  <3 Type='0' Data='0c00'/>How did it end up down there, anyway?
+  
+  
+  Maybe they built it at ground level, but
+  after a seismic shift, it got swallowed up
+  into the earth.
+  Or could it be <5 Type='0'/>they put it in down there
+  on purpose to <0 Type='3' Data='0000'/>hide something important<0 Type='3' Data='ffff'/>...<5 Type='1'/>
+  Hmmm.
+GoRange_01: |
+  <3 Type='0' Data='0700'/>That canyon alongside the road is called
+  Tanagar Canyon.
+  
+  And at one end of it, there's a ruin known
+  as the <0 Type='3' Data='0000'/>Forgotten Temple<0 Type='3' Data='ffff'/>.
+  
+  I'm thinking about heading down there
+  to investigate.
+  
+  <3 Type='0' Data='0a00'/>But the canyon...<5 Type='1'/>it's so deep. How am
+  I going to get down?
+SavedLv3_01: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='08004500610073006500'/>I...I thought...<5 Type='0'/>that was it for me...<5 Type='0'/>
+  Thank you.
+GoRange_02: |
+  <3 Type='0' Data='0700'/>I really want to get to the bottom of
+  Tanagar Canyon, that canyon along
+  the road.
+  There's an amazing ruin at the bottom
+  called the <0 Type='3' Data='0000'/>Forgotten Temple<0 Type='3' Data='ffff'/>.
+  
+  <3 Type='0' Data='0a00'/>But I just...<5 Type='0'/> Urgh... <5 Type='0'/>I can't find a path
+  down there.
+  
+  I've walked up and down this road so
+  many times, and nothing. <5 Type='0'/>Nothing!
+Near_StartPoint_01: |
+  I thank you...
+Thanks00: |
+  <3 Type='0' Data='0800'/>I have to give you something in thanks
+  for rescuing me.
+  
+  Please, take this. I think it will be helpful
+  on your journey.
+StartPoint_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0e0043006800610074005f0030003000'/>I was just offering up a prayer at
+  this memorial.<5 Type='1'/>
+  
+  The only reason Hyrule still exists is that
+  there were those who fought for it.
+  
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='0a005400680069006e006b00'/>I know the kingdom has been a strange
+  and dangerous place since the Upheaval.
+  
+  <3 Type='0' Data='0801'/>But as we face the problems of today,
+  at least we can look to the people of the
+  past for inspiration.
+  <4 Type='0' Data='1000480061007000700079005f0030003000'/>They worked hard to have peace in their
+  time, and I'm going to do the same!
+SavedLv1_00: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='08004500610073006500'/>I'm safe, thanks to you!
+StartPoint_01_2: |
+  <3 Type='0' Data='0700'/>By offering up my prayers, I am thanking
+  the spirits of those who kept Hyrule safe.
+  
+  I'm also asking for them to protect and
+  guide me as I do my research.
+  
+  <3 Type='0' Data='0800'/>I may not be able to fight for my kingdom,
+  but I can defend it through my research!
+SavedLv1_01: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='08004500610073006500'/>Phew!<5 Type='0'/> Thanks. This area is more
+  dangerous than I thought.
+Hello: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Oh, you're the one, uh...<5 Type='1'/>from the survey
+  team's whole misunderstanding about
+  that underpants thing.
+  I guess meeting you in a place like this
+  shows you're traveling all over too.
+Atacked00: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='0a0053006300610072006500'/>Please, save me!<5 Type='0'/> I don't want it all to
+  end here!
+Atacked01: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='0a0053006300610072006500'/>Please, rescue me!<5 Type='0'/> I don't want to
+  become food for monsters!
+Near_GoBack: |
+  It's down below.
+RainPoint_01_2: |
+  <3 Type='0' Data='0700'/>I'd love to stretch my legs and go on
+  a stroll to <0 Type='3' Data='0000'/>Snowfield Stable<0 Type='3' Data='ffff'/> in <0 Type='3' Data='0000'/>Tabantha
+  Tundra<0 Type='3' Data='ffff'/>, really I would.
+  <3 Type='0' Data='0a00'/>But I just am not cut out for the cold.<5 Type='0'/>
+  
+  
+  I've been told it's fine as long as you have
+  <0 Type='3' Data='0000'/>food or clothing<0 Type='3' Data='ffff'/> to <0 Type='3' Data='0000'/>keep you warm<0 Type='3' Data='ffff'/>.
+  
+  <4 Type='0' Data='0e0045006100730065005f0030003100'/>But I'm not sure... Even just seeing snow
+  in the distance, I start to shiver.
+GoRange_01_2: |
+  <3 Type='0' Data='0700'/>What?! You want to investigate the
+  <0 Type='3' Data='0000'/>Forgotten Temple<0 Type='3' Data='ffff'/> with me?<5 Type='1'/>
+  
+  <3 Type='0' Data='0a00'/>I wish I could take you up on that. But it's
+  at the bottom of Tanagar Canyon.
+  
+  And I just haven't been able to find a path
+  down there.
+  
+  But maybe if you look for one, you'll have
+  better luck.
+SavedLv2_00: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='08004500610073006500'/>I've been rescued.<5 Type='0'/> Thanks. Don't know
+  how I would've made it on my own.
+Failed00: |
+  <3 Type='0' Data='0a00'/>Ohhh...<5 Type='0'/> That really, really hurt.<5 Type='0'/> I'll still
+  be aching tomorrow.
+Hello_00: |
+  <3 Type='0' Data='0c00'/>You know, I can't help thinking...
+  
+  
+  What would have happened to all those
+  people on the survey team if I'd never
+  traveled to Foothill Stable?
+  <3 Type='0' Data='0000'/>Some of them would've gotten hurt if
+  they'd kept trying to do survey work in
+  their underpants.
+  <3 Type='0' Data='0800'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>I'm just glad I could help everyone figure
+  out it was all a mistake. Our day-to-day
+  work is way too important.
+SavedLv2_01: |
+  <3 Type='0' Data='0800'/>Thanks!<5 Type='0'/> You really saved me! There's no
+  way I could've survived that myself.
+Failed01: |
+  <3 Type='0' Data='0a00'/>Oh, th-that...<5 Type='0'/>that was the worst...<5 Type='0'/> But I
+  made it through somehow.
+Hello_01: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003100'/>And, er,<5 Type='0'/> given that we cleared up that
+  misunderstanding, you sure you want to
+  be out here in the field like that?
+  I mean, you might be safe if you stick
+  around here, but it'd be dangerous to
+  head out into this snowy terrain that way.
+Near_Thunder: |
+  S-scary...
+GoalPoint_01_2: |
+  <3 Type='0' Data='0700'/>Beneath us, there's an extraordinary ruin
+  called the <0 Type='3' Data='0000'/>Forgotten Temple<0 Type='3' Data='ffff'/>.
+  
+  I just wish I knew how to get to it.
+  
+  
+  <3 Type='0' Data='0800'/>You really have to wonder why the
+  ancients put it down there!
+  
+  Hiding some kind of <0 Type='3' Data='0000'/>priceless treasure<0 Type='3' Data='ffff'/>,
+  perhaps? You never know!
+  
+  <4 Type='0' Data='0c004c0061007500670068005300'/>I say that as someone who considers
+  murals and dusty old monuments to be
+  priceless treasures.
+  I've learned that not everyone shares
+  that viewpoint.
+RainPoint_01: |
+  <3 Type='0' Data='0700'/>In a sense, we can be grateful it's raining
+  here. At least it's not cold enough for it
+  to snow.
+  That's why I've always been nervous
+  about visiting <0 Type='3' Data='0000'/>Snowfield Stable<0 Type='3' Data='ffff'/> in
+  <0 Type='3' Data='0000'/>Tabantha Tundra<0 Type='3' Data='ffff'/>.
+  <3 Type='0' Data='0a00'/>As nice as it sounds, I really cannot stand
+  the cold.<5 Type='0'/>
+  
+  I've been told it's fine as long as you have
+  <0 Type='3' Data='0000'/>food or clothing<0 Type='3' Data='ffff'/> to <0 Type='3' Data='0000'/>keep you warm<0 Type='3' Data='ffff'/>.
+  
+  <4 Type='0' Data='0e0045006100730065005f0030003100'/>But I'm not sure... Even just seeing snow
+  in the distance, I start to shiver.
+Near_RainPoint_01: |
+  Phew! Time for a breather.
+EnokidaSignboard: |
+  Ah, "son and done," right?
+Near_Rain: |
+  Eeep! So cold!
+NakedPlayer: |
+  Still no clothes, huh?
+Near_GoalPoint_01: |
+  How do I get down there?
+SavedLv3_00: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='08004500610073006500'/>Ah! You saved me!<5 Type='0'/> I can't believe it.
+  Thank you so, so much!
+Guardian00: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1200530075007200700072006900730065004c00'/>Wh...<5 Type='0'/>what?!<5 Type='0'/> I've never seen anything
+  like that before.

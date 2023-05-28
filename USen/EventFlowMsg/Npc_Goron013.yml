@@ -1,0 +1,82 @@
+talk_02: |
+  <3 Type='0' Data='0900'/>Weren't you all so excited that
+  <0 Type='3' Data='0000'/>YunoboCo <0 Type='3' Data='ffff'/>was gonna be buildin'
+  <0 Type='3' Data='0000'/>Mine-Cart Land<0 Type='3' Data='ffff'/> here?
+talk_19: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='10004700720065006500740069006e006700'/>A traveler!<5 Type='1'/> Fancy a twilit soak?
+talk_03: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1c004100720072006f00670061006e0074004c0061007500670068005300'/>Who cares about Mine-Cart Land when
+  there's <0 Type='3' Data='0000'/>marbled rock roast<0 Type='3' Data='ffff'/> to chomp!
+talk_10: |
+  <3 Type='0' Data='0700'/>YunoboCo handles everything from minin'
+  ore to sellin' it. We rely on 'em to keep
+  our economy going.
+  They had big plans for <0 Type='3' Data='0000'/>Mine-Cart Land<0 Type='3' Data='ffff'/>,
+  but it looks like the grand openin' is a
+  ways off yet.
+  Oh, and if it's ore yer after, try going to
+  the <0 Type='3' Data='0000'/>company store<0 Type='3' Data='ffff'/> up ahead. Or ya can
+  get some in the city.
+  Their prices are <0 Type='3' Data='0000'/>half<0 Type='3' Data='ffff'/> of what's normal, so
+  ya get a good deal.
+talk_04: |
+  <3 Type='0' Data='0a00'/>Yer chompin' instead of workin'. At this
+  rate, the Southern Mine—no, <0 Type='3' Data='0000'/>YunoboCo<0 Type='3' Data='ffff'/>
+  as a whole—is done fer.
+talk_05: |
+  <3 Type='0' Data='0a00'/>You were so excited that <0 Type='3' Data='0000'/>YunoboCo<0 Type='3' Data='ffff'/>
+  was gonna build <0 Type='3' Data='0000'/>Mine-Cart Land <0 Type='3' Data='ffff'/>here...
+  What's gotten into you?
+NakedPlayer: |
+  Nice underclothes.
+talk_12: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Are you a traveler?<5 Type='1'/> Then ya might like to
+  <5 Type='0'/>try a mornin' bath.
+talk_07: |
+  <3 Type='0' Data='0800'/>You should head to <0 Type='3' Data='0000'/>Mine-Cart Land<0 Type='3' Data='ffff'/>!
+  
+  
+  It's YunoboCo's masterwork! Course,
+  I helped build it too.
+  
+  Once you leave the city gate, head
+  straight down the road, and you'll
+  see it on your <0 Type='3' Data='0000'/>left<0 Type='3' Data='ffff'/>!
+  <3 Type='0' Data='0700'/>When I'm feelin' better, I intend to have a
+  good time there myself.
+talk_08: |
+  <3 Type='0' Data='0700'/><0 Type='3' Data='0000'/>Mine-Cart Land <0 Type='3' Data='ffff'/>is an amusement park
+  that we started buildin' at the request of
+  <0 Type='3' Data='0000'/>President Yunobo<0 Type='3' Data='ffff'/>, head of <0 Type='3' Data='0000'/>YunoboCo<0 Type='3' Data='ffff'/>.
+  He wanted to create an attraction to draw
+  travelers in—somethin' fun.
+  
+  <3 Type='0' Data='0a00'/>But lately all the young Gorons won't do a
+  lick of work, and the project's come to a
+  screeching halt.
+talk_14: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='10004700720065006500740069006e006700'/>A traveler!<5 Type='1'/> Fancy a daytime soak?
+talk_20: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='10004700720065006500740069006e006700'/>A traveler! <5 Type='1'/>Fancy a moonlit soak?
+talk_09: |
+  <3 Type='0' Data='0a00'/>Sorry 'bout all that, traveler.
+0000: |
+  Mine-Cart Land?
+talk_00: |
+  <3 Type='0' Data='0900'/>Don't just sit around eatin' <0 Type='3' Data='0000'/>marbled rock<0 Type='3' Data='ffff'/>
+  <0 Type='3' Data='0000'/>roast<0 Type='3' Data='ffff'/>—get to work!
+0001: |
+  YunoboCo?
+talk_01: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1c004100720072006f00670061006e0074004c0061007500670068005300'/>Just samplin' the goods.
+0002: |
+  Goodbye.
+talk_18: |
+  <3 Type='0' Data='0800'/>The best place for travelers to check
+  out round here is <0 Type='3' Data='0000'/>Mine-Cart Land<0 Type='3' Data='ffff'/>!<0 Type='4'/>It's YunoboCo's masterwork. I helped
+  work on the rails there.
+  
+  Once you leave the city gate, head
+  straight down the road, and you'll
+  come across it on your <0 Type='3' Data='0000'/>left<0 Type='3' Data='ffff'/>!
+  <3 Type='0' Data='0800'/>I really hope you go see it.

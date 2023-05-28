@@ -1,0 +1,116 @@
+Talk_1010: |
+  <3 Type='0' Data='0a00'/>Oh. Guess not, then.
+  
+  
+  <3 Type='0' Data='0701'/>There's a big rumor spreading around the
+  Stable Association, of something I think
+  might be a <0 Type='3' Data='0000'/>new animal species<0 Type='3' Data='ffff'/>.
+  <3 Type='0' Data='0800'/>It sounds big and brutal like a bear—and
+  kind of tusky like a rhino. But rumor is
+  that it's not a bear OR a rhino.
+  I think it's a lot more than just a rumor
+  though. There's an actual <0 Type='3' Data='0000'/>picture of the
+  animal's footprints<0 Type='3' Data='ffff'/> at one stable!
+  If you see anything like a <0 Type='3' Data='0000'/>new animal
+  species<0 Type='3' Data='ffff'/> in your travels, please, please,
+  please let me know!
+Talk_2000: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>Hm? Your pouch is full.
+  
+  
+  I was going to thank you with a fresh
+  <0 Type='3' Data='0000'/>endura carrot<0 Type='3' Data='ffff'/>.
+  
+  <3 Type='0' Data='0101'/>How about you free up some space and
+  we try this again?
+LargeHorse: |
+  What a big creature...
+Talk_1011: |
+  <3 Type='0' Data='0800'/>Hey, traveler! If you're striking up
+  conversation with me again...
+  
+  Does that mean you've seen something
+  like a <0 Type='3' Data='0000'/>new animal species<0 Type='3' Data='ffff'/>? Please, tell me
+  if you know anything!
+0002: |
+  Goodbye.
+Talk_2001: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>Hm? Your pouch is still full.
+  
+  
+  That's OK. Just come talk to me when
+  there's room for this <0 Type='3' Data='0000'/>endura carrot<0 Type='3' Data='ffff'/>!
+Talk_1012: |
+  <3 Type='0' Data='0a00'/>Oh. Guess not, then.<0 Type='4'/>I'm sure you'd remember if you saw a
+  giant bear-rhino-looking thing that isn't
+  a bear OR a rhino.
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Might sound like a half-baked rumor...<5 Type='1'/>
+  But it's real! I know it is!
+  
+  There's one stable that even has a <0 Type='3' Data='0000'/>picture
+  of its footprints<0 Type='3' Data='ffff'/>!
+  
+  If you see anything like a <0 Type='3' Data='0000'/>new animal
+  species<0 Type='3' Data='ffff'/>, please, please, please let me
+  know right away!
+Talk_2002: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0c004e006f007400690063006500'/>Hey! Made some room? <5 Type='0'/>Then here
+  you go!
+GoldHorse: |
+  How enchanting!
+Talk_1013: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0a005400680069006e006b00'/>Sorry... I came on too strong again,
+  didn't I?
+Talk_1004: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Hello there. <5 Type='0'/>Going by your clothes,<5 Type='1'/>
+  I take it you're not a member of the
+  survey team.<5 Type='1'/>
+  <3 Type='0' Data='0800'/>You're a traveler, aren't you?
+  
+  
+  Have you, by chance, seen anything like
+  a <0 Type='3' Data='0000'/>new animal species <0 Type='3' Data='ffff'/>on your travels?
+  Please tell me you have!
+WakkaCharm: |
+  Oooh, a ring garland!
+Talk_1005: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0a005400680069006e006b00'/>Sorry... I came on too strong, didn't I?
+Talk_1015: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003000'/>No kidding... "Dondons," huh?
+  Princess Zelda was studying them
+  at Lakeside Stable?
+  <3 Type='0' Data='0401'/>That's...<5 Type='1'/> That's...<5 Type='1'/>
+  
+  
+  <3 Type='0' Data='0800'/>Amazing! The rumor that everyone was
+  talking about turned out to be real!
+  A <0 Type='3' Data='0000'/>new species of animal<0 Type='3' Data='ffff'/>!
+  I know what I'm gonna do during my next
+  break—take a trip to Lakeside Stable to
+  visit those Dondons.
+  Thanks, buddy!<0 Type='4'/><3 Type='0' Data='0701'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/><FontSize Value='80'/>Here's a little something for you.<FontSize Value='100'/>
+0007: |
+  New animal species?
+Talk_1016: |
+  <FontSize Value='80'/><3 Type='0' Data='0801'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>In exchange for your secrecy, heheh.<FontSize Value='100'/>
+0008: |
+  About Dondons...
+Talk_1007: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>Truth be told, I wasn't at all sure that
+  there was anything to the rumor, but it
+  was exciting to think about.
+  <3 Type='0' Data='0800'/>But what do you know, Dondons really
+  do exist! And I have to say, these animals
+  sound pretty interesting.
+  I think I'll go to Lakeside Stable during
+  my next break. I want to see some of
+  these creatures for myself!
+Talk_1008: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0a005400680069006e006b00'/>I don't mean to be rude, but can we talk
+  somewhere dry?
+near00: |
+  I'll wait until the rain stops.
+near01: |
+  Eek!
+BoneHorse: |
+  Is that thing a horse?

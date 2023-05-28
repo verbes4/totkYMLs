@@ -1,0 +1,22 @@
+Name: |
+  Village Attacked by Pirates
+Step02: |
+  Rozel, the head of Lurelin Village, let you know
+  about the villagers. It turns out that although
+  the village was attacked by pirates, everyone
+  was able to flee to safety. You should let Mubs
+  and Garini at Lookout Landing know.
+Step01: |
+  Mubs and Garini's hometown, Lurelin Village,
+  was attacked by pirates. The village is at the
+  edge of East Necluda in the southeast. There
+  are no neighboring villages to flee to, so they're
+  concerned about the safety of the villagers. 
+  
+  If you find <0 Type='3' Data='0000'/>Rozel<0 Type='3' Data='ffff'/>, the head of the village, he
+  should know more.
+Complete: |
+  Garini and Mubs feel relieved knowing that all of
+  the villagers from Lurelin Village are safe.
+  
+  It turns out they have a shop there as well.

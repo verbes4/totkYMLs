@@ -1,0 +1,84 @@
+0001: |
+  Not really.
+Talk09: |
+  <3 Type='0' Data='0501'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>How do you not know?!<5 Type='0'/> There's a rumor
+  that a legendary sword lies hidden
+  <0 Type='3' Data='0000'/>somewhere in Hyrule<0 Type='3' Data='ffff'/>!
+0002: |
+  I made it.
+0003: |
+  I found it.
+0004: |
+  Legendary sword?
+Talk00: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Huh. Maybe I'll try building a weapon like
+  yours for myself!
+0005: |
+  You've got this.
+Talk10: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0e0045006100730065005f0030003000'/>I'm gonna be honest with you. I'm not
+  great with this stuff, and that's kind of a
+  lot of pressure...<5 Type='0'/>but I sure will try!
+Talk01: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>Right? I figured it'd be.<5 Type='0'/> And I'd be really
+  annoyed if I broke something while trying
+  to remove it...
+0006: |
+  I kind of doubt that.
+Talk11: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>I was just kidding.<5 Type='1'/> Who knows if the
+  sword's even out there in the first place?
+Talk02: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>For real? That's surprising.<5 Type='0'/> I think it'd be
+  pretty tough for me...<5 Type='0'/>
+Talk12: |
+  <3 Type='0' Data='0501'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>You don't know?<5 Type='0'/> There's a rumor that a
+  legendary sword lies hidden somewhere
+  in the <0 Type='3' Data='0000'/>Lost Woods<0 Type='3' Data='ffff'/>.
+Talk03: |
+  <3 Type='0' Data='0501'/>Oh, but that's right!<5 Type='0'/>
+  
+  
+  There's a shop called <0 Type='3' Data='0000'/>Break-a-Part<0 Type='3' Data='ffff'/> in
+  Tarrey Town! That's just east of here.
+  
+  They can apparently use their master
+  craftsmanship to detach anything from
+  anything! Like they were never attached!
+Talk13: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>If you want to talk, let's do it somewhere
+  out of the rain!
+Talk14: |
+  <3 Type='0' Data='0800'/>Oh, you're the traveler who destroyed
+  that ore deposit!<5 Type='0'/>
+  
+  Hee-hee, of course I remember you. Who
+  could forget a strike THAT impressive?
+Talk04: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Maybe I should try making a weapon like
+  the one you used to have...
+Talk05: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Ah, sorry.<5 Type='0'/> Just sort of dozed off there.
+  
+  
+  <3 Type='0' Data='0c01'/>You always have weapons that I've never
+  seen before.<5 Type='0'/> Like that one there! Did you
+  make it yourself?
+Near00: |
+  Rain, huh...
+Talk06: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>Wow. You're good at making things!<5 Type='0'/>
+  Maybe I'll try to make something too.
+  
+  <3 Type='0' Data='0201'/>Yeah! I'll work hard and make a weapon to
+  rival the <0 Type='3' Data='0000'/>legendary sword<0 Type='3' Data='ffff'/>! You'll see!
+Talk07: |
+  <3 Type='0' Data='0c01'/>But I'm kinda...<5 Type='0'/>bad at that crafty stuff.<5 Type='1'/>
+  Plus, isn't it <0 Type='3' Data='0000'/>hard to remove something<0 Type='3' Data='ffff'/>
+  once you've attached it?
+0000: |
+  It is hard.
+Talk08: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003100'/>Hmm.<5 Type='0'/> Maybe I'll do some searching too.<5 Type='0'/>
+  Like, maybe somebody just left the
+  <0 Type='3' Data='0000'/>legendary sword <0 Type='3' Data='ffff'/>lying around somewhere!

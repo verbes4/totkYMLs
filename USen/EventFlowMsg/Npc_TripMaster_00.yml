@@ -1,0 +1,576 @@
+Talk0034: |
+  <3 Type='0' Data='0b00'/>Couldn't handle the <0 Type='3' Data='0000'/>winterwing butterfly<0 Type='3' Data='ffff'/>'s
+  eating habits, <5 Type='1'/>huh?
+  
+  <3 Type='0' Data='0100'/>Listen, some butterflies just prefer dung
+  and rotten fruit.
+  
+  <3 Type='0' Data='0a01'/>Rotten fruit's not for Beedle though.
+  <FontSize Value='80'/>Never again.<FontSize Value='100'/>
+Talk0035: |
+  <3 Type='0' Data='0b00'/>A <0 Type='3' Data='0000'/>sunset firefly<0 Type='3' Data='ffff'/>?! Your loss is Beedle's
+  gain!<5 Type='1'/> Ooo... Want to know the secret to
+  their glorious glow?
+  <3 Type='0' Data='0100'/>Those mysterious twinkles are caused by
+  two chemicals inside the firefly reacting
+  with each other.
+  <3 Type='0' Data='0801'/>Beedle glows all by himself. No special
+  chemicals necessary!
+Talk0012: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='0c004c0061007500670068005300'/>Since you're the proud new owner of a
+  <0 Type='3' Data='0000'/>restless cricket<0 Type='3' Data='ffff'/>, here's a neat fact!<5 Type='1'/>
+  
+  <3 Type='0' Data='0100'/>Restless cricket babies look almost
+  identical to adults. The trick to telling
+  them apart is that the babies can't fly.
+TerrorArrow_00: |
+  Watch out!
+Talk0036: |
+  <3 Type='0' Data='0800'/>As a thank-you for your business, I've
+  got some words of wisdom for you.
+  No extra charge!
+  <3 Type='0' Data='0c01'/>Some folks say catching insects is
+  bad...
+  
+  <3 Type='0' Data='0900'/><4 Type='0' Data='100041006e006700720079005f0030003100'/><FontSize Value='125'/>But that's not true!<0 Type='4'/><3 Type='0' Data='0701'/><FontSize Value='100'/>If you collect a few to appreciate them,
+  you aren't causing any harm.
+  
+  But thinking we're better than bugs?
+  That really steams me up.
+  
+  <3 Type='0' Data='0301'/>If we destroy nature, there won't be
+  ANYTHING left. No bugs, no us, nothing!
+  
+  <3 Type='0' Data='0800'/>We're all in this together.
+TerrorArrow_01: |
+  Stop! Please!
+TerrorIce_00: |
+  That's cold!
+TerrorArrow_02: |
+  They're out for blood!
+TerrorIce_01: |
+  Stop! Please!
+TerrorIce_02: |
+  Meanie on the loose!
+Talk0039: |
+  <3 Type='0' Data='0a00'/>Aieee! A <0 Type='3' Data='0000'/>restless cricket<0 Type='3' Data='ffff'/>! <5 Type='1'/>Now I'll just
+  count the legs...
+  
+  <3 Type='0' Data='0100'/>They can grow back missing legs when
+  they're young, but not when they're
+  adults. It's true!
+Com_Talk_11_b: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='0c004c0061007500670068005300'/>Glad I could help!
+TerrorEnemy_00: |
+  Eeek!
+Talk2030: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068004c00'/>Ooo! Thank you! I knew you looked like
+  a stand-up fellow!
+  
+  <3 Type='0' Data='0100'/>Now, excuse me while I spend the day
+  spoiling this darling <0 Type='3' Data='0000'/>beetle<0 Type='3' Data='ffff'/>.
+Com_Talk_11_c: |
+  <3 Type='0' Data='0800'/>That was some quality shopping!
+TerrorEnemy_01: |
+  They're out for blood!
+Talk2031: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068004c00'/>*sniff* There is good in the world! I'm
+  going to spend the day treating this
+  beetle like royalty.
+  <3 Type='0' Data='0100'/>And if you think I'm mushy, just wait
+  until you see this beetle's excretions.
+Com_Talk_11_d: |
+  <3 Type='0' Data='0800'/>Thanks again for your business!
+TerrorEnemy_02: |
+  Stop! Please!
+Talk2010: |
+  <3 Type='0' Data='0100'/>Thanks for your business!<5 Type='0'/> Do you need
+  anything else?
+Talk2011: |
+  <3 Type='0' Data='0a00'/>Oh! That's a shame.<5 Type='0'/> Well, I look forward
+  to your next visit.
+Talk2012: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068005300'/>Thank you! I look forward to your
+  next visit!
+TerrorExplosion_00: |
+  Eeek!
+Talk2013: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Oh! You again, huh? Did you forget to
+  buy something?
+Com_Talk_30: |
+  <3 Type='0' Data='0000'/>All right, how many would you like
+  to buy?
+TerrorInsect: |
+  Those bees are angry!
+Talk2015: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1200530075007200700072006900730065005300'/>Oh! <5 Type='1'/>Really? <5 Type='0'/>Truly?<5 Type='0'/> An <0 Type='3' Data='0000'/>energetic rhino
+  beetle<0 Type='3' Data='ffff'/> for Beedle?!<5 Type='1'/>
+Com_Talk_31: |
+  <3 Type='0' Data='0000'/>I think <2 Type='2' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/> of those would be worth
+  about <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>. Is that OK?
+Talk2016: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1200530075007200700072006900730065005300'/>Wahoooo! <5 Type='0'/>A <0 Type='3' Data='0000'/>bladed rhino beetle<0 Type='3' Data='ffff'/>?!<5 Type='1'/>
+  For Beedle?
+Talk2039: |
+  <3 Type='0' Data='0000'/>So...<5 Type='1'/>
+Com_Talk_32: |
+  <3 Type='0' Data='0000'/>Just one, then? That'll be <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/>
+  rupees<0 Type='3' Data='ffff'/>, please.
+Talk2017: |
+  <3 Type='0' Data='0800'/>Ah! <5 Type='0'/>You'll generously give Beedle<5 Type='0'/> a
+  <0 Type='3' Data='0000'/>rugged rhino beetle<0 Type='3' Data='ffff'/>?!<5 Type='1'/>
+Com_Talk_10: |
+  <3 Type='0' Data='0000'/>You want to buy that?
+Com_Talk_33: |
+  <3 Type='0' Data='0000'/>Just one? How about <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>?
+TerrorFire: |
+  Oooh no! Hot, hot, hot!
+Talk2018: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0c004c0061007500670068005300'/>Of course I'd make it a fair trade!
+  How about a <0 Type='3' Data='0000'/>hearty elixir<0 Type='3' Data='ffff'/>?
+  
+  It's one of my special concoctions,
+  infused with <0 Type='3' Data='0000'/>hearty lizard<0 Type='3' Data='ffff'/> essence!
+Com_Talk_11: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='0c004c0061007500670068005300'/>Thanks for your purchase!
+Com_Talk_34: |
+  <3 Type='0' Data='0b00'/>All of them?<5 Type='0'/> Well, <2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/> of them will be
+  <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>. How does that sound?
+Talk2019: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0c004c0061007500670068005300'/>Of course I won't take no for an
+  answer! How about trading it for
+  an <0 Type='3' Data='0000'/>energizing elixir<0 Type='3' Data='ffff'/>?
+  It's a special medicine of mine I infuse
+  with <0 Type='3' Data='0000'/>bright-eyed crab <0 Type='3' Data='ffff'/>essence!
+Com_Talk_12: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='0c004c0061007500670068005300'/>I have lots of good stuff. Take your time!
+Com_Talk_35: |
+  <3 Type='0' Data='0b00'/>So that's <2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/>? Which is all of them!
+  That'll be <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>.
+  How does that sound?
+Com_Talk_02b: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068005300'/>Thank you, thank you!<5 Type='0'/> Selling
+  anything else?
+Com_Talk_13: |
+  <3 Type='0' Data='0000'/>I'll take it. How many would you like
+  to sell me?
+Com_Talk_36: |
+  <3 Type='0' Data='0800'/>Sold out for today?! Unbelievable!<5 Type='0'/>
+  I couldn't have done it without you!
+Com_Talk_02c: |
+  <3 Type='0' Data='0800'/>You know Beedle gives good prices!<5 Type='0'/>
+  Do you have anything else to sell?
+Com_Talk_14: |
+  <3 Type='0' Data='0000'/>I think <2 Type='2' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/> of those would be worth
+  about <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>. Is that OK?
+Com_Talk_37: |
+  <3 Type='0' Data='0800'/>All sold out today. Nothing left! Are you
+  interested in seeing the items I'm going
+  to stock next?
+Com_Talk_02d: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068005300'/>Thank you!<5 Type='0'/> If you don't need it, I'll buy it!
+Com_Talk_15: |
+  <3 Type='0' Data='0c00'/>I can't buy that! Got anything else?
+TerrorBomb: |
+  They're out for blood!
+TerrorHorse: |
+  Look ouuut!
+ClearTerrorEnemy: |
+  Oof! That was close.
+Com_Talk_16: |
+  <3 Type='0' Data='0c00'/>I can't buy something you're wearing!
+  Change, and we'll talk.
+TerrorFlash_00: |
+  Too bright!
+TerrorFlash_01: |
+  Stop! Please!
+TerrorFlash_02: |
+  Meanie on the loose!
+TerrorSword_00: |
+  Stop! Please!
+TerrorImpulse_00: |
+  Hey! Hey!
+TerrorAnimal: |
+  They're out for blood!
+TerrorSword_01: |
+  Meanie on the loose!
+TerrorImpulse_01: |
+  What?!
+TerrorSword_02: |
+  Watch out!
+TerrorImpulse_02: |
+  Watch out!
+Talk0020: |
+  <3 Type='0' Data='0b00'/>Was the <0 Type='3' Data='0000'/>deep firefly<0 Type='3' Data='ffff'/> too intimidating for
+  you?<5 Type='1'/> I get it, I get it!
+  
+  <3 Type='0' Data='0100'/>Those primordial creatures have been
+  lighting the darkest dark since...always.
+  
+  And luring in prey with that light?
+  Scary stuff!
+Talk0022: |
+  <3 Type='0' Data='0b00'/>Ooo! A warm darner!<5 Type='1'/> You better watch
+  the back of your neck!
+  
+  <3 Type='0' Data='0100'/>That's just a little insect humor. <5 Type='0'/>Male
+  warm darners show their interest by
+  attaching on to the necks of their mates.
+  <3 Type='0' Data='0300'/>But now that I think about it, you're
+  probably not his type.
+Talk0023: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='0c004c0061007500670068004c00'/>It's Beedle's lucky day!
+  
+  
+  <3 Type='0' Data='0c01'/>The gleaming golden exterior of this
+  stunner is unrivaled by any other beetle
+  on the market.
+  It sparkles! It dazzles! If I listed all of its
+  features, we'd be here all day!
+  
+  This is a discerning beetle for the
+  discerning beetle enthusiast. In fact...
+  
+  <3 Type='0' Data='0701'/><4 Type='0' Data='0c004e006f007400690063006500'/>Oops.<5 Type='1'/> I got a little carried away, huh?
+Talk0001: |
+  <3 Type='0' Data='0800'/>A <0 Type='3' Data='0000'/>warm darner<0 Type='3' Data='ffff'/>? Good choice! When they
+  leave the larval stage, they're fully grown
+  but fragile. That's called eclosion.
+  <3 Type='0' Data='0101'/>Don't confuse it with "explosion," which is
+  very different!
+Talk0024: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='0c004c0061007500670068004c00'/>You'll sell me a bladed rhino beetle?!
+  
+  
+  <3 Type='0' Data='0c01'/>Its mottled shell—so fashionable!
+  Its bold horns—so noble!
+  
+  This confident creature struts along the
+  trees of Hyrule, raising its horns to crush
+  obstacles, lifting its back legs to excrete...
+  <3 Type='0' Data='0701'/><4 Type='0' Data='0c004e006f007400690063006500'/>Oopsie.<5 Type='1'/> That's enough of that.
+Talk0002: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='0c004c0061007500670068005300'/>An <0 Type='3' Data='0000'/>electric darner<0 Type='3' Data='ffff'/>, huh?
+  
+  
+  <3 Type='0' Data='0401'/>You have a discerning eye. Oh!
+  Speaking of eyes! Darner eyes
+  have tens of thousands of facets.
+  <3 Type='0' Data='0500'/>So many facets...<5 Type='1'/> I wonder how discerning
+  they are.
+Talk0025: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='0c004c0061007500670068004c00'/>That beetle's a good-luck charm!
+  
+  
+  <3 Type='0' Data='0c01'/>See that regal head and striped mantle?
+  Those are the signs of a champ.
+  
+  It makes the most lovely sounds when its
+  excited, but watch out! Those legs are
+  razor sharp. What a sweet little...
+  <3 Type='0' Data='0701'/><4 Type='0' Data='0c004e006f007400690063006500'/>Huh?<5 Type='1'/> Look at me carrying on.
+Talk0003: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='0c004c0061007500670068005300'/>If you want a <0 Type='3' Data='0000'/>cold darner<0 Type='3' Data='ffff'/>, <5 Type='1'/>you must not be
+  the type to give up on your dreams.
+  
+  <3 Type='0' Data='0100'/><0 Type='3' Data='0000'/>Cold darners<0 Type='3' Data='ffff'/> don't give up on their
+  dreams either. They grab on tight
+  with all six legs and don't let go.
+  And by dreams, I mean prey.
+Talk0026: |
+  <3 Type='0' Data='0800'/>Tonight my little friends will feast on this!
+  
+  
+  But I better taste it first to make sure it'll
+  agree with their tummies...
+NakedPlayer_00: |
+  <3 Type='0' Data='0401'/>I thought I dressed light!
+Talk0004: |
+  <3 Type='0' Data='0800'/>A <0 Type='3' Data='0000'/>summerwing butterfly<0 Type='3' Data='ffff'/>—good choice!<5 Type='1'/>
+  Do you also change when no one
+  is looking?
+  Butterflies undergo metamorphosis,
+  meaning their bodies change completely
+  when they turn into an adult.
+  <3 Type='0' Data='0100'/>...Huh? What did you think I meant?
+Talk0027: |
+  <3 Type='0' Data='0800'/>Ooo! This will make a fine bed for my
+  little friends!
+  
+  Sometimes, Beedle also curls up in a pile
+  of wood. Inns are expensive!
+TerrorLightning: |
+  Eeek!
+NakedPlayer_01: |
+  <3 Type='0' Data='0401'/>You're brave as a beetle!
+Talk2040: |
+  <3 Type='0' Data='0a00'/>Really?<5 Type='1'/> You'd turn down a deal like that?<5 Type='1'/>
+  
+  
+  Hm...<5 Type='1'/>
+  
+  
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='1c0043007500730074006f006d004200610064005400680069006e006b00'/><0 Type='3' Data='0200'/><FontSize Value='80'/>If he's going to be like that, maybe I can wait until
+  night and...<5 Type='1'/>no, no. I'll hire a thief to do it! I'll take
+  him for everything he's got!
+  Hehehehe...<FontSize Value='100'/>
+  
+  
+  <3 Type='0' Data='0000'/><4 Type='0' Data='0c004e006f007400690063006500'/><0 Type='3' Data='ffff'/>Oh, don't mind me.<5 Type='1'/> Just let me know if
+  you change your mind.
+Talk0005: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='0c004c0061007500670068005300'/>The<0 Type='3' Data='0000'/> <0 Type='3' Data='ffff'/>smotherwing butterfly catch your
+  eye? Ah, good ol' Papilio vulcensis!
+  
+  <3 Type='0' Data='0b00'/>You've never heard of Papilio vulcensis?!<5 Type='1'/>
+  It's what you call a smotherwing when
+  you're doing science with it.
+  But "smotherwing butterfly" is a lot
+  easier to say.
+Talk0028: |
+  <3 Type='0' Data='0800'/>As a thank-you for your business, I've
+  got some words of wisdom for you.
+  No extra charge!
+  <3 Type='0' Data='0c01'/>Did you know some folks think bugs
+  are scary?
+  
+  <3 Type='0' Data='0900'/><4 Type='0' Data='100041006e006700720079005f0030003100'/><FontSize Value='125'/>That's natural!<FontSize Value='100'/><0 Type='4'/>They might not know about bugs, and the
+  unknown is scary. But if you pay attention
+  and get to know them...<5 Type='0'/>
+  <3 Type='0' Data='0100'/>you'll see how amazing they are!
+  
+  
+  <3 Type='0' Data='0800'/>It's against Beedle's life philosophy to
+  hate things without giving them a chance.
+  But I don't think you're like that! 
+NakedPlayer_02: |
+  <3 Type='0' Data='0301'/>No clothes for sale, sorry...
+Talk0029: |
+  <3 Type='0' Data='0800'/>Eee, an <0 Type='3' Data='0000'/>electric darner<0 Type='3' Data='ffff'/>! <5 Type='1'/>This nimble little
+  fellow can zip right on over to me!
+  
+  <3 Type='0' Data='0101'/>Darners are quite the acrobats! They can
+  hover, fly in loops, and even go backward!
+  
+  But "backward" doesn't mean a thing to
+  Beedle. <5 Type='0'/>It's only forward for me!
+Talk0006: |
+  <3 Type='0' Data='0800'/>Your purchase of a <0 Type='3' Data='0000'/>thunderwing butterfly<0 Type='3' Data='ffff'/>
+  comes with a free Beedle tip—<5 Type='1'/>how to tell
+  moths and butterflies apart!<5 Type='1'/>
+  <3 Type='0' Data='0100'/>Butterfly antennae are long and club-like.
+  Like a Bokoblin club! Except not like that
+  at all.
+Talk2042: |
+  <3 Type='0' Data='0a00'/>Oh... <5 Type='0'/>Your <0 Type='3' Data='0000'/>pouch <0 Type='3' Data='ffff'/>is full. What a shame.
+Talk0007: |
+  <3 Type='0' Data='0a00'/>A <0 Type='3' Data='0000'/>winterwing butterfly<0 Type='3' Data='ffff'/>, huh?<5 Type='1'/> You must
+  know about their special scales!
+  
+  <3 Type='0' Data='0100'/>The scales coating their wings are
+  wintry-fresh. They put the brrr
+  in brrrilliant!
+Talk2020: |
+  <3 Type='0' Data='0101'/>Maybe I can sweeten the deal. How about
+  trading it for a <0 Type='3' Data='0000'/>fairy tonic<0 Type='3' Data='ffff'/>?
+  
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0c004c0061007500670068005300'/>It's one of my special concoctions. The
+  secret ingredient is essence of <0 Type='3' Data='0000'/>fairy<0 Type='3' Data='ffff'/>!
+Talk2043: |
+  <FontSize Value='125'/><3 Type='0' Data='0801'/><4 Type='0' Data='1c0043007500730074006f006d0042006900670048006100700070007900'/>Wowee! Thank you!<0 Type='4'/><FontSize Value='100'/>You don't see one of these every day!
+  Business will be good today—I can tell!<FontSize Value='125'/><FontSize Value='100'/>
+Talk0008: |
+  <3 Type='0' Data='0800'/>This <0 Type='3' Data='0000'/>sunset firefly<0 Type='3' Data='ffff'/> is dazzling! Stunning!
+  
+  
+  When I'm finished doting on this little
+  beauty, I'll return it to its natural habitat.
+  
+  <3 Type='0' Data='0300'/>Nature's balance can get bungled up if
+  you release an insect into a new habitat.
+  
+  <3 Type='0' Data='0801'/>Beedle's policy is to take care of nature
+  so nature can take care of bugs.
+Talk2021: |
+  <3 Type='0' Data='0101'/>I wouldn't ask for it as a gift. Oh no!
+  How about trading it for a <0 Type='3' Data='0000'/>tough elixir<0 Type='3' Data='ffff'/>?
+Talk2044: |
+  <FontSize Value='125'/><3 Type='0' Data='0801'/><4 Type='0' Data='1c0043007500730074006f006d0042006900670048006100700070007900'/>Eeeeee! You're a star!<0 Type='4'/><FontSize Value='100'/>It's hard to get your hands on one of
+  these. This is going to be a good day!<FontSize Value='125'/><FontSize Value='100'/>
+Talk2022: |
+  <3 Type='0' Data='0101'/>I'll make it worth your while! How about a
+  <0 Type='3' Data='0000'/>mighty meat and rice bowl <0 Type='3' Data='ffff'/>in exchange?
+TerrorGuardian: |
+  Eeek!
+Talk2023: |
+  <3 Type='0' Data='0101'/>I'll give you something in exchange,
+  of course! How about a <0 Type='3' Data='0000'/>tough
+  vegetable omelet<0 Type='3' Data='ffff'/>?
+Talk2001: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hey there! Are you a fellow traveler...<5 Type='0'/>on
+  the journey of life?
+Talk2024: |
+  <3 Type='0' Data='0101'/>I think a <0 Type='3' Data='0000'/>mighty elixir<0 Type='3' Data='ffff'/> is a fair trade.<5 Type='0'/>
+  What do you say?
+Talk2002: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hiii! Back again, huh? <0 Type='3' Data='0000'/>Beedle <0 Type='3' Data='ffff'/>will always
+  give you a warm welcome!
+Talk2025: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0c004c0061007500670068005300'/>Something like that deserves a thank-you!
+  How about a <0 Type='3' Data='0000'/>hasty elixir<0 Type='3' Data='ffff'/>?
+  
+  <3 Type='0' Data='0100'/>It's one of my special concoctions. The
+  secret? <0 Type='3' Data='0000'/>Hot-footed frog<0 Type='3' Data='ffff'/> essence!
+Talk2003: |
+  <3 Type='0' Data='0801'/>It's me! <0 Type='3' Data='0000'/>Beedle<0 Type='3' Data='ffff'/>! If you forget, my
+  <0 Type='3' Data='0000'/>beetle-shaped<0 Type='3' Data='ffff'/> pack is right here to
+  remind you.
+  <3 Type='0' Data='0b00'/>In this topsy-turvy world, there's only
+  one direction to go—forward! So when
+  I travel, it's forward all the way!
+  <3 Type='0' Data='0000'/>I can sell you bugs of the highest quality.
+  And if you need anything else on your
+  life journey, I can sell you that too!
+  Short on <0 Type='3' Data='0000'/>rupees<0 Type='3' Data='ffff'/>? Don't worry! I'll buy
+  anything you don't want weighing
+  you down.
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068005300'/>And what better way to lighten up than to
+  sell your rocks? <0 Type='3' Data='0000'/>Gemstones<0 Type='3' Data='ffff'/> in particular
+  fetch a high price!
+  <3 Type='0' Data='0100'/><4 Type='0' Data='140043007500730074006f006d005500720067006500'/>Well, well. What'll it be?
+Talk2026: |
+  <3 Type='0' Data='0b00'/>Ooo! <5 Type='1'/>Do Beedle's eyes deceive him?
+  Or is that a <0 Type='3' Data='0000'/>bladed rhino beetle<0 Type='3' Data='ffff'/>?
+  
+  <3 Type='0' Data='0801'/>I have such a weakness for <0 Type='3' Data='0000'/>bladed rhino
+  beetles<0 Type='3' Data='ffff'/>! Will you give it to me? Pleeease?
+Talk2004: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='140043007500730074006f006d005500720067006500'/>Well then, can I tempt you to buy? Or are
+  you selling today?
+Talk2027: |
+  <3 Type='0' Data='0001'/>Oh?<5 Type='1'/> What's this?<5 Type='1'/>
+  
+  
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1200530075007200700072006900730065004c00'/>Th-that's an <0 Type='3' Data='0000'/>energetic rhino beetle<0 Type='3' Data='ffff'/>! You
+  don't see one of those beauties often!
+  
+  <3 Type='0' Data='0801'/>You'll...you'll give it to me, right?!
+Com_Talk_05b: |
+  <3 Type='0' Data='0701'/>Anything you don't need? Aaanything?
+Com_Talk_20: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0c004c0061007500670068005300'/>I have lots of good stuff. Take your time!
+Talk2028: |
+  <3 Type='0' Data='0b00'/>Wow! <5 Type='1'/>Is that a <0 Type='3' Data='0000'/>rugged rhino beetle<0 Type='3' Data='ffff'/> I spy
+  in your inventory?
+  
+  <3 Type='0' Data='0801'/>I LOVE <0 Type='3' Data='0000'/>rugged rhino beetles<0 Type='3' Data='ffff'/>! Will you give
+  it to me?
+Com_Talk_05c: |
+  <3 Type='0' Data='0701'/>I'll buy all you got!
+Com_Talk_05d: |
+  <3 Type='0' Data='0701'/>If you're selling, I'm buying!
+Talk2007: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0e00430061006c006c00460061007200'/>Hey!<5 Type='1'/> Thanks again for that <0 Type='3' Data='0000'/>beetle <0 Type='3' Data='ffff'/>earlier!<5 Type='1'/>
+Com_Talk_00: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>I'll buy aaaaaanything!
+0001: |
+  What have you got?
+Talk2008: |
+  <3 Type='0' Data='0101'/>If you find another one, I'll take it
+  tomorrow! Today I'm busy taking care
+  of this sweetheart...<5 Type='1'/>
+Com_Talk_01: |
+  <3 Type='0' Data='0000'/>How does <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/> sound?
+0002: |
+  Look what I've got.
+Talk2009: |
+  <3 Type='0' Data='0800'/>Whoa! Thanks for your business!<5 Type='1'/> And a
+  special bonus thank-you for that <0 Type='3' Data='0000'/>beetle<0 Type='3' Data='ffff'/>!<5 Type='1'/>
+Com_Talk_02: |
+  <3 Type='0' Data='0800'/>Thank youuu!<5 Type='0'/> Selling anything else?
+0003: |
+  Goodbye.
+5500: |
+  OK.
+TerrorGeneric_00: |
+  Hey! Hey!
+Near1001: |
+  Hi, hi! Come and buy!
+0004: |
+  It's a deal!
+5501: |
+  On second thought...
+TerrorGeneric_01: |
+  What?!
+Com_Talk_04: |
+  <3 Type='0' Data='0a00'/>Oh...<5 Type='0'/> Come back when you ARE ready
+  to sell.
+5502: |
+  Buy.
+TerrorGeneric_02: |
+  They're out for blood!
+Enokida_00: |
+  Mr. President!
+Com_Talk_05: |
+  <3 Type='0' Data='0701'/>Whatever it is, it's welcomed here!
+5503: |
+  Never mind.
+Enokida_01: |
+  We've got the same hair!
+Com_Talk_06: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='140043007500730074006f006d005500720067006500'/>Take a look at the rest of my stock.
+Enokida_02: |
+  You can't fool me.
+Com_Talk_07: |
+  <3 Type='0' Data='0a00'/>All sold out. <5 Type='1'/>You'll have to wait for my
+  next restock.
+Com_Talk_Hello: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hey there! We meet again! Are you still
+  moving forward on this little journey we
+  call life?
+Com_Talk_08: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='0a0041006e00670072007900'/>Not enough <0 Type='3' Data='0000'/>rupees<0 Type='3' Data='ffff'/>!<5 Type='1'/> Come back when
+  your wallet isn't so light.
+Com_Talk_09: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0a005400680069006e006b00'/>Huh? Your <0 Type='3' Data='0000'/>pouch<0 Type='3' Data='ffff'/> is full.<5 Type='1'/> Do you really
+  need all that stuff?
+5507: |
+  I'll take 'em all!
+5508: |
+  All of them.
+Talk0030: |
+  <3 Type='0' Data='0a00'/>Are you getting rid of this <0 Type='3' Data='0000'/>cold darner<0 Type='3' Data='ffff'/>
+  because it's developed a taste for
+  your fingers?
+  These ferocious little darlings have quite
+  the bite!
+  
+  <3 Type='0' Data='0100'/>Here's a special Beedle tip. Gently hold
+  the wings together with your fingertips,
+  and zing! Happy darner, happy fingers!
+Near_Rainy: |
+  We're open, rain or shine!
+Talk0031: |
+  <3 Type='0' Data='0c00'/>To be parting with this lovely <0 Type='3' Data='0000'/>summerwing
+  butterfly<0 Type='3' Data='ffff'/>...<5 Type='1'/> Were you perhaps hoping to
+  catch a female summerwing instead?
+  <3 Type='0' Data='0100'/>The males are vibrant and striking, but
+  females have muted colors that mimic
+  trees and leaves.
+  They're so hard to see that even Beedle
+  has trouble catching them!
+Talk0032: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1200530075007200700072006900730065005300'/>Was the <0 Type='3' Data='0000'/>smotherwing butterfly<0 Type='3' Data='ffff'/>'s diet
+  too much for you?<5 Type='1'/>
+  
+  <3 Type='0' Data='0100'/>This little gourmand can taste with its
+  legs, and it doesn't settle for second best.
+  
+  <3 Type='0' Data='0301'/>It's going to cost Beedle a fortune to
+  prepare a four-course meal every night.
+Talk0033: |
+  <3 Type='0' Data='0a00'/>You aren't getting rid of your <0 Type='3' Data='0000'/>thunderwing
+  butterfly<0 Type='3' Data='ffff'/> because you're worried about
+  the smell, are you?<5 Type='1'/>
+  <3 Type='0' Data='0100'/>Don't worry—only the larvae are stinky!<5 Type='0'/>
+  And that's only if they feel threatened.<0 Type='4'/><FontSize Value='80'/>When will they learn Beedle just wants to love them?<FontSize Value='100'/>

@@ -1,0 +1,53 @@
+Talk_02: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='0c005300610064005f0030003100'/><FontSize Value='80'/>That Yunobo, used to always pester me. "Boss this,"
+  and "Boss that." Now look at him! A sage!<FontSize Value='100'/>
+TerrorLightning: |
+  Whoa!
+Talk_03: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='0c005300610064005f0030003100'/>That Yunobo, used to always pester me.
+  "Boss this," and "Boss that." Now look at
+  him! A sage!
+  He's always been a simple fella, so ya
+  can't always count on him for everythin'.
+  
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>But when there's a job needs doin', he'll
+  see that it gets done.
+  
+  If you run into a wall, there's no better
+  time to holler for him.
+TerrorHorse: |
+  Gah!
+ClearTerrorEnemy: |
+  What was that?
+NakedPlayer: |
+  You look like a twig!
+Talk_04: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>But when he really wants to, he gets the
+  job done.
+  
+  If you run into a wall, there's no better
+  time to holler for 'im.
+Talk_05: |
+  <3 Type='0' Data='0501'/>More importantly...
+TerrorFire: |
+  Enough of that!
+Talk_08: |
+  <3 Type='0' Data='0a00'/>If not for this pesky back of mine, I'd be
+  pitchin' in left and right.
+  
+  <3 Type='0' Data='0001'/>Despite that...<5 Type='2'/>
+TerrorExplosion: |
+  Whoa!
+TerrorIce: |
+  Gah!
+Near: |
+  That Yunobo...
+Talk_00: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Yunobo always seems to ask an awful lot
+  of you.<5 Type='1'/> He's a simple fella, so you can't
+  count on him for everythin'.
+  But when there's a job needs doin', he'll
+  see that it gets done.
+  
+  If you run into a wall, there's no better
+  time to holler for 'im.

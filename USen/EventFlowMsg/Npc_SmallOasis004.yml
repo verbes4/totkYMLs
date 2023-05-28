@@ -1,0 +1,194 @@
+0014: |
+  So long.
+Com_Talk_13: |
+  <3 Type='0' Data='0000'/>How many would you like to sell?
+talk1016: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Oh dear, I shouldn't have said that...<5 Type='0'/>
+  Anyway, is there anything else you need?
+Com_Talk_14: |
+  <3 Type='0' Data='0000'/>OK, so <2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/> of them? That'll come to
+  <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>! Sound good?
+5500: |
+  Yes.
+talk1017: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>I was really surprised when all of those
+  strange monsters swarmed the oasis...
+  
+  But thanks to the effort and guidance
+  of the guards, my shop and everyone in it
+  made it through without a scratch.
+  <3 Type='0' Data='0800'/>I hear you were a big help too!
+  
+  
+  You must be tired. The <0 Type='3' Data='0000'/>front desk for the
+  inn<0 Type='3' Data='ffff'/> is in the back, so you should go and
+  rest. You've earned it!
+Com_Talk_15: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Oh, er... We don't deal in that here.
+5501: |
+  No.
+talk1018: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1e0043007500730074006f006d005600610073006100610071005f0030003000'/>Vasaaq! The sand shroud might be gone,
+  but that doesn't mean the monsters are.
+  
+  The first step of any journey is ample
+  preparation, so buy until you drop!
+  
+  If you need to recover from your shopping
+  spree, the <0 Type='3' Data='0000'/>front desk for the inn<0 Type='3' Data='ffff'/> is
+  conveniently located at that back counter.
+Com_Talk_16: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>If you want to sell that, I'm afraid you'll
+  have to take it off first.
+5502: |
+  I'll take it.
+GreetingBefore03: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1e0043007500730074006f006d005600610073006100610071005f0030003000'/>Vasaaq!<5 Type='0'/> This desert is a dangerous place.
+  My products make it less so!
+talk1019: |
+  <3 Type='0' Data='0a00'/>I'm very sorry.
+  
+  
+  I've told her a million times not to read
+  when we have customers.
+  
+  <3 Type='0' Data='0701'/>Before we switched jobs, I used to have
+  her working this general store, but, well...
+  
+  She's a little...hm. How do I put this?<5 Type='1'/>
+  Quiet?<5 Type='1'/> Unsociable?
+  
+  Customers are rare enough as it is.
+  We don't need her attitude driving
+  them away.
+5503: |
+  Never mind.
+talk1020: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>The counter back there is the front desk.
+  
+  
+  <3 Type='0' Data='0a01'/>Oh dear... She's back to her book again.
+talk1021: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>I personally think customers should be
+  welcomed with a smile when they walk in,
+  so I'm filling the role of greeter now.
+Com_Talk_50: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>That'll be <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>! Sound
+  all right?
+5507: |
+  I'll take 'em all!
+5508: |
+  All of them.
+NakedPlayer: |
+  We never turn folks away!
+talk1025: |
+  <3 Type='0' Data='0101'/>That said, I hear we have a customer
+  who's come back to stay at the inn
+  multiple times.
+  I think she might be drawing in customers
+  simply by being herself. Maybe that's
+  charming in its own way.
+Com_Talk_52: |
+  <3 Type='0' Data='0000'/>So, <2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/> of them will be <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>!
+Com_Talk_53: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Oh dear...you changed your mind?
+Com_Talk_54: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Looks like you don't have enough rupees.
+  Why not sell something you don't need?
+Com_Talk_55: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Looks like your inventory is full... Why not
+  sell something you don't need?
+GreetingAfter03: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1e0043007500730074006f006d005600610073006100610071005f0030003000'/>Vasaaq!
+  
+  
+  Now that the sand shroud has lifted, the
+  weather's perfect for some exploring! How
+  about something to keep yourself safe?
+Com_Talk_56: |
+  <3 Type='0' Data='0000'/>Just one will be <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>!
+Com_Talk_02b: |
+  <3 Type='0' Data='0800'/>Sarqso! Want to sell something else?
+near1002: |
+  <4 Type='0' Data='0a0048006100700070007900'/>Need some travel security?
+Com_Talk_02c: |
+  <3 Type='0' Data='0800'/>Sarqso! Anything else to show me?
+Com_Talk_05b: |
+  <3 Type='0' Data='0000'/>Still have things to sell?
+near1003: |
+  We're sold out! Thank you!
+Com_Talk_00: |
+  <3 Type='0' Data='0700'/>What would you like to sell?
+Com_Talk_02d: |
+  <3 Type='0' Data='0800'/>Sarqso! Anything else?
+Com_Talk_05c: |
+  <3 Type='0' Data='0000'/>Always gotta keep your pouch organized.
+Com_Talk_01: |
+  <3 Type='0' Data='0000'/>How does<0 Type='3' Data='0000'/> <2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/> sound?
+Com_Talk_05d: |
+  <3 Type='0' Data='0000'/>Anything else?
+talk1004: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1e0043007500730074006f006d005600610073006100610071005f0030003000'/>Vasaaq! A journey through the desert is
+  dangerous, and a fully stocked pouch is
+  the best defense!
+  By the way, the counter in the back is the
+  <0 Type='3' Data='0000'/>front desk for the inn<0 Type='3' Data='ffff'/>—just in case you
+  want to rest up before your travels.
+Com_Talk_02: |
+  <3 Type='0' Data='0800'/>Sarqso!
+Com_Talk_31: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>How many do you want?
+talk1005: |
+  <3 Type='0' Data='0800'/>Oooh! You have something to sell me?
+talk1006: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='0a0048006100700070007900'/>Journeying through the desert is rough!
+  If you don't prepare right, you could try a
+  hundred times and never make it through.
+  The counter in the back is the <0 Type='3' Data='0000'/>front desk
+  for the inn<0 Type='3' Data='ffff'/>, so you can rest up before your
+  travels, if you like.
+Com_Talk_04: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Oh dear...you changed your mind?
+Com_Talk_33: |
+  <3 Type='0' Data='0000'/>Just one will come to <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>,
+  all right?
+talk1007: |
+  <3 Type='0' Data='0800'/>I like the way you shop! I can't say
+  sarqso enough.
+  
+  I'll be closing up shop until my next
+  shipment of stock arrives.
+  
+  But the <0 Type='3' Data='0000'/>front desk for the inn<0 Type='3' Data='ffff'/> will still
+  be open, so feel free to stay with us
+  if you like.
+Com_Talk_05: |
+  <3 Type='0' Data='0000'/>Take your time.
+Com_Talk_34: |
+  <3 Type='0' Data='0000'/>All of them will be <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>!
+talk1008: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Sorry, it's pretty far back there, so it's
+  kind of hard to see.
+Com_Talk_35: |
+  <3 Type='0' Data='0000'/>All <2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/> of them... That'll come to a total
+  of <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>! Sounds good, right?
+Talk_08: |
+  <3 Type='0' Data='0800'/>Sarqso!
+Talk_09: |
+  <3 Type='0' Data='0800'/>Sarqso for your business! Why not stop by
+  the inn while you're here?
+Talk_10: |
+  <3 Type='0' Data='0800'/>Sarqso for your business! I hope to see
+  you back once I've restocked!
+Talk_11: |
+  <3 Type='0' Data='0900'/>What are you trying to pull?! Get out of
+  here, now! I'll call the guards!
+AssassinClothes: |
+  I have nothing to sell you.
+0012: |
+  Buy my stuff!
+0013: |
+  Wait, where's the inn?
+talk1013: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>This oasis is safe because of the guards,
+  but be careful if you leave it, OK?

@@ -1,0 +1,20 @@
+Name: |
+  The Broken Slate
+RepairSlate: |
+  When you spoke with the historian Jiahto, he
+  told you he discovered an old Zora slate.
+  There is information related to the sky written
+  there, but the <0 Type='3' Data='0000'/>slate <0 Type='3' Data='ffff'/>is broken and the full
+  meaning is unclear.
+  
+  This could be a clue to finding Princess Zelda.
+  There must be some way to decipher it...
+Complete: |
+  It reads: "Stand upon the land of the sky fish,
+  and behold its lofty view. Among the floating
+  rocks you see, a droplet waits for you. Through
+  this droplet, shoot an arrow with the mark of the
+  king. Do this task, and you shall reveal a most
+  wondrous thing. See the watery bridge's resting
+  spot with your own two eyes...that which
+  connects the Zora to the people of the skies."

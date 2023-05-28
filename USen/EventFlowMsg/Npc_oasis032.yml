@@ -1,0 +1,153 @@
+talk0001: |
+  <0 Type='3' Data='0200'/><FontSize Value='80'/><3 Type='0' Data='0000'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>I can't get so carried away with cleaning! I'm not just
+  an assistant anymore!
+  
+  I've been entrusted with this shop, so I need to do
+  my absolute best!<FontSize Value='100'/><0 Type='3' Data='ffff'/>
+talk0014: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068005300'/>Yup. I'm talking about the sand seals that
+  live out in the desert.
+  
+  You can catch one if you are <0 Type='3' Data='0000'/>really, really
+  sneaky<0 Type='3' Data='ffff'/>, but even if you pull that off, the
+  sand seal will bolt the moment you let go.
+  The wild ones are difficult to handle!
+SunaTalk00: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Sarq!<5 Type='0'/> And what kind do you want?
+  A sand seal or a sleigh seal?
+talk0002: |
+  <3 Type='0' Data='0801'/>Unlike the wild sand seals, ours have
+  been expertly trained.
+  
+  They're calm, well-behaved, and adorable.
+  They can also carry things for you if you
+  hook them up to a sleigh.
+  <3 Type='0' Data='0801'/><4 Type='0' Data='0e0043006800610074005f0030003100'/>It's <0 Type='3' Data='0000'/>20 rupees<0 Type='3' Data='ffff'/> to rent one without a
+  sleigh, or <0 Type='3' Data='0000'/>50 rupees<0 Type='3' Data='ffff'/> to rent one with a
+  sleigh. Are you interested?
+talk0015: |
+  <3 Type='0' Data='0801'/>It's pretty cute that they're so timid, but
+  the whole "running away" thing becomes
+  a problem when you really need them!
+SunaTalk01: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='0c004e006f007400690063006500'/>Ah, you should really have a shield on
+  hand if you're planning on going sand-
+  seal surfing!
+  <3 Type='0' Data='0000'/>I can sell you one if you want, or you can
+  use one of your own. Regardless, you
+  definitely want a shield.
+  If you buy a shield from me, it'll bring the
+  total price to <0 Type='3' Data='0000'/>50 rupees<0 Type='3' Data='ffff'/>. What would you
+  like to do?
+near0000: |
+  At this rate...
+talk0003: |
+  <3 Type='0' Data='0801'/>Wild sand seals can be a bit tricky to
+  handle. Renting one is much easier...
+  
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068005300'/>It's <0 Type='3' Data='0000'/>20 rupees<0 Type='3' Data='ffff'/> to rent one without a
+  sleigh, or <0 Type='3' Data='0000'/>50 rupees<0 Type='3' Data='ffff'/> to rent one with a
+  sleigh. Are you interested?
+SunaTalk02: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='0c004e006f007400690063006500'/>Oh. You haven't got enough...
+  
+  
+  <3 Type='0' Data='0c01'/>I would like to give you a special price,
+  considering all you've done for the town...
+  
+  But I don't own the shop so I can't
+  change the prices. I'm sorry.
+talk0004: |
+  <FontSize Value='80'/><3 Type='0' Data='0c00'/>I dreamt of becoming a sand-seal trainer like Frelly.
+  I could open up my own rental shop...
+  
+  But this sand shroud makes such a
+  dream impossible!
+  
+  Maybe I should change careers and become an
+  attendant to Lady Riju's beloved sand seal, <0 Type='3' Data='0000'/>Patricia<0 Type='3' Data='ffff'/>.<FontSize Value='100'/>
+SunaTalk03: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>All right, I'll see you out.<5 Type='0'/> Take care!
+near0002: |
+  Clean, clean, clean...
+talk0005: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068005300'/>The sand seal will start moving as soon as
+  you've got a grip! Once it starts, you can
+  guide it wherever you want to go.
+SunaTalk04: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>You'll definitely take a tumble if you try
+  riding with a shield that has things
+  attached.<5 Type='0'/> It won't be pretty.
+  My recommendation is to stick to a plain
+  shield. It'll definitely glide across the
+  sands better.
+near0003: |
+  What an unusual customer.
+talk0006: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='1e0043007500730074006f006d005600610073006100610071005f0030003000'/>Ah! <5 Type='0'/>Vasaaq!<5 Type='0'/> Welcome to the sand-seal
+  rental shop!
+talk0007: |
+  <FontSize Value='80'/><3 Type='0' Data='0c00'/>I'm glad I sent her back to Frelly over at the <0 Type='3' Data='0000'/>east
+  gate<0 Type='3' Data='ffff'/>... What a pain she was.
+  
+  I wonder if she figured out how to reach her
+  destination... <5 Type='1'/>Hm?<FontSize Value='100'/>
+0010: |
+  I'll rent one.
+talk0008: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1e0043007500730074006f006d005600610073006100610071005f0030003000'/>Vasaaq!
+0011: |
+  How does it work?
+SunaTalk07: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Huh. Believe me, I want to sell you this
+  shield, but it looks like you've got quite a
+  few shields in your pouch already.
+  <3 Type='0' Data='0801'/>Why don't you just put on one of those
+  shields? I'll be right here when you're
+  all set!
+0012: |
+  I won't rent one.
+Talk_11: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0e0043006800610074005f0030003100'/>So what do you think? Would you like to
+  rent one of our sand seals?
+  
+  It's <0 Type='3' Data='0000'/>20 rupees<0 Type='3' Data='ffff'/> if you don't want a sleigh,
+  <5 Type='0'/>or <0 Type='3' Data='0000'/>50 rupees <0 Type='3' Data='ffff'/>for one with a sleigh.
+Talk_12: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068005300'/>We also rent sand seals from the
+  <0 Type='3' Data='0000'/>east<0 Type='3' Data='ffff'/> gate, so visit us there too!
+0000: |
+  A sand seal, please.
+Talk_13: |
+  <0 Type='3' Data='0200'/><FontSize Value='80'/><3 Type='0' Data='0c01'/>Oh, I wonder if that stranger is still over there too.<FontSize Value='100'/><0 Type='3' Data='ffff'/>
+0001: |
+  A sleigh seal, please.
+0015: |
+  Wild ones?
+0003: |
+  Never mind.
+0004: |
+  I'll take a shield.
+0005: |
+  I don't want a shield.
+talk0000: |
+  <FontSize Value='80'/><3 Type='0' Data='0c00'/>So long as the <0 Type='3' Data='0000'/>sand shroud<0 Type='3' Data='ffff'/> is around, we can't rent
+  out any sand seals.
+  
+  At this rate, my job might evaporate...
+  
+  
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='0600530061006400'/>Maybe I should start looking into becoming an
+  attendant to Lady Riju's beloved sand seal, <0 Type='3' Data='0000'/>Patricia<0 Type='3' Data='ffff'/>.
+  
+  Right now Padda is looking after <0 Type='3' Data='0000'/>Patricia<0 Type='3' Data='ffff'/>, but she's
+  a soldier too, so I wouldn't be shocked if she had to
+  help with all the strange monsters.
+  If I'm serious about changing jobs, maybe this is
+  my chance?<FontSize Value='100'/>
+talk0013: |
+  <3 Type='0' Data='0100'/>Oh, I almost forgot! You need a <0 Type='3' Data='0000'/>shield <0 Type='3' Data='ffff'/>if
+  you want to sand-seal surf!
+  
+  We offer shields for a small fee if you
+  don't have one already.

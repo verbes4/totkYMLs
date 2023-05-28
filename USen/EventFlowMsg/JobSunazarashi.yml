@@ -1,0 +1,302 @@
+near1013: |
+  The ruins are in the east!
+talk0011: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>I heard there's a place out in the desert
+  with huge statues that are all facing
+  each other.
+  Have any of your customers ever
+  mentioned seeing something like that
+  while they're surfing the dunes?
+near1014: |
+  Should we check a map?
+talk0012: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>Hmmm...<5 Type='0'/> Hard to say. The desert has its
+  share of statues and ruins, and of course
+  the Upheaval really changed things too.
+  Do you have any more information to go
+  on? Maybe a <0 Type='3' Data='0000'/>map<0 Type='3' Data='ffff'/> or something?
+talk0013: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>Ah! A customer...
+talk0030: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0c005300610064005f0030003100'/>If you think that's best, then we can do
+  that. We probably don't want to wander
+  too far and get lost...
+  OK. Time to head back to town and start
+  our search over?
+talk0031: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0e0045006100730065005f0030003000'/>Oh! Excellent!<5 Type='0'/> In that case, let's
+  get going!
+talk0032: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>OK, back to town we go! It's a good
+  idea not to push ourselves too hard
+  in the desert.
+  Sarq for doing as much as you have.<5 Type='0'/>
+  
+  
+  <3 Type='0' Data='0801'/>And really, it's not like we're giving up.
+  We're just starting fresh!
+talk0016: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0c005300610064005f0030003000'/>I did have one,<5 Type='0'/> but the wind caught it and
+  blew it off to who-knows-where...
+  
+  I know for sure that it's in the eastern
+  part of the desert though. <5 Type='0'/>And like I said,
+  the <0 Type='3' Data='0000'/>huge statues<0 Type='3' Data='ffff'/> face each other.
+talk0050: |
+  <FontSize Value='125'/><3 Type='0' Data='0b01'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003100'/>OUCH! HOT!<5 Type='0'/> STOP, STOP!<FontSize Value='100'/>
+talk0017: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='0c005300610064005f0030003100'/>It helps to know it's in the east, but...
+  Well, the desert is really,<5 Type='0'/> really big.
+talk0051: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003100'/>I see...<5 Type='0'/> In that case, let's get going!
+talk0034: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>Huh?! What was that?<5 Type='0'/> It startled me...
+talk0018: |
+  <3 Type='0' Data='0701'/>Sorry, I need to get back to work...
+  
+  
+  If you figure out where you need to go,
+  come back and see me. <5 Type='0'/>I'll be happy to
+  rent a sand seal to you for the trip!
+talk0052: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>All right, I'll be waiting for you here.
+  Come and talk to me once you're ready!
+talk0035: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>Hey...<5 Type='0'/> If you need something, just come
+  talk to me about it, OK?
+talk0053: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0c005300610064005f0030003100'/>Oh, OK. If that's what you want, then
+  that's what we'll do.<5 Type='0'/> Better to be safe
+  than to overdo it and have an accident.
+  I'll go ahead and get off the sleigh seal
+  then, OK?
+talk0036: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003000'/>Whoa, whoa, whoa—careful! Oh no!
+talk0019: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Sarq! Now that I'm here, I can really
+  start my investigation!
+  
+  Oh! <5 Type='0'/>And of course I have to reward you
+  for your help!
+0020: |
+  I'm sorry...
+talk0054: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>But it's not like we're giving up or
+  anything! Let's start over!
+talk0037: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0e0045006100730065005f0030003000'/>That was close...
+  
+  
+  <3 Type='0' Data='0801'/>I'm glad that neither one of us was
+  seriously injured...<5 Type='0'/> But could you please
+  try to be a little safer?
+talk0038: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>All right! Let's get going to those ruins!<5 Type='1'/>
+  Relatively safely, if possible!
+0021: |
+  We should start over.
+talk0055: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0e0045006100730065005f0030003000'/>That was terrifying!<5 Type='0'/> I can't believe the
+  sleigh caught fire!
+  
+  <3 Type='0' Data='0701'/>I'm glad we made it back safely, but
+  maybe next time we can avoid fire, yeah?
+talk0039: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003100'/>OK, that's no problem. Come talk to me
+  when you're ready to go, OK?
+0022: |
+  Actually, let's continue!
+talk0056: |
+  <3 Type='0' Data='0800'/>Ah, I see you've gotten a sleigh seal
+  ready! Sarq!
+  
+  Hrm, but it doesn't look like it's quite
+  ready to travel the desert...
+  
+  Let me know when it's in good enough
+  condition to travel to the ruins!
+0023: |
+  Let's head to town.
+0024: |
+  Go ahead!
+0025: |
+  Not yet...
+0026: |
+  We're going to find it!
+near1000: |
+  Fallen ruins, here?
+0027: |
+  Go back without me.
+near1001: |
+  Spiral ruins? Interesting.
+0028: |
+  OK, let's head back.
+near1002: |
+  Monsters?!
+0029: |
+  Good idea.
+near1003: |
+  Monsters? We gotta go!
+talk0001: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003000'/><FontSize Value='125'/>Hey! Hey!<5 Type='0'/> Stop here!<FontSize Value='100'/>
+talk0002: |
+  <FontSize Value='125'/><3 Type='0' Data='0801'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Huge statues...<5 Type='1'/><FontSize Value='100'/>
+near1005: |
+  More fallen ruins...
+talk0020: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>What's the matter? <5 Type='0'/>Is something
+  bothering you?
+talk0003: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>I can tell right away that this place will be
+  worth a really thorough look. I've got my
+  work cut out for me!
+  <FontSize Value='80'/><3 Type='0' Data='0c01'/>It's already interesting. Rotana said these were
+  supposed to be ruins of the seven heroines here,
+  so where have the other two gone?<FontSize Value='100'/>
+near1006: |
+  Those bones are massive!
+talk0021: |
+  <3 Type='0' Data='0101'/>Hey! You! You look like you've done your
+  fair share of exploring!
+  
+  Have you ever seen massive ruins with
+  <0 Type='3' Data='0000'/>huge statues facing each other<0 Type='3' Data='ffff'/>? It'd be...
+  in the eastern part of the desert, I think?
+  I lost my map, so I don't know exactly
+  where they are...
+  
+  <3 Type='0' Data='0701'/>Does that sound familiar?<5 Type='0'/> If you know
+  what I'm talking about, I'd appreciate it if
+  you could take me there on a <0 Type='3' Data='0000'/>sleigh seal<0 Type='3' Data='ffff'/>.
+  <3 Type='0' Data='0801'/>Exploration expenses were paid in
+  advance, so I'd obviously reward you if
+  you helped me!
+near1007: |
+  A bone tunnel?
+talk0022: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>I'm supposed to investigate ruins in the
+  eastern part of the desert...
+  
+  And there are <0 Type='3' Data='0000'/>huge statues there that
+  face one another<0 Type='3' Data='ffff'/>. But that's all
+  I remember.
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0e0045006100730065005f0030003000'/>I lost the map that marked exactly where
+  the ruins were, so I'm in a tough spot
+  right now...
+  <3 Type='0' Data='0701'/>If you know where these ruins are, I'd
+  really, really appreciate you giving me a
+  lift there on a <0 Type='3' Data='0000'/>sleigh seal<0 Type='3' Data='ffff'/>.
+  <3 Type='0' Data='0801'/>I was paid in advance, so I'd obviously
+  reward you if you helped me!
+near1008: |
+  Ack! A sinkhole!
+talk0023: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>No, no, that's OK.<5 Type='1'/>
+  
+  
+  It's a minor location that most Gerudo
+  don't know about, so it'd be silly to
+  expect a Hylian to be able to take me.
+talk0040: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>Ah! You're the one who's going to help!
+near1009: |
+  Look out for the Molduga!
+talk0024: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Sarq!<5 Type='0'/> OK, let's not waste any more time!
+  
+  
+  Can I go ahead and hop on the sleigh?
+talk0041: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>You said you'd take me to the ruins with
+  the <0 Type='3' Data='0000'/>huge statues facing each other<0 Type='3' Data='ffff'/> that's
+  in the <0 Type='3' Data='0000'/>eastern<0 Type='3' Data='ffff'/> part of the desert.
+  <3 Type='0' Data='0101'/>Would it be all right for me to get on the
+  <0 Type='3' Data='0000'/>sleigh seal<0 Type='3' Data='ffff'/> you rented?
+talk0025: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Sarq!<5 Type='0'/> In that case, I'll wait for you over
+  at the east gate.
+  
+  Come find me once you've got a <0 Type='3' Data='0000'/>sleigh
+  seal<0 Type='3' Data='ffff'/> ready to go!
+talk0042: |
+  <FontSize Value='125'/><3 Type='0' Data='0801'/>They're facing each—<5 Type='1'/><FontSize Value='100'/>
+  
+  
+  <4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003100'/>Hm?
+near0000: |
+  I have no idea...
+talk0026: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Sarq!<5 Type='0'/> In that case, I'll wait for you 
+  right here.
+  
+  Come and talk to me once you've got a
+  <0 Type='3' Data='0000'/>sleigh seal<0 Type='3' Data='ffff'/> ready to go!
+talk0043: |
+  <3 Type='0' Data='0501'/>This is another statue, right? It's fallen
+  over though...
+  
+  <3 Type='0' Data='0801'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>OK!<5 Type='0'/> I'm sure this is the place I was asked
+  to investigate!
+talk0027: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>You said you'd take me to the ruins with
+  the <0 Type='3' Data='0000'/>huge statues facing each other<0 Type='3' Data='ffff'/> that
+  are in the <0 Type='3' Data='0000'/>eastern<0 Type='3' Data='ffff'/> part of the desert.
+  <3 Type='0' Data='0801'/>I told you I'd reward you for your help,
+  right? I wasn't kidding!
+  
+  So...<5 Type='0'/>please...<5 Type='0'/> Could you get a <0 Type='3' Data='0000'/>sleigh seal<0 Type='3' Data='ffff'/>
+  for us to travel with?
+talk0044: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>OK! Drive safely!
+talk0028: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>I see you've prepared a sleigh seal. <5 Type='0'/>Sarq!
+  
+  
+  Is it OK for me to hop on?
+talk0045: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003100'/>Oh... The reins broke...
+  
+  
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>Well...<5 Type='0'/> I don't think you'll be able to take
+  me to the ruins in this state.
+  
+  We'd better head back, get some new
+  reins, and try again.
+talk0029: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003100'/>We should be heading toward the <0 Type='3' Data='0000'/>eastern<0 Type='3' Data='ffff'/>
+  part of the desert, to ruins where <0 Type='3' Data='0000'/>huge
+  statues<0 Type='3' Data='ffff'/> face each other.
+  <3 Type='0' Data='0a01'/>I'm sorry... If I hadn't lost my map, this
+  would be a lot easier.
+talk0046: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>Sarq for your hard work!<5 Type='0'/> I'm sure it'll go
+  well next time!
+talk0047: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>Wait, really?<5 Type='0'/> Well, I guess you must
+  have your reasons...
+  
+  <3 Type='0' Data='0101'/>All right, then I'll head back to town for
+  now.<5 Type='0'/> But please take me to the ruins
+  when you have a chance, OK?
+talk0048: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>OK! Let's hurry!
+talk0049: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>Hey, look at that!
+near0007: |
+  Huge statues...
+near0008: |
+  What am I gonna do?
+0017: |
+  Where are we headed?
+near0009: |
+  Quite a wait...
+0018: |
+  Never mind.
+0019: |
+  I'll take you there!
+near1010: |
+  This must be its territory...
+near1011: |
+  Watch out for that cliff...
+near1012: |
+  Careful of the cliff...

@@ -1,0 +1,24 @@
+Name: |
+  Hestu's Concerns
+STEP1: |
+  You ran into the Korok Hestu at the foot of
+  Lindor's Brow. He's afraid of something and
+  has stopped in his tracks.
+  
+  There are <0 Type='3' Data='0000'/>trees <0 Type='3' Data='ffff'/>where he pointed, but what
+  could he be so afraid of?
+STEP2: |
+  Hestu lost the Korok seeds that were in
+  his maracas. It sounds like it may have been
+  the children of the forest who took them.
+  
+  If you collect <0 Type='3' Data='0000'/>Korok seeds<0 Type='3' Data='ffff'/> and bring them to
+  Hestu, he says he will help you by expanding
+  your inventory.
+Complete: |
+  You gave Hestu a <0 Type='3' Data='0000'/>Korok seed<0 Type='3' Data='ffff'/>. As thanks, he
+  sang and danced to expand your inventory.
+  
+  He also told you that if you bring him more
+  <0 Type='3' Data='0000'/>Korok seeds<0 Type='3' Data='ffff'/> in the future, he will continue to
+  expand your inventory.

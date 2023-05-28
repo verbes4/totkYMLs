@@ -1,0 +1,55 @@
+talk_01: |
+  <3 Type='0' Data='0c01'/>Oh, sorry, sorry. I mistook you for
+  someone else.
+  
+  <3 Type='0' Data='0701'/>Just earlier, a <0 Type='3' Data='0000'/>blond-haired <0 Type='3' Data='ffff'/>Hylian like
+  you headed off towards <0 Type='3' Data='0000'/>HQ<0 Type='3' Data='ffff'/>.
+  
+  Now that I think about it, that Hylian was
+  a <0 Type='3' Data='0000'/>woman<0 Type='3' Data='ffff'/>!
+talk_06: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>Didn't you go off toward <0 Type='3' Data='0000'/>Death Mountain<0 Type='3' Data='ffff'/>?
+  
+  
+  You didn't get hurt?
+talk_02: |
+  <3 Type='0' Data='0700'/>It's rare to see a Hylian around here
+  unless they're part of YunoboCo.
+  
+  The one who headed to <0 Type='3' Data='0000'/>YunoboCo HQ<0 Type='3' Data='ffff'/>
+  earlier was a<0 Type='3' Data='0000'/> blond-haired lady<0 Type='3' Data='ffff'/>. Sorry for
+  the mix-up.
+talk_03: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>Huh? Didn't you go to <0 Type='3' Data='0000'/>Death Mountain<0 Type='3' Data='ffff'/>?
+talk_08: |
+  <3 Type='0' Data='0800'/><0 Type='3' Data='0000'/>Death Mountain <0 Type='3' Data='ffff'/>is back to normal, the
+  marbled rock roast is gone, and the
+  young Gorons are back to work.
+  Maybe I can take a little break.
+talk_04: |
+  <3 Type='0' Data='0c01'/>Oh, sorry, sorry. I mistook you for
+  someone else.
+  
+  <3 Type='0' Data='0700'/>Just earlier, a <0 Type='3' Data='0000'/>blond-haired <0 Type='3' Data='ffff'/>Hylian like
+  you headed off toward <0 Type='3' Data='0000'/>Death Mountain<0 Type='3' Data='ffff'/>.
+  
+  Now that I think about it, that Hylian was
+  a <0 Type='3' Data='0000'/>woman<0 Type='3' Data='ffff'/>.
+talk_09: |
+  <3 Type='0' Data='0700'/>I was worried that <0 Type='3' Data='0000'/>Death Mountain <0 Type='3' Data='ffff'/>had
+  erupted when that thing came writhing
+  outta there.
+  But now the mountain's back to normal,
+  the marbled rock roast is gone, and the
+  young Gorons are back to work.
+  Maybe I can take a little break.
+talk_00: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>Huh? Didn't you head off to
+  YunoboCo HQ?
+talk_05: |
+  <3 Type='0' Data='0700'/>It's rare to see a Hylian around here
+  unless they're part of YunoboCo.
+  
+  The one who headed to <0 Type='3' Data='0000'/>Death Mountain<0 Type='3' Data='ffff'/>
+  earlier was a<0 Type='3' Data='0000'/> blond-haired lady<0 Type='3' Data='ffff'/>. Sorry for
+  the mix-up.

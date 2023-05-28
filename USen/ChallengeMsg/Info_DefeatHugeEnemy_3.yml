@@ -1,0 +1,19 @@
+Name: |
+  WANTED: Hinox
+Report: |
+  Gralens of the monster-control crew at
+  Lookout Landing told you about a Hinox.
+  
+  You defeated it around Trilby Plain northeast
+  of Hyrule Field.
+Defeat: |
+  Gralens of the monster-control crew at
+  Lookout Landing told you that the team
+  discovered a <0 Type='3' Data='0000'/>Hinox<0 Type='3' Data='ffff'/>.
+  
+  This giant cyclops with incredible strength
+  dwells around Trilby Plain near Woodland
+  Stable northeast of Hyrule Field.
+Complete: |
+  You reported your victory over the Hinox around
+  Trilby Plain to Gralens at Lookout Landing.

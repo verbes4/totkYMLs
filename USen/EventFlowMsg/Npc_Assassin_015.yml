@@ -1,0 +1,60 @@
+talk_1010: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Oh, are you investigating this place too?
+talk_1011: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0e0043006800610074005f0030003100'/>Look...<5 Type='0'/> See how this <0 Type='3' Data='0000'/>stone statue<0 Type='3' Data='ffff'/> has
+  fallen into the wall?
+  
+  These statues are typically set in rows
+  with one sight line leading to the next
+  until they finally stop at an <0 Type='3' Data='0000'/>old mine<0 Type='3' Data='ffff'/>.
+  But this is different. This chain of statues
+  ends here.<5 Type='0'/> I've looked all over, but there's
+  no sign of an old mine.
+talk_1040: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>I'm right, aren't I?
+talk_1012: |
+  <3 Type='0' Data='0c00'/>Could it somehow be <0 Type='3' Data='0000'/>inside this wall<0 Type='3' Data='ffff'/>...
+  But I don't see any kind of entrance.
+talk_1041: |
+  <3 Type='0' Data='0800'/>Oh, good timing!
+talk_1013: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>Oh, well.<5 Type='0'/> I found you here,<5 Type='0'/> so at least
+  the statues led me to a hero.
+talk_1042: |
+  <3 Type='0' Data='0c00'/>Normally, <0 Type='3' Data='0000'/>stone statues <0 Type='3' Data='ffff'/>like these are
+  arranged in a row leading to an <0 Type='3' Data='0000'/>old mine<0 Type='3' Data='ffff'/>.
+  
+  But this row doesn't lead anywhere.<5 Type='0'/>
+  I've looked all over, but there's no sign
+  of an old mine.
+  <4 Type='0' Data='0600530061006400'/>If there's no way to get <0 Type='3' Data='0000'/>inside the wall<0 Type='3' Data='ffff'/>,
+  maybe it's just a misplaced set of statues.
+  Still, it's weird...
+talk_1043: |
+  <3 Type='0' Data='0700'/>This <0 Type='3' Data='0000'/>statue<0 Type='3' Data='ffff'/>'s the same as the others,
+  right?<5 Type='0'/> The ones that lead to an
+  <0 Type='3' Data='0000'/>abandoned mine<0 Type='3' Data='ffff'/>?
+  But this row...ends here.<5 Type='0'/> I've looked all
+  over, but there's no sign of an old mine.
+talk_1020: |
+  <3 Type='0' Data='0900'/><FontSize Value='125'/>Your life is mine!<FontSize Value='100'/><1 Type='3' Data='5a000000'/>
+talk_1044: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Do you know if there's anything <0 Type='3' Data='0000'/>inside
+  the wall<0 Type='3' Data='ffff'/>?<5 Type='0'/> Or even a way to get inside?
+talk_1021: |
+  <FontSize Value='125'/><3 Type='0' Data='0900'/>Vengeance for Master Kohga!<1 Type='3' Data='5a000000'/><FontSize Value='100'/>
+near_0000: |
+  A dead end?
+talk_1000: |
+  <3 Type='0' Data='0c00'/>That's strange.<5 Type='0'/> There definitely should be
+  something up ahead...
+talk_1001: |
+  <3 Type='0' Data='0c00'/>How can I get past this?
+0000: |
+  What's the matter?
+talk_1030: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Hey! I see what you're doing! You're
+  ignoring me, probably thinking, "Ugh,
+  another Yiga Clan trap. I'll keep walking."
+0001: |
+  ...

@@ -1,0 +1,28 @@
+Near: |
+  Adventure!
+talk_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>You've come to dig up adventure
+  too, huh?
+talk_02: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1c0055006e0063006f006e007300630069006f00750073005f0030003000'/>I told ya.<5 Type='0'/> If you wanna<5 Type='0'/> use the mine cart,
+  <5 Type='0'/>it's all yours.<5 Type='0'/> Just take it, <5 Type='0'/>man.
+  
+  But <5 Type='0'/>this mine cart <5 Type='0'/>only goes <5 Type='0'/>to the <0 Type='3' Data='0000'/>summit<0 Type='3' Data='ffff'/>
+  <5 Type='0'/>of <0 Type='3' Data='0000'/>Death Mountain<0 Type='3' Data='ffff'/>,<5 Type='0'/> you know.<5 Type='0'/>
+talk_03: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>See those boulders over there? It'll be a
+  minute before they're done. You can't
+  rush adventure digging.
+talk_04: |
+  <FontSize Value='80'/><3 Type='0' Data='0000'/>Just between you and me, I've heard tell of an
+  ancient Goron dwelling not far from here.
+  <3 Type='0' Data='0801'/>Death Mountain is all about adventure!<FontSize Value='100'/>
+talk_00: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1c0055006e0063006f006e007300630069006f00750073005f0030003100'/>Can't you see <5 Type='0'/>I'm busy here?<5 Type='0'/> My mouth
+  <5 Type='0'/>'n' me<5 Type='0'/> are kinda<5 Type='0'/> occupied.<5 Type='0'/>
+  
+  If you wanna<5 Type='0'/> use the mine cart, knock
+  yourself <5 Type='0'/>out.
+  
+  But <5 Type='0'/>this mine cart <5 Type='0'/>only goes <5 Type='0'/>to the <0 Type='3' Data='0000'/>summit<0 Type='3' Data='ffff'/>
+  <5 Type='0'/>of <0 Type='3' Data='0000'/>Death Mountain<0 Type='3' Data='ffff'/>,<5 Type='0'/> you know.<5 Type='0'/>

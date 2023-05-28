@@ -1,0 +1,14 @@
+Name: |
+  A Crabulous Deal
+Step1: |
+  Cleff, the owner of the Coral Reef general store,
+  is crazy about crabs. He promised to make it
+  worth your while if you can find him <0 Type='3' Data='0000'/>10
+  bright-eyed crabs<0 Type='3' Data='ffff'/>.
+Complete: |
+  You gave 10 bright-eyed crabs to Cleff. He
+  offered you a sapphire in appreciation.
+  
+  He's still just as crazy for them and will trade
+  you something good in exchange for more
+  <0 Type='3' Data='0000'/>bright-eyed crabs<0 Type='3' Data='ffff'/>.

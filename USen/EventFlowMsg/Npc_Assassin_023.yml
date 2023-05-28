@@ -1,0 +1,67 @@
+0001: |
+  Good luck with that.
+0011: |
+  No clue.
+talk_1000: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>Hmm... <5 Type='0'/>How am I supposed to activate
+  this construct?
+talk_1010: |
+  <3 Type='0' Data='0a00'/>I've been examining this construct
+  for so long,<5 Type='0'/> but I just can't seem to
+  get it working...
+  <3 Type='0' Data='0701'/>*sigh* <5 Type='0'/>Well, given that you showed up
+  down here, it can't hurt to ask...<5 Type='0'/><0 Type='4'/>Do you know how to activate constructs?
+talk_1030: |
+  <3 Type='0' Data='0100'/>First I'll rough you up a little...<5 Type='0'/>then I'll
+  find a way to make you talk.
+talk_1040: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>Hm?<5 Type='0'/> What am I doing here?<5 Type='0'/> Isn't it
+  obvious?! I'm examining this construct!<0 Type='4'/>So quit bothering me!
+talk_1020: |
+  <3 Type='0' Data='0900'/><FontSize Value='125'/>Everyone, attack!<FontSize Value='100'/><1 Type='3' Data='5a000000'/>
+talk_1001: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>How can I get this thing moving?<5 Type='0'/> I don't
+  even know where to begin.
+talk_1011: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='0600530061006400'/>I've got to get my hands on the treasure
+  somehow... <5 Type='0'/>Before that guy shows up...
+talk_1041: |
+  <3 Type='0' Data='0900'/>Don't talk to me while I'm trying to think!<5 Type='0'/>
+  Once I figure out how to activate the
+  thing, you'll know.
+  <3 Type='0' Data='0701'/>Now scram!
+talk_1021: |
+  <FontSize Value='125'/><3 Type='0' Data='0900'/>Revenge for Master Kohga!<1 Type='3' Data='5a000000'/><FontSize Value='100'/>
+talk_1012: |
+  <3 Type='0' Data='0800'/>You do?! <5 Type='0'/>I thought a famous hero like
+  you might!<5 Type='1'/> In fact, I was sure of it!
+talk_1032: |
+  <3 Type='0' Data='0000'/>Well, no matter. <5 Type='0'/>I'll have all the time
+  I need to examine it after I defeat you.
+talk_1042: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='0a005400680069006e006b00'/>I'm still investigating this thing!<5 Type='0'/>
+  So make yourself scarce!
+talk_1013: |
+  <3 Type='0' Data='0900'/><4 Type='0' Data='100041006e006700720079005f0030003100'/>Liar! <5 Type='0'/>You just think I'm suspicious and
+  don't want to tell me!
+talk_1014: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/><FontSize Value='125'/>Please wait a moment!<FontSize Value='100'/><5 Type='0'/>
+talk_1015: |
+  <3 Type='0' Data='0900'/><4 Type='0' Data='1400430061006c006c004600610072005f0030003000'/><FontSize Value='125'/>Stop!<FontSize Value='100'/><5 Type='0'/>
+near_0000: |
+  I just don't get it...
+talk_1016: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='0600530061006400'/>As you can clearly see, I'm trying to
+  examine this construct. Emphasis on
+  TRYING. So don't bother me!
+talk_1017: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0600530061006400'/>Ah, forgive me for raising my voice.<5 Type='0'/> I was
+  just so caught up in my investigation.
+talk_1019: |
+  <3 Type='0' Data='0700'/>I'm trying to investigate this construct.<5 Type='0'/>
+  I get that you're curious, but...I'd prefer
+  you didn't interrupt me.
+0000: |
+  What's wrong?
+0010: |
+  I know how.

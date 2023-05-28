@@ -1,0 +1,108 @@
+Near0001: |
+  How deep could it be?
+Talk0017: |
+  <3 Type='0' Data='0200'/>I'm hard at work investigating, despite
+  this rain.
+Near0002: |
+  I wonder if Robbie is OK...
+Talk0001: |
+  <FontSize Value='125'/><3 Type='0' Data='0b00'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003000'/>WH-<5 Type='0'/>WHOA!<FontSize Value='100'/>
+Talk0018: |
+  <3 Type='0' Data='0701'/>Oh, also...<5 Type='1'/>
+Near0003: |
+  Hard to see in the rain...
+Talk0002: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='1200530075007200700072006900730065004d00'/>Hey! I told you! Don't sneak up behind
+  someone when they're standing at the
+  edge of a chasm!
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0901'/>Chasm investigation <0 Type='3' Data='ffff'/>is super important
+  right now to the Zonai Survey Team.
+  
+  If even one researcher had to stop,
+  <0 Type='3' Data='0000'/>Josha<0 Type='3' Data='ffff'/>—who's hard at work on plans over
+  at <0 Type='3' Data='0000'/>Lookout Landing<0 Type='3' Data='ffff'/>—would cry! NOT OK!
+Talk0003: |
+  <3 Type='0' Data='0900'/><4 Type='0' Data='100041006e006700720079005f0030003000'/>HEY! <5 Type='0'/>What's the big idea!<5 Type='0'/> You can't
+  just walk up behind someone who's
+  standing on the edge of a chasm!
+  My <0 Type='3' Data='0000'/>colleague<0 Type='3' Data='ffff'/> who works with me on the
+  <0 Type='3' Data='0000'/>Zonai Survey Team <0 Type='3' Data='ffff'/>is down there.
+  
+  What would happen if I slipped and fell on
+  him, huh? HUH!
+Talk0011: |
+  <3 Type='0' Data='0700'/>She's a genius. Such a genius, in fact,
+  that they say she's the next up-and-
+  coming Purah.
+  She's in charge of the Depths and the
+  <0 Type='3' Data='0000'/>chasm investigation team<0 Type='3' Data='ffff'/>.
+  
+  But even so, Josha's still a kid, and
+  there's no telling what dangers are
+  down there.
+  As such, she's not allowed into the
+  Depths, so our <0 Type='3' Data='0000'/>Zonai Survey Team<0 Type='3' Data='ffff'/>
+  is helping with the investigation.
+Talk0005: |
+  <3 Type='0' Data='0901'/><4 Type='0' Data='100041006e006700720079005f0030003000'/>I TOLD you. Don't go walking up behind
+  someone standing on the edge of
+  a chasm!
+  My <0 Type='3' Data='0000'/>colleague<0 Type='3' Data='ffff'/> who works with me on the
+  <0 Type='3' Data='0000'/>Zonai Survey Team <0 Type='3' Data='ffff'/>is down there.
+  
+  What would happen if I slipped and fell on
+  him, huh? HUH!
+Talk0012: |
+  <3 Type='0' Data='0200'/><4 Type='0' Data='100041006e006700720079005f0030003100'/>Don't startle me again!
+Talk0006: |
+  <3 Type='0' Data='0901'/><4 Type='0' Data='100041006e006700720079005f0030003000'/>HEY. <5 Type='1'/>You again?! I told you not to sneak
+  up on me!<5 Type='0'/> Can't you see I'm right on the
+  edge of this chasm?
+  My <0 Type='3' Data='0000'/>colleague<0 Type='3' Data='ffff'/> who works with me on the
+  <0 Type='3' Data='0000'/>Zonai Survey Team <0 Type='3' Data='ffff'/>is down there.
+  
+  What would happen if I slipped and fell on
+  him, huh? HUH!
+Talk0007: |
+  <3 Type='0' Data='0400'/>Hey, buddy! <5 Type='0'/>What's the big idea!<5 Type='0'/> You
+  can't just walk up behind someone who's
+  standing on the edge of a chasm!
+  For one thing, a nasty accident like that
+  would surely halt the research here!
+  
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0900'/><4 Type='0' Data='180057006f0072006b00480065006100760079005f0030003000'/>Chasm investigation <0 Type='3' Data='ffff'/>is super important
+  right now for the Zonai Survey Team.
+  
+  If even one researcher had to stop,
+  <0 Type='3' Data='0000'/>Josha<0 Type='3' Data='ffff'/>—who's hard at work on plans over
+  at <0 Type='3' Data='0000'/>Lookout Landing<0 Type='3' Data='ffff'/>—would cry! NOT OK!
+Talk0013: |
+  <3 Type='0' Data='0200'/>I'm very busy with my investigation,
+  no matter how much I'd prefer to be
+  in bed right now.
+0000: |
+  Chasm investigation?
+Talk0008: |
+  <3 Type='0' Data='0700'/>You know, the giant holes that showed up
+  after <0 Type='3' Data='0000'/>the Upheaval<0 Type='3' Data='ffff'/>.<5 Type='0'/> There are lots of them
+  just like this one all over the world.
+  You can't see the bottom, they're so
+  deep—so filled with MYSTERY.
+  
+  We must continue our research for the
+  sake of our dear <0 Type='3' Data='0000'/>Josha<0 Type='3' Data='ffff'/>!
+0001: |
+  Who is Josha?
+Talk0009: |
+  <3 Type='0' Data='0700'/>See that tower over there?<5 Type='0'/>
+  
+  
+  That's where you'll find our base of
+  operations and, incidentally, Josha.
+Talk0015: |
+  <3 Type='0' Data='0200'/>I'm deep in my investigation work at
+  the moment.
+Talk0016: |
+  <3 Type='0' Data='0700'/>Josha is the <0 Type='3' Data='0000'/>chasm-investigation leader<0 Type='3' Data='ffff'/>.
+0002: |
+  Goodbye.

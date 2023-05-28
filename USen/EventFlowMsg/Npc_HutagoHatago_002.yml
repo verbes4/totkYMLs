@@ -1,0 +1,58 @@
+Near_11: |
+  Footprints, footprints!
+Talk_0012: |
+  <4 Type='0' Data='0e0045006100730065005f0030003000'/>I saw them too... Footprints...
+Talk_0006: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>You won't get zapped if you stay inside
+  the stable!
+WakkaCharm: |
+  Whoa! Neat ring garland!
+Near_12: |
+  So that part was like this...
+StableHostelPicture: |
+  The sun looks so sparkly!
+Near_13: |
+  Aaaaaall done.
+Talk_0020: |
+  <3 Type='0' Data='0a00'/>Time for bed already? Phooey...
+GoldHorse: |
+  Such a pretty color.
+Talk_0015: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004e006f007400690063006500'/>Sooo... Are you a customer?<5 Type='1'/> Then
+  welcome, and stuff...
+  
+  Look, I'm actually kind of in a hurry. Let's
+  talk later, OK?
+Talk_0016: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>What is it? I already said welcome,
+  didn't I?
+  
+  I'm in a hurry, so let's talk another time.
+Talk_0022: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Like I told you, my job is done for today.
+  
+  
+  See you tomorrow!
+LargeHorse: |
+  It's huuuge!
+Talk_0017: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>My job's all done for the day.
+BoneHorse: |
+  That thing is...rattling...
+Near_01: |
+  Raaaaaain!
+Talk_0019: |
+  <3 Type='0' Data='0c00'/>This part was like this, and that part
+  waaas... Ummm...
+  
+  Darn. Without Shibo, I'll never be able to
+  remember what the <0 Type='3' Data='0000'/>footprints <0 Type='3' Data='ffff'/>looked like.
+Talk_0025: |
+  <3 Type='0' Data='0c00'/>This part was like this, and that part
+  waaas... Ummm...
+Talk_0005: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Welcome. <5 Type='0'/>If you run around outside,
+  you're totally gonna get zapped by
+  lightning. So don't do it.
+Near_04: |
+  It's definitely out there!

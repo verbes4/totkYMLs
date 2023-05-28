@@ -1,0 +1,134 @@
+talk_10: |
+  <3 Type='0' Data='0700'/><0 Type='3' Data='0000'/>Woodcutting <0 Type='3' Data='ffff'/>is the practice of chopping
+  down trees to create logs. <5 Type='0'/>It is how I
+  spend my days between rests.
+talk_28: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='12004c0061007500670068004c005f0030003000'/>Such modesty!<0 Type='4'/>Your technique is impressive enough that
+  I would appreciate your assistance. <5 Type='0'/>That
+  is assuming you have the time to spare.
+talk_11: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004e006f007400690063006500'/>Oh? Do you still have <0 Type='3' Data='0000'/>woodcutting <0 Type='3' Data='ffff'/>to do?
+talk_12: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='0c004e006f007400690063006500'/>Ahhh. Have you come to practice your
+  <0 Type='3' Data='0000'/>woodcutting <0 Type='3' Data='ffff'/>again?
+talk_30: |
+  <3 Type='0' Data='0800'/>Ah! Excellent technique. <5 Type='0'/>You have clearly
+  mastered the art of <0 Type='3' Data='0000'/>woodcutting<0 Type='3' Data='ffff'/>.
+talk_31: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/><0 Type='3' Data='0000'/>Woodcutting <0 Type='3' Data='ffff'/>is the practice of chopping
+  down trees to create logs. <5 Type='0'/>Felling that
+  tree was putting the practice in action.<0 Type='4'/>Logs are useful. They can be <0 Type='3' Data='0000'/>combined<0 Type='3' Data='ffff'/>
+  to assemble platforms. <5 Type='0'/>You can also chop
+  them down further to make <0 Type='3' Data='0000'/>wood<0 Type='3' Data='ffff'/>.<0 Type='4'/>That is why I come here daily to
+  chop wood.<0 Type='4'/><3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>I have some difficulties cutting them down
+  in the intended direction. <5 Type='0'/>You seem to be
+  quite skilled at it.<0 Type='4'/>I would appreciate your assistance if you
+  have the time to spare.
+0002: |
+  No, not really.
+talk_32: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a0048006100700070007900'/>Oh my. Where has the time gone? <5 Type='0'/>I did
+  not even notice the time bell ringing.<0 Type='4'/>It is time I rested for today.
+0003: |
+  Goodnight.
+0004: |
+  Woodcutting?
+talk_17: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>It is nice to be able to rest when the
+  time bell rings.<5 Type='0'/><0 Type='4'/>Though the time seems to pass so quickly
+  as I gaze at the fire.
+0021: |
+  It was nothing.
+talk_00: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='180057006f0072006b00480065006100760079005f0030003000'/>Fix your gaze forward. <5 Type='1'/>Face it head on.
+0005: |
+  Woodcutting?
+0022: |
+  Woodcutting?
+talk_19: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Tomorrow I will resume <0 Type='3' Data='0000'/>woodcutting<0 Type='3' Data='ffff'/>.<5 Type='0'/>
+  I am resting until then.<5 Type='0'/><0 Type='4'/>I will return to work once the morning-
+  time bell rings.
+0006: |
+  It was nothing.
+talk_02: |
+  <3 Type='0' Data='0700'/><0 Type='3' Data='0000'/>Woodcutting<0 Type='3' Data='ffff'/> is the practice of chopping
+  down trees to create logs.<0 Type='4'/>Logs can be <0 Type='3' Data='0000'/>combined<0 Type='3' Data='ffff'/> to assemble
+  platforms. <5 Type='0'/>You can also chop them down
+  further to make <0 Type='3' Data='0000'/>wood<0 Type='3' Data='ffff'/>.<0 Type='4'/>Lumber has many uses. <5 Type='0'/>That is why I
+  come here daily to chop wood.<0 Type='4'/><3 Type='0' Data='0a00'/><4 Type='0' Data='1000540069007200650064005f0030003000'/>And yet I still find it difficult to chop them
+  down in the intended direction.<0 Type='4'/>That is why you may have heard me
+  muttering to myself. <5 Type='0'/>"Fix your gaze
+  forward. Face it head on."<5 Type='0'/>
+talk_03: |
+  <3 Type='0' Data='0700'/><0 Type='3' Data='0000'/>Woodcutting <0 Type='3' Data='ffff'/>is the practice of chopping
+  down trees to create logs. <5 Type='0'/>I was engaged
+  in this practice only moments ago.
+talk_04: |
+  <3 Type='0' Data='0700'/>Ah. I apologize. <5 Type='0'/>I have been rambling
+  for some time.<0 Type='4'/>There is an axe I no longer need over
+  there. <5 Type='0'/>It is yours to use if you want to
+  do some <0 Type='3' Data='0000'/>woodcutting<0 Type='3' Data='ffff'/>.
+talk_21: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='12004c0061007500670068004c005f0030003000'/>Such modesty!<0 Type='4'/>Your technique is impressive enough that
+  I would appreciate your assistance. <5 Type='0'/>That
+  is assuming you have the time to spare.
+talk_05: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Oh my. Has it grown so late already?<5 Type='0'/>
+  I must have failed to notice the time bell.<0 Type='4'/>I will rest for today.
+talk_22: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/><0 Type='3' Data='0000'/>Woodcutting <0 Type='3' Data='ffff'/>is the practice of chopping
+  down trees to create logs. <5 Type='0'/>Felling that
+  tree was putting the practice in action.<0 Type='4'/>Logs are useful. They can be <0 Type='3' Data='0000'/>combined<0 Type='3' Data='ffff'/>
+  to assemble platforms. <5 Type='0'/>You can also chop
+  them down further to make <0 Type='3' Data='0000'/>wood<0 Type='3' Data='ffff'/>.<0 Type='4'/>That is why I come here daily to
+  chop wood.<0 Type='4'/><3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>I have some difficulties cutting them down
+  in the intended direction. <5 Type='0'/>You seem to be
+  quite skilled at it.<0 Type='4'/>I would appreciate your assistance if you
+  have the time to spare.
+talk_06: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004e006f007400690063006500'/>Hm? <5 Type='1'/>Pardon me. <5 Type='0'/>I was absorbed in
+  my woodcutting.<0 Type='4'/>Are you here for <0 Type='3' Data='0000'/>woodcutting<0 Type='3' Data='ffff'/> too?
+talk_23: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004e006f007400690063006500'/>Ah. I see you are still here and hard
+  at work after the night bell.<0 Type='4'/><0 Type='3' Data='0000'/>Woodcutting<0 Type='3' Data='ffff'/> is certainly strenuous. <5 Type='0'/>I am
+  taking a short rest from it.
+0010: |
+  Woodcutting?
+talk_40: |
+  <3 Type='0' Data='0800'/>Was this your <0 Type='3' Data='0000'/>woodcutting<0 Type='3' Data='ffff'/> at work?<5 Type='0'/>
+  Very well done.
+talk_07: |
+  <3 Type='0' Data='0700'/>Ah. I see. My apologies.<0 Type='4'/>There is an axe I no longer need over
+  there. <5 Type='0'/>It is available to use if you want
+  to do some <0 Type='3' Data='0000'/>woodcutting<0 Type='3' Data='ffff'/>.
+0011: |
+  It was nothing.
+talk_41: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='12004c0061007500670068004c005f0030003000'/>Such modesty!<0 Type='4'/>Your technique is impressive enough that
+  I would appreciate your assistance. <5 Type='0'/>That
+  is assuming you have the time to spare.
+talk_08: |
+  <3 Type='0' Data='0701'/>Logs can be <0 Type='3' Data='0000'/>combined<0 Type='3' Data='ffff'/> to assemble
+  platforms. <5 Type='0'/>You can also chop them down
+  further to make <0 Type='3' Data='0000'/>wood<0 Type='3' Data='ffff'/>.<0 Type='4'/><3 Type='0' Data='0a00'/><4 Type='0' Data='1000540069007200650064005f0030003000'/>I admit to finding it difficult to chop trees
+  down in the intended direction.<0 Type='4'/>Our creators gave me useful advice in this
+  regard. <5 Type='1'/>"Fix your gaze forward. Face the
+  tree head on."<0 Type='4'/>Perhaps you will find this advice useful
+  in your own woodcutting.
+talk_42: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/><0 Type='3' Data='0000'/>Woodcutting <0 Type='3' Data='ffff'/>is the practice of chopping
+  down trees to create logs. <5 Type='0'/>Felling that
+  tree was putting the practice in action.<0 Type='4'/>Logs are useful. They can be <0 Type='3' Data='0000'/>combined<0 Type='3' Data='ffff'/>
+  to assemble platforms. <5 Type='0'/>You can also chop
+  them down further to make <0 Type='3' Data='0000'/>wood<0 Type='3' Data='ffff'/>.<0 Type='4'/>That is why I come here daily to
+  chop wood.<0 Type='4'/><3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>I have some difficulties cutting them down
+  in the intended direction. <5 Type='0'/>You seem to be
+  quite skilled at it.<0 Type='4'/>I would appreciate your assistance if you
+  have the time to spare.
+talk_26: |
+  <3 Type='0' Data='0800'/>Ah! Your skill at <0 Type='3' Data='0000'/>woodcutting<0 Type='3' Data='ffff'/>
+  is impressive.
+talk_27: |
+  <3 Type='0' Data='0800'/>I witnessed your <0 Type='3' Data='0000'/>woodcutting <0 Type='3' Data='ffff'/>technique
+  just now. <5 Type='0'/>It was very well done.

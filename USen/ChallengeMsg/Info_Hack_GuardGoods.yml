@@ -1,0 +1,19 @@
+Name: |
+  Supply-Eyeing Fliers
+Finish: |
+  You defeated the <0 Type='3' Data='0000'/>monsters<0 Type='3' Data='ffff'/>, clearing the way
+  for Huck to transport the supplies.
+  
+  Report to Huck and give him the good news.
+Defeat: |
+  Huck was transporting supplies from Snowfield
+  Stable to Rito Village when he was beset by
+  <0 Type='3' Data='0000'/>monsters<0 Type='3' Data='ffff'/>.
+  
+  Now the monsters are circling above him,
+  greedily eyeing the supplies.
+Complete: |
+  You let Huck know that you defeated the
+  monsters. Relieved that he could finally take
+  Snowfield Stable's donation to Rito Village,
+  he gave you a purple rupee for your efforts.

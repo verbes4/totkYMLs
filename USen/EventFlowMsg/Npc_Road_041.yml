@@ -1,0 +1,86 @@
+Talk_0001: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1000530063006100720065005f0030003000'/>I'm working as fast as I can! Please, just
+  give me a little more time!<0 Type='4'/>...Wait. You're not one of them.
+Guardian00: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1200530075007200700072006900730065004c00'/>Hey!<5 Type='1'/> We're in trouble here! <5 Type='0'/>That thing's
+  not messing around!
+Talk_0002: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>You chased off the Yiga Clan? You mean...
+  I can get out of here?<FontSize Value='125'/><0 Type='4'/><3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>HURRAH!<5 Type='1'/><0 Type='4'/><FontSize Value='100'/>Those Yiga guys were forcing me to make
+  weird outfits for them. It was awful!<0 Type='4'/><3 Type='0' Data='0000'/>Why me? <5 Type='0'/>Your guess is as good as mine!<0 Type='4'/>Maybe because of my reputation for
+  flashy fashion. I only let Cece-brand
+  threads touch this body.
+  <FontSize Value='80'/><3 Type='0' Data='0c01'/>Hm... <5 Type='0'/>I don't want this mask I made to fall into
+  their hands, but I can't bring it with me.<5 Type='1'/><FontSize Value='100'/><0 Type='4'/><3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Say, would you want to take this?
+Failed00: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1000540069007200650064005f0030003000'/>Whew... <5 Type='0'/>That was dangerous.<5 Type='1'/> Good thing
+  I survived, for my sake and Nobo's...
+NakedPlayer: |
+  At least get dressed.
+Talk_0003: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>That thing is decidedly NOT my style,
+  but if it's yours, more power to you.<0 Type='4'/>I'm actually dressed like this so that
+  I can confess my feelings to the woman
+  who stole my heart.
+  <3 Type='0' Data='0100'/>Her name is Nobo. She's beautiful, with a
+  fashion sense that rivals my own.<0 Type='4'/>She's probably at a stable somewhere...<5 Type='1'/>
+  I think. Maybe.<0 Type='4'/><3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>At any rate, we're meant to be, so I know
+  that fate will guide me toward her.<5 Type='1'/><0 Type='4'/>Take care now. I hope you find someone
+  to love too!
+Failed01: |
+  <3 Type='0' Data='0a00'/>No. <5 Type='0'/>No!<5 Type='1'/> My Cece-brand clothes got dirty!
+Talk_0004: |
+  <3 Type='0' Data='0400'/>Wait just a minute! Your pouch! It's full!
+  
+  
+  <3 Type='0' Data='0000'/>I'll stash this away so no one finds it.
+  Make some room and come back, OK?
+SagonoHat: |
+  A new Cece piece?
+Near_0000: |
+  Let me go!
+ComNakedCheck_W_001: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='0c004e006f007400690063006500'/>Nope, nope, nope.<5 Type='1'/> Don't you come talk to
+  me looking like that. I can't be seen with
+  someone who cares so little for clothing.
+  I'm not saying you have to dress fancy,
+  but at least put on a shirt or some
+  trousers, you know?
+ComStylishTalk_007: |
+  <3 Type='0' Data='0700'/>We meet again! <5 Type='0'/>You look fantastic.
+  Seriously, I'm loving this outfit.
+  
+  Me, I'm up to the same old thing—
+  looking for <0 Type='3' Data='0000'/>Misko's treasure<0 Type='3' Data='ffff'/> so I can
+  confess my love to Nobo with style!
+SavedLv1_00: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='08004500610073006500'/>Phew! <5 Type='0'/>Thanks for handling that!
+SavedLv2_00: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0c004c0061007500670068005300'/>Whoa, that was close!<5 Type='0'/> If I fell in battle,
+  it would break Nobo's heart!
+SavedLv3_00: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068004c00'/>Wow, that was amazing!<5 Type='0'/> You're so strong!
+ComStylishTalk_008: |
+  <3 Type='0' Data='0700'/>We meet again! <5 Type='0'/>Two guys who do their
+  traveling late at night.<5 Type='0'/> You look fantastic.<0 Type='4'/>I'm up to the same old thing—looking for
+  <0 Type='3' Data='0000'/>Misko's treasure<0 Type='3' Data='ffff'/> so I can confess my love
+  to Nobo with a stylish gift!
+SavedLv1_01: |
+  <3 Type='0' Data='0800'/>Thank you!<5 Type='1'/> That was close. If I lost my
+  life before I could tell my Nobo I love
+  her...why, I'd simply die!
+SavedLv2_01: |
+  <3 Type='0' Data='0800'/>Once again you save my hide.<5 Type='0'/> Amazing!
+SavedLv3_01: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='08004500610073006500'/>I knew it...<5 Type='0'/> As long as you have love in
+  your heart, nothing can hurt you!
+Atacked00: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='0a0053006300610072006500'/>I...<5 Type='0'/> I can't be done in here!<5 Type='1'/> Not until I've
+  told my Nobo how I really feel!
+Thanks00: |
+  <3 Type='0' Data='0101'/>Here's a thank-you present. <5 Type='0'/>No need to
+  thank me for it! That's too much thanking!<5 Type='1'/>
+EnokidaSignboard: |
+  They build houses, right?
+Atacked01: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='0a0053006300610072006500'/>I'll...<5 Type='0'/> I'll keep fighting! <5 Type='1'/>For Nobo!

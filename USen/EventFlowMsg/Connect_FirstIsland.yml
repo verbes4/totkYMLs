@@ -1,0 +1,83 @@
+0001: |
+  A Stamina Vessel.
+talk_0010: |
+  Come to me... In the Temple of Time
+  Ruins...up the road on the plateau to
+  the south...
+talk_0030: |
+  Your being overflows with vigor. There is
+  no need for more <0 Type='3' Data='0000'/>Stamina Vessels<0 Type='3' Data='ffff'/>.
+talk_0011: |
+  Come to me...where I rest in the Temple
+  of Time Ruins...which stand upon the road
+  on the plateau to the south...
+talk_0021: |
+  The voice has fallen silent.
+talk_0031: |
+  Your wish is granted.
+talk_0012: |
+  ...<0 Type='4'/>I am trapped...under the water...behind
+  the stone gate...of the great plateau...
+talk_0002: |
+  You who hear my voice.<0 Type='4'/>As a result of you draining the water from
+  the gate, a part of me has been freed.
+  You have earned my gratitude.<0 Type='4'/>I speak to you now from the Depths below
+  in the guise of this statue...
+talk_0022: |
+  You have returned <2 Type='2' Data='440043006f006e006e006500630074005f0046006900720073007400490073006c0061006e0064005f0054006f00740061006c0050006100720074004d0069006e0075007300ffff00cd'/> of <0 Type='3' Data='0000'/>my eyes<0 Type='3' Data='ffff'/>
+  to me thus far.<0 Type='4'/>I direct you to the remaining chasms
+  across this plateau.<0 Type='4'/>Deliver the <0 Type='3' Data='0000'/>eyes <0 Type='3' Data='ffff'/>found near each chasm
+  to me, where I dwell in the Depths below
+  this temple.
+talk_0023: |
+  When on the surface, <0 Type='3' Data='0000'/>my eyes <0 Type='3' Data='ffff'/>cannot be
+  taken far from where they rest.<0 Type='4'/>If separated by too great a distance, the
+  <0 Type='3' Data='0000'/>eye<0 Type='3' Data='ffff'/> will return to its resting place. Keep
+  this well in mind.
+talk_0013: |
+  I direct you to the four chasms across
+  the plateau above.<0 Type='4'/>Each has one of <0 Type='3' Data='0000'/>my eyes <0 Type='3' Data='ffff'/>nearby—drop
+  them into the chasms, and then deliver
+  them to me.
+talk_0024: |
+  You who hear my voice.
+talk_0014: |
+  You have returned <2 Type='2' Data='440043006f006e006e006500630074005f0046006900720073007400490073006c0061006e0064005f0054006f00740061006c0050006100720074004d0069006e0075007300ffff00cd'/> of <0 Type='3' Data='0000'/>my eyes <0 Type='3' Data='ffff'/>to
+  me thus far.<0 Type='4'/>After you have found <0 Type='3' Data='0000'/>my eyes <0 Type='3' Data='ffff'/>on the
+  plateau above, each of them near
+  a chasm...<0 Type='4'/>bring every last one here to me.
+talk_0025: |
+  What do you desire?
+talk_0016: |
+  I direct you to the four chasms across
+  this plateau.<0 Type='4'/>Each has one of <0 Type='3' Data='0000'/>my eyes <0 Type='3' Data='ffff'/>nearby—drop
+  them into the chasms.<0 Type='4'/>Then deliver the stones to me, who dwells
+  in the Depths below this temple.<0 Type='4'/>Do all of this and a reward will be yours.
+talk_0026: |
+  The strength that you have chosen will
+  be yours.
+talk_0017: |
+  I direct you to the four chasms across
+  this plateau.<0 Type='4'/>Each has one of <0 Type='3' Data='0000'/>my eyes <0 Type='3' Data='ffff'/>nearby—drop
+  them into the chasms.<0 Type='4'/>Then deliver the stones to me, where I
+  dwell in the Depths below this temple.
+talk_0018: |
+  You have returned to me my eyes,
+  the vessels of my spirit. We can now
+  speak properly.<0 Type='4'/>In ancient times, my eyes were stolen
+  and sealed away.<0 Type='4'/>For eons I have awaited one who would
+  hear my voice and return them to me...
+  And here you are.<0 Type='4'/>As promised, I will repay your kindness by
+  bestowing good fortune upon you.
+talk_0009: |
+  ...<0 Type='4'/>You who hear my voice.
+talk_0029: |
+  Your life force already tests the seams of
+  your being. There is no need for more
+  <0 Type='3' Data='0000'/>Heart Containers<0 Type='3' Data='ffff'/>.
+talk_0019: |
+  Do you have any wayward spirits known
+  as <0 Type='3' Data='0000'/>Poes <0 Type='3' Data='ffff'/>in hand?<0 Type='4'/>If it is further strength you desire, then
+  come to me again bearing Poes...
+0000: |
+  A Heart Container.

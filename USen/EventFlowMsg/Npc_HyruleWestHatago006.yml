@@ -1,0 +1,74 @@
+Weather_02: |
+  <3 Type='0' Data='0a00'/>I put my heart into the feed for the goats,
+  and now the rain's gone and ruined it...
+near0005: |
+  The feed'll get wet...
+WakkaCharm: |
+  Is that a ring garland?
+Talk1003: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Thanks for finding the white goats!<0 Type='4'/>They're over there now, munching on
+  <0 Type='3' Data='0000'/>Princess Zelda<0 Type='3' Data='ffff'/>'s feed as if nothing
+  happened.
+  <3 Type='0' Data='0701'/>Erm...<5 Type='0'/> If it's not too much trouble,
+  why not go over and look at the goats'
+  fuzzy little faces?
+  I'm sure they'll be happy to spend quality
+  time with the fella who saved them.
+Weather_03: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Goats have impressive appetites.<5 Type='0'/> The
+  thunder might rumble, but they just 
+  munch on their feed, calm as you like.
+Talk1004: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='0c004c0061007500670068005300'/>You'll stop by next time you're in the
+  area, right?<0 Type='4'/>I'd give you a big welcome back, and I
+  know the white goats would too!
+GoldHorse: |
+  That's a special horse.
+Talk1005: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Thanks for finding the white goats!<0 Type='4'/>They're munching on <0 Type='3' Data='0000'/>Princess Zelda<0 Type='3' Data='ffff'/>'s
+  special feed as if nothing happened.<0 Type='4'/><3 Type='0' Data='0701'/>You can see it in their little eyes...
+  <5 Type='1'/>They're expressing gratitude to the
+  man who saved them.
+LargeHorse: |
+  You tamed that thing?
+BoneHorse: |
+  Is that a monster, or...
+Talk2000: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>I know, I know. The prized white goats of
+  Tabantha Bridge Stable are the cutest
+  things you've ever seen, right?<5 Type='0'/> RIGHT!
+  I'm sure it'll come as no surprise that I'm
+  quite particular about their feed. I want to
+  make sure they stay healthy!
+Move_01: |
+  <3 Type='0' Data='0800'/>I just know I'll make some really fine feed
+  today. I can just see their happy little goat
+  faces now!
+near0001: |
+  Feeding time!
+Talk2001: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='08004500610073006500'/><0 Type='3' Data='0200'/><FontSize Value='80'/>First I need to go and gather the ingredients...<5 Type='0'/>
+  Then, as long as I don't lose the special recipe...
+  
+  I should be able to whip up some feed so delicious,
+  it'll make the darling goats bleat for joy!<FontSize Value='100'/><0 Type='3' Data='ffff'/>
+Move_02: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='08004500610073006500'/>Hoo! I put in some work today!<0 Type='4'/>My body's aching from taking care of
+  the goats, but the stable will be nice
+  and relaxing.
+near0002: |
+  It's pouring!
+Talk2002: |
+  <0 Type='3' Data='0200'/><FontSize Value='80'/><3 Type='0' Data='0c01'/>Not too long ago, I got my hands on a special recipe.
+  I'll be able to show my culinary skills to my beloved
+  goats any day now...<FontSize Value='100'/><0 Type='3' Data='ffff'/>
+near0003: |
+  The special goat feed...
+Weather_01: |
+  <3 Type='0' Data='0700'/>From the looks on their faces, you can tell
+  the goats are fine with getting a bit
+  wet from the rain.
+  But I'm going to retreat to a spot with a
+  roof so I don't catch a cold.
+near0004: |
+  Tomorrow's feed menu is...

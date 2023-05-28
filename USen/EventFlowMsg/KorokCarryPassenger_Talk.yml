@@ -1,0 +1,62 @@
+Near04: |
+  Oof...
+Talk29: |
+  <3 Type='0' Data='0701'/>My friend is sending up a smoke signal.
+  I can't wait to catch up!
+Talk19: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='0600530061006400'/>It sounds like things aren't all right in
+  Korok Forest. Maybe they will be soon!
+Talk10: |
+  <0 Type='3' Data='0200'/><FontSize Value='80'/><3 Type='0' Data='0300'/><4 Type='0' Data='0e0045006100730065005f0030003000'/>This is awful...<5 Type='0'/> Where's my friend...<FontSize Value='100'/><0 Type='3' Data='ffff'/>
+Talk30: |
+  <3 Type='0' Data='0a00'/>I'm so tired though. I can't move...
+Talk20: |
+  <3 Type='0' Data='0700'/>I'm waiting here for my friend.
+Talk11: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0e0045006100730065005f0030003000'/>Aww,<5 Type='0'/> my friend and I got separated...
+Talk21: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='0a005400680069006e006b00'/>My friend is over that way.
+Talk31: |
+  <3 Type='0' Data='0800'/>Thanks for bringing my friend!
+Talk12: |
+  <3 Type='0' Data='0a00'/>You're moving me? Then you must be
+  able to see me! Be gentle, OK?
+  
+  I'm in a real pickle. I was traveling with
+  someone and got separated.
+Talk22: |
+  <3 Type='0' Data='0c01'/>I wonder what happened?
+Talk02: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='12004c0061007500670068004c005f0030003000'/>Bye!
+Talk03: |
+  <3 Type='0' Data='0800'/>I made it, thanks to you!
+Talk14: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Huh?<5 Type='0'/> You can see me?<5 Type='1'/>
+  
+  
+  <3 Type='0' Data='0801'/>I'm a Korok!<5 Type='1'/> One of the children of
+  the forest!
+  
+  I was traveling with my friend...
+Talk04: |
+  <3 Type='0' Data='0b00'/>Aaah!<5 Type='1'/> You scared me!<5 Type='1'/>
+Near01: |
+  I need to reach my friend!
+Talk26: |
+  <3 Type='0' Data='0800'/>Thanks for bringing my friend! Here's
+  something for you!
+Talk16: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='0600530061006400'/>I'm worried about everyone in
+  Korok Forest.
+Near02: |
+  <4 Type='0' Data='10004700720065006500740069006e006700'/>There's my friend!
+Talk27: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003000'/>Reunited at last! Thanks!<5 Type='0'/>
+  
+  
+  I'd like to give you something, but here's
+  all I have!
+Near03: |
+  <4 Type='0' Data='0a0048006100700070007900'/>You're here!
+Talk28: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>But we got separated.

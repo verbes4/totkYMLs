@@ -1,0 +1,112 @@
+talk_1002: |
+  <3 Type='0' Data='0900'/>Hey! Don't get near me dressed like that!
+  What if they get suspicious of me too?
+  
+  <FontSize Value='125'/>Go away! And be quick about it!<FontSize Value='100'/>
+5507: |
+  I'll take 'em all!
+talk_1003: |
+  <3 Type='0' Data='0700'/>I said...<5 Type='0'/>
+  
+  
+  <FontSize Value='125'/><3 Type='0' Data='0900'/>Get away from me!<FontSize Value='100'/>
+talk_1020: |
+  <FontSize Value='125'/><3 Type='0' Data='0900'/>Beg the banana's forgiveness!<1 Type='3' Data='5a000000'/><FontSize Value='100'/>
+Com_Talk_06: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Grilled, delicious, wonderful bananas!
+  Step right up, and buy a bunch!
+talk_1021: |
+  <FontSize Value='125'/><3 Type='0' Data='0900'/>For the bana— Er, for the boss!<1 Type='3' Data='5a000000'/><FontSize Value='100'/>
+Com_Talk_07: |
+  <3 Type='0' Data='0700'/>No bananas left, all thanks to you!
+0000: |
+  Grill one up for me!
+Com_Talk_08: |
+  <3 Type='0' Data='0a00'/>You haven't got enough rupees, friend.
+  I'm afraid you can't pay for these bananas
+  in installments.
+Com_Talk_11_b: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='0c004c0061007500670068004c00'/>Thanky-thanky-thank-a you.
+0001: |
+  I'll pass.
+talk_1040: |
+  <3 Type='0' Data='0701'/>There's only one place for those who deny
+  the joys of a grilled banana...
+Com_Talk_09: |
+  <3 Type='0' Data='0a00'/>Well, it looks like your pouch is full.
+  Not even room for a banana in there.
+  I can tell from here.
+Com_Talk_11_c: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068004c00'/>Even the bananas are happy now!
+Com_Talk_11_d: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068004c00'/>I bet you want more, don't you?
+Com_Talk_10: |
+  <3 Type='0' Data='0000'/>Buy these sweet, sweet bananas!
+Com_Talk_11: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='0c004c0061007500670068004c00'/>Sellin' over here! Sellin' over here!
+Com_Talk_12: |
+  <3 Type='0' Data='0700'/>These bananas are my pride and joy!
+talk_1010: |
+  <3 Type='0' Data='0800'/>What sort of icy heart does it take to turn
+  down a hot, freshly grilled banana?
+  
+  Are you gonna be a lookie-loo, or will you
+  buy a banana or two? Just one bite and it
+  all begins!
+Com_Talk_30: |
+  <3 Type='0' Data='0000'/>Pick as many as you want.
+Com_Talk_31: |
+  <3 Type='0' Data='0000'/>If you buy <0 Type='3' Data='0000'/><2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/><0 Type='3' Data='ffff'/>, that'll come to a total
+  of <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>. Buy 'em right up!
+Com_Talk_32: |
+  <3 Type='0' Data='0000'/>One banana for you? <5 Type='0'/>Then that'll be
+  <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>.
+talk_1030: |
+  <3 Type='0' Data='0800'/>All right, then. Hope you come back soon!
+  That's a lie fresh off the grill of deception.
+5500: |
+  OK.
+near_0000: |
+  Grilled bananas here!
+Com_Talk_34: |
+  <3 Type='0' Data='0000'/>All the bananas?! I don't know what
+  to say!<5 Type='0'/> So then...<2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/> will run you
+  <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>. What a sale!
+5501: |
+  On second thought...
+5502: |
+  Buy.
+Com_Talk_36: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068004c00'/>You really are a banana fan, aren't you?
+5503: |
+  Never mind.
+Com_Talk_37: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Well, well...<5 Type='1'/> Thanks to you, I'm all out of
+  bananas to grill!
+  
+  Still want to take a look at the menu
+  before you go?
+talk_1000: |
+  <3 Type='0' Data='0800'/>Step right up—come and chill!
+  Hot bananas, fresh off the grill!
+  
+  Hold 'em in your hands, feel that heat!
+  Take a big bite, what a treat!
+  
+  And the flavor—like a dream! A little taste
+  of heaven, if you know what I mean.
+  
+  Stop right there and buy a pair!
+Com_Talk_20: |
+  <3 Type='0' Data='0700'/>These bananas are my pride and joy!
+talk_1001: |
+  <3 Type='0' Data='0800'/>Step right up—come and chill!
+  Hot bananas, fresh off the grill!
+  
+  Hold 'em in your hands, feel that heat!
+  Take a big bite, what a treat!
+  
+  And the flavor—like a dream! Grilled
+  banana heaven, if you know what I mean.
+  
+  Stop right there and buy a pair!

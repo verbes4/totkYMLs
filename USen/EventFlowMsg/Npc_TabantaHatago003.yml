@@ -1,0 +1,73 @@
+Talk_01: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Phew! Another vibe feeler! I was starting
+  to worry that it might just be me.
+Talk_18: |
+  <3 Type='0' Data='0b00'/>Wha— Hey! Please don't touch that. It
+  wasn't exactly easy to get my hands on.
+Talk_02: |
+  <3 Type='0' Data='0701'/>The forest ahead is the <0 Type='3' Data='0000'/>Lost Woods<0 Type='3' Data='ffff'/>, and
+  it's always been...pretty weird. If you got
+  lost, you'd wind up back at the entrance!
+  But now, the fog in there's gotten even
+  thicker. Take two steps into the forest,
+  and it'll spit you right out.
+Talk_19: |
+  <3 Type='0' Data='0c00'/>If you made your way to those sky islands,
+  you might just be able to approach that
+  strange ruin from above.
+  I've half a mind to take a balloon up there
+  myself, but the louder half is screaming,
+  "No! Nooo!" so it might take me a while.
+Talk_03: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>The vibes! I mean...the fog! In the forest
+  up ahead!
+Talk_10: |
+  <3 Type='0' Data='0701'/>Oh, are you an adventurer too? You feel
+  the vibes, right? The strange vibes in the
+  air all around here?
+Talk_04: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Not too long ago, you could at least walk
+  into those woods, but now you <0 Type='3' Data='0000'/>can't
+  progress at all<0 Type='3' Data='ffff'/>.
+Talk_11: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Oho? Are you a fellow adventurer? Then
+  listen close, friend, I've got something
+  good to share.<0 Type='4'/>Behold!
+Talk_12: |
+  <3 Type='0' Data='0c00'/>Thing is, no matter how you try, you'll get
+  enveloped in fog and expelled from the
+  forest before you can get close.
+Near_00: |
+  It's just so weird...
+Talk_07: |
+  <3 Type='0' Data='0700'/>The <0 Type='3' Data='0000'/>Lost Woods<0 Type='3' Data='ffff'/> up ahead have always
+  been pretty weird, but they've gotten
+  even weirder of late.
+  Before, you could at least walk a ways
+  into the woods, but now <0 Type='3' Data='0000'/>you can't
+  progress at all<0 Type='3' Data='ffff'/>.
+Talk_13: |
+  <3 Type='0' Data='0700'/>You see it? That structure with the whole
+  swirling-green situation going on?
+  
+  They've been showing up everywhere.
+  Gets your adventurer's heart pumping for
+  some exploration, huh?
+0000: |
+  The...vibes?
+Talk_15: |
+  <3 Type='0' Data='0701'/>But while I was investigating, I noticed
+  something interesting.<0 Type='4'/>Look, up in the sky!
+0001: |
+  I feel the vibes.
+Talk_16: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>You see those floating islands?
+Talk_00: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>Ugh, what is with these weird vibes?
+Talk_17: |
+  <3 Type='0' Data='0701'/>I bet you could get a great view looking
+  down from up there.
+  
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0c005300610064005f0030003000'/>I'd take a balloon up there myself, but...
+  I need to make sure everything is ready to
+  fly...<5 Type='1'/>and swallow my fear of heights.

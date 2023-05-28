@@ -1,0 +1,139 @@
+GoRange_01_2: |
+  <3 Type='0' Data='0a00'/>I asked the treasure hunters at <0 Type='3' Data='0000'/>Foothill
+  Stable <0 Type='3' Data='ffff'/>which <0 Type='3' Data='0000'/>cave<0 Type='3' Data='ffff'/> to check in the
+  Tabantha Frontier for <0 Type='3' Data='0000'/>Misko's treasure<0 Type='3' Data='ffff'/>.<0 Type='3' Data='0000'/><0 Type='4'/><0 Type='3' Data='ffff'/>All that walking, from here to <0 Type='3' Data='0000'/>Eldin<0 Type='3' Data='ffff'/> in the
+  northeast of Hyrule and back again, and
+  I'm no closer to my prize.<0 Type='4'/><3 Type='0' Data='0a00'/>If I can't find it now, will I ever?
+Near_RainPoint_01: |
+  This rain is picturesque.
+SagonoHat: |
+  That's a Cece exclusive!
+StartPoint_01_2: |
+  <3 Type='0' Data='0800'/>There's no smoke without fire!<0 Type='4'/>Rumor has it that part of the bandit
+  <0 Type='3' Data='0000'/>Misko<0 Type='3' Data='ffff'/>'s<0 Type='3' Data='0000'/> <0 Type='3' Data='ffff'/>collection of clothes is hidden
+  in a cave in the Tabantha Frontier.
+FriendGreet_00: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Wow! <5 Type='0'/>What are the odds we'd run into
+  each other again? Wonders never cease.
+  
+  Next you're going to tell me you're also
+  chasing after <0 Type='3' Data='0000'/>Misko's treasure<0 Type='3' Data='ffff'/>.
+StartPoint_01_3: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1a0055006e006400650072007300740061006e0064005f0030003100'/>That was the most exciting thing I learned
+  from the <0 Type='3' Data='0000'/>treasure-hunting brothers <0 Type='3' Data='ffff'/>at
+  <0 Type='3' Data='0000'/>Foothill Stable<0 Type='3' Data='ffff'/>.<0 Type='4'/>It was worth the trip to <0 Type='3' Data='0000'/>Eldin <0 Type='3' Data='ffff'/>in the
+  <0 Type='3' Data='0000'/>northeast of Hyrule <0 Type='3' Data='ffff'/>to visit them.
+FriendGreet_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Hey there.<5 Type='0'/>
+  
+  
+  You wouldn't happen to also be after
+  <0 Type='3' Data='0000'/>Misko's treasure<0 Type='3' Data='ffff'/>, would you?
+StartPoint_01: |
+  <3 Type='0' Data='0000'/>There's treasure stashed in a <0 Type='3' Data='0000'/>cave<0 Type='3' Data='ffff'/>
+  somewhere here in the <0 Type='3' Data='0000'/>Tabantha Frontier<0 Type='3' Data='ffff'/>.<0 Type='4'/><3 Type='0' Data='0800'/>And this isn't any old treasure like money
+  or jewels. Oh no.<0 Type='4'/>This is something from Misko's personal
+  <0 Type='3' Data='0000'/>clothes collection<0 Type='3' Data='ffff'/>!
+SavedLv1_00: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='08004500610073006500'/>Thank you.<5 Type='0'/> Because of you, there's not
+  even a single scratch on me.
+RainPoint_01: |
+  <3 Type='0' Data='0700'/>I've been looking all this time, and still
+  haven't found it...<0 Type='4'/>But it's raining now. This is the time to
+  rest up, pull yourself together, and give
+  your clothes time to dry.<0 Type='4'/><3 Type='0' Data='0700'/>The bandit Misko probably felt the same
+  way, given that <0 Type='3' Data='0000'/>an outfit from their
+  collection<0 Type='3' Data='ffff'/> is stashed away in a <0 Type='3' Data='0000'/>cave<0 Type='3' Data='ffff'/> here.<0 Type='4'/>They clearly had strong feelings about the
+  proper care and preservation of fabrics.<0 Type='4'/><3 Type='0' Data='0800'/>Just like me!
+GoRange_02_2: |
+  <3 Type='0' Data='0a00'/>I asked the treasure hunters at <0 Type='3' Data='0000'/>Foothill
+  Stable <0 Type='3' Data='ffff'/>which <0 Type='3' Data='0000'/>cave<0 Type='3' Data='ffff'/> to check in the
+  Tabantha Frontier for <0 Type='3' Data='0000'/>Misko's treasure<0 Type='3' Data='ffff'/>.<0 Type='3' Data='0000'/><0 Type='4'/><0 Type='3' Data='ffff'/>All that walking, from here to <0 Type='3' Data='0000'/>Eldin<0 Type='3' Data='ffff'/> in the
+  northeast of Hyrule and back again, and
+  I'm no closer to my prize.<0 Type='4'/><3 Type='0' Data='0a00'/>Maybe I need to look further off the
+  beaten path?<0 Type='4'/><0 Type='3' Data='0200'/><FontSize Value='80'/>I don't like the idea of roughing it in a place called
+  the "frontier." Not in these clothes, at least, and I
+  didn't pack my roughing-it outfit.<FontSize Value='100'/><0 Type='3' Data='ffff'/>
+Near_Rain: |
+  Gotta keep dry somehow.
+SavedLv1_01: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='08004500610073006500'/>Thank you. You really saved me back
+  there.<5 Type='0'/> Fighting monsters is not my forte.
+SavedLv2_00: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='08004500610073006500'/>You saved me.<5 Type='0'/> I'll leave the whole
+  monster-fighting thing to people like you.
+GoalPoint_01: |
+  <3 Type='0' Data='0700'/>You're heading for the <0 Type='3' Data='0000'/>Tabantha Frontier<0 Type='3' Data='ffff'/>,
+  right? <5 Type='1'/>It's right beyond this valley.<0 Type='4'/>I heard that <0 Type='3' Data='0000'/>Misko's treasure <0 Type='3' Data='ffff'/>is supposed
+  to be in a <0 Type='3' Data='0000'/>cave <0 Type='3' Data='ffff'/>somewhere in this area,
+  so I've gotten to know the region well.<0 Type='4'/><3 Type='0' Data='0a00'/>Haven't found it yet though.
+GoRange_01: |
+  <3 Type='0' Data='0a00'/>I've walked up and down the roads in this
+  area, and I haven't found any <0 Type='3' Data='0000'/>caves <0 Type='3' Data='ffff'/>at all
+  that might hold <0 Type='3' Data='0000'/>Misko's treasure<0 Type='3' Data='ffff'/>.<0 Type='4'/><3 Type='0' Data='0a00'/>I even went to the trouble of asking the
+  treasure hunters at <0 Type='3' Data='0000'/>Foothill Stable <0 Type='3' Data='ffff'/>which
+  <0 Type='3' Data='0000'/>cave<0 Type='3' Data='ffff'/> to check in the Tabantha Frontier.<0 Type='3' Data='0000'/><0 Type='4'/><0 Type='3' Data='ffff'/>All that walking, from here to <0 Type='3' Data='0000'/>Eldin<0 Type='3' Data='ffff'/> in the
+  northeast of Hyrule and back again, and
+  I'm no closer to my prize.
+SavedLv2_01: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='08004500610073006500'/>You saved me. Thank you.<5 Type='0'/> I don't know
+  the first thing about defeating monsters.
+SavedLv3_00: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='08004500610073006500'/>Woof.<5 Type='0'/> Didn't think I was going to make it.
+  <5 Type='0'/>Thanks so much. I've had more than
+  enough of monsters...
+GoRange_02: |
+  <3 Type='0' Data='0a00'/>I've walked up and down the roads in this
+  area, and I haven't found any <0 Type='3' Data='0000'/>caves <0 Type='3' Data='ffff'/>at all
+  that might hold <0 Type='3' Data='0000'/>Misko's treasure<0 Type='3' Data='ffff'/>.<0 Type='4'/>Maybe I need to look further off the
+  beaten path?<0 Type='4'/><0 Type='3' Data='0200'/><FontSize Value='80'/>That'll be tough in this outfit. <5 Type='1'/>Finding Misko's
+  treasure, or sullying this one-of-a-kind outfit...
+  Life has presented me with quite the dilemma.<FontSize Value='100'/><0 Type='3' Data='ffff'/>
+SavedLv3_01: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='08004500610073006500'/>Ah, I'm saved!<5 Type='0'/> Your fighting was
+  picturesque. <5 Type='0'/>Thank you.
+Near_StartPoint_01: |
+  Where did Misko hide it?
+Near_Thunder: |
+  Eeek!
+GoalPoint_01_2: |
+  <3 Type='0' Data='0a00'/>I already know that Misko's treasure is<0 Type='3' Data='0000'/><0 Type='3' Data='ffff'/>
+  hidden in a <0 Type='3' Data='0000'/>cave <0 Type='3' Data='ffff'/>in the <0 Type='3' Data='0000'/>Tabantha Frontier<0 Type='3' Data='ffff'/>.<0 Type='3' Data='0000'/><0 Type='3' Data='ffff'/>
+  The rest should be a cinch.<5 Type='0'/><0 Type='4'/>So why haven't I found it yet?
+RainPoint_01_2: |
+  <3 Type='0' Data='0700'/>Wet clothes are a guaranteed mood killer.<0 Type='4'/>The bandit Misko probably felt the same
+  way, given that <0 Type='3' Data='0000'/>an outfit from their
+  collection<0 Type='3' Data='ffff'/> is stashed away in a <0 Type='3' Data='0000'/>cave<0 Type='3' Data='ffff'/> here.<0 Type='4'/>They clearly had strong feelings about the
+  proper care and preservation of fabrics.<0 Type='4'/><3 Type='0' Data='0800'/>Just like me!
+Near_GoRange_02: |
+  Where's the cave?
+Atacked00: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='0e00520075006e006100770061007900'/>Eeeeeeeek! Help meee!<5 Type='0'/> Heeelp!
+Guardian00: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='1200530075007200700072006900730065004c00'/>Whoa... <5 Type='0'/>Wait just one second...<5 Type='0'/> Wh-<5 Type='0'/>what
+  <5 Type='0'/>IS that thing?!
+GoalPoint_01_3: |
+  <3 Type='0' Data='0a00'/>I went all the way to <0 Type='3' Data='0000'/>Foothill Stable<0 Type='3' Data='ffff'/> in
+  <0 Type='3' Data='0000'/>Eldin<0 Type='3' Data='ffff'/>, in the northeast of Hyrule, just to
+  talk to the <0 Type='3' Data='0000'/>treasure-hunting brothers<0 Type='3' Data='ffff'/>.<0 Type='4'/>Then I had to walk all the way back here.
+Near_GoalPoint_01: |
+  Where is it?
+Failed00: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='1200530068006900740061007500630068006900'/>That was terrifying...<5 Type='0'/> That's probably
+  going to be a new recurring nightmare
+  for me...
+Atacked01: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='0e00520075006e006100770061007900'/>Monster attack!<5 Type='0'/> S-s-save meeeeee!
+ComNakedCheck_W_001: |
+  <3 Type='0' Data='0700'/>Hey, whoa!<5 Type='1'/> I'm a free spirit too, but...<0 Type='4'/>You have to put on a shirt or some
+  trousers before you talk to me!
+EnokidaSignboard: |
+  Is that hairstyle in now?
+Failed01: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='1200530068006900740061007500630068006900'/>I can't stop shaking...<5 Type='0'/> The only monsters
+  I want to see are the ones in pictures...
+NakedPlayer: |
+  Where's the style in that?
+Thanks00: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0a0048006100700070007900'/>I have to thank you somehow.<5 Type='0'/> Please take
+  this as a token of my gratitude.

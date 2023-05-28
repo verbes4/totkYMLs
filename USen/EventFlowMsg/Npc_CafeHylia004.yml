@@ -1,0 +1,73 @@
+Talk_02: |
+  <3 Type='0' Data='0701'/>I'm not one to stop folks, but I'll tell ya
+  it's boiling <0 Type='3' Data='0000'/>inside the cave<0 Type='3' Data='ffff'/>. One wrong
+  move and you'll be <0 Type='3' Data='0000'/>burned to a crisp<0 Type='3' Data='ffff'/>.
+Talk_09: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004e006f007400690063006500'/>Hey, buddy. You after <0 Type='3' Data='0000'/>marbled
+  rock roasts<0 Type='3' Data='ffff'/>?
+  
+  There are some in there, but the path to
+  them has collapsed, so you'll have to
+  be careful.
+Talk_11: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004e006f007400690063006500'/>Hey, buddy. You after <0 Type='3' Data='0000'/>rock roasts<0 Type='3' Data='ffff'/>?
+  
+  
+  There are some in there, but the path to
+  them has collapsed, so you'll have to
+  be careful.
+Near: |
+  Gotta get all the dirt off.
+Talk_03: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0700'/><0 Type='3' Data='ffff'/>The caves here have lava in them, so <0 Type='3' Data='0000'/>it's
+  burning hot inside<0 Type='3' Data='ffff'/>. You'll turn to dust
+  unless you're a Goron.
+  For Hylians like us, we have to do
+  something extra to protect ourselves.
+  
+  Mixing <0 Type='3' Data='0000'/>fireproof lizards <0 Type='3' Data='ffff'/>with<0 Type='3' Data='0000'/> monster parts<0 Type='3' Data='ffff'/>
+  to make fireproof elixirs, for example.
+  
+  I can't help out with the ingredients, but
+  if you have them, feel free to use that pot
+  over there to make what you need.
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068005300'/>Me? I'm completely <0 Type='3' Data='0000'/>drenched <0 Type='3' Data='ffff'/>from top
+  to bottom, so I won't be getting burnt
+  anytime soon.
+Talk_13: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068005300'/>But at this point, I'm used to the heat.
+  I just <0 Type='3' Data='0000'/>soak myself in water<0 Type='3' Data='ffff'/>, and I'm good
+  to go. The elixir's just in case.
+Talk_04: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004c0061007500670068005300'/>Since you've got such great gear going
+  on, you probably don't need an earful
+  from me.
+Talk_14: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='0c004e006f007400690063006500'/>Ahhh, thanks.
+  
+  
+  I was getting overheated, so that helped.<5 Type='1'/>
+  
+  
+  That should do it. <5 Type='1'/>I'm good now.<5 Type='1'/>
+Talk_07: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Eh? What's up, bud? You trying to get
+  into this cave?
+Talk_00: |
+  <3 Type='0' Data='0701'/>I'm not one to stop folks, but I'll tell ya
+  it's boiling <0 Type='3' Data='0000'/>inside the cave<0 Type='3' Data='ffff'/>. You'll be
+  <0 Type='3' Data='0000'/>burned to a crisp <0 Type='3' Data='ffff'/>going in there like that.
+0000: |
+  Burned to a crisp?
+Talk_08: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0700'/><0 Type='3' Data='ffff'/>The caves around here still spew lava.
+  Which means they're boiling hot—you get
+  burned up pretty quick once inside them.
+  Anytime I go inside one of these caves,
+  I make sure I'm carrying a fireproof elixir.
+  
+  You can whip one up real quick combining
+  a <0 Type='3' Data='0000'/>fireproof lizard <0 Type='3' Data='ffff'/>and <0 Type='3' Data='0000'/>monster parts <0 Type='3' Data='ffff'/>in
+  a pot.
+0001: |
+  Goodbye.

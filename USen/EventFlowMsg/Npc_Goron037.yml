@@ -1,0 +1,113 @@
+Talk_0020: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Don't I know you, traveler?<5 Type='1'/> Good evenin'!
+0001: |
+  Goron City?
+Talk_0021: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Don't I know you, traveler?<5 Type='1'/> Coming out
+  here while it's all soggy, huh? Interesting.
+0002: |
+  YunoboCo?
+Talk_0002: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003100'/>Hey there! You just passing through?
+  Mind if I yammer at ya for a sec?
+  
+  I've heard things have gotten pretty
+  bad in <0 Type='3' Data='0000'/>Goron City<0 Type='3' Data='ffff'/>.
+  
+  The workers aren't working, includin' my
+  pals at <0 Type='3' Data='0000'/>YunoboCo<0 Type='3' Data='ffff'/> who live to work!
+  
+  Do you know what's goin' on over there?
+  I'm worried...
+Talk_0003: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0600530061006400'/>As a traveler, I figured you might know
+  something about whatever's happening
+  in <0 Type='3' Data='0000'/>Goron City<0 Type='3' Data='ffff'/>.
+  I heard that my pals at <0 Type='3' Data='0000'/>YunoboCo<0 Type='3' Data='ffff'/>
+  have shut down production and are
+  sittin' on their haunches.
+  Just what's goin' on?<5 Type='0'/>
+Talk_0023: |
+  <3 Type='0' Data='0a01'/>I'm so worried, I can't sleep...
+Talk_0004: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>From what I've been hearin', <0 Type='3' Data='0000'/>Goron City<0 Type='3' Data='ffff'/> is
+  back in business!
+  
+  Which means I'd better hurry up and
+  finish work out here so I can get back
+  to <0 Type='3' Data='0000'/>YunoboCo HQ<0 Type='3' Data='ffff'/>. <5 Type='1'/>
+Talk_0024: |
+  <3 Type='0' Data='0700'/>Careful, now. The ground is uneven, what
+  with all the debris everywhere.
+  
+  If you wander around without payin'
+  attention, you might end up fallin' down
+  a hole...
+Talk_0005: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>That's the mining team founded by our
+  wonderful President Yunobo. Or Prez
+  for short.
+  If ya see someone wearin' a blue uniform
+  with a pickax logo on it, they work for
+  <0 Type='3' Data='0000'/>YunoboCo<0 Type='3' Data='ffff'/>. Like me!
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Normally, we'd be off minin' ore outta
+  caves near <0 Type='3' Data='0000'/>Goron City<0 Type='3' Data='ffff'/>, but lately a buncha
+  <0 Type='3' Data='0000'/>Zonai devices<0 Type='3' Data='ffff'/> fell down in the area.
+  I heard the folks out here needed help
+  clearin' it all out, so I came to pitch in.
+Talk_0015: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='0a0053006c00650065007000'/>Gotta hurry...<5 Type='0'/>to Goron City...
+Talk_0016: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>Word is things are still real bad in
+  <0 Type='3' Data='0000'/>Goron City<0 Type='3' Data='ffff'/>.
+  
+  My pals at <0 Type='3' Data='0000'/>YunoboCo <0 Type='3' Data='ffff'/>still aren't working.
+  What could be goin' on...
+Talk_0006: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>Never heard of <0 Type='3' Data='0000'/>Goron City<0 Type='3' Data='ffff'/>?<5 Type='1'/>
+Talk_0017: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>You a traveler?<5 Type='1'/>
+  
+  
+  Careful, now. The ground is uneven, what
+  with all the debris everywhere. I wouldn't
+  wander around too much, if I were you.
+Talk_0007: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>It's home to all Gorons, located <0 Type='3' Data='0000'/>northwest<0 Type='3' Data='ffff'/>
+  of here in the Eldin region.
+  
+  If ya look off that way, you can see
+  <0 Type='3' Data='0000'/>Death Mountain<0 Type='3' Data='ffff'/>. Goron City's at the
+  base of it.
+  But lately the mountain's been looking
+  kinda...<5 Type='0'/>different. Makes a fella
+  uneasy, yanno?
+  <3 Type='0' Data='0301'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>Aside from that, I've also been hearin'
+  <0 Type='3' Data='0000'/>bothersome things <0 Type='3' Data='ffff'/>about the Gorons back
+  home. I'm so worried, I can barely work...
+  See, we Gorons are a friendly and
+  hard-workin' sort. We never get up
+  to any kind of trouble.
+  But I'm told even my pals at <0 Type='3' Data='0000'/>YunoboCo<0 Type='3' Data='ffff'/>
+  have stopped production. Somethin's
+  just not right...
+Talk_0018: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0c004c0061007500670068005300'/>Sounds like <0 Type='3' Data='0000'/>Goron City<0 Type='3' Data='ffff'/> is up and running
+  again. I wanna wrap this work up quickly
+  and head back to <0 Type='3' Data='0000'/>YunoboCo HQ<0 Type='3' Data='ffff'/>!
+Talk_0008: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0600530061006400'/>I've been away for a while, and things
+  have gotten bad back home... Just what's
+  happening over there?
+Near_0002: |
+  Time to go to bed...
+Talk_0009: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Don't I know you, traveler?<5 Type='1'/> Good mornin'!
+Talk_0019: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Don't I know you, traveler?<5 Type='1'/> Hello!
+Near_0003: |
+  *snooore*
+Near_0004: |
+  Wonder if everyone's OK...
+0000: |
+  Goodbye.

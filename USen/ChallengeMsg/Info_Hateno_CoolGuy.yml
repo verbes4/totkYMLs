@@ -1,0 +1,29 @@
+Name: |
+  Manny's Beloved
+Report: |
+  It turns out that what Ivee wants the most in
+  life is 100 <0 Type='3' Data='0000'/>hot-footed frogs<0 Type='3' Data='ffff'/>.
+  
+  You should break the news to <0 Type='3' Data='0000'/>Manny<0 Type='3' Data='ffff'/>.
+Finish: |
+  Upon learning that Ivee wants a collection of
+  100 hot-footed frogs, Manny enlisted your
+  help as a frog catcher.
+  
+  Start by collecting <0 Type='3' Data='0000'/>10 hot-footed frogs<0 Type='3' Data='ffff'/>, which
+  can be found in wells and caves. One such
+  well in the village is home to many frogs.
+Step01: |
+  It seems Manny's friend's friend badly wants
+  to catch the eye of <0 Type='3' Data='0000'/>Ivee<0 Type='3' Data='ffff'/>, the greeter for the
+  general store.
+  
+  Can you muster the courage to ask Ivee what
+  she likes the most?
+Complete: |
+  You delivered the 10 hot-footed frogs to
+  Manny and received a reward.
+  
+  Manny confessed that he was the one who
+  wanted to catch Ivee's eye. His plan now is to
+  find the remaining hot-footed frogs on his own.

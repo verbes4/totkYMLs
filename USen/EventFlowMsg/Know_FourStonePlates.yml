@@ -1,0 +1,205 @@
+Talk_01_14: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0600530061006400'/>Well, <5 Type='0'/>I...<5 Type='0'/> How do I say this...<5 Type='0'/> You told me
+  that already.<0 Type='4'/><3 Type='0' Data='0701'/>But I'm happy you tried.<5 Type='0'/> Thank you!<0 Type='4'/>Just let me know if you find out what's on
+  the slabs in the remaining ruins.
+Talk_01_31: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='08004300680061007400'/>I feel bad about asking you to find all this
+  out for me, since you're sightseeing too...<0 Type='4'/>But we're so close now. I need to know
+  what each one of the slabs say!
+Talk_01_15: |
+  <3 Type='0' Data='0700'/>Y'know, <5 Type='0'/>you're a good kid to take the
+  time to tell me about all this.<0 Type='4'/><3 Type='0' Data='0301'/>I'd never be able to take a look at it all
+  myself with my fear of heights.
+Talk_01_33: |
+  <3 Type='0' Data='0c00'/>I can get a good look at the floating ruins,
+  and they told me what the slab inside
+  it said...
+  But I'm still frustrated that the other
+  <0 Type='3' Data='0000'/>four Ring Ruins<0 Type='3' Data='ffff'/> are up so high.
+Talk_01_17: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Thank you for telling me about that slab!<5 Type='0'/>
+  Truly fascinating stuff.<0 Type='4'/>Just <0 Type='3' Data='0000'/><2 Type='2' Data='24004e0075006d004f0066004e006f00740054006f006c00640050006c006100740065007300ffff00cd'/><0 Type='3' Data='ffff'/> left. I can only imagine what
+  discoveries lie in store.
+0001: |
+  Goodbye.
+Talk_00_01: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Heh. <5 Type='0'/>They're only the most amazing
+  sight to see in Hyrule.<0 Type='4'/>Of all the ruins that fell everywhere,
+  these ring-shaped wonders are only in
+  this village. Five of them!
+  They've found a <0 Type='3' Data='0000'/>stone slab with Zonai
+  writing<0 Type='3' Data='ffff'/> in four of the ruins.<0 Type='4'/><3 Type='0' Data='0801'/>Those ancient messages are the main
+  reason I came to this village!
+Talk_01_18: |
+  <3 Type='0' Data='0701'/>So that was the fourth one?<5 Type='0'/> I see...
+0002: |
+  I read what's on a slab.
+Talk_01_01: |
+  <3 Type='0' Data='0701'/>So did you visit the <0 Type='3' Data='0000'/>Ring Ruins<0 Type='3' Data='ffff'/>?<5 Type='0'/> I would
+  if I wasn't scared of heights.
+  
+  <3 Type='0' Data='0c01'/>No one is allowed to visit the one ruin
+  that's floating above the village.<0 Type='4'/>But if you've read one of the <0 Type='3' Data='0000'/>slabs<0 Type='3' Data='ffff'/> in any
+  of the<0 Type='3' Data='0000'/> other four Ring Ruins<0 Type='3' Data='ffff'/>, tell me what
+  it says!
+Talk_01_19: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003100'/>Hm? <5 Type='0'/>Wait a second.<0 Type='4'/>If you look at all of these slab messages
+  together...don't they sort of read like
+  <0 Type='3' Data='0000'/>one single message<0 Type='3' Data='ffff'/>?
+  <3 Type='0' Data='0b01'/>You don't think...<5 Type='0'/> Could the <0 Type='3' Data='0000'/>rest<0 Type='3' Data='ffff'/> of the
+  message be on a slab in the floating
+  Ring Ruin?!
+  But why?<5 Type='1'/> Hmm...<0 Type='4'/><3 Type='0' Data='0a00'/>Oh, this is impossible. <5 Type='0'/>Trying to figure this
+  stuff out is making my head hurt.
+Talk_01_02: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0a005400680069006e006b00'/>With all those Ring Ruins falling out of the
+  sky, you'd hope just one more would have
+  the decency to float near the ground.
+  But no. <0 Type='3' Data='0000'/>All four of the other ruins<0 Type='3' Data='ffff'/> landed
+  way up high. I take one step up towards
+  them and break out in a cold sweat.
+  It's not fair! I want to know what <0 Type='3' Data='0000'/>those
+  stone slabs say<0 Type='3' Data='ffff'/>...
+Talk_00_04: |
+  <3 Type='0' Data='0700'/>I'll be checking out the shops around
+  here. If you see me again, say hello!
+Talk_01_03: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003000'/>What?!<5 Type='0'/> You went to see them for me?<0 Type='4'/>So...<5 Type='0'/>what did they say?
+Talk_01_20: |
+  <3 Type='0' Data='0701'/>Oh, well. At the end of the day, I learned
+  a little something about our history.<0 Type='4'/>Thank you for everything!<0 Type='4'/>From one sightseer to another, I'd like
+  to reward you with one of my personal
+  favorite travel necessities.
+Talk_00_05: |
+  <3 Type='0' Data='0a00'/>The problem is...<5 Type='0'/>I have an extreme fear
+  of heights. My legs start shaking if I'm
+  even on the second floor of a house.
+  And every Ring Ruin fell somewhere
+  high up...<0 Type='4'/><3 Type='0' Data='0c00'/>One of the ruins is floating above part
+  of the village, so at least I can see it
+  from below. 
+  The other four though? Forget about it.
+  I can't even get close.<0 Type='4'/>I wish I could find out <0 Type='3' Data='0000'/>what's on the stone
+  slabs <0 Type='3' Data='ffff'/>in each of those ruins...
+Talk_01_21: |
+  <3 Type='0' Data='0700'/>Those are <0 Type='3' Data='0000'/>thunderwing butterflies<0 Type='3' Data='ffff'/>.<0 Type='4'/>I caught these unusual insects on my
+  travels through the Faron region. They
+  only come out in the rain!
+  You can boil them with monster parts to
+  make an elixir that grants you resistance
+  to electricity.
+  Remember that! It'll come in handy on
+  your travels, take it from me.<5 Type='0'/> All right,
+  then, I'll see you around!
+Talk_00_06: |
+  They're all so high up...
+Talk_01_05: |
+  <3 Type='0' Data='0c00'/>Back in ancient Hyrule, people called
+  "sages" protected the kingdom... I see...<5 Type='0'/>
+  How fascinating.<0 Type='4'/><3 Type='0' Data='0701'/>I bet those sages were nearly as strong
+  and wise as Princess Zelda herself.
+Talk_00_07: |
+  <3 Type='0' Data='0a00'/>The problem is...<5 Type='0'/>I have an extreme fear
+  of heights. My legs start shaking if I'm
+  even on the second floor of a house.
+  And every Ring Ruin fell somewhere
+  high up...<0 Type='4'/><3 Type='0' Data='0c00'/>A survey-team member told me what was
+  on the stone slab in the ruin that used to
+  be off-limits.
+  But what's on each of the <0 Type='3' Data='0000'/>slabs in the
+  other four Ring Ruins<0 Type='3' Data='ffff'/>? My curiosity's
+  killing me!
+Talk_01_06: |
+  <3 Type='0' Data='0c00'/>So in this ancient battle, the king and
+  all the sages fought the Demon King, but
+  they couldn't defeat him.
+  Still, they tried to leave a glimmer of hope
+  behind for the people of the future—
+  for us.
+  That's really something.<5 Type='0'/> Huh.<0 Type='4'/><3 Type='0' Data='0b01'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003000'/>H-hey, you don't think the Upheaval is
+  some kind of sign of the Demon King's
+  resurrection, do you?
+  <3 Type='0' Data='0001'/>Ha...ha... <5 Type='0'/>It c-<5 Type='0'/>can't be, right? I must be
+  overthinking things.
+Talk_01_23: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>Hm? <5 Type='0'/>Your pouch is full!
+  
+  
+  Darn it. I was going to give you the <0 Type='3' Data='0000'/>three
+  thunderwing butterflies <0 Type='3' Data='ffff'/>I caught in Faron<5 Type='0'/>.<0 Type='4'/>I do want to thank you,<5 Type='0'/> so come back
+  when you have the space to take 'em!
+Talk_00_08: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Heh. <5 Type='0'/>They're only the most amazing
+  sight to see in Hyrule.<0 Type='4'/><3 Type='0' Data='0700'/>Of all the ruins that fell everywhere,
+  these ring-shaped wonders are only in
+  this village. Five of them!
+  They've found a <0 Type='3' Data='0000'/>stone slab with Zonai
+  writing<0 Type='3' Data='ffff'/> in every single one.<0 Type='4'/><3 Type='0' Data='0801'/>Those ancient messages are the main
+  reason I came to this village!
+Talk_01_07: |
+  <3 Type='0' Data='0c00'/>There were once people blessed by wind,
+  fire, water, and lightning...<5 Type='0'/>as well as time
+  and light.<5 Type='0'/><0 Type='4'/>And these people used "secret stones" to
+  amplify their powers... Wow.<0 Type='4'/><3 Type='0' Data='0701'/>They must have had some pretty amazing
+  rocks way back when, huh?
+Talk_01_24: |
+  <3 Type='0' Data='0700'/>You free up space in your pouch?<0 Type='4'/>Then here's what I wanted to give you!
+Talk_01_08: |
+  <3 Type='0' Data='0c00'/>So it's not enough to be exceptional—
+  you need a secret stone to be a sage...<5 Type='1'/>
+  Or so it seems, at least.<0 Type='4'/>But what is a secret stone?<0 Type='4'/><3 Type='0' Data='0101'/>If it's that special, I'm sure its beauty
+  would put a diamond to shame.
+Talk_01_25: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0a005400680069006e006b00'/>Hm?<5 Type='0'/> Your pouch is still full, there.<0 Type='4'/>I was hoping to give you the <0 Type='3' Data='0000'/>three
+  thunderwing butterflies<0 Type='3' Data='ffff'/> I caught in Faron.<0 Type='4'/>Come back when you've made room!
+Talk_01_09: |
+  <3 Type='0' Data='0b00'/>You had a chance to see more?<5 Type='0'/>
+  Wh-what was written on them?
+Talk_01_26: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003000'/>Hm?<5 Type='0'/> You know what's written on the
+  stone slates?<5 Type='0'/> That's amazing. I could
+  never climb to such a high, uh...height.
+  I have so much respect for you.<0 Type='4'/>So, uh...<5 Type='0'/> Wh...<5 Type='0'/>what did they say?
+Talk_01_27: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0a005400680069006e006b00'/>You'd think some of the<0 Type='3' Data='0000'/> Ring Ruins <0 Type='3' Data='ffff'/>would
+  have landed close to the ground...<0 Type='4'/>But, no, every single one had to fall way
+  up high. Ugh, heights are the worst.<0 Type='4'/><3 Type='0' Data='0c01'/>The researchers told me what the <0 Type='3' Data='0000'/>slab<0 Type='3' Data='ffff'/>
+  in the floating Ring Ruin said, but <0 Type='3' Data='0000'/>I wish
+  I knew the contents of the other four<0 Type='3' Data='ffff'/>.
+Talk_01_28: |
+  <3 Type='0' Data='0701'/>Did you visit the <0 Type='3' Data='0000'/>Ring Ruins<0 Type='3' Data='ffff'/>?<5 Type='0'/> I would if I
+  wasn't scared of heights.
+  
+  <3 Type='0' Data='0c01'/>A member of the survey team told me
+  what was written on the slab in the
+  Ring Ruin that floats above the village.<0 Type='4'/>But if you've read one of the slabs in any
+  of the other four Ring Ruins, tell me
+  what it says!
+Talk_01_10: |
+  <3 Type='0' Data='0c00'/>It's great that you can see the <0 Type='3' Data='0000'/>floating
+  Ring Ruin <0 Type='3' Data='ffff'/>from relatively close, even if
+  it is sealed off.
+  But why do <0 Type='3' Data='0000'/>the other four<0 Type='3' Data='ffff'/> have to be
+  so distressingly high up?
+  
+  I just want to know <0 Type='3' Data='0000'/>what's written on
+  their stone slabs<0 Type='3' Data='ffff'/>...
+Talk_01_29: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>Hm?<5 Type='0'/> Wait a second.
+  
+  
+  If you put all that together with what the
+  survey-team member told me about the
+  slate in the floating Ring Ruin...
+  it all forms a <0 Type='3' Data='0000'/>single message<0 Type='3' Data='ffff'/>! <5 Type='0'/>So this
+  sage Mineru...is offering us some sort
+  of clue to...<5 Type='1'/> Hmm...<0 Type='4'/>Ngh...<5 Type='1'/> <3 Type='0' Data='0a01'/>Oh, I give up. I can't do this.<0 Type='4'/>All this puzzle-solving stuff makes my
+  head hurt.
+Talk_01_13: |
+  <3 Type='0' Data='0001'/>So, <5 Type='0'/>uh... <5 Type='0'/>Whenever you're ready...<0 Type='4'/><3 Type='0' Data='0a00'/>Oh.<5 Type='0'/> So you don't have a slab to tell me
+  about, huh?<0 Type='4'/>If you tell me what's on each one of
+  those, I'll give you a reward.<0 Type='4'/>Maybe...<5 Type='0'/>something special I take with
+  me whenever I travel.
+Talk_01_30: |
+  <3 Type='0' Data='0800'/>Thanks so much for that!<0 Type='4'/>Only <0 Type='3' Data='0000'/><2 Type='2' Data='24004e0075006d004f0066004e006f00740054006f006c00640050006c006100740065007300ffff00cd'/> <0 Type='3' Data='ffff'/>left. What secrets do you think
+  we'll learn?

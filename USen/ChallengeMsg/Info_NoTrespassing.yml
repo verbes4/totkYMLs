@@ -1,0 +1,25 @@
+Name: |
+  None Shall Pass?
+Carry: |
+  You located what looks like a shrine inside the
+  forest. Perhaps this was the place Zooki was
+  talking about. It seems that you can enter the
+  Shrine of Light if you offer up a crystal.
+  
+  Follow the ray of light, and offer up the crystal
+  at the shrine.
+Step01: |
+  According to Zooki, he once went deep into the
+  forest and found something similar to a shrine.
+  But now there are lots of monsters about, so
+  he's keeping watch to prevent Koroks from
+  going there.
+  
+  Since you're not a Korok, though, it should
+  be fine to enter.
+Complete: |
+  You offered up the crystal that came from the
+  Stone Talus, and a Shrine of Light appeared.
+  
+  Enter the shrine in order to acquire the
+  Light of Blessing.

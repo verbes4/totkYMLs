@@ -1,0 +1,134 @@
+GoRange_01_2: |
+  <3 Type='0' Data='0700'/>You've got guts, but I still wouldn't go
+  near the <0 Type='3' Data='0000'/>Coliseum Ruins <0 Type='3' Data='ffff'/>if I were you.<0 Type='4'/>There's some kind of three-headed
+  monster in there that spits <0 Type='3' Data='0000'/>lightning <0 Type='3' Data='ffff'/>at
+  whoever gets close.<0 Type='4'/><3 Type='0' Data='0c00'/>The Coliseum Ruins are inside the rocky
+  mountain opposite Outskirt Stable. But
+  it's much safer to stay around here.<0 Type='4'/><3 Type='0' Data='0700'/><4 Type='0' Data='08004500610073006500'/>You wouldn't catch me in those ruins,
+  even if I had <0 Type='3' Data='0000'/>lightning-proof gear<0 Type='3' Data='ffff'/>.
+Near_RainPoint_01: |
+  Some weather...
+Near_BackRange_01: |
+  A big monster...
+Greeting: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004e006f007400690063006500'/>Need somethin'? <5 Type='1'/>Maybe you noticed the
+  Zonai Survey Team uniform?<0 Type='4'/>We do know this area pretty well, since
+  we've been assigned to investigate here.<0 Type='4'/>Since you asked—or were about to—I'll
+  let you in on some exciting news.
+Near_RestPoint_01: |
+  Watch out.
+Near_BackRange_02: |
+  I wonder if it's up there.
+StartPoint_01_2: |
+  <3 Type='0' Data='0700'/><0 Type='3' Data='0000'/>Sanidin Park Ruins<0 Type='3' Data='ffff'/> is north of here on the
+  road. <5 Type='1'/>Be warned though. <0 Type='3' Data='0000'/>Skeletal horses<0 Type='3' Data='ffff'/>
+  are said to <0 Type='3' Data='0000'/>roam the ruins at night<0 Type='3' Data='ffff'/>.<0 Type='4'/>Why not go east to <0 Type='3' Data='0000'/>Outskirt Stable<0 Type='3' Data='ffff'/>
+  instead? Nice scenery, good people,
+  fewer skeletons.<0 Type='4'/><3 Type='0' Data='0700'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>Then again, you seem brave enough to
+  think bone horses are a draw. <5 Type='0'/>Probably
+  already wondering if you can ride one.
+StartPoint_01_3: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='1200530075007200700072006900730065004c00'/>Wait. Is that horse made of...<5 Type='0'/><0 Type='3' Data='0000'/>bones<0 Type='3' Data='ffff'/>?!<0 Type='4'/><3 Type='0' Data='0b01'/>No! Nope! Nuh-uh! <5 Type='1'/>I saw nothing!
+  Nothing at all!
+StartPoint_01: |
+  <3 Type='0' Data='0700'/>Go east down the road for <0 Type='3' Data='0000'/>Outskirt Stable<0 Type='3' Data='ffff'/>,<5 Type='0'/>
+  or north to get to the <0 Type='3' Data='0000'/>Sanidin Park Ruins<0 Type='3' Data='ffff'/>.<0 Type='4'/>Although I personally avoid the ruins
+  at <0 Type='3' Data='0000'/>night<0 Type='3' Data='ffff'/>.<0 Type='4'/>I've heard <0 Type='3' Data='0000'/>skeletal horses<0 Type='3' Data='ffff'/> show up there
+  after dark, and I've got no desire to find
+  out for myself whether it's true.<0 Type='4'/><3 Type='0' Data='0701'/>You look like a brave boy though.<0 Type='4'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>I bet you're already wondering to yourself
+  if <0 Type='3' Data='0000'/>skeletal horses<0 Type='3' Data='ffff'/> are real, and if so,
+  whether you can ride one.
+StartPoint_01_4: |
+  <FontSize Value='80'/><0 Type='3' Data='0200'/><3 Type='0' Data='0000'/>When I asked him to ride a skeletal horse, I was
+  just kidding...<0 Type='4'/><3 Type='0' Data='0300'/><4 Type='0' Data='0c005300610064005f0030003000'/>These things give me the creeps.<5 Type='1'/> I can't bring myself
+  to look them in the eyes.<0 Type='3' Data='ffff'/><FontSize Value='100'/>
+SavedLv1_00: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0a0048006100700070007900'/>I'm saved! Thanks for the assist!
+RainPoint_01: |
+  <3 Type='0' Data='0700'/>Wanna share my shelter from the rain?
+  I've got room to spare.
+Near_Rain: |
+  It's raining.
+SavedLv1_01: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0a005400680069006e006b00'/>It's safe now, right?
+SavedLv2_00: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='08004500610073006500'/>That was scary! I was waaay out of my
+  element there.
+GoalPoint_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Keep an eye out for <0 Type='3' Data='0000'/>chasms <0 Type='3' Data='ffff'/>around here
+  so you don't fall in.<0 Type='4'/>These <0 Type='3' Data='0000'/>chasms <0 Type='3' Data='ffff'/>are gaping holes cropping
+  up all over Hyrule. <5 Type='0'/>We don't know much
+  about them, except that they're bad news.<0 Type='4'/>We suspect that there might be a <0 Type='3' Data='0000'/>chasm<0 Type='3' Data='ffff'/>
+  at <0 Type='3' Data='0000'/>the top of this high wall<0 Type='3' Data='ffff'/>.<0 Type='4'/><3 Type='0' Data='0c00'/>But how would the researchers who told
+  us about it have gotten up there? <5 Type='1'/>Unless
+  there's another entrance...
+RestPoint_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Farther along the road to the southeast,
+  there's a place called the <0 Type='3' Data='0000'/>birthplace of
+  Hyrule<0 Type='3' Data='ffff'/>, but it's blocked by a high cliff.<0 Type='4'/>The portcullis that might have been the
+  intended entrance has crumbled, so
+  there's no getting in anymore.<0 Type='4'/><3 Type='0' Data='0c00'/>We think that if we could <0 Type='3' Data='0000'/>climb to the top
+  of that castle wall<0 Type='3' Data='ffff'/>, we'd find a <0 Type='3' Data='0000'/>chasm<0 Type='3' Data='ffff'/> at
+  the top. <5 Type='1'/>But there's no way to be sure.
+GoRange_01: |
+  <3 Type='0' Data='0700'/>Been to the <0 Type='3' Data='0000'/>Coliseum Ruins <0 Type='3' Data='ffff'/>before?<0 Type='4'/>They're opposite Outskirt Stable, inside
+  the rocky mountain, but I hear they're
+  occupied by a <0 Type='3' Data='0000'/>big monster<0 Type='3' Data='ffff'/>.<0 Type='4'/><3 Type='0' Data='0c00'/><4 Type='0' Data='0a005400680069006e006b00'/>Some kind of three-headed beast that
+  breathes <0 Type='3' Data='0000'/>lightning <0 Type='3' Data='ffff'/>at you if you get close.<0 Type='4'/><3 Type='0' Data='0001'/>Sounds like a bad time to me, even if I
+  had lightning-proof gear. I think I'll stick
+  to research, thanks.<0 Type='4'/><4 Type='0' Data='0c004c0061007500670068005300'/>You won't catch me sticking my neck out
+  for my work, no sir.
+SavedLv2_01: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0600530061006400'/>Phew. That could've been bad! Thanks
+  for rescuing me.
+SavedLv3_00: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0600530061006400'/>That was so scary. But somehow we
+  pulled it out of the bag...
+GoRange_02: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>I heard from my sources that there's a big
+  hole around here. What we call a chasm.
+  
+  I'm here both to study said chasm and to
+  get the word out so people don't slip and
+  fall in.
+  I suspect it's at the top of that wall,
+  but there's no way to verify that without
+  climbing up there.
+  <3 Type='0' Data='0100'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>Not that anyone will be doing that!
+SavedLv3_01: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0600530061006400'/>Phew. That was dangerous. I thought my
+  days of spreading rumors were done.
+Near_StartPoint_01: |
+  A skeletal horse...
+Near_Thunder: |
+  Uwaaah!
+GoalPoint_01_2: |
+  <3 Type='0' Data='0700'/><0 Type='3' Data='0000'/>Chasms <0 Type='3' Data='ffff'/>are gaping holes cropping up all
+  over Hyrule. We're still researching them,
+  but we know they're dangerous.<0 Type='4'/><3 Type='0' Data='0c01'/>We suspect that there might be a <0 Type='3' Data='0000'/>chasm<0 Type='3' Data='ffff'/>
+  at <0 Type='3' Data='0000'/>the top of this high wall<0 Type='3' Data='ffff'/>.<0 Type='4'/>But how would the researchers who told
+  us about it have gotten up there? <5 Type='1'/>Unless
+  there's another entrance...
+RainPoint_01_2: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='0a005400680069006e006b00'/>Rain makes it hard to see and even harder
+  to climb. <5 Type='0'/>No point in trying to do either
+  until the weather clears.<0 Type='4'/>That's why I'm taking a little break. <5 Type='0'/>Why
+  try to power through and risk getting
+  injured with nothing to show for it?
+Near_GoRange_02: |
+  I wonder if it exists.
+Atacked00: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='0a0053006300610072006500'/>Help! I don't want to die!
+Guardian00: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='0e00520075006e006100770061007900'/>Uwaaah! It's all over!
+Failed00: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0600530061006400'/>Ouch... That'll leave a mark...
+Atacked01: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='0a0053006300610072006500'/>No! Leave me alone!
+Failed01: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0600530061006400'/>...Ow. That was too much for my meager
+  fighting skills.
+EnokidaSignboard: |
+  Isn't that in Tarrey Town?
+Thanks00: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='0a0048006100700070007900'/>Here! It's the least you deserve.

@@ -1,0 +1,101 @@
+Talk_07: |
+  <3 Type='0' Data='0700'/>Good morning.
+  
+  
+  It does not matter that it is nighttime.
+  As far as I'm concerned, whenever you
+  awaken, it is a good morning.
+Talk_08: |
+  <3 Type='0' Data='0000'/>Pardon me...<0 Type='4'/>If you intend to stay, I ask that you speak
+  to me from across the counter.
+Talk_09: |
+  <3 Type='0' Data='0700'/>Are you interested in staying here? If so,
+  I ask that you speak to me from across
+  the counter.
+Talk_20: |
+  <3 Type='0' Data='0a00'/>Apologies, but you do not have the
+  necessary funds for this transaction.<5 Type='1'/>
+  You must pay or journey elsewhere.
+Talk_21: |
+  <3 Type='0' Data='0700'/>That bed will completely cure you of the
+  wearying fatigue from your journey.<5 Type='0'/>
+  Enjoy your invigorating rest.
+0010: |
+  A regular bed.
+0011: |
+  A water bed.
+Talk_11: |
+  <3 Type='0' Data='0700'/>This is a village where many different
+  folks gather.<0 Type='4'/>I offer pleasant sleep to all, regardless
+  of their rank or where they come from,
+  by the mercy of the Goddess Hylia.
+0012: |
+  A water bed?
+Talk_12: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='0600530061006400'/>Hm. <5 Type='0'/>Would you like to select a different
+  bed to sleep upon?
+0000: |
+  Farewell.
+Talk_13: |
+  <3 Type='0' Data='0700'/>Ah, a customer. How interesting that you
+  should arrive at this particular time.
+  
+  To seek me out at this time of day... If I
+  may dare to assume...you must be a
+  Hylian of the nocturnal variety, yes? 
+Talk_00: |
+  <3 Type='0' Data='0700'/>Oh, humble servant led here by destiny...
+  Are you in need of a place of respite?
+Talk_14: |
+  <3 Type='0' Data='0700'/>Ah, a customer. How interesting that you 
+  should arrive at this particular time.
+  
+  <3 Type='0' Data='0c01'/>If I may dare to assume...<5 Type='1'/> You must be a
+  Hylian of the nocturnal... Nay, diurnal...
+  Ah! The crepuscular variety, yes?
+Talk_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0600530061006400'/>Understood. At what time would you like
+  to return to the land of waking?
+0002: |
+  Morning.
+Talk_15: |
+  <3 Type='0' Data='0700'/>Ah, a customer. How interesting that you
+  should arrive at this particular time.
+  
+  To seek me out at such an hour... If I may
+  dare to assume...you must be a Hylian of
+  the diurnal variety, yes? 
+Talk_02: |
+  <3 Type='0' Data='0700'/>That bed will slowly but surely cure you of
+  the wearying fatigue from your journey.<5 Type='0'/>
+  Enjoy your peaceful rest.
+0003: |
+  Noon.
+Talk_03: |
+  <3 Type='0' Data='0700'/>Good morning. You look well rested.
+0004: |
+  Night.
+Talk_17: |
+  <3 Type='0' Data='0701'/>A regular bed will cost you <0 Type='3' Data='0000'/>20 rupees<0 Type='3' Data='ffff'/>.
+  A water bed costs <0 Type='3' Data='0000'/>30 rupees<0 Type='3' Data='ffff'/>.
+0005: |
+  Never mind.
+Talk_05: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0600530061006400'/>By the mercy of the Goddess Hylia, I hope
+  you have a most pleasant journey.
+NakedPlayer: |
+  This customer's not right.
+Talk_19: |
+  <3 Type='0' Data='0700'/>It is a special bed that ensures the best
+  sleep possible by maintaining your
+  posture according to your anatomy.
+  Compared to a regular bed, it offers your
+  mind and body an awakening <0 Type='3' Data='0000'/>that is very
+  vital <0 Type='3' Data='ffff'/>indeed.
+Talk_06: |
+  <3 Type='0' Data='0700'/>Good morning.
+  
+  
+  It does not matter that it is noon. As far
+  as I'm concerned, whenever you awaken,
+  it is a good morning.

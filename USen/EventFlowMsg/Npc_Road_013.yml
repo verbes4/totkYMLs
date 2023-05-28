@@ -1,0 +1,214 @@
+BackRange_01: |
+  <3 Type='0' Data='0101'/>The rumors say that the bandit <0 Type='3' Data='0000'/>Misko<0 Type='3' Data='ffff'/> hid
+  legendary clothing in a nearby <0 Type='3' Data='0000'/>cave<0 Type='3' Data='ffff'/>.
+  
+  <3 Type='0' Data='0800'/>When I think I might get to see clothes
+  like that in person, my fashionista heart
+  starts beating like a drum!
+  But I have stay focused and find the <0 Type='3' Data='0000'/>stone
+  statues<0 Type='3' Data='ffff'/> that <0 Type='3' Data='0000'/>mark the cave<0 Type='3' Data='ffff'/>...
+BackRange_02_2: |
+  <3 Type='0' Data='0800'/>Near <0 Type='3' Data='0000'/>Fort Hateno<0 Type='3' Data='ffff'/>, there's a <0 Type='3' Data='0000'/>cave marked
+  by stone statues<0 Type='3' Data='ffff'/>. And in this cave rests
+  a piece of Misko's legendary clothing!
+  I swear on my wardrobe, I will find that
+  cave! You'll see!
+BackRange_02: |
+  <3 Type='0' Data='0501'/>If I told you that I knew where to find
+  some of <0 Type='3' Data='0000'/>Misko's fabled fashion items<0 Type='3' Data='ffff'/>,
+  would you be interested?
+  <3 Type='0' Data='0101'/>Ha! I thought as much. Well, listen up.
+  
+  
+  It's said that some of Misko's treasure
+  is near <0 Type='3' Data='0000'/>Fort Hateno<0 Type='3' Data='ffff'/>, hidden in a <0 Type='3' Data='0000'/>cave
+  marked with stone statues<0 Type='3' Data='ffff'/>.
+  <3 Type='0' Data='0801'/><4 Type='0' Data='0a0048006100700070007900'/>Hateno Village, famous for the Cece
+  brand, is where I opened my eyes to the
+  wonders of fashion. It's serendipity!
+  I must find that cave. I will! On my honor
+  as a fashionista, I will get to the bottom
+  of this rumor!
+GoRange_01: |
+  <3 Type='0' Data='0c01'/>Have you seen a <0 Type='3' Data='0000'/>cave with stone statues
+  out front <0 Type='3' Data='ffff'/>nearby? There's supposed to be
+  some of <0 Type='3' Data='0000'/>Misko's treasure <0 Type='3' Data='ffff'/>in there.
+  I've looked high and low, and still no luck.
+  In fact, I was just about ready to give up.<0 Type='4'/><3 Type='0' Data='0800'/>But that's when I heard a rumor about
+  another one of Misko's treasures!<0 Type='4'/>They say that beyond <0 Type='3' Data='0000'/>Hateno Village<0 Type='3' Data='ffff'/>... <5 Type='0'/>
+  there's a cave running through <0 Type='3' Data='0000'/>Walnot
+  Mountain<0 Type='3' Data='ffff'/>! That must be where it's hidden.
+  So, change of plans—to <0 Type='3' Data='0000'/>Hateno <0 Type='3' Data='ffff'/>I go!
+GoRange_02: |
+  <3 Type='0' Data='0801'/>The moment I met Cece at Hateno Village,
+  I was reborn as a fashionista.
+  
+  That's why I must find whatever clothing
+  Misko hid in the <0 Type='3' Data='0000'/>cave that runs through
+  Walnot Mountain<0 Type='3' Data='ffff'/>. <5 Type='0'/>
+  So, I'll head to <0 Type='3' Data='0000'/>Hateno Village <0 Type='3' Data='ffff'/>and set out
+  from there.
+  
+  <3 Type='0' Data='0800'/>A bright future awaits me, I know it! <5 Type='1'/>I just
+  have to go out and grab it by the frills!
+RainPoint_01_2: |
+  <3 Type='0' Data='0a00'/>One of Misko's fabled fashion items is
+  hidden in a <0 Type='3' Data='0000'/>cave nearby<0 Type='3' Data='ffff'/>. <5 Type='0'/>I was going to go
+  searching, <5 Type='0'/>but the rain foiled my plans.
+  I can't risk soiling my clothes! I have a
+  reputation to consider.
+  
+  <4 Type='0' Data='10005400680069006e006b005f0030003100'/>Still, I'll set out soon. <5 Type='0'/>I'd hate for
+  someone else to get there first...
+Near_RainPoint_01: |
+  Hope it stops soon.
+NakedPlayer: |
+  How gauche.
+Guardian00: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='0a0053006300610072006500'/>Oh no... <5 Type='0'/>Look at that thing! <5 Type='1'/>Now this is
+  just not fair!
+Near_GoalPoint_01: |
+  I'm close! I can feel it!
+Near_BackRange_01: |
+  Marked by stone statues...
+Near_BackRange_02: |
+  Near Fort Hateno...
+SavedLv3_00: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>Wow, the sight of you slaying that
+  monster... Scary. <5 Type='0'/>Cool, but scary.
+Near_00: |
+  Misko's treasure...
+GoRange_02_2: |
+  <3 Type='0' Data='0800'/><0 Type='3' Data='0000'/>Misko<0 Type='3' Data='ffff'/>'s fabled fashion items, hidden in a
+  <0 Type='3' Data='0000'/>cave within Walnot Mountain<0 Type='3' Data='ffff'/>... I have to
+  find them! I have to!
+  It's near <0 Type='3' Data='0000'/>Hateno Village<0 Type='3' Data='ffff'/>, so that's where
+  I'll go!
+Near_Rain: |
+  My clothes'll be ruined!
+Near_GoRange_01: |
+  One more...
+SavedLv3_01: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0e0043006800610074005f0030003000'/>Phew!<5 Type='0'/> How can I repay you?<5 Type='0'/> I don't think
+  a "thank you" will suffice.
+Near_GoRange_02: |
+  I must find it!
+EnokidaSignboard: |
+  This sign is everywhere.
+ComStylishTalk_000a: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='10004700720065006500740069006e006700'/>We meet again! <5 Type='0'/>How have you been?<5 Type='1'/>
+  Worn anything good lately?
+Thanks00: |
+  <3 Type='0' Data='0801'/>Here's your reward. <5 Type='0'/>Come on, take it!
+SagonoHat: |
+  A new Cece piece!
+ComStylishTalk_000b: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0c004c0061007500670068005300'/>Good evening! <5 Type='0'/>Isn't it just lovely out
+  tonight? Even the stars are strutting
+  their stuff!
+StartPoint_01: |
+  <3 Type='0' Data='0701'/>I'm looking for the legendary <0 Type='3' Data='0000'/>fashion
+  items<0 Type='3' Data='ffff'/> the bandit <0 Type='3' Data='0000'/>Misko<0 Type='3' Data='ffff'/> left behind.
+  
+  <3 Type='0' Data='0a00'/>Rumor has it one of them is in a <0 Type='3' Data='0000'/>cave
+  marked by stone statues<0 Type='3' Data='ffff'/>, but I haven't
+  seen anything of the sort...
+SavedLv2_00: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='08004500610073006500'/>Ugh, I hate monsters! <5 Type='1'/>They're the worst!
+GoalPoint_01: |
+  <3 Type='0' Data='0701'/>I'm searching for a <0 Type='3' Data='0000'/>cave that goes
+  through Walnot Mountain<0 Type='3' Data='ffff'/>. It's said the
+  thief <0 Type='3' Data='0000'/>Misko<0 Type='3' Data='ffff'/> hid some clothes there.
+  <3 Type='0' Data='0a00'/>I must be close, but... <5 Type='0'/>Where's the cave?
+  I don't see it...
+SavedLv2_01: |
+  <3 Type='0' Data='0800'/>You rushed here just to rescue me?<5 Type='0'/>
+  I feel the tears coming on...
+BackRange_01_2: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Do you know how to recognize the cave
+  where Misko's treasure is hidden?
+  
+  Ding, ding! That's right! The stone statues
+  outside of it!
+SavedLv1_00: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='08004500610073006500'/>Waaah!<5 Type='0'/> That was so scaaary!<5 Type='0'/> Th-thank
+  you for saving me...
+Failed00: |
+  <3 Type='0' Data='0700'/>You tried to help me, didn't you?<5 Type='0'/> Well...
+  Thanks for making an effort.
+SavedLv1_01: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='08004500610073006500'/>*sigh* <5 Type='0'/>That was close.
+  
+  
+  I'm a fashionista.<5 Type='0'/> My wheelhouse is
+  clothes, not combat.
+Failed01: |
+  <3 Type='0' Data='0b00'/>Ah... <5 Type='0'/>No more monsters.<5 Type='1'/> That's lucky.
+Atacked00: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='0a0053006300610072006500'/>Help! <5 Type='0'/>Please, help!<5 Type='0'/> I'll give you a reward!
+Near_StartPoint_01: |
+  Where are the statues?
+Atacked01: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='0a0053006300610072006500'/>Help! <5 Type='0'/>I'm allergic to monsters!
+StartPoint_01_2: |
+  <3 Type='0' Data='0a00'/>They say the <0 Type='3' Data='0000'/>bandit Misko's treasure<0 Type='3' Data='ffff'/> is
+  hidden in a cave marked by stone statues.
+  
+  But I'll confess, I'm starting to have
+  my doubts.
+  
+  For I've searched high and low, and I can
+  find no such place...
+Near_Thunder: |
+  Aaah! I have to hide!
+StartPoint_01_3: |
+  <3 Type='0' Data='0800'/>Still, I must not give up! A fashionista's
+  heart never falters!
+  
+  I'll find one of those <0 Type='3' Data='0000'/>legendary outfits<0 Type='3' Data='ffff'/>.
+  No—two! And then the fashion world will
+  finally know my name!
+GoalPoint_01_2: |
+  <3 Type='0' Data='0a00'/>Some of <0 Type='3' Data='0000'/>Misko's clothes<0 Type='3' Data='ffff'/> are said to be in
+  a <0 Type='3' Data='0000'/>cave going through Walnot Mountain<0 Type='3' Data='ffff'/>.<5 Type='0'/>
+  
+  It must be nearby, but...<5 Type='0'/>where?
+RainPoint_01: |
+  <3 Type='0' Data='0801'/>Have you heard the rumors?<5 Type='0'/>
+  
+  
+  It's said the bandit <0 Type='3' Data='0000'/>Misko<0 Type='3' Data='ffff'/> stashed
+  fabulous fashions in secret locations.
+  
+  Supposedly, one of them is in a
+  <0 Type='3' Data='0000'/>cave nearby<0 Type='3' Data='ffff'/>!
+  
+  <3 Type='0' Data='0a00'/>As a fashionista, I'd love to go find it,<5 Type='0'/>
+  but I can't risk getting this outfit wet...
+FriendGreet_00: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004c0061007500670068005300'/>My, my!<5 Type='0'/> We meet again. How goes your
+  journey? Wonderfully, I hope?
+  
+  This is normally where I'd give you a
+  chance to respond, but I'd like to talk
+  about me instead.
+  <3 Type='0' Data='0501'/>Once I was a woman without ambition. 
+  Sure, I had my twin loves of fashion and
+  travel, but I didn't have drive!
+  <3 Type='0' Data='0800'/>But Cece's designs spoke to me.<5 Type='0'/> They
+  said, "Meeshy, take those fascinations
+  and turn them into action!"
+  Now I'm a changed woman, chasing the
+  treasures of another inspired fashionista—
+  the <0 Type='3' Data='0000'/>Great Bandit<0 Type='3' Data='ffff'/> <0 Type='3' Data='0000'/>Misko<0 Type='3' Data='ffff'/>!
+  And as I search for <0 Type='3' Data='0000'/>Misko's collection<0 Type='3' Data='ffff'/>,
+  I intend to spread the joy of fashion
+  everywhere I go. Such is my passion!
+GoRange_01_2: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>Rumor has it that Misko hid legendary
+  clothing in a <0 Type='3' Data='0000'/>cave that runs through
+  Walnot Mountain<0 Type='3' Data='ffff'/> near <0 Type='3' Data='0000'/>Hateno Village<0 Type='3' Data='ffff'/>.
+  I was originally trying to find a <0 Type='3' Data='0000'/>cave<0 Type='3' Data='ffff'/>
+  around here <0 Type='3' Data='0000'/>marked by stone statues<0 Type='3' Data='ffff'/>,
+  but I'm leaving those ambitions behind.
+  <4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Next stop, <0 Type='3' Data='0000'/>Hateno Village<0 Type='3' Data='ffff'/>!

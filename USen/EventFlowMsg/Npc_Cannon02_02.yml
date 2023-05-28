@@ -1,0 +1,57 @@
+TerrorSword_01: |
+  What's the matter?!
+TerrorSword_02: |
+  What is happening?
+Talk_00: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Did you,<5 Type='0'/> perhaps, <5 Type='0'/>come to see the
+  <0 Type='3' Data='0000'/>Skyview Tower<0 Type='3' Data='ffff'/>?
+Talk_30: |
+  <3 Type='0' Data='0701'/><0 Type='3' Data='0000'/><4 Type='0' Data='10004700720065006500740069006e006700'/><0 Type='3' Data='ffff'/>Purah at <0 Type='3' Data='0000'/>Lookout Landing <0 Type='3' Data='ffff'/>knows a lot
+  about Skyview Towers.<5 Type='1'/> If you have
+  questions, you should ask her.
+NakedPlayer: |
+  Feeling the breeze?
+Talk_10: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Did you come to see the Skyview Tower?
+1000: |
+  Skyview Tower?
+Talk_12: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Good morning.<5 Type='0'/> So we meet again, eh?
+Enokida: |
+  President Hudson?!
+Near_00: |
+  Hm?
+Talk_03: |
+  <0 Type='3' Data='0000'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/><0 Type='3' Data='ffff'/>This building is a <0 Type='3' Data='0000'/>Skyview Tower<0 Type='3' Data='ffff'/>.<5 Type='0'/> They've
+  been built in every region.
+Talk_13: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Hello!<5 Type='0'/> Looks like we meet again, eh?
+Talk_14: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Good evening!<5 Type='0'/> Seems we meet again, eh?
+1004: |
+  Not today.
+Talk_15: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Eh, is that you?<5 Type='0'/> You're out and about
+  late tonight.
+Talk_06: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>If you say so...
+Talk_16: |
+  <3 Type='0' Data='0700'/>Good morning.<5 Type='0'/> Unfortunate weather,
+  isn't it?
+TerrorArrow_02: |
+  Please, stop!
+Talk_07: |
+  <0 Type='3' Data='0000'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/><0 Type='3' Data='ffff'/>That building is a <0 Type='3' Data='0000'/>Skyview Tower<0 Type='3' Data='ffff'/>.<5 Type='0'/> They've
+  been built in every region.
+Talk_17: |
+  <3 Type='0' Data='0700'/>Hello!<5 Type='0'/> Unfortunate weather, isn't it?
+Talk_18: |
+  <3 Type='0' Data='0700'/>Good evening.<5 Type='0'/> Unfortunate weather,
+  isn't it?
+TerrorBomb_01: |
+  Whoa!
+Talk_19: |
+  <3 Type='0' Data='0700'/>Oh, it's you!<5 Type='0'/> You're working pretty hard
+  for such a late hour, and in bad weather.
+TerrorHorse: |
+  Whoa!

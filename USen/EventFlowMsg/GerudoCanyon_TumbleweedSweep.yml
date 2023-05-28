@@ -1,0 +1,101 @@
+Report_Talk_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Huh? Your pouch is full.
+  
+  
+  I want to give you a shield, but you've got
+  to make some space in there first!
+Balloon_Step1: |
+  What a nuisance...
+Step1_Talk_00: |
+  <3 Type='0' Data='0c00'/>The tumbleweeds really are a nuisance...
+  
+  
+  If I sweep them away, they come right
+  back. I don't have any idea what I can
+  do to clean it all up.<5 Type='1'/>
+Report_Talk_02: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068005300'/>Now that all of the tumbleweeds are
+  gone, I can handle cleaning up the rest
+  of this by myself. Leave it to me!
+Balloon_Ready: |
+  There's no end to them...
+Ready_Talk_00: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0600530061006400'/>This is a real pile of garbage, isn't it?<5 Type='1'/>
+  Hard not to be upset at the sight.
+  
+  I spotted it during my travels, and the
+  sight bothered me so much, I couldn't
+  help stopping to clean it up.
+  <3 Type='0' Data='0700'/>I believe that we travelers have a duty to
+  protect the beauty of nature and not sully
+  it with trash!<5 Type='1'/>
+  Yep. When I leave a place, I want it to be
+  cleaner than when I arrived.
+  
+  That's why I even travel with a broom,
+  as you can see.<5 Type='1'/>
+  
+  <3 Type='0' Data='0a00'/>Unfortunately, these tumbleweeds keep
+  rolling in. There's just no end to it.
+  I can't keep up!<5 Type='1'/>
+  I do want to leave this place cleaner
+  than when I arrived, so I can't just
+  overlook all of this.<5 Type='1'/>
+  I think I could make progress here
+  if only these tumbleweeds didn't
+  keep tumbling in...<5 Type='1'/>
+Step1_Talk_02: |
+  <3 Type='0' Data='0a00'/>The tumbleweeds kept rolling up and
+  rolling up... I got tired trying to stay on
+  top of all of them.<5 Type='1'/>
+  I could try again tomorrow.<5 Type='1'/> But I want to
+  sweep away some of them, at least...
+  
+  *sigh* <5 Type='1'/>I just wish there was a way to
+  get rid of them all...<5 Type='1'/>
+Report_Talk_04: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>There you are! This is the reward I meant
+  to give you before.
+  
+  Can you believe I found this while
+  I was cleaning?
+Step1_Talk_03: |
+  <3 Type='0' Data='0c00'/>If I could clean up all the tumbleweeds,
+  then I could clean up everything else,
+  piece by piece.<5 Type='1'/>
+  I'm going to need to work at it until it's
+  all done, no matter what.<5 Type='1'/>
+Report_Talk_05: |
+  <3 Type='0' Data='0b00'/>Oh! Did you clean them all up?
+  
+  
+  There were so many. Wasn't that a lot of
+  work? Thank you so much.
+  
+  <3 Type='0' Data='0801'/>Please, take this. It's something special
+  I found while I was cleaning.
+Report_Talk_06: |
+  <3 Type='0' Data='0b00'/>Oh! You cleaned them all up?
+  
+  
+  <3 Type='0' Data='0700'/>I spotted them during my travels, and the
+  sight bothered me so much, I couldn't
+  help stopping to sweep up.
+  I believe that we travelers have a duty
+  to leave no trash behind as we go—we
+  should protect the beauty of nature.<5 Type='1'/>
+  For me, that means leaving a place
+  cleaner than when I arrived.
+  
+  That's why I even travel with a broom,
+  as you can see.
+  
+  <3 Type='0' Data='0800'/>But in all my travels, I've never had
+  someone do my cleaning for me!
+  
+  <3 Type='0' Data='0801'/>Please, take this. It's something special
+  I found while I was sweeping.
+Report_Talk_00: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Oh! The tumbleweeds are gone!
+Balloon_Report: |
+  All the tumbleweeds...

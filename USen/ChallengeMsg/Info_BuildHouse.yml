@@ -1,0 +1,21 @@
+Name: |
+  Home on Arrange
+Build: |
+  You purchased the land and rooms required to
+  build a dream home with Hudson Construction.
+  
+  <0 Type='3' Data='0000'/>Talk to the company representative<0 Type='3' Data='ffff'/> waiting at
+  the plot <0 Type='3' Data='0000'/>southeast<0 Type='3' Data='ffff'/> of Tarrey Town to begin.
+Finish: |
+  According to Grantéson of Hudson
+  Construction, building is as easy as
+  deciding where to <0 Type='3' Data='0000'/>place two rooms<0 Type='3' Data='ffff'/>.
+  
+  Try it out!
+Complete: |
+  You placed a room and took the first step
+  toward building your dream home.
+  
+  Hudson Construction offers additional rooms
+  with a variety of features—try different
+  combinations until your home is just right!

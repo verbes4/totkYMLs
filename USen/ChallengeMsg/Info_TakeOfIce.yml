@@ -1,0 +1,23 @@
+Name: |
+  The Iceless Icehouse
+Step1: |
+  Anche, who runs the icehouse, is having a
+  problem. The temperatures in the desert have
+  risen high enough that it's nearly impossible for
+  ice to form.
+  
+  Anche is busy trying to figure out how to
+  <0 Type='3' Data='0000'/>make ice<0 Type='3' Data='ffff'/>.
+Step2: |
+  You were able to make some ice, but it turns
+  out the ice must be as wide as the alcove.
+  
+  Anche has asked you to adjust the size of the
+  ice and <0 Type='3' Data='0000'/>place it in the alcove<0 Type='3' Data='ffff'/>.
+Complete: |
+  You gave Anche the ice she asked for, and she
+  let you know that you can always come back
+  and keep helping her since she'll probably
+  need more ice at least once a day. She'll even
+  prepare some <0 Type='3' Data='0000'/>rewards<0 Type='3' Data='ffff'/> for you as thanks for
+  your help.

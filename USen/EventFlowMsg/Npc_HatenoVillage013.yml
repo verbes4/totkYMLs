@@ -1,0 +1,133 @@
+Talk_08: |
+  <3 Type='0' Data='0700'/>Oh... <5 Type='0'/>What is it? <5 Type='0'/>What could you need
+  from an old man so early in the morning?
+Talk_30: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>This laboratory is mostly used by a pair of
+  researchers—Purah and Robbie.<0 Type='4'/>Nobody used it for a long spell, but now
+  it seems Robbie's back.<0 Type='4'/><3 Type='0' Data='0800'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>Better find where I put those earplugs...
+Talk_09: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Yes? <5 Type='0'/>What, do you see an old man out
+  walking and assume he's got nothing but
+  free time?
+Talk_31: |
+  <3 Type='0' Data='0700'/>Everything to do with the pasture, I leave
+  up to my son, Dantz.<0 Type='4'/>Tomorrow morning, I'm due to take the
+  Cuccos to the <0 Type='3' Data='0000'/>laboratory<0 Type='3' Data='ffff'/> on top of the
+  hill again.<0 Type='4'/><4 Type='0' Data='08004500610073006500'/>But right now, I'm bound for bed.
+Talk_32: |
+  <3 Type='0' Data='0700'/>If you have questions about the pasture,
+  ask my son, Dantz.<0 Type='4'/>I'm busy right now taking the Cuccos on
+  a walk up the hill to the <0 Type='3' Data='0000'/>laboratory<0 Type='3' Data='ffff'/>.
+near_00: |
+  Better rest a little.
+Talk_20: |
+  <3 Type='0' Data='0700'/>The Cuccos are due for their walk up the
+  hill to the <0 Type='3' Data='0000'/>laboratory<0 Type='3' Data='ffff'/> after this. Just as
+  soon as I work myself up to it.<0 Type='4'/>Care to join us?
+Talk_33: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Huh?! <5 Type='0'/>What are you doing in my house?<0 Type='4'/><3 Type='0' Data='0701'/>Well...I don't have much to offer you here,
+  but make yourself at home.
+near_01: |
+  This hill's a rough climb.
+Talk_21: |
+  <3 Type='0' Data='0701'/>I might not seem busy to you, but taking
+  care of the Cuccos that Tamana left in my
+  care is a big part of my day.<0 Type='4'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>I thought I'd help her out a bit now that
+  her husband's gone to do his part over at
+  Lookout Landing.<0 Type='4'/>Every day, I take them on a walk up the
+  hill to the <0 Type='3' Data='0000'/>laboratory<0 Type='3' Data='ffff'/>. <5 Type='0'/>Though it seems
+  the place is already closed for today.<0 Type='4'/><3 Type='0' Data='0700'/><4 Type='0' Data='0e0045006100730065005f0030003100'/>Well, I may be retired, but I still worry
+  about the <0 Type='3' Data='0000'/>pasture<0 Type='3' Data='ffff'/>. <5 Type='0'/>I should get home
+  soon to check in on things.
+Talk_34: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>Huh?! <5 Type='0'/>You again, eh?<0 Type='4'/><3 Type='0' Data='0701'/>Well, I can't offer much hospitality...<5 Type='0'/>but
+  you can share in whatever I do have.
+near_02: |
+  I need to get home soon...
+Talk_22: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0600530061006400'/>Taking the Cuccos on their walk every day
+  is good exercise for me too.<5 Type='1'/><0 Type='4'/><3 Type='0' Data='0a01'/>But I wish I hadn't trained 'em to want to
+  go all the way up the hill to the <0 Type='3' Data='0000'/>laboratory<0 Type='3' Data='ffff'/>
+  at the top.<0 Type='4'/><3 Type='0' Data='0701'/>Though it seems the place is already
+  closed for today.<0 Type='4'/><4 Type='0' Data='08004500610073006500'/>Well, I may be retired, but I still worry
+  about the <0 Type='3' Data='0000'/>pasture<0 Type='3' Data='ffff'/>. <5 Type='0'/>I should get home
+  soon to check in on things.
+Talk_10: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0e0045006100730065005f0030003100'/>Oh... <5 Type='0'/>What business does someone so
+  young have being out at this hour?
+Talk_23: |
+  <3 Type='0' Data='0701'/>Everything to do with the pasture, I leave
+  up to my son, Dantz.<0 Type='4'/>My only job these days is looking after
+  the Cuccos that Tamana left in my care.<0 Type='4'/><3 Type='0' Data='0c00'/>I thought I'd help her out a bit now that
+  her husband's gone to do his part over at
+  Lookout Landing.<0 Type='4'/><3 Type='0' Data='0701'/>Every day, I take the Cuccos on a walk up
+  the hill to the <0 Type='3' Data='0000'/>laboratory<0 Type='3' Data='ffff'/>.
+Talk_11: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0c005300610064005f0030003000'/>More rain, huh? <5 Type='0'/>The humidity makes my
+  joints ache something fierce.
+Talk_24: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0c00570061006b00650075007000'/>I've already been up the hill and back
+  today, so it's about time I went to bed.<0 Type='4'/>You should head home yourself before it
+  gets late.
+Talk_12: |
+  <3 Type='0' Data='0701'/>I might not seem busy to you, but taking
+  care of the Cuccos that Tamana left in my
+  care is a big part of my day.<0 Type='4'/><4 Type='0' Data='0e0043006800610074005f0030003000'/>I thought I'd help her out a bit now that
+  her husband's gone to do his part over at
+  Lookout Landing.<0 Type='4'/>Every day, I take the Cuccos on a walk up
+  the hill to the <0 Type='3' Data='0000'/>laboratory<0 Type='3' Data='ffff'/>.
+Talk_25: |
+  <3 Type='0' Data='0701'/>Everything to do with the pasture, I leave
+  up to my son, Dantz.<0 Type='4'/>I'm bound for bed now.<0 Type='4'/><3 Type='0' Data='0300'/><4 Type='0' Data='0e0043006800610074005f0030003000'/>Tomorrow morning, I'm due to take the
+  Cuccos to the <0 Type='3' Data='0000'/>laboratory<0 Type='3' Data='ffff'/> on top of the
+  hill again.<0 Type='4'/>For a retired old guy, I sure have a lot on
+  my plate...
+Talk_26: |
+  <3 Type='0' Data='0700'/>Oh... <5 Type='0'/>What is it? <5 Type='0'/>What could you need
+  from an old man?
+Talk_13: |
+  <3 Type='0' Data='0701'/>I might not seem busy to you, but taking
+  care of the Cuccos that Tamana left in my
+  care is a big part of my day.<0 Type='4'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>I thought I'd help her out a bit now that
+  her husband's gone to do his part over at
+  Lookout Landing.<0 Type='4'/>Every day, I take the Cuccos on a walk up
+  the hill to here.
+Talk_27: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='0600530061006400'/>When Purah and Robbie were around in
+  the laboratory, they worked morning to
+  night banging away at their inventions.<0 Type='4'/>Truth to tell, ever since they left, it's been
+  lonesome without that racket.
+Talk_15: |
+  <3 Type='0' Data='0700'/>Taking the Cuccos on their walk every day
+  is good exercise for me too.<5 Type='1'/><0 Type='4'/>But I wish I hadn't trained 'em to want to
+  go all the way up the hill to the <0 Type='3' Data='0000'/>laboratory<0 Type='3' Data='ffff'/>
+  at the top.<0 Type='4'/><3 Type='0' Data='0a00'/><4 Type='0' Data='0600530061006400'/>They walk faster than I do. It pushes an
+  old man to his limits, I tell you.
+Talk_28: |
+  <3 Type='0' Data='0c00'/>I took the trouble to come up here so I
+  could say hello to Robbie.<0 Type='4'/>But of course, he wasted no time diving
+  into his work. Guess I'll try again later.
+Talk_29: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>This laboratory is mostly used by a pair of
+  researchers—Purah and Robbie.<0 Type='4'/>You could always hear them at work, from
+  morning to night.<0 Type='4'/><3 Type='0' Data='0a01'/><4 Type='0' Data='08004500610073006500'/>When they're here, I can't stand the
+  noise. But then while they're gone,
+  I can't stand the quiet.
+Talk_17: |
+  <FontSize Value='125'/><3 Type='0' Data='0900'/><4 Type='0' Data='1200530075007200700072006900730065004d00'/>C'mon now, Dantz!<0 Type='4'/>Put your back into it!<5 Type='1'/><0 Type='4'/><FontSize Value='100'/><FontSize Value='80'/><3 Type='0' Data='0701'/><4 Type='0' Data='0a0053006c00650065007000'/>*grumble* *grumble*<FontSize Value='100'/>
+Talk_18: |
+  <3 Type='0' Data='0701'/>If you have questions about the pasture,
+  ask my son, Dantz.<0 Type='4'/>My only job these days is looking after
+  the Cuccos that Tamana left in my care.<0 Type='4'/><3 Type='0' Data='0c01'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>I thought I'd help her out a bit now that
+  her husband's gone to do his part over at
+  Lookout Landing.<0 Type='4'/><3 Type='0' Data='0701'/>Why, I've got a full schedule today looking
+  after the critters. <5 Type='1'/>I'm taking them on a
+  walk up the hill to the <0 Type='3' Data='0000'/>laboratory<0 Type='3' Data='ffff'/> now.
+Talk_19: |
+  <3 Type='0' Data='0701'/>If you have questions about the pasture,
+  my son, Dantz, handles all that now.<0 Type='4'/>My only job these days is looking after
+  the Cuccos that Tamana left in my care.<0 Type='4'/><3 Type='0' Data='0c01'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>I thought I'd help her out a bit now that
+  her husband's gone to do his part over at
+  Lookout Landing.<0 Type='4'/><3 Type='0' Data='0701'/>The Cuccos are due for their walk up the
+  hill to the <0 Type='3' Data='0000'/>laboratory<0 Type='3' Data='ffff'/> after this. Just as
+  soon as I work myself up to it.

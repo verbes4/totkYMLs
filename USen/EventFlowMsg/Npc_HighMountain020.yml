@@ -1,0 +1,137 @@
+Talk1043: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='26005100750065007300740069006f006e00530075007200700072006900730065005f0030003100'/>Hm? <5 Type='0'/>Oh, oops. I hadn't expected to meet
+  a Hylian here. What are you doing in the
+  mountains in this weather?<5 Type='0'/>
+  <3 Type='0' Data='0300'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>Don't you see how cold it's gotten? Our
+  feathers keep out the worst of it, but I'm
+  not sure how you can stand the blizzard.
+Talk1026: |
+  <3 Type='0' Data='0501'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>That's a pretty late start. Have you gone
+  nocturnal or something?<0 Type='4'/><3 Type='0' Data='0001'/>Well, you wouldn't be the first. Sleep well
+  knowing I'll wake you up no earlier than
+  full dark.
+Talk1044: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>If you go farther up this slope, you'll see
+  the <0 Type='3' Data='0000'/>Hebra South Summit Cave<0 Type='3' Data='ffff'/>.<0 Type='4'/>My friends are there now gathering
+  provisions. There are glowing mushrooms
+  and fish to be had, which come in handy.
+Talk1045: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0e0045006100730065005f0030003100'/>They keep a <0 Type='3' Data='0000'/>bonfire <0 Type='3' Data='ffff'/>stoked at the cave
+  entrance to mark their location.<0 Type='4'/>If the cold gets too much for you, find
+  that <0 Type='3' Data='0000'/>bonfire <0 Type='3' Data='ffff'/>and warm yourself up in
+  the cave.
+Talk1046: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0e00540072006f00750062006c006500'/>It's dangerous to wander these snowy
+  mountains in this weather. You only get
+  one life, you know.
+Talk1011: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>A regular bed will run you <0 Type='3' Data='0000'/>20 rupees<0 Type='3' Data='ffff'/>.
+  A silky-soft Rito-down bed will cost you
+  <0 Type='3' Data='0000'/>50 rupees<0 Type='3' Data='ffff'/>.
+0001: |
+  Morning.
+Talk1012: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0a005400680069006e006b00'/>No? Oh well. You're welcome anytime
+  you need a quality rest.
+Near1001: |
+  Unbelievable...
+Talk1048: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>My friends are in the middle of gathering
+  provisions at <0 Type='3' Data='0000'/>Hebra South Summit Cave<0 Type='3' Data='ffff'/>,
+  which is farther up from here.<0 Type='4'/>There are glowing mushrooms and fish
+  to be had in there, which is better
+  than nothing.
+Near0002: |
+  Welcome.
+0002: |
+  Noon.
+Talk1013: |
+  <3 Type='0' Data='0501'/><4 Type='0' Data='0a005400680069006e006b00'/>Hm? <5 Type='0'/>Looks like you don't have enough
+  rupees. Come back when you've raised
+  some money.
+Talk1049: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0e0053006900670068005f0030003100'/>Look at this thing. What is the world
+  coming to when something like this can
+  just fall from the sky?<0 Type='4'/><3 Type='0' Data='0301'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>On top of which, the blizzard shows no
+  sign of abating. So be careful when you
+  travel these mountains.
+Talk1014: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>When would you like to wake up?
+Talk1031: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Good morning!<0 Type='4'/>I bet you had some nice dreams, sleeping
+  on that silky-soft Rito-down bed.
+0003: |
+  Night.
+Talk1032: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Awake, are you?<0 Type='4'/>How did you like our silky-soft Rito-
+  down bed? It was every bit as good
+  as I promised, right?
+Talk1015: |
+  <3 Type='0' Data='0101'/>Safe journeys out there.
+0004: |
+  Never mind.
+Talk1050: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='0a005400680069006e006b00'/>No one is safe walking around—let alone
+  flying—when these things can just fall
+  from the sky.<0 Type='4'/>And if that wasn't bad enough, the snow
+  has been abnormally heavy. Be very
+  careful as you go around these parts.
+0005: |
+  Regular bed.
+Talk1016: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Good morning! Sleep well?
+Talk1033: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>The moon's risen, which means it's time
+  for you to rise with it.<0 Type='4'/>That silky-soft Rito-down bed sure was
+  something, right? You looked so comfy
+  that I could hardly bear to wake you.
+Talk1051: |
+  <4 Type='0' Data='08004500610073006500'/>They keep a <0 Type='3' Data='0000'/>bonfire <0 Type='3' Data='ffff'/>going at the cave
+  entrance, so if the cold gets too much for
+  you, look for the cave and warm up there.
+Talk1017: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>It's noon o'clock! Time to get up!
+0006: |
+  Rito-down bed?
+Talk1034: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>We don't use words like "silky soft"
+  lightly. The price is a little steep, but
+  it's well worth it.<0 Type='4'/>The Rito feathers used were carefully
+  selected to ensure maximum restfulness.
+  It's like sleeping in midair!<0 Type='4'/><3 Type='0' Data='0101'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>Figuratively, that is. I don't know how
+  else to describe how nice it feels.
+0007: |
+  Rito-down bed.
+Talk1018: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Did you sleep well? It's practically my own
+  bedtime, but here you are just starting
+  your day.
+Talk2001: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0e00540072006f00750062006c006500'/>I was so worried about having to leave the
+  kids behind during the blizzard.<0 Type='4'/><3 Type='0' Data='0000'/>But after it was over and I returned,
+  I discovered the most amazing thing.<5 Type='0'/>
+  Kotts had been making the beds.
+  <3 Type='0' Data='0100'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>Kotts! The girl who'd use any excuse to
+  get out of chores! She was helping out
+  all on her own.<0 Type='4'/>Leaving the place entirely up to them
+  turned out to be a great idea. <5 Type='0'/>I suppose
+  that's how kids grow up.
+Talk1021: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0e0045006100730065005f0030003000'/>If the day has wiped you out, then you've
+  come to the right place.
+Talk1022: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Hey, thanks for coming!
+Talk1023: |
+  <3 Type='0' Data='0001'/>This is <0 Type='3' Data='0000'/>Swallow's Roost<0 Type='3' Data='ffff'/>, Rito Village's
+  premier—and only—inn.
+Talk1041: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>Unbelievable that these huge things are
+  raining down on us. What is happening up
+  there in the skies?!
+Talk1024: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>I'll make sure you wake up on time.
+  So relax and take it easy until dawn.
+Talk1025: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>Want to sleep till noon? There's no shame
+  in that. Rest assured I'll wake you up
+  when the time comes.

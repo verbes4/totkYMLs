@@ -1,0 +1,75 @@
+Near01: |
+  I'm stuck.
+Talk03: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='0600530061006400'/>Snowfield Stable was so generous to
+  donate these supplies...<0 Type='4'/><3 Type='0' Data='0201'/>And then <0 Type='3' Data='0000'/>flying monsters <0 Type='3' Data='ffff'/>find me while
+  I'm taking them to Rito Village? What kind
+  of luck is that?
+Talk10: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1a00410064006d00690072006100740069006f006e005f0030003000'/>You...<5 Type='1'/> You can defeat those flying
+  <0 Type='3' Data='0000'/>monsters <0 Type='3' Data='ffff'/>on your own?
+  
+  Well, um... <5 Type='1'/>Great!
+Near02: |
+  Gotta think of something...
+Talk04: |
+  <3 Type='0' Data='0501'/><4 Type='0' Data='0e0043006800610074005f0030003100'/>What the... You don't even have wings.
+  How'd you fight monsters so high up?<0 Type='4'/><3 Type='0' Data='0801'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Eh, who cares? What matters is you did it!
+  Great work!<0 Type='4'/><3 Type='0' Data='0701'/>Now I can get these supplies from
+  Snowfield Stable back to my village.<0 Type='4'/>Please, let me give you something for
+  your efforts.<0 Type='4'/><3 Type='0' Data='0701'/><4 Type='0' Data='1a0055006e006400650072007300740061006e0064005f0030003000'/>It's less than you deserve, but it's also
+  all I have.
+Talk11: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='18005300680069007400610075006300680069005f0030003000'/>I just couldn't risk turning my attention
+  away from the supplies.
+  
+  <3 Type='0' Data='0501'/>So instead, I set a signal fire and waited
+  for help to arrive.
+  
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='0c005300610064005f0030003100'/>But trust me... <5 Type='0'/>If I had my way, we'd be
+  having this conversation over two big
+  bowls of flying-thing soup.
+Near03: |
+  Amazing!
+Near04: |
+  Huh?
+Talk06: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0c005300610064005f0030003000'/>But against a swarm, there wasn't much
+  I could do but set a signal fire and wait for
+  help to arrive.
+  <3 Type='0' Data='0501'/>Sadly, unless you have a pair of wings
+  I'm not seeing, I doubt you can reach the
+  <0 Type='3' Data='0000'/>monsters up there<0 Type='3' Data='ffff'/>.<5 Type='0'/>
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>I'll just have to hang tight and wait for my
+  friends to notice I'm gone.
+Talk12: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1a00410064006d00690072006100740069006f006e005f0030003000'/>Impressive!<5 Type='1'/> So you can defeat those
+  <0 Type='3' Data='0000'/>monsters <0 Type='3' Data='ffff'/>way high up, huh?
+  
+  <3 Type='0' Data='0100'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>All right!<5 Type='0'/> I'll handle the rest of them!<5 Type='1'/>
+  ...Wait, no. I can't do that.
+Talk13: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='1400540072006f00750062006c0065005f0030003100'/>Grr! If I didn't have these supplies to
+  protect, they'd be monster meat by now!
+Talk07: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Now, I better deliver these supplies before
+  more monsters show up. Take care!
+Talk08: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='18005300680069007400610075006300680069005f0030003100'/>The moment I let my guard down, they'll
+  steal the supplies.
+Talk09: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='0e00540072006f00750062006c006500'/>I'm glad you spotted my signal fire, but
+  <0 Type='3' Data='0000'/>these monsters can fly<0 Type='3' Data='ffff'/>, and you can't.<5 Type='0'/>
+  See the problem?<0 Type='4'/>Guess I'll just wait for my friends to see
+  me out here.
+Talk01: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>You there! <5 Type='0'/>Are you here because you
+  noticed my signal fire?<0 Type='4'/>It's about time someone did. See, I got
+  spotted by some <0 Type='3' Data='0000'/>monsters<0 Type='3' Data='ffff'/>.
+Talk12_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>As much as I'd like to handle the rest
+  of those <0 Type='3' Data='0000'/>monsters<0 Type='3' Data='ffff'/>, I can't.
+Talk02: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1400540072006f00750062006c0065005f0030003100'/>They want to snatch the supplies
+  I collected from Snowfield Stable.<0 Type='4'/>Those pests... <5 Type='0'/>Normally I'd have dealt
+  with them, no problem.

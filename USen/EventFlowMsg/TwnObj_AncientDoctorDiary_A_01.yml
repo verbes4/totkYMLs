@@ -1,0 +1,40 @@
+Comment_01: |
+  Read the Purah Pad instruction manual?
+0000: |
+  About the map.
+Comment_06: |
+  If you scan the surrounding terrain using
+  a <0 Type='3' Data='0000'/>Skyview Tower<0 Type='3' Data='ffff'/>, you can register the
+  <0 Type='3' Data='0000'/>map <0 Type='3' Data='ffff'/>to your Purah Pad.
+  Additionally, you can travel instantly to
+  the location of a <0 Type='3' Data='0000'/>Skyview Tower <0 Type='3' Data='ffff'/>that
+  you've already registered by selecting it.
+  This handy-instant-travel-to-a-registered-
+  location feature has been dubbed "<0 Type='3' Data='0000'/>travel<0 Type='3' Data='ffff'/>"
+  by its clever inventor, Purah.
+0001: |
+  About pictures.
+Comment_07: |
+  Open up the <0 Type='3' Data='0000'/>camera<0 Type='3' Data='ffff'/> and point the
+  Purah Pad at your desired target.
+  
+  Do so, and you can save the targeted
+  scenery or form in your album as
+  a <0 Type='3' Data='0000'/>picture<0 Type='3' Data='ffff'/>.
+  Additionally, the Purah Pad can provide
+  data on Hyrule's ecosystem.
+  
+  The subject reflected in a <0 Type='3' Data='0000'/>picture<0 Type='3' Data='ffff'/> will be
+  automatically identified, giving you the
+  thrill of filling out your compendium.
+0002: |
+  About the adventure log.
+Comment_08: |
+  A record of information gained during
+  your travels and things you shouldn't
+  forget, which can be <0 Type='3' Data='0000'/>perused at any time<0 Type='3' Data='ffff'/>.
+  This information is organized into
+  categories, so you'll have to <0 Type='3' Data='0000'/>select
+  a category<0 Type='3' Data='ffff'/> first.
+0003: |
+  Stop reading.

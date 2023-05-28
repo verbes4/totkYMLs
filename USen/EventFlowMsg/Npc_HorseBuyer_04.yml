@@ -1,0 +1,300 @@
+Near_StartPoint_01: |
+  They'll get you moving!
+Com_Talk_11_d: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0a0048006100700070007900'/>Thank you for your business.
+Atacked01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a0048006100700070007900'/>Phew! <5 Type='0'/>I thought I was done for!<0 Type='4'/>*sigh* If I'd snacked on a silent shroom, I
+  could have avoided this mess.
+0001: |
+  I'll buy.
+0002: |
+  I'm selling.
+SavedLv3_00: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0a0048006100700070007900'/>My thanks!<5 Type='0'/> You're quite the strapping
+  fellow, aren't you?
+StartPoint_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Say, do you ever feel sleepy? Heavy?
+  Lethargic? I know I do. But whenever
+  I start to drag...
+  I eat a <0 Type='3' Data='0000'/>rushroom<0 Type='3' Data='ffff'/>!
+  
+  
+  Just cook up the <0 Type='3' Data='0000'/>rushrooms<0 Type='3' Data='ffff'/> that grow on
+  sheer cliffs and, golly, you'll have the
+  perfect pick-me-up!
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068004c00'/>When you need to be <0 Type='3' Data='0000'/>light on your feet<0 Type='3' Data='ffff'/>,<0 Type='3' Data='0000'/><0 Type='3' Data='ffff'/>
+  they can't be beat. Everyone agrees, from
+  Akkala to Zora's Domain!
+0003: |
+  Never mind.
+SavedLv3_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='08004500610073006500'/>If you hadn't come, then...<5 Type='0'/> I don't want
+  to think about it!
+SavedLv2_00: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='08004500610073006500'/>Thank you!<5 Type='0'/> My mushrooms and I would
+  have met a terrible end without you.
+Com_Talk_30: |
+  <3 Type='0' Data='0001'/>Very good! How many do you need?
+SavedLv2_01: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0a0048006100700070007900'/>Golly am I glad you came along!
+Com_Talk_31: |
+  <3 Type='0' Data='0001'/>That'll be <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/> for <2 Type='2' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/>. OK?
+SavedLv1_00: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>You saved me! <5 Type='0'/>Wait, the mush—<5 Type='0'/> Phew!<5 Type='1'/>
+  They're safe too!
+Com_Talk_05b: |
+  <3 Type='0' Data='0001'/>Now then, sell me anything you like.
+Com_Talk_32: |
+  <3 Type='0' Data='0001'/>Just one? Does <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/> work
+  for you?
+SavedLv1_01: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>Thank you for your timely rescue!
+Com_Talk_05c: |
+  <3 Type='0' Data='0001'/>What will you sell me?
+Com_Talk_33: |
+  <3 Type='0' Data='0001'/>One of them? I'll give you a whopping
+  <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/><0 Type='3' Data='ffff'/> <0 Type='3' Data='0000'/><201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/> for that. Deal?
+ShopGreet_00: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004c0061007500670068005300'/>Now, are you interested in a miracle
+  ingredient? How about a mushroom!
+  They're rich in benefits!
+Com_Talk_05d: |
+  <3 Type='0' Data='0001'/>I'll buy whatever you're selling.
+Com_Talk_34: |
+  <3 Type='0' Data='0b01'/>Every last one?!<5 Type='0'/> But...<2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/> of them comes
+  to <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>. Are you sure?
+ShopGreet_01: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0a0048006100700070007900'/>Come take a look! I'm sure you need
+  some marvelous, miraculous mushrooms!
+Com_Talk_35: |
+  <3 Type='0' Data='0401'/>You're selling every single one?! How
+  about <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/> for all <2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/>?
+Com_Talk_36: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0a0048006100700070007900'/>Sold out! You've made me a happy
+  merchant today!
+Com_Talk_37: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>Thanks to you, I don't have a scrap of
+  stock left!<5 Type='1'/>
+  
+  I might not have anything to sell, but
+  would you like a peek at the goods I'll
+  have in soon?
+Greeting: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1400430061006c006c004600610072005f0030003100'/>Oh, hello!
+RainPoint_01_2: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>When it's raining and you're feeling down,
+  a <0 Type='3' Data='0000'/>stamella shroom<0 Type='3' Data='ffff'/> will perk you right up!
+GoRange_02_2: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004c0061007500670068005300'/>If you eat a dish prepared with <0 Type='3' Data='0000'/>silent
+  shrooms<0 Type='3' Data='ffff'/>, you'll barely be able to hear
+  the sound of your own footsteps.
+  If you plan to do much fleeing in the
+  night, a <0 Type='3' Data='0000'/>silent shroom<0 Type='3' Data='ffff'/> is a must-have!
+Guardian00: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='0a0053006300610072006500'/>What a terrifying monster!<5 Type='0'/> I can't imagine
+  even the bravest hero could handle THAT.<5 Type='1'/>
+  
+  <3 Type='0' Data='0c01'/>I wonder if I could whip up a
+  mushroom dish to increase your
+  strength and endurance...
+5500: |
+  Yes.
+GoRange_01: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Oh?<5 Type='1'/> You sure look down, and a forlorn
+  face means forlorn feelings aren't far
+  behind. I know what you need...
+  <3 Type='0' Data='0100'/><4 Type='0' Data='10004700720065006500740069006e006700'/>This <0 Type='3' Data='0000'/>brightcap<0 Type='3' Data='ffff'/>!
+  
+  
+  A <0 Type='3' Data='0000'/>brightcap <0 Type='3' Data='ffff'/>won't just brighten up your
+  cooking, it'll brighten you up too!
+  
+  So when you're feeling dark and down,
+  have a nibble. You'll feel better in a flash!
+BackRange_02_2: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004c0061007500670068005300'/>If you've ever worried about keeping
+  your skin in one piece, try cooking up
+  an <0 Type='3' Data='0000'/>ironshroom<0 Type='3' Data='ffff'/>!
+5501: |
+  No.
+GoRange_01_2: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0c004c0061007500670068005300'/>After one little nibble of a dish with a
+  <0 Type='3' Data='0000'/>brightcap<0 Type='3' Data='ffff'/>, you'll brighten up in a flash!
+GoRange_02: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Have you heard about one of <0 Type='3' Data='0000'/>Necluda<0 Type='3' Data='ffff'/>'s
+  specialties, the <0 Type='3' Data='0000'/>silent shroom<0 Type='3' Data='ffff'/>? 
+  
+  It's easier to find those sneaky little
+  mushrooms in the dark. If you manage to
+  get your hands on one, it's delicious!
+  <3 Type='0' Data='0401'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>And—get this—eating one makes you
+  move more quietly!
+  
+  Of course, I'd expect nothing less from
+  something called a <0 Type='3' Data='0000'/>silent shroom<0 Type='3' Data='ffff'/>.<5 Type='0'/> They're
+  a must if you're hiding or fleeing at night!
+Near_BackRange_01: |
+  A brightcap for the dark...
+Com_Talk_00: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Do you have anything for sale?
+5502: |
+  I'll buy.
+BackRange_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>You there!<5 Type='0'/> You have the gloomy face
+  of someone who can't find what you're
+  looking for.
+  I'll bet you need a <0 Type='3' Data='0000'/>brightcap<0 Type='3' Data='ffff'/>! If you cook
+  and eat it, losing things in the dark will
+  be a thing of the past!
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068004c00'/>If you don't want to carry a light, become
+  the light!
+Near_Thunder: |
+  Don't shock my stock!
+Near_BackRange_02: |
+  This'll toughen you up!
+Com_Talk_01: |
+  <3 Type='0' Data='0001'/>Oho! How about <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>?
+5503: |
+  Never mind.
+BackRange_02: |
+  <3 Type='0' Data='0700'/>Do you ever feel frail? Feeble? Wilted?<5 Type='0'/>
+  Even if you don't, an <0 Type='3' Data='0000'/>ironshroom<0 Type='3' Data='ffff'/> might
+  be right for you.
+  Your muscles will bulge!<5 Type='0'/> Your pecs will
+  swell!<5 Type='0'/> That pesky soft skin will grow as
+  <0 Type='3' Data='0000'/>hard as nails<0 Type='3' Data='ffff'/>!
+  If you've ever thought, "I feel pretty safe
+  from monsters, except in the whole skin
+  area," then you need an ironshroom!
+Near_RainPoint_01: |
+  Good for an energy boost!
+ShopTalk_01: |
+  <3 Type='0' Data='0701'/>Do you still need something?
+Com_Talk_02: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0a0048006100700070007900'/>Much obliged!<5 Type='0'/> Can I take anything else
+  off your hands?
+Com_Talk_02b: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0a0048006100700070007900'/>Thank you kindly!
+RainPoint_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Do these rainy days make you feel down?
+  Dreary? Damp in your very soul? Sounds
+  like you need...<5 Type='0'/>
+  a <0 Type='3' Data='0000'/>stamella shroom<0 Type='3' Data='ffff'/>!
+  
+  
+  Add it to your dishes to give your cooking
+  a pop of pep.<0 Type='4'/><3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>This healthy little morsel will give you the
+  energy boost you need to tackle whatever
+  the world throws at you!
+Near_GoalPoint_01: |
+  It's all about Cece's brand.
+Com_Talk_02c: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0a0048006100700070007900'/>Thank you for your business!
+BackRange_01_2: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>If you cook and eat a <0 Type='3' Data='0000'/>brightcap<0 Type='3' Data='ffff'/>, you'll
+  light up even the darkest paths. Brilliant!
+Com_Talk_02d: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='10004c006100750067006800420061006400'/>Ohoho!<5 Type='0'/> Our transaction is complete!
+Com_Talk_04: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0600530061006400'/>Is that so...<5 Type='1'/> That's a shame. A real shame.
+EnokidaSignboard: |
+  Hudson Construction?
+Com_Talk_05: |
+  <3 Type='0' Data='0001'/>I'll take any item off your hands.
+5507: |
+  I'll take 'em all!
+Thanks00: |
+  <3 Type='0' Data='0801'/>Here—<5 Type='0'/>a token of my gratitude!
+ShopGreet_01_2: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>So you're interested in my stupendous
+  spores after all?<5 Type='0'/> Feel free to look as much
+  as you like!
+Com_Talk_06: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0c004c0061007500670068005300'/>All of my mushrooms are top quality!
+5508: |
+  All of them.
+Com_Talk_07: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0600530061006400'/>All sold out of that today, I'm afraid.
+ShopGoodBye_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Come on back whenever you need the
+  finest mushrooms Hyrule has to offer.
+StartPoint_01_2: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>My body feels so heavy...<5 Type='1'/>is what I'd say if
+  I didn't just eat a <0 Type='3' Data='0000'/>rushroom<0 Type='3' Data='ffff'/>!
+  
+  If you want to be <0 Type='3' Data='0000'/>light on your feet<0 Type='3' Data='ffff'/>, cook
+  up one of these honeys and snack away.
+  Now that's a ruuush!
+Com_Talk_08: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0c004e006f007400690063006500'/>Oh?<5 Type='1'/> You don't have enough <0 Type='3' Data='0000'/>rupees<0 Type='3' Data='ffff'/>.
+ShopGoodBye_02: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Take care!<5 Type='1'/> And stay dry!<5 Type='0'/> Days like this,
+  I'm glad I have a hat...<5 Type='1'/>
+  
+  Anyway, see you around! Let's hope for
+  clear weather next time we meet!
+Com_Talk_09: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0600530061006400'/>Looks like your pouch is full.<5 Type='1'/> Why don't
+  you make some space and come back?
+Com_Talk_10: |
+  <3 Type='0' Data='0001'/>You're looking to buy that, eh?
+Com_Talk_11: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>Thank you very much.
+Com_Talk_12: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Take a look at this mushroom medley!<5 Type='1'/>
+  You won't find a finer collection than this.
+Com_Talk_13: |
+  <3 Type='0' Data='0001'/>I'll take it! How many will you sell me?
+Com_Talk_14: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0001'/><0 Type='3' Data='ffff'/>I'll buy <2 Type='2' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/> of them for <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>.
+  Do we have a deal?
+Near_Rain: |
+  My mushrooms'll get wet!
+Com_Talk_15: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0600530061006400'/>I'll buy most things...<5 Type='0'/>but not that.
+Greeting_00: |
+  So you chased me down, rain be darned?
+  You've got spirit!
+Com_Talk_16: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='0c004e006f007400690063006500'/>Golly, I can't take the clothes right off
+  your back! At least take them off first.
+GoalPoint_01_2: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>If you're interested in <0 Type='3' Data='0000'/>Cece-brand fashion<0 Type='3' Data='ffff'/>,
+  don't miss <0 Type='3' Data='0000'/>Hateno Village<0 Type='3' Data='ffff'/>!
+  
+  Head <0 Type='3' Data='0000'/>east<0 Type='3' Data='ffff'/> from the <0 Type='3' Data='0000'/>Dueling Peaks<0 Type='3' Data='ffff'/> and
+  you'll be there before you know it.
+Near_GoRange_01: |
+  They'll lighten you up too!
+Near_GoRange_02: |
+  Shh! It's a silent shroom...
+Com_Talk_20: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0a0048006100700070007900'/>Anyone who braves weather like this to
+  shop...<5 Type='1'/>deserves to see some special
+  things in my stock. Take a look!
+Com_Talk_11_b: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>You made a great purchase today.
+GoalPoint_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Have you passed by any people dressed
+  like mushrooms on your travels?
+  
+  It's not weird—it's fashion! There's a
+  trendy new brand out of <0 Type='3' Data='0000'/>Hateno Village<0 Type='3' Data='ffff'/>
+  called <0 Type='3' Data='0000'/>Cece<0 Type='3' Data='ffff'/>.
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>I respect any style that's about promoting
+  mushrooms with your whole body!
+  
+  If you're interested, how about visiting
+  <0 Type='3' Data='0000'/>Hateno Village<0 Type='3' Data='ffff'/>? The quickest route is to
+  go <0 Type='3' Data='0000'/>east <0 Type='3' Data='ffff'/>from the <0 Type='3' Data='0000'/>Dueling Peaks<0 Type='3' Data='ffff'/>.
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Huh? Why am I not wearing it, you ask?<0 Type='4'/>I'm too busy eating mushrooms to
+  wear 'em!
+Com_Talk_11_c: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0a0048006100700070007900'/>You'll be happy with your purchase,
+  guaranteed!
+Atacked00: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a0048006100700070007900'/>You got here just in time!
+  
+  
+  Now, save me! My mushrooms and I will
+  find a way to repay you!

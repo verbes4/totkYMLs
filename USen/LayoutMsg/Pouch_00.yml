@@ -1,0 +1,265 @@
+15001: |
+  Devices:
+1001: |
+  Equip
+1026: |
+  Equip
+Pa_SlideList_00-Pa_Category_04-T_Text_00: |
+  Materials
+1002: |
+  Remove
+1027: |
+  Remove
+Pa_Info_00-T_Num_01: |
+  ×
+1003: |
+  Drop
+1028: |
+  Use
+1004: |
+  Hold
+5000: |
+  <2 Type='19' Data='2600530069006d0070006c0065004d0069006e0046006f0072004d00650073007300610067006500ffff01cd'/><2 Type='19' Data='2600530069006d0070006c00650053006500630046006f0072004d00650073007300610067006500ffff01cd'/>
+1005: |
+  Drink
+1006: |
+  Eat
+Pa_Info_00-Pa_FoodParam_00-T_MaxText_00: |
+  Full recovery
+1008: |
+  Take out device
+Pa_SlideList_00-Pa_Button_01-T_Btn_00: |
+  Load
+1009: |
+  Use
+Strength: |
+  By strength
+1007_00: |
+  Select for recipe
+3030: |
+  Left Hand
+Pa_SlideList_00-Pa_Category_06-T_Text_00: |
+  Zonai Devices
+Category: |
+  By type
+1007_01: |
+  Check recipe
+3031: |
+  Right Hand
+3032: |
+  Attach
+Pa_HaveNum_00-T_Slash_00: |
+  /
+13000: |
+  <2 Type='14' Data='2600530069006d0070006c00650049006e00740046006f0072004d00650073007300610067006500ffff01cd'/>
+6000: |
+  <2 Type='15' Data='2600530069006d0070006c00650049006e00740046006f0072004d00650073007300610067006500ffff01cd'/>
+3033: |
+  Back Part
+3034: |
+  Let Go
+3010: |
+  Change Equipment
+Pa_SlideList_00-Pa_ButtonR_00-T_Icon_00: |
+  
+3011: |
+  Focus
+Pa_SlideList_00-Pa_Category_01-T_Text_00: |
+  Bows and Arrows
+3012: |
+  Throw Weapon
+3013: |
+  Use Bow
+3014: |
+  Whistle
+Pa_SlideList_00-Pa_SlideListSet_00-Pa_BtnElem_00-T_Kakeru_00: |
+  x
+3015: |
+  Attack
+3016: |
+  Right-Hand Ability
+Pa_SlideList_00-Pa_Category_08-T_Text_00: |
+  System
+14000: |
+  Fuse Attack Power
+3018: |
+  (Hold) Change Ability
+3019: |
+  Reset Camera
+11000: |
+  <2 Type='2' Data='320050006c0061007900650072005300740061007400750073002e00430075007200720065006e00740052007500700065006500ffff01cd'/>
+SoulSageControls: |
+  Mineru's Construct Controls
+4000: |
+  <2 Type='19' Data='460050006c0061007900650072005300740061007400750073002e004d0061007300740065007200530077006f007200640053006c006500650070004d0069006e00750074006500ffff01cd'/><2 Type='19' Data='460050006c0061007900650072005300740061007400750073002e004d0061007300740065007200530077006f007200640053006c006500650070005300650063006f006e006400ffff01cd'/>
+Pa_SlideList_00-Pa_Category_03-T_Text_00: |
+  Weapons
+ArmorSet: |
+  By set
+Pa_Info_00-Pa_FoodParamEnergy_00-T_MaxText_00: |
+  Energy boost
+1012: |
+  Place
+8000: |
+  <2 Type='2' Data='2600530069006d0070006c00650049006e00740046006f0072004d00650073007300610067006500ffff01cd'/>
+1014: |
+  Collect
+1015: |
+  Summon
+Pa_SlideList_00-Pa_SlideListSet_00-Pa_BtnElem_02-T_Kakeru_00: |
+  x
+Pa_Info_00-T_Plus_00: |
+  +
+1016: |
+  Dismiss
+1017: |
+  Summon
+12000: |
+  <2 Type='14' Data='2600530069006d0070006c00650049006e00740046006f0072004d00650073007300610067006500ffff01cd'/>
+BasicControls: |
+  Basic Controls
+1018: |
+  Dismiss
+Pa_SlideList_00-Pa_Button_03-T_Btn_00: |
+  Special Controls
+Pa_Info_00-Pa_KagoParam_00-T_SubText_00: |
+  Master Sword recharged in:
+1019: |
+  Summon
+Pa_SlideList_00-Pa_Category_05-T_Text_00: |
+  Food
+Pa_RotateGuide_00-T_Guide_00: |
+  Rotate
+ArmorCategory: |
+  By body part
+Pa_SlideList_00-Pa_ButtonL_00-T_Icon_00: |
+  
+2000: |
+  Your hearts are already full.
+  Do you still want to eat this?
+9000: |
+  <2 Type='14' Data='2600530069006d0070006c00650049006e00740046006f0072004d00650073007300610067006500ffff01cd'/>
+2001: |
+  Your hearts are already full.
+  Do you still want to use this?
+9001: |
+  <2 Type='14' Data='2600530069006d0070006c00650049006e00740046006f0072004d00650073007300610067006500ffff01cd'/>
+2002: |
+  Gloom damage will not be recovered.
+  Do you still want to eat it?
+Pa_SlideList_00-Pa_SlideListSet_00-Pa_BtnElem_01-T_Kakeru_00: |
+  x
+Pa_BonusIcon_00-T_SetBonus_00: |
+  Set Bonus
+2003: |
+  Gloom damage will not be recovered.
+  Do you still want to use it?
+Pa_SlideList_00-Pa_Category_00-T_Text_00: |
+  Armor
+2004: |
+  Energy is already full.
+  Do you still want to use it?
+2005: |
+  Your hearts are already full.
+  Do you still want to drink this?
+3020: |
+  Soothe
+2006: |
+  Gloom damage will not be recovered.
+  Do you still want to drink it?
+3021: |
+  Move Forward
+HaveNum_00: |
+  Add
+3022: |
+  Change Direction
+HaveNum_01: |
+  Decrease
+3023: |
+  Whoa!
+Pa_SlideList_00-Pa_SlideListSet_00-Pa_BtnElem_04-T_Kakeru_00: |
+  x
+Pa_SlideList_00-Pa_Category_07-T_Text_00: |
+  Key Items
+HaveNum_02: |
+  Return to game
+10000: |
+  <2 Type='14' Data='2600530069006d0070006c00650049006e00740046006f0072004d00650073007300610067006500ffff01cd'/>
+3024: |
+  Go!
+HaveNum_03: |
+  Stop holding
+3000: |
+  Pause Menu
+3025: |
+  Dismount
+3001: |
+  Purah Pad
+3026: |
+  Change Direction
+Pa_Info_00-Pa_FoodParam_01-T_Plus_00: |
+  +
+Pa_SlideList_00-Pa_Button_04-T_Btn_00: |
+  To Title Screen
+3002: |
+  Jump
+3027: |
+  Slow Down
+Pa_Info_00-Pa_FoodParam_01-T_Plus_01: |
+  +
+3003: |
+  Action
+3028: |
+  Dash
+3004: |
+  Put Away
+3029: |
+  Guard
+Pa_SlideList_00-Pa_Category_02-T_Text_00: |
+  Shields
+Pa_SlideList_00-Pa_Button_02-T_Btn_00: |
+  Options
+7000: |
+  <2 Type='15' Data='2600530069006d0070006c00650049006e00740046006f0072004d00650073007300610067006500ffff01cd'/>
+3005: |
+  Camera Controls
+SunazarashiControls: |
+  Sand-Seal Controls
+3006: |
+  (Press) Scope
+ScraBuild: |
+  By Fuse attack power
+RideControls: |
+  Riding Controls
+3007: |
+  Move
+Pa_SlideList_00-Pa_SlideListSet_00-Pa_BtnElem_03-T_Kakeru_00: |
+  x
+Pa_SlideList_00-Pa_Button_00-T_Btn_00: |
+  Save
+Pa_SlideList_00-Pa_Button_03-T_New_00: |
+  New
+Use: |
+  By most used
+3008: |
+  (Press) Crouch
+Effect: |
+  By effect
+1020: |
+  Dismiss
+3009: |
+  Change Material
+1021: |
+  Summon
+1022: |
+  Dismiss
+1023: |
+  Summon
+1024: |
+  Dismiss
+15000: |
+  Holding:
+1000: |
+  Cancel
+1025: |
+  Destroy fused material

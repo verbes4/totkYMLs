@@ -1,0 +1,218 @@
+Near_RainPoint_01: |
+  I hope it stops soon...
+Near_BackRange_01: |
+  Lots of things are falling...
+StartPoint_01_2: |
+  <3 Type='0' Data='0700'/>I'm thinking about investigating the ruins
+  by <0 Type='3' Data='0000'/>Tarrey Town<0 Type='3' Data='ffff'/>.
+  
+  Have you been? It's a unique little
+  town that had lots of <0 Type='3' Data='0000'/>Zonai devices<0 Type='3' Data='ffff'/>
+  land nearby.
+  <4 Type='0' Data='0e0043006800610074005f0030003100'/>I heard a local building company is
+  partnering with the survey team to <0 Type='3' Data='0000'/>study<0 Type='3' Data='ffff'/>
+  <0 Type='3' Data='0000'/>potential uses <0 Type='3' Data='ffff'/>for all those <0 Type='3' Data='0000'/>Zonai devices<0 Type='3' Data='ffff'/>.
+  If I could get involved in that...that'd just
+  be SO cool!
+  
+  You should go too. It's in Akkala. You can
+  get there by going <0 Type='3' Data='0000'/>east <0 Type='3' Data='ffff'/>on the road.<0 Type='3' Data='0000'/><0 Type='3' Data='ffff'/>
+  
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>Really—I hope I haven't made it sound
+  like it's only for researchers. It's a
+  super-fun town!
+BackRange_01_2: |
+  <3 Type='0' Data='0c00'/>The <0 Type='3' Data='0000'/>sludge<0 Type='3' Data='ffff'/> that falls from the sky can be
+  <0 Type='3' Data='0000'/>washed away with water<0 Type='3' Data='ffff'/>.
+  
+  <3 Type='0' Data='0c01'/>It seems the sky is dropping all sorts of
+  things.<5 Type='0'/> I wonder what else is up there...
+FriendGreet_00: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0e0043006800610074005f0030003000'/>Hello again! <5 Type='0'/>Thanks for helping out with
+  those underdressed scientists.
+  
+  I can't believe they misheard "explore all
+  other paths" as "explore in underpants."<5 Type='1'/>
+  
+  <3 Type='0' Data='0100'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>Hee-hee... I know that's not funny, but
+  it's really funny.
+  
+  Anyway, I'm just glad I don't have to work
+  in my underpants.
+  
+  And it's because you opened everyone's
+  eyes to the...<5 Type='0'/>naked truth. <5 Type='0'/>Hee-hee!
+FriendGreet_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0e0043006800610074005f0030003000'/>Oh! Hello again.
+  
+  
+  <3 Type='0' Data='0100'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>Hee-hee... I keep thinking about how
+  everyone looked in their underpants.
+  
+  They really misunderstood the brief.
+  Or should I say...<5 Type='0'/>briefs. <5 Type='0'/>Hee-hee!
+StartPoint_01: |
+  <3 Type='0' Data='0700'/>I'm thinking about investigating the ruins
+  by <0 Type='3' Data='0000'/>Tarrey Town<0 Type='3' Data='ffff'/>.
+  
+  Have you been? It's in Akkala—<5 Type='0'/>just follow
+  the road <0 Type='3' Data='0000'/>east <0 Type='3' Data='ffff'/>and you'll get there.
+  
+  Lots of <0 Type='3' Data='0000'/>Zonai devices <0 Type='3' Data='ffff'/>landed near it,
+  so it's worth checking out.
+  
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1a00410064006d00690072006100740069006f006e005f0030003000'/>I heard a local building company is
+  partnering with the survey team to <0 Type='3' Data='0000'/>study<0 Type='3' Data='ffff'/>
+  <0 Type='3' Data='0000'/>potential uses <0 Type='3' Data='ffff'/>for all those <0 Type='3' Data='0000'/>Zonai devices<0 Type='3' Data='ffff'/>.
+  And getting involved in that... It'd be like
+  a dream come true!
+  
+  <3 Type='0' Data='0800'/><4 Type='0' Data='12004c0061007500670068004c005f0030003100'/>Whew,<5 Type='0'/> I'm just so glad to be out here
+  investigating again.
+  
+  And if you didn't sort out that underpants
+  thing, it never would've happened.
+  So...thanks!
+SavedLv1_00: |
+  <3 Type='0' Data='0800'/>I'm saved! Thank you!
+RainPoint_01: |
+  <3 Type='0' Data='0a00'/>I really don't like rain. <5 Type='1'/>It keeps me from
+  investigating ruins.
+  
+  <3 Type='0' Data='0701'/>Although...<5 Type='0'/> Do you think that the rain ever
+  brings ruins down with it?
+GoRange_02_2: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>I hear there's a vast, sprawling cavern
+  beneath that <0 Type='3' Data='0000'/>chasm <0 Type='3' Data='ffff'/>nearby.
+  
+  They've found all sorts of things at the
+  bottom, even <0 Type='3' Data='0000'/>statues<0 Type='3' Data='ffff'/>!
+  
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Which means that at some point, people
+  may have been living down there!
+  
+  When I'm done with my work on the
+  surface, I have to go explore that chasm!
+BackRange_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004e006f007400690063006500'/>Did you hear about Lanayru? I hear folks
+  there are struggling with <0 Type='3' Data='0000'/>sludge <0 Type='3' Data='ffff'/>falling
+  from the sky.
+  <3 Type='0' Data='0c01'/>It's some kind of sticky, black muck.
+  Luckily, <0 Type='3' Data='0000'/>water can wash it away<0 Type='3' Data='ffff'/>.
+  
+  <4 Type='0' Data='0e0043006800610074005f0030003000'/>It seems all sorts of things fall from the
+  sky.<5 Type='0'/> I wonder what else is up there...
+Near_Rain: |
+  It's really coming down.
+SavedLv1_01: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='08004500610073006500'/>Am I...alive?! Phew! Are you OK?
+SavedLv2_00: |
+  <3 Type='0' Data='0800'/>You saved me! Thank you! Oh, thank you!
+GoalPoint_01: |
+  <3 Type='0' Data='0700'/>Lots of <0 Type='3' Data='0000'/>Zonai devices <0 Type='3' Data='ffff'/>landed around the
+  village, so it's worth checking out.
+  
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1a00410064006d00690072006100740069006f006e005f0030003000'/>I heard a local building company is
+  partnering with the survey team to <0 Type='3' Data='0000'/>study<0 Type='3' Data='ffff'/>
+  <0 Type='3' Data='0000'/>potential uses <0 Type='3' Data='ffff'/>for all those <0 Type='3' Data='0000'/>Zonai devices<0 Type='3' Data='ffff'/>.
+  And getting involved in that... It'd be like
+  a dream come true!
+  
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0600530061006400'/>But...it looks like the only way to reach it
+  is by <0 Type='3' Data='0000'/>railcar<0 Type='3' Data='ffff'/>.
+  
+  And I'm...<5 Type='0'/>I'm not so good with heights.
+  
+  
+  <0 Type='3' Data='0200'/><FontSize Value='80'/>I wonder if I could get there from the
+  other direction...<FontSize Value='100'/><0 Type='3' Data='ffff'/>
+SavedLv2_01: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='08004500610073006500'/>Phew! Thank goodness we're all right.
+SavedLv3_00: |
+  <3 Type='0' Data='0800'/>Thank you! You saved my life!
+GoRange_02: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>There's a <0 Type='3' Data='0000'/>chasm<0 Type='3' Data='ffff'/> near here. <5 Type='0'/>You'll never
+  guess what the Zonai Survey Team found
+  at the bottom...
+  A vast, sprawling cavern!
+  
+  
+  I hear they even found some ruins
+  and <0 Type='3' Data='0000'/>statues<0 Type='3' Data='ffff'/>!
+  
+  <3 Type='0' Data='0701'/>You know what that means. <5 Type='0'/>At some
+  point, there may have been people living
+  down there!
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068005300'/>Hee-hee... <5 Type='0'/>When I'm done with my work
+  on the surface, I'd love to go and explore
+  that chasm!
+SavedLv3_01: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='08004500610073006500'/>If it weren't for you, I'd be a goner!
+  Thank you!
+GoRange_03: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Hey, you might find this interesting.
+Near_StartPoint_01: |
+  Tarrey Town, here I come!
+Near_Thunder: |
+  Eep, time to hurry!
+GoalPoint_01_2: |
+  <3 Type='0' Data='0700'/><0 Type='3' Data='0000'/>Tarrey Town <0 Type='3' Data='ffff'/>is a unique little village that
+  had lots of <0 Type='3' Data='0000'/>Zonai devices <0 Type='3' Data='ffff'/>land nearby.
+  
+  I heard a local building company is
+  partnering with the survey team to <0 Type='3' Data='0000'/>study<0 Type='3' Data='ffff'/>
+  <0 Type='3' Data='0000'/>potential uses <0 Type='3' Data='ffff'/>for all those <0 Type='3' Data='0000'/>Zonai devices<0 Type='3' Data='ffff'/>.
+  <3 Type='0' Data='0a00'/>But...it looks like the only way to reach it
+  is by <0 Type='3' Data='0000'/>railcar<0 Type='3' Data='ffff'/>.
+  
+  <FontSize Value='80'/><0 Type='3' Data='0200'/>And that's just too high up for me...<5 Type='1'/> Should I try
+  going around to get there from the other side?<0 Type='3' Data='ffff'/><FontSize Value='100'/>
+RainPoint_01_2: |
+  <3 Type='0' Data='0700'/>Do you think that rain ever brings ruins
+  down with it?<5 Type='0'/>
+Near_GoRange_02: |
+  What's down there...
+Atacked00: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1200530075007200700072006900730065004c00'/>Eeek! Help!
+Guardian00: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='0a0053006300610072006500'/>Run awaaay!
+GoRange_03_2: |
+  <3 Type='0' Data='0700'/><0 Type='3' Data='0000'/>Plants we've never seen before<0 Type='3' Data='ffff'/> are
+  attached to the ruins falling from the sky.
+  
+  It's almost as if the sky has its own
+  ecosystem. <5 Type='0'/>Wouldn't that be something...
+  
+  I'm thinking about heading over to
+  <0 Type='3' Data='0000'/>Tarrey Town<0 Type='3' Data='ffff'/>, since so many ruins fell
+  around there.
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Who knows what strange new things
+  I might see?
+Near_GoalPoint_01: |
+  I can't wait to see the site.
+Near_GoRange_03: |
+  What's up there?
+Failed00: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='08005300690067006800'/>Ah! How did we make it out of that?!
+Atacked01: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1200530075007200700072006900730065004c00'/>Waaah! Stay away! I'm, um, warning you!
+Failed01: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='08005300690067006800'/>I don't want to go through anything like
+  that ever again!
+EnokidaSignboard: |
+  This sign is everywhere.
+Thanks00: |
+  <3 Type='0' Data='0100'/>This is the best I can do to thank you—
+  please take it!
+BackRange_03_2: |
+  <3 Type='0' Data='0700'/><0 Type='3' Data='0000'/>Plants we've never seen before<0 Type='3' Data='ffff'/> are
+  attached to the ruins falling from the sky.
+  
+  It's almost as if the sky has its own
+  ecosystem. <5 Type='0'/>Wouldn't that be amazing?
+  
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003100'/><0 Type='3' Data='ffff'/>Anyway, apparently there are a lot of ruins
+  around <0 Type='3' Data='0000'/>Tarrey Town<0 Type='3' Data='ffff'/>, the village in the
+  <0 Type='3' Data='0000'/>middle of Lake Akkala<0 Type='3' Data='ffff'/>.
+  Who knows what strange, new things
+  I might find there?

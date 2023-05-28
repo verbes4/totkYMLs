@@ -1,0 +1,47 @@
+BeginBeforeHint: |
+  You ran into <0 Type='3' Data='0000'/>Master Kohga<0 Type='3' Data='ffff'/>, head of the Yiga
+  Clan, in the Great Abandoned Central Mine in
+  the Depths. He's dead set on getting his hands
+  on the power of the Zonai and bringing about
+  the end of the world with the <0 Type='3' Data='0000'/>Magnificent One<0 Type='3' Data='ffff'/>.
+  Could this have something to do with Zelda's
+  disappearance? Master Kohga's next stop is
+  the <0 Type='3' Data='0000'/>Southwestern Abandoned Mine<0 Type='3' Data='ffff'/>...
+Name: |
+  Master Kohga of the Yiga Clan
+Begin: |
+  You faced <0 Type='3' Data='0000'/>Master Kohga<0 Type='3' Data='ffff'/>, head of the Yiga Clan,
+  in the Great Abandoned Central Mine. He plans
+  to use the power of the Zonai to end the world
+  with the <0 Type='3' Data='0000'/>Magnificent One<0 Type='3' Data='ffff'/>. Could they be
+  involved with Zelda's disappearance? Kohga
+  went to the <0 Type='3' Data='0000'/>Abandoned Gerudo Mine<0 Type='3' Data='ffff'/>. You can
+  go there by following a nearby series of
+  statues through the Depths.
+Complete: |
+  Your final showdown with Master Kohga at the
+  Abandoned Hebra Mine resulted in the revival
+  of the ultimate weapon—a giant construct.
+  You managed to defeat it, and Master Kohga
+  was last seen blasted skyward by his own hand,
+  his plot foiled. Though Zelda's whereabouts
+  remain unknown, you learned that the Demon
+  King lurks beneath Hyrule Castle...
+Again: |
+  You successfully drove Master Kohga from the
+  Abandoned Gerudo Mine, and learned his true
+  aim. He plans to restore a powerful weapon for
+  "<0 Type='3' Data='0000'/>the man himself<0 Type='3' Data='ffff'/>." Pursue Kohga to the
+  <0 Type='3' Data='0000'/>Abandoned Lanayru Mine<0 Type='3' Data='ffff'/>. A line of statues
+  stretching from one of the chasms either in <0 Type='3' Data='0000'/>the
+  Lanayru Wetlands <0 Type='3' Data='ffff'/>or<0 Type='3' Data='0000'/> amidst the mountains
+  south of there <0 Type='3' Data='ffff'/>will guide you to the mine.
+Continue: |
+  You encountered Master Kohga a third time and
+  chased him from the Abandoned Lanayru Mine.
+  As he fled, he told you that he knows where the
+  <0 Type='3' Data='0000'/>Demon King<0 Type='3' Data='ffff'/> is and plans to activate an
+  "<0 Type='3' Data='0000'/>ultimate weapon<0 Type='3' Data='ffff'/>." The Demon King may have
+  a clue to Zelda's whereabouts, so go catch
+  Kohga at the <0 Type='3' Data='0000'/>Abandoned Hebra Mine<0 Type='3' Data='ffff'/>. There
+  may be a chasm that leads you straight to it...

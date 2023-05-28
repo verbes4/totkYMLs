@@ -1,0 +1,30 @@
+New: |
+  New
+Race_Hyrule: |
+  Hylian
+Race_Korok: |
+  Korok
+Race_Sheikah: |
+  Hylian (Sheikah)
+Race_Rito: |
+  Rito
+Race_Goron: |
+  Goron
+Race_Zora: |
+  Zora
+T_CompleteType_00: |
+  Registered:
+Unusable: |
+  Feature not yet available.
+Race_Zonau: |
+  Zonai
+RaceType_Race: |
+  People
+Race_Gerudo: |
+  Gerudo
+0000: |
+  <2 Type='14' Data='2600530069006d0070006c00650049006e00740046006f0072004d00650073007300610067006500ffff01cd'/> / <2 Type='14' Data='2800530069006d0070006c00650049006e00740046006f0072004d006500730073006100670065003200ffff01cd'/>
+RaceType_Tribe: |
+  People
+Race_HyruleAndGerudo: |
+  Gerudo and Hylian

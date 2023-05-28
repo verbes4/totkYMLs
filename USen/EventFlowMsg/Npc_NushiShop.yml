@@ -1,0 +1,627 @@
+TerrorGeneric_01: |
+  Hyeee!
+TerrorGeneric_02: |
+  Fwaaah!
+Near_00: |
+  Bubbul gems...
+Talk32: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Is that it?!<5 Type='1'/> Ooohoo...<5 Type='1'/>not to worry.
+  These marvelous monster parts...
+  
+  <3 Type='0' Data='0800'/>They have many—<5 Type='0'/>MANY—<5 Type='0'/>unique and
+  unknown uses beyond mere boiling
+  to make elixirs!
+Talk_93: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>I'm overjoyed to explain as many times
+  as you want!
+TerrorIce: |
+  Eeep!
+Near_01: |
+  Hurrrhmm...
+Talk33: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Ah, of course! <5 Type='1'/>Let me tell you allll about
+  the <0 Type='3' Data='0000'/><2 Type='11' Data='26004e007500730068006900530068006f0070005200650077006100720064004e0061006d006500ffff'/><0 Type='3' Data='ffff'/>!
+Talk_94: |
+  <3 Type='0' Data='0700'/>If you attach a <0 Type='3' Data='0000'/>Fire Keese eyeball<0 Type='3' Data='ffff'/> to
+  an arrow and fire it... <5 Type='1'/>BEHOLD!
+  
+  The arrow flies in pursuit of whatever
+  foe the eyeball...laid eyes upon. Such
+  a curious and fearsome magical power!
+  <FontSize Value='80'/>Though, ehmmm, I've never tested it myself since
+  I am not so good with a bow.<FontSize Value='100'/>
+Talk90000: |
+  <3 Type='0' Data='0a00'/>Unngg... <5 Type='1'/>I can't make out the
+  whereabouts of any Bubbulfrogs.<5 Type='1'/>
+Talk34: |
+  <3 Type='0' Data='0800'/>Exciting, yes?<5 Type='1'/> How about that trade?
+  I ask for only <0 Type='3' Data='0000'/><2 Type='2' Data='22004e007500730068006900530068006f0070005f0043006f00730074004e0075006d00ffff00cd'/> <201 Type='6' Data='1400420075006200620075006c002000670065006d001600420075006200620075006c002000670065006d0073000000'/><0 Type='3' Data='ffff'/>!<5 Type='1'/>
+Talk_95: |
+  <3 Type='0' Data='0700'/>This <0 Type='3' Data='0000'/>White-Maned Lynel mace horn<0 Type='3' Data='ffff'/>
+  comes from a particularly ferocious
+  specimen, even by Lynel standards.
+  It's said that if you attach it to the tip of
+  a weapon, <5 Type='0'/>that weapon will be filled with
+  rock-smashing power.
+Talk9001: |
+  <3 Type='0' Data='0000'/>Ah, yes, not far from here... <5 Type='0'/>I sense a
+  Bubbulfrog stirs somewhere <0 Type='3' Data='0000'/>around
+  the bottom of the canyon to the east<0 Type='3' Data='ffff'/>!
+Talk90001: |
+  <3 Type='0' Data='0a00'/>Unngg... <5 Type='1'/>I can't make out the specific
+  whereabouts of any Bubbulfrogs.
+  
+  But this much is true...<5 Type='0'/>my Bubbulfrog
+  feeler feels <0 Type='3' Data='0000'/><2 Type='2' Data='30004e007500730068006900730068006f0070005f004d006500640061006c00520065006d00610069006e0069006e006700ffff00cd'/><0 Type='3' Data='ffff'/> <201 Type='6' Data='1400420075006200620075006c00660072006f0067001600420075006200620075006c00660072006f00670073000000'/> hip-hopping
+  somewhere in Hyrule.
+Talk35: |
+  <3 Type='0' Data='0800'/>Give me <0 Type='3' Data='0000'/><2 Type='2' Data='22004e007500730068006900530068006f0070005f0043006f00730074004e0075006d00ffff00cd'/> <201 Type='6' Data='1400420075006200620075006c002000670065006d001600420075006200620075006c002000670065006d0073000000'/><0 Type='3' Data='ffff'/> and the
+  <0 Type='3' Data='0000'/><2 Type='11' Data='26004e007500730068006900530068006f0070005200650077006100720064004e0061006d006500ffff'/><0 Type='3' Data='ffff'/> is yours!<5 Type='1'/>
+Talk_96: |
+  <3 Type='0' Data='0700'/>I'm told <0 Type='3' Data='0000'/>Ice-Breath Lizalfos tails <0 Type='3' Data='ffff'/>extend
+  the attack range of the weapons they're
+  attached to.
+  But that's not all! <5 Type='1'/>I understand they imbue
+  weapons with the power to freeze
+  enemies too.
+Talk4001: |
+  <3 Type='0' Data='0000'/>Ahh yes, quite near here... <5 Type='0'/>I sense a
+  Bubbulfrog wriggles near the
+  <0 Type='3' Data='0000'/>Isle of Rabac<0 Type='3' Data='ffff'/>!
+Talk9002: |
+  <3 Type='0' Data='0000'/><0 Type='3' Data='0000'/>South<0 Type='3' Data='ffff'/> of here, yes... <5 Type='0'/>I sense a Bubbulfrog
+  romping near the <0 Type='3' Data='0000'/>East Gerudo Ruins<0 Type='3' Data='ffff'/>!
+Talk_97: |
+  <3 Type='0' Data='0700'/>These <0 Type='3' Data='0000'/>Gleeok wings<0 Type='3' Data='ffff'/> come from one of
+  those giant three-headed monsters that
+  have been seen of late.
+  If you affix them to a weapon or arrow,
+  they'll stabilize your stance and greatly
+  increase the weapon's range.
+Talk4002: |
+  <3 Type='0' Data='0000'/><0 Type='3' Data='0000'/>Southeast<0 Type='3' Data='ffff'/> from here...<5 Type='0'/>there's an
+  excavation company called <0 Type='3' Data='0000'/>YunoboCo<0 Type='3' Data='ffff'/>...<0 Type='4'/>Heheee indeed, I sense a Bubbulfrog
+  hibiddy-bobbing about <0 Type='3' Data='0000'/>east <0 Type='3' Data='ffff'/>of their
+  headquarters!
+Talk9003: |
+  <3 Type='0' Data='0000'/>Ah, yes, <0 Type='3' Data='0000'/>southwest<0 Type='3' Data='ffff'/> of here... <5 Type='0'/>I sense a
+  Bubbulfrog cavorts somewhere beyond
+  the <0 Type='3' Data='0000'/>Kara Kara Bazaar<0 Type='3' Data='ffff'/>!
+Talk_98: |
+  <3 Type='0' Data='0700'/>These <0 Type='3' Data='0000'/>Gleeok thunder horns<0 Type='3' Data='ffff'/> come from a
+  specimen that fires quite a lot of lightning,
+  even by three-headed-monster standards.
+  Of course, attaching it to a weapon fills
+  that weapon with the horn's stored-up
+  lightning power.
+  It's said common monsters don't stand
+  a chance against its destructive powers.
+Talk4003: |
+  <3 Type='0' Data='0000'/><0 Type='3' Data='0000'/>Southeast<0 Type='3' Data='ffff'/> from here...<5 Type='0'/>there's an
+  excavation company called <0 Type='3' Data='0000'/>YunoboCo<0 Type='3' Data='ffff'/>...<0 Type='4'/>Heheee indeed, I sense a Bubbulfrog
+  skittery-scooting about <0 Type='3' Data='0000'/>south <0 Type='3' Data='ffff'/>of their
+  headquarters!
+Talk9004: |
+  <3 Type='0' Data='0000'/>Ah, I see there's <0 Type='3' Data='0000'/>quicksand <0 Type='3' Data='ffff'/>to the
+  <0 Type='3' Data='0000'/>southwest<0 Type='3' Data='ffff'/> of here. I sense a Bubbulfrog
+  sits somewhere near there!
+Talk_99: |
+  Go on, what do you say? <5 Type='0'/>If you
+  have <0 Type='3' Data='0000'/>Bubbul gems<0 Type='3' Data='ffff'/>, I'll trade them
+  for treeeasure!
+Talk4004: |
+  <3 Type='0' Data='0000'/>I see, yes, <0 Type='3' Data='0000'/>south<0 Type='3' Data='ffff'/> of here... <5 Type='0'/>I sense a
+  Bubbulfrog gamboling near the
+  <0 Type='3' Data='0000'/>Goronbi River<0 Type='3' Data='ffff'/>!
+Talk9005: |
+  <3 Type='0' Data='0000'/>A little <0 Type='3' Data='0000'/>south<0 Type='3' Data='ffff'/> from here... <5 Type='0'/>I sense a
+  Bubbulfrog scampers near an <0 Type='3' Data='0000'/>area
+  with lots of quicksand<0 Type='3' Data='ffff'/>!
+Talk4005: |
+  <3 Type='0' Data='0000'/>I sense a Bubbulfrog dallying near the
+  <0 Type='3' Data='0000'/>Deplian Badlands<0 Type='3' Data='ffff'/>, far to the <0 Type='3' Data='0000'/>west<0 Type='3' Data='ffff'/> of here!
+TerrorFire_00: |
+  Oooh no! Hot, hot, hot!
+Talk_00: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Greetings and good meetings!<5 Type='1'/> I trade
+  treasure for <0 Type='3' Data='0000'/>Bubbul gems<0 Type='3' Data='ffff'/>!
+TerrorFire_01: |
+  Unnggh!
+Talk_01: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1200530075007200700072006900730065004d00'/>Gwaah! <5 Type='0'/>You're the nice traveler from
+  before!
+  
+  <3 Type='0' Data='0701'/>You gave me your Bubbul gem. So kind.
+  Many thanks!
+Talk11001: |
+  <3 Type='0' Data='0000'/>Near here, yes, quite near... <5 Type='0'/>I sense a
+  Bubbulfrog romps somewhere <0 Type='3' Data='0000'/>west of
+  Robred Dropoff<0 Type='3' Data='ffff'/>!
+TerrorFire_02: |
+  Eeeooow!
+Talk_02: |
+  You know...<5 Type='0'/>it was a very special moment
+  for me...<5 Type='1'/>yes, very special...<5 Type='0'/>
+Talk11002: |
+  <3 Type='0' Data='0000'/>Ah, <0 Type='3' Data='0000'/>south<0 Type='3' Data='ffff'/> of here... <5 Type='0'/>I sense a Bubbulfrog
+  lounges somewhere near <0 Type='3' Data='0000'/>Oakle's Navel<0 Type='3' Data='ffff'/>!
+Talk_03: |
+  <3 Type='0' Data='0901'/><4 Type='0' Data='1a004800790073007400650072006900630061006c005f0030003000'/>Nnngggyaaat! <5 Type='1'/>I need more Bubbul gems!<5 Type='1'/>
+  I must have mooore!<5 Type='1'/>
+Talk11003: |
+  <3 Type='0' Data='0000'/>Hoo, yes, <0 Type='3' Data='0000'/>east<0 Type='3' Data='ffff'/> of here... <5 Type='0'/>I sense a
+  Bubbulfrog rests near <0 Type='3' Data='0000'/>Retsam Forest<0 Type='3' Data='ffff'/>,
+  not far from Hateno Village!
+Talk_04: |
+  <FontSize Value='80'/><3 Type='0' Data='0701'/>Bwaaa... <5 Type='1'/>I'm sorry...<FontSize Value='100'/>
+Talk11004: |
+  <3 Type='0' Data='0000'/>Ah, just a little <0 Type='3' Data='0000'/>east<0 Type='3' Data='ffff'/> of here... <5 Type='0'/>I sense a
+  Bubbulfrog wallowing somewhere near
+  <0 Type='3' Data='0000'/>Walnot Mountain<0 Type='3' Data='ffff'/>!
+Talk_05: |
+  <3 Type='0' Data='0a00'/>Ever since we parted, I've been traveling
+  far and wide, and yet I still haven't
+  gathered a single Bubbul gem.
+  WHEN will I become a Satori? WHAT am
+  I to do?
+Talk_91_00_01: |
+  <3 Type='0' Data='0700'/>The mystic headpiece,<5 Type='0'/> mystic robe,
+  <5 Type='0'/>and mystic trousers <5 Type='0'/>are very rare
+  treasures indeed...
+  According to ancient texts, <5 Type='1'/>the wearer
+  is protected from any and all injuries.
+  
+  But it's also said these strange
+  clothes prevent the wearer from
+  becoming rich. A tricky trade-off, no?
+  <3 Type='0' Data='0a01'/>I tried to wear them myself, <5 Type='1'/>but the
+  sizes didn't seem to fit.
+  
+  <3 Type='0' Data='0800'/>Fwaahaha,<5 Type='1'/> but they seem the perfect size
+  for you!
+Talk11005: |
+  <3 Type='0' Data='0000'/>Hmm, it's fairly far <0 Type='3' Data='0000'/>southeast<0 Type='3' Data='ffff'/> of here...<5 Type='0'/>
+  But I sense a Bubbulfrog dallying near
+  <0 Type='3' Data='0000'/>Mount Dunsel<0 Type='3' Data='ffff'/>!
+Talk_06: |
+  <3 Type='0' Data='0700'/>It can't be a coincidence we meet again,
+  traveler. Fate...yes, FATE...brought us
+  back together. I'm sure of it.<0 Type='4'/><3 Type='0' Data='0800'/>PLEASE! If you get your fingers on any
+  more <0 Type='3' Data='0000'/>Bubbul gems<0 Type='3' Data='ffff'/>, would you give
+  them to me?
+  I promise I'll give you suitable <0 Type='3' Data='0000'/>treasures<0 Type='3' Data='ffff'/>
+  in exchange for them!
+  
+  <3 Type='0' Data='0000'/>For example, look up there!<5 Type='0'/>
+Talk_07: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1000480061007000700079005f0030003200'/>That <0 Type='3' Data='0000'/>mystic clothing<0 Type='3' Data='ffff'/> there is all
+  yours...<5 Type='0'/>if you bring me lots and
+  lots of <0 Type='3' Data='0000'/>Bubbul gems<0 Type='3' Data='ffff'/>!<5 Type='0'/>
+Talk_08: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003200'/>Yes then, yes! <5 Type='0'/>If you get your fingers on
+  any <0 Type='3' Data='0000'/>Bubbul gems<0 Type='3' Data='ffff'/>, please bring them
+  to me!
+  I'll be <0 Type='3' Data='0000'/>traveling far and wide<0 Type='3' Data='ffff'/> in search of
+  those gems myself. So if you spot my stall
+  <0 Type='3' Data='0000'/>at night<0 Type='3' Data='ffff'/>, don't be shy—do come by!
+Talk_11: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Good evening, traveler.<5 Type='0'/> It's a fine night,
+  yes, very fine.
+Talk_09: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Bwaah? <5 Type='1'/>Your pouch is very full. Even if
+  I gave you the treasure, you wouldn't
+  be able to carry it.
+  Please come back once you've made
+  some room in there.
+Talk_91_00: |
+  <3 Type='0' Data='0800'/>The next treasure <5 Type='1'/>is the <0 Type='3' Data='0000'/>mystic robe<0 Type='3' Data='ffff'/>
+  you've had your eyeball on!<5 Type='1'/>
+TerrorSword_00: |
+  Gaaaw!
+Talk_12: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Good evening, traveler.<0 Type='4'/>Foul weather can't foul my mood when
+  I'm on my way to becoming a Satori.
+Talk_91_01: |
+  <3 Type='0' Data='0800'/>The next treasure is one you've been
+  waiting for...<5 Type='1'/> Fashionable as well as
+  valuable...<5 Type='1'/>it's the <0 Type='3' Data='0000'/>mystic trousers<0 Type='3' Data='ffff'/>!<5 Type='1'/>
+Talk_101: |
+  <3 Type='0' Data='0700'/>My big brother, Kilton, gave me this
+  <0 Type='3' Data='0000'/>Moblin mask<0 Type='3' Data='ffff'/>.
+  
+  Do you see? It's a mask that's so
+  realistic, it could fool an actual Moblin!
+  
+  <3 Type='0' Data='0000'/>You want one, do you not? <5 Type='1'/>Well, <5 Type='0'/>why not
+  add it to your collection?
+TerrorSword_01: |
+  Eeep!
+Talk_13: |
+  <3 Type='0' Data='0b00'/>Bwaaah! <5 Type='1'/>Look at the time!<0 Type='4'/><3 Type='0' Data='0700'/>Traveler, I'm very sorry you came all the
+  way here at this unfortunate hour. <5 Type='1'/>But we
+  must meet again when it's <0 Type='3' Data='0000'/>night<0 Type='3' Data='ffff'/>!
+Talk_102: |
+  <3 Type='0' Data='0700'/>I'll dally no more. Here I gooo...
+Talk_104_01: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>MmAAAH, <5 Type='1'/>I feel something bubbling up
+  from deep inside me...<5 Type='0'/>I think...
+Talk_91_02: |
+  <3 Type='0' Data='0800'/>The next treasure <5 Type='1'/>is the last I have
+  to give! It iiis...<5 Type='1'/>the <0 Type='3' Data='0000'/>mystic headpiece<0 Type='3' Data='ffff'/>!
+TerrorSword_02: |
+  Yaarg!
+Talk_103: |
+  <FontSize Value='80'/>*gulp*<FontSize Value='100'/>
+Talk_104_02: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>OoHAAA, <5 Type='1'/>whaaat IS this strange feeling
+  running upways and downwise my body?!
+Talk_104: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>HooOO, <5 Type='0'/>my body is filling with
+  mysterious pow...<5 Type='0'/>POWER...
+Talk_104_03: |
+  <3 Type='0' Data='0901'/><4 Type='0' Data='100041006e006700720079005f0030003000'/>Nnngggyaaat! <5 Type='1'/>I need more Bubbul gems!<5 Type='1'/>
+  I must have mooore!<5 Type='1'/>
+Talk_16: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003300'/>Please, come again!
+Talk_104_04: |
+  <3 Type='0' Data='0901'/><4 Type='0' Data='100041006e006700720079005f0030003100'/>Nnngggyaat! <5 Type='1'/>More... <5 Type='0'/>Give me more
+  Bubbul gems!<5 Type='1'/>
+Talk_105: |
+  <FontSize Value='80'/><3 Type='0' Data='0701'/><4 Type='0' Data='0e0045006100730065005f0030003000'/>Huuurfff... <5 Type='1'/>I'm sorry...<FontSize Value='100'/>
+Talk_104_05: |
+  <3 Type='0' Data='0900'/><4 Type='0' Data='1a004800790073007400650072006900630061006c005f0030003000'/>Nnngggyaaat! <5 Type='1'/>It's... <5 Type='0'/>It's still not enough!<5 Type='0'/>
+  NOT ENOUGH Bubbul gems!<5 Type='1'/>
+Talk_106: |
+  <3 Type='0' Data='0700'/>My big brother, Kilton, gave me this
+  <0 Type='3' Data='0000'/>Lizalfos mask<0 Type='3' Data='ffff'/>.
+  
+  Look! See! It's a mask so very realistic,
+  it could fool an actual Lizalfos!
+  
+  <3 Type='0' Data='0000'/>You want one, I'm sure of it. <5 Type='1'/>So, SO...<5 Type='0'/>
+  why not add it to your collection?
+Talk5001: |
+  <3 Type='0' Data='0000'/>Yes, YES, <0 Type='3' Data='0000'/>southwest<0 Type='3' Data='ffff'/> of here...<5 Type='0'/>
+  I sense a Bubbulfrog ambling near
+  <0 Type='3' Data='0000'/>Akkala Citadel Ruins<0 Type='3' Data='ffff'/>!
+Talk_107: |
+  <3 Type='0' Data='0700'/>This <0 Type='3' Data='0000'/>Horriblin mask <0 Type='3' Data='ffff'/>was a gift from my
+  big brother, Kilton.
+  
+  Look! Looook! This mask is sooo realistic,
+  it could fool an actual Horriblin!
+  
+  <3 Type='0' Data='0000'/>You want one! You do! <5 Type='1'/>So I ask, <5 Type='0'/>why not
+  add it to your collection?
+Talk5002: |
+  <3 Type='0' Data='0000'/>There it is, <0 Type='3' Data='0000'/>west<0 Type='3' Data='ffff'/> from here... <5 Type='0'/>I sense a
+  Bubbulfrog lollygags near <0 Type='3' Data='0000'/>Lake Intenoch<0 Type='3' Data='ffff'/>!
+Talk_21: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>Oh yes! <5 Type='0'/>I forgot to mention something
+  important!<0 Type='4'/><3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>When it comes to Bubbul gems, I believe
+  <0 Type='3' Data='0000'/>gobbling down many at once<0 Type='3' Data='ffff'/> is the key to
+  turning into a Satori!
+  So, in the future, please bring me
+  <0 Type='3' Data='0000'/>the quantity I ask for<0 Type='3' Data='ffff'/> all together.
+  
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0e0050006100730073005f0030003000'/>The reward I give you will be based on
+  how many gems you give me. <5 Type='0'/>A good
+  deal for us both!
+Talk_19: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='08005000610073007300'/>Now that I am myself once more...<5 Type='1'/>please,
+  here's the treasure I promised you.
+Talk_108: |
+  <3 Type='0' Data='0700'/>This <0 Type='3' Data='0000'/>Lynel mask <0 Type='3' Data='ffff'/>was a gift from my
+  big brother, Kilton.
+  
+  I tell you, this mask is so very elaborate
+  and realistic, it could fool one of those
+  beastly Lynels!
+  <3 Type='0' Data='0000'/>I'm certain you want one. You must!<5 Type='1'/>
+  So, <5 Type='0'/>why not add it to your collection?
+Talk5003: |
+  <3 Type='0' Data='0000'/><0 Type='3' Data='0000'/>Southeast<0 Type='3' Data='ffff'/> of here... <5 Type='0'/>I sense a Bubbulfrog
+  bobbling near the <0 Type='3' Data='0000'/>eastern side of
+  Ulria Grotto<0 Type='3' Data='ffff'/>!
+Talk_22: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>Whaa! <5 Type='1'/>What is that I sense?<0 Type='4'/><3 Type='0' Data='0101'/>Traveler...<5 Type='1'/>could it be that you have GOBS
+  of Bubbul gems in your possession?
+Talk_111: |
+  <3 Type='0' Data='0700'/>Of course, if you happen to have any
+  remaining <0 Type='3' Data='0000'/>Bubbul gems<0 Type='3' Data='ffff'/>, I'll happily trade
+  them for treasure!
+Talk_109: |
+  <3 Type='0' Data='0700'/>These <0 Type='3' Data='0000'/>nails <0 Type='3' Data='ffff'/>come from the terrifying,
+  one-eyed giant Hinox—a beast it's best
+  not to get close to.
+  It must be said...<5 Type='0'/><0 Type='3' Data='0000'/>monster fangs and nails<0 Type='3' Data='ffff'/>
+  don't have much destructive power when
+  attached to weapons.
+  <3 Type='0' Data='0500'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003100'/>But what do you think happens when
+  they're used as <0 Type='3' Data='0000'/>arrowheads<0 Type='3' Data='ffff'/>?<5 Type='1'/>
+  
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003300'/>Why, I'll tell you!<5 Type='1'/> Their sinister shape
+  increases the arrow's destructive power
+  quite tremendously!
+  <3 Type='0' Data='0001'/><FontSize Value='80'/>Of course, I toiled tirelessly to build up my
+  collection, so...eh...I would never use these
+  specimens in such a way.<FontSize Value='100'/>
+Talk5004: |
+  <3 Type='0' Data='0000'/>It's a little ways <0 Type='3' Data='0000'/>south<0 Type='3' Data='ffff'/> of here... <5 Type='0'/>But I
+  sense a Bubbulfrog plopped down near
+  the <0 Type='3' Data='0000'/>western side of Ploymus Mountain<0 Type='3' Data='ffff'/>!
+Talk_23: |
+  <3 Type='0' Data='0100'/><0 Type='3' Data='0000'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003200'/><0 Type='3' Data='ffff'/>If you have <0 Type='3' Data='0000'/>Bubbul gems<0 Type='3' Data='ffff'/>, I'll traaade them
+  for treeeasure!
+Talk_91_01_01: |
+  <3 Type='0' Data='0700'/>Have you been enjoying the mystic robe
+  I gave you before?
+  
+  Well, these <0 Type='3' Data='0000'/>mystic trousers<0 Type='3' Data='ffff'/> are a RARE
+  treasure <5 Type='0'/>with the same power as that
+  mystic robe.
+  <3 Type='0' Data='0000'/>But the two together? Well, there's no
+  doubt that a top and bottom set will
+  make that power even more powerful!
+Talk5005: |
+  <3 Type='0' Data='0000'/>It's a quite a journey <0 Type='3' Data='0000'/>south<0 Type='3' Data='ffff'/> from here... <5 Type='0'/>
+  But I sense a Bubbulfrog hanging around
+  <0 Type='3' Data='0000'/>Horon Lagoon<0 Type='3' Data='ffff'/>!
+Talk_26: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0a0048006100700070007900'/>Fwaahaha! <5 Type='1'/>I'm happy beyond all
+  happiness!<5 Type='1'/> At last...<5 Type='1'/>the dream I've
+  dreamed for so many years...<5 Type='1'/>
+Talk_28: |
+  <3 Type='0' Data='0c00'/>Hnnggg...<5 Type='1'/>hurrgh...<5 Type='1'/>something's happening.
+  <5 Type='1'/>Something strange...and uncomfortable...
+  and...and different from before.<5 Type='1'/>
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>Gwaaawah?!<5 Type='1'/> This is it...<5 Type='0'/>I am finally...
+  
+  
+  <3 Type='0' Data='0800'/>FINALLY...turning into a <0 Type='3' Data='0000'/>Satori<0 Type='3' Data='ffff'/>!<5 Type='1'/>
+  
+  
+  <3 Type='0' Data='0700'/>Sadly, I don't have any treasure left to
+  give you... <5 Type='1'/>
+  
+  But I must reward you somehow,<5 Type='0'/>
+  so please, PLEASE accept this <0 Type='3' Data='0000'/>item
+  I made myself<0 Type='3' Data='ffff'/>!
+Talk_30: |
+  You found all of the Bubbul gems.
+  You should meet with Koltin.
+Talk_31: |
+  <3 Type='0' Data='0700'/>Hurmmm, let's seeee...<5 Type='0'/> If you give me
+  <0 Type='3' Data='0000'/><2 Type='2' Data='22004e007500730068006900530068006f0070005f0043006f00730074004e0075006d00ffff00cd'/> <201 Type='6' Data='1400420075006200620075006c002000670065006d001600420075006200620075006c002000670065006d0073000000'/><0 Type='3' Data='ffff'/>, I'll give you one
+  item of value...
+  Hooo, yes, YES! I'll give you the
+  <2 Type='11' Data='26004e007500730068006900530068006f0070005200650077006100720064004e0061006d006500ffff'/>!
+Talk_76_01: |
+  <3 Type='0' Data='0000'/>Hwah! <5 Type='1'/>What if I need to eat ALL of the
+  Bubbul gems?
+Talk_121: |
+  <3 Type='0' Data='0700'/>And I'll let you in on a little seeecret...<0 Type='4'/>Ever since I ate that first Bubbul gem, <5 Type='0'/>
+  I've been able to SENSE the <0 Type='3' Data='0000'/>presence of
+  Bubbulfrogs<0 Type='3' Data='ffff'/>...<5 Type='0'/>er, though, not all of them.
+  <3 Type='0' Data='0100'/>For you, l can put my Bubbulfrog feelers
+  to work and seek out <0 Type='3' Data='0000'/>places they're
+  likely to be found<0 Type='3' Data='ffff'/>!
+Talk_76_02: |
+  <3 Type='0' Data='0000'/>Traveler! <5 Type='1'/>I promise, this is the last thing
+  I'll ask of you!<0 Type='4'/>Would you...<5 Type='1'/>prettiest please...<5 Type='1'/>collect
+  ALL of the remaining Bubbul gems?
+Talk_76_03: |
+  <3 Type='0' Data='0a00'/>No...<5 Type='1'/>it's not right...<5 Type='0'/>I don't have a single
+  treasure left to trade.
+  
+  I couldn't...<5 Type='1'/>I shouldn't ask such a favor
+  of you.
+Talk_55_01: |
+  <3 Type='0' Data='0700'/>Traveler...<5 Type='1'/> Thank you so very much for
+  joining me as I chased my dream!<5 Type='0'/>
+  
+  You've helped me get this far.<5 Type='1'/> No matter
+  the outcome, I have no regrets! NONE!<5 Type='1'/>
+TerrorArrow_00: |
+  Awwwgh!
+TerrorImpulse_00: |
+  Yaarg!
+Talk_55_02: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003200'/>I look forward to meeting you again<5 Type='0'/>
+  somewhere and in some form!<5 Type='1'/> Take care!<1 Type='3' Data='1e000000'/>
+TerrorArrow_01: |
+  Stop-stop!
+TerrorImpulse_01: |
+  Graaah!
+NakedPlayer_00: |
+  Bold choice. Daring, yes!
+TerrorArrow_02: |
+  Fwaaah!
+TerrorImpulse_02: |
+  Hwoog!
+NakedPlayer_01: |
+  Fear not, follow your heart.
+Talk1001: |
+  <3 Type='0' Data='0000'/>Yes, YES, <0 Type='3' Data='0000'/>northwest<0 Type='3' Data='ffff'/> of here... <5 Type='0'/>I sense a
+  Bubbulfrog gambols near the <0 Type='3' Data='0000'/>northern
+  Passeri Greenbelt<0 Type='3' Data='ffff'/>!
+NakedPlayer_02: |
+  Cold! Aren't you brrr-brrr?
+Talk1002: |
+  <3 Type='0' Data='0000'/>Ooo yes, <0 Type='3' Data='0000'/>east<0 Type='3' Data='ffff'/> of here... <5 Type='0'/>I sense a
+  Bubbulfrog cavorts near <0 Type='3' Data='0000'/>Crenel Peak<0 Type='3' Data='ffff'/>!
+Talk1003: |
+  <3 Type='0' Data='0000'/>Yes! <0 Type='3' Data='0000'/>West <0 Type='3' Data='ffff'/>of here... <5 Type='0'/>I sense a Bubbulfrog
+  stirs near the <0 Type='3' Data='0000'/>Sage Temple Ruins<0 Type='3' Data='ffff'/>!
+Talk1004: |
+  <3 Type='0' Data='0000'/><0 Type='3' Data='0000'/>Faaar west<0 Type='3' Data='ffff'/> of here...<5 Type='0'/>I sense a Bubbulfrog
+  tippy-toes downstream the <0 Type='3' Data='0000'/>Tamio River<0 Type='3' Data='ffff'/>!
+TerrorAnimal: |
+  Yaaaiiieee!
+TerrorFlash: |
+  Hyeee!
+0001: |
+  Let's trade.
+Talk1005: |
+  <3 Type='0' Data='0000'/>Ah yes, <0 Type='3' Data='0000'/>south<0 Type='3' Data='ffff'/> of here... <5 Type='0'/>I sense a
+  Bubbulfrog frolics near the foothills
+  of the <0 Type='3' Data='0000'/>Great Plateau<0 Type='3' Data='ffff'/>!
+0002: |
+  Let me think about it.
+Talk13001: |
+  <3 Type='0' Data='0000'/>Hoo, yes, I sense a Bubbulfrog cavorting
+  somewhere near the shore of <0 Type='3' Data='0000'/>Cora Lake<0 Type='3' Data='ffff'/>,
+  <0 Type='3' Data='0000'/>southwest<0 Type='3' Data='ffff'/> of here!
+Talk13002: |
+  <3 Type='0' Data='0000'/>I sense a Bubbulfrog hiding somewhere
+  near the <0 Type='3' Data='0000'/>eastern surface of Lake Hylia<0 Type='3' Data='ffff'/>!
+Talk13003: |
+  <3 Type='0' Data='0000'/>There, yes, I sense a Bubbulfrog hopping
+  near <0 Type='3' Data='0000'/>Tobio's Hollow<0 Type='3' Data='ffff'/>, <0 Type='3' Data='0000'/>east<0 Type='3' Data='ffff'/> of here!
+0005: |
+  Sounds fair.
+Talk13004: |
+  <3 Type='0' Data='0000'/>Clearly yes, I can sense a Bubbulfrog
+  cavorting near <0 Type='3' Data='0000'/>Corta Lake<0 Type='3' Data='ffff'/>, <0 Type='3' Data='0000'/>east<0 Type='3' Data='ffff'/> of here!
+0006: |
+  Sense any Bubbulfrogs?
+Talk_91_02_01: |
+  <3 Type='0' Data='0700'/>It is rare...extremely rare...just like the
+  mystic robe and mystic trousers.<5 Type='0'/>
+  
+  <3 Type='0' Data='0000'/>Ah, but put these three all together, and
+  you're sure to draw out the BIGNESS of
+  their power!
+Talk13005: |
+  <3 Type='0' Data='0000'/>Just a little <0 Type='3' Data='0000'/>south<0 Type='3' Data='ffff'/> of here... <5 Type='0'/>I sense a
+  Bubbulfrog perched somewhere near
+  <0 Type='3' Data='0000'/>Puffer Beach<0 Type='3' Data='ffff'/>!
+Talk_50: |
+  <3 Type='0' Data='0700'/><0 Type='3' Data='0000'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/><0 Type='3' Data='ffff'/>Please. Come trade with me again when
+  you've collected <0 Type='3' Data='0000'/><2 Type='2' Data='22004e007500730068006900530068006f0070005f0043006f00730074004e0075006d00ffff00cd'/> Bubbul gems<0 Type='3' Data='ffff'/>.
+0010: |
+  What kind of treasure?
+Talk_49: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a005400680069006e006b00'/>Let's see here...<5 Type='1'/> Bwauh?<5 Type='0'/>
+0011: |
+  I want it!
+0009: |
+  Goodbye.
+0012: |
+  I'll think about it.
+0013: |
+  Here you go.
+0014: |
+  I'm sorry.
+Talk_55: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>If you wouldn't mind, <5 Type='0'/>please show this
+  to <0 Type='3' Data='0000'/>Kilton<0 Type='3' Data='ffff'/> and give him my best.
+0015: |
+  Is that it?
+Talk_56: |
+  <3 Type='0' Data='0000'/>No time to lose...<5 Type='1'/>down the hatch!
+0016: |
+  What's that?
+TerrorEnemy: |
+  Awwwgh!
+Talk_61: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003000'/>I can't believe you collected each and
+  every Bubbul gem, traveler!
+  
+  <3 Type='0' Data='0000'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>Hurmmm...<5 Type='1'/>to gather them all and bring
+  them here, it's such a tremendous feat.<5 Type='1'/>
+  Ah, I think I understand...
+ClearTerrorEnemy: |
+  Oof! That was close.
+Talk_30_01: |
+  You found all of the Bubbul gems!
+Talk_63: |
+  <3 Type='0' Data='0901'/><4 Type='0' Data='0a0041006e00670072007900'/>Nnngggyaaat! <5 Type='1'/>You do NOT have enough
+  Bubbul gems!<5 Type='1'/>
+Talk_64: |
+  <3 Type='0' Data='0a01'/>Sorry. So very sorry.<5 Type='1'/> I did not mean to
+  lose hold of my calm.
+Talk_70: |
+  <3 Type='0' Data='0700'/>I will focus my senses and try searching
+  for Bubbulfrogs.<0 Type='4'/><3 Type='0' Data='0c00'/>Hrrrnnn...<5 Type='1'/>
+Talk_71: |
+  <3 Type='0' Data='0100'/>That's all I can say about that.
+Talk_102_00: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0a0048006100700070007900'/>Huzzzooo! <5 Type='1'/>Thank you!<5 Type='1'/>
+Talk_73: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>I can sense the presence of...<5 Type='1'/>
+  <0 Type='3' Data='0000'/>ZERO <0 Type='3' Data='ffff'/>Bubbulfrogs.<5 Type='1'/><0 Type='4'/><3 Type='0' Data='0b01'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003100'/>I don't believe it!<5 Type='0'/> You collected...
+  
+  
+  <3 Type='0' Data='0000'/>EACH and EVERY Bubbul gem?!<0 Type='4'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>Traveler...<5 Type='0'/>you didn't do that...<5 Type='0'/>just for
+  ME did you?
+Talk_102_01: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0a0048006100700070007900'/>Fwaahaha! <5 Type='1'/>I'm so happyyy!<5 Type='1'/>
+Talk_74: |
+  <3 Type='0' Data='0a00'/>Of course, of course...<5 Type='1'/>you went to so
+  very much trouble to collect them,
+  after all...
+TerrorExplosion_00: |
+  Bwaaah, no!
+Talk_102_02: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0a0048006100700070007900'/>I am overjoyed, yes, I am!<5 Type='1'/> I knew you'd
+  come through, traveler!<5 Type='1'/> 
+TerrorExplosion_01: |
+  Aaayeee!
+TerrorHorse_00: |
+  Gaaaw!
+Talk_76: |
+  <3 Type='0' Data='0a00'/>*sigh* <5 Type='1'/>I've eaten all these Bubbul gems,
+  and I still haven't turned into a Satori.
+TerrorExplosion_02: |
+  Eeep!
+TerrorHorse_01: |
+  Whoahohoho!
+TerrorBomb: |
+  Hwoog, no! Ouchie!
+TerrorHorse_02: |
+  Aaayeee!
+Talk_31_01: |
+  <3 Type='0' Data='0700'/>Hurm, the <0 Type='3' Data='0000'/><2 Type='11' Data='26004e007500730068006900530068006f0070005200650077006100720064004e0061006d006500ffff'/><0 Type='3' Data='ffff'/>
+  might be of interest. I'll give you <0 Type='3' Data='0000'/><2 Type='2' Data='30004e007500730068006900530068006f007000520065007700610072006400420075006e0064006c0065004e0075006d00ffff00cd'/><0 Type='3' Data='ffff'/>
+  of them for <0 Type='3' Data='0000'/><2 Type='2' Data='22004e007500730068006900530068006f0070005f0043006f00730074004e0075006d00ffff00cd'/> <201 Type='6' Data='1400420075006200620075006c002000670065006d001600420075006200620075006c002000670065006d0073000000'/><0 Type='3' Data='ffff'/>!
+Talk_78: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Though, you know...<5 Type='0'/>perhaps it's because
+  of allll the Bubbul gems I've gobbled up...
+  
+  but I can, at last, sense the <0 Type='3' Data='0000'/>presence of
+  each and every Bubbulfrog<0 Type='3' Data='ffff'/> across the
+  vaaastness of Hyrule.
+  I admit, of course, I don't know exactly
+  where they are. Still...
+Talk3001: |
+  <3 Type='0' Data='0000'/><0 Type='3' Data='0000'/>Southwest<0 Type='3' Data='ffff'/> of here... <5 Type='0'/>I sense a Bubbulfrog
+  capers near the <0 Type='3' Data='0000'/>Kopeeki Drifts<0 Type='3' Data='ffff'/>!
+Talk_79: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='0600530061006400'/>I can sense <0 Type='3' Data='0000'/><2 Type='2' Data='30004e007500730068006900730068006f0070005f004d006500640061006c00520065006d00610069006e0069006e006700ffff00cd'/><0 Type='3' Data='ffff'/> <201 Type='6' Data='1400420075006200620075006c00660072006f0067001600420075006200620075006c00660072006f00670073000000'/> out there.<5 Type='1'/>
+  I muuust collect every one.
+Talk3002: |
+  <3 Type='0' Data='0000'/>Yes, <0 Type='3' Data='0000'/>west<0 Type='3' Data='ffff'/> of here... <5 Type='0'/>I sense a Bubbulfrog
+  harrumphs near <0 Type='3' Data='0000'/>Hebra Headspring<0 Type='3' Data='ffff'/>!
+Talk3003: |
+  <3 Type='0' Data='0000'/>Mmm, <0 Type='3' Data='0000'/>northwest<0 Type='3' Data='ffff'/> of here... <5 Type='0'/><0 Type='3' Data='0000'/>Even farther
+  northwest than Hebra Peak...<0 Type='3' Data='ffff'/> <5 Type='0'/>I sense a
+  Bubbulfrog bobbling about!
+TerrorLightning_00: |
+  Gaaaw! Ouchie, ouchie!
+Talk3004: |
+  <3 Type='0' Data='0000'/>Yes, of course, <0 Type='3' Data='0000'/>southwest<0 Type='3' Data='ffff'/> of here...
+  <5 Type='0'/>I sense a Bubbulfrog stirs <0 Type='3' Data='0000'/>southeast
+  of Lucky Clover Gazette<0 Type='3' Data='ffff'/>!
+TerrorLightning_01: |
+  Nooo zaaaps!
+Talk3005: |
+  <3 Type='0' Data='0000'/>Hooo, <0 Type='3' Data='0000'/>far northwest<0 Type='3' Data='ffff'/> of here... <5 Type='0'/>I sense
+  a Bubbulfrog bouncing about beyond
+  <0 Type='3' Data='0000'/>Hebra North Summit<0 Type='3' Data='ffff'/>!
+TerrorLightning_02: |
+  Aaayeee!
+TerrorGeneric_00: |
+  Eeep!
+TerrorInsect: |
+  Blaaagh!

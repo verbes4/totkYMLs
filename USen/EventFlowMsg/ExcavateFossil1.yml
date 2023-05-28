@@ -1,0 +1,103 @@
+Talk10: |
+  <3 Type='0' Data='0700'/>It's pretty impressive that the leviathan's
+  <0 Type='3' Data='0000'/>eyes were fossilized too<0 Type='3' Data='ffff'/>, right?<0 Type='4'/><3 Type='0' Data='0701'/>Wrong!
+Talk11: |
+  <3 Type='0' Data='0a00'/>*sigh*<5 Type='1'/> And after I came all this way.<5 Type='0'/>
+  I wish I could have seen him with both of
+  <0 Type='3' Data='0000'/>his cute little eyes<0 Type='3' Data='ffff'/> still in his head.
+  <3 Type='0' Data='0701'/>That <0 Type='3' Data='0000'/>other eyeball<0 Type='3' Data='ffff'/> has to be around here
+  somewhere, right?
+Talk12: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>I could stay here staring all day...<5 Type='1'/>but
+  there's still two more leviathans to meet!<0 Type='4'/><3 Type='0' Data='0100'/>I can hardly wait to see the next one.
+  But how to choose?<0 Type='4'/>Hmm... Maybe the wee <0 Type='3' Data='0000'/>leviathan in Hebra<0 Type='3' Data='ffff'/>
+  is feeling lonely.<0 Type='4'/><3 Type='0' Data='0000'/>Let me see your <0 Type='3' Data='0000'/>map<0 Type='3' Data='ffff'/>. I'll show you where
+  to find him.
+Talk00: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>So...<5 Type='1'/> Do YOU like <0 Type='3' Data='0000'/>ancient things<0 Type='3' Data='ffff'/>?
+Talk13: |
+  <3 Type='0' Data='0700'/>He's supposed to be around
+  here somewhere.
+Talk01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0e0043006800610074005f0030003000'/>I had a feeling you'd turn up. Take a look!
+Talk14: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Eeeeee! I can see both of his little eyes!<0 Type='4'/><3 Type='0' Data='0100'/>Oh, just look at him!<5 Type='1'/> That big, ferocious
+  face—those cute, round eyes...<0 Type='4'/>I'm not sure whether to cower in fear or
+  pat him on his adorable baby head!<5 Type='1'/>
+  He's not just complete, he's PERFECT!
+Near00: |
+  Where to next...
+Talk15: |
+  <3 Type='0' Data='0701'/>I'm not just on a journey across the land,
+  but a journey through time! <5 Type='0'/>I'm trying to
+  get my eyes on all the old stuff I can.
+  I wanted to see if they had anything like
+  that at the Akkala Ancient Tech Lab.
+  
+  <3 Type='0' Data='0a00'/>Buuut it seems like some weirdos took
+  the place over, so I'm pretty much at a
+  standstill here.<5 Type='1'/>
+Talk02: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>You know...<5 Type='0'/>ancient things!<5 Type='0'/> Things that are
+  ancient! Oh, just one look at them and it's
+  like I've been transported through time.
+  That's the thrill I'm looking for. But what
+  should I go see next?<5 Type='1'/>
+  
+  <3 Type='0' Data='0700'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>Oh, I've got it!<5 Type='0'/> Did you hear that they
+  found <0 Type='3' Data='0000'/>fossils of giant leviathans<0 Type='3' Data='ffff'/> that once
+  lived in this land? It's true!
+  <3 Type='0' Data='0701'/>How many, you ask? Not one, not two,
+  but THREE giant fossils, just waiting for
+  me to say hello!
+  But which to meet first... Maybe I'll go
+  introduce myself to the <0 Type='3' Data='0000'/>itty-bitty leviathan
+  in<0 Type='3' Data='ffff'/> <0 Type='3' Data='0000'/>Eldin<0 Type='3' Data='ffff'/>, to start.
+  <3 Type='0' Data='0000'/>Here, let me see your <0 Type='3' Data='0000'/>map <0 Type='3' Data='ffff'/>for a second.
+Talk03: |
+  <3 Type='0' Data='0a00'/>What a shame.<5 Type='0'/> So the delights of history
+  are lost on you, then...<5 Type='1'/> Well, goodbye.
+Near01: |
+  His eyes...
+Talk16: |
+  <3 Type='0' Data='0701'/>Why, I'd pay a small fortune for a chance
+  like that!
+Talk17: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0e0043006800610074005f0030003000'/>Oh, hello there. Are you out on an
+  adventure too?
+0000: |
+  Ancient things?
+Talk04: |
+  <3 Type='0' Data='0700'/>He should be right around here.
+Near02: |
+  I wish I could see both...
+Near03: |
+  Down it comes.
+Talk18: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0e0043006800610074005f0030003000'/>Good evening. Are you out on an
+  adventure too?
+0001: |
+  I'm a modern guy.
+Talk05: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Oh, <5 Type='1'/>I can only imagine what he looks
+  like—how beautiful he must be!<0 Type='4'/>Why don't you pay him a visit as well?<5 Type='0'/>
+  I'm sure it will set your heart all aflutter!<0 Type='4'/><3 Type='0' Data='0100'/>I'm too keyed up to stand around here.<5 Type='1'/>
+  Time to go make my dreams a reality!
+Talk19: |
+  <3 Type='0' Data='0500'/>Because look again—the left eyeball
+  is missing!
+Talk07: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>So you found his eye and put him back
+  together again? Thank you!<0 Type='4'/>Here, take this.<5 Type='0'/> It's the least I can do
+  after you made my historical dreams
+  come true!
+Talk08: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Oh,<5 Type='1'/> I just can't wait to see how cute the
+  little guy is!<0 Type='4'/><3 Type='0' Data='0100'/>In fact, what am I waiting for?<5 Type='1'/> I'm off to
+  see him now! So long!
+Talk09: |
+  <3 Type='0' Data='0a00'/>*sigh*<5 Type='1'/> It took so long to walk all the way
+  out here...<5 Type='0'/><0 Type='4'/>I wish I could have seen him with <0 Type='3' Data='0000'/>both
+  of his eyes in his head<0 Type='3' Data='ffff'/>.
+Talk20: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>Wait...<5 Type='1'/> HUH?!

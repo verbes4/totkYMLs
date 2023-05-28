@@ -1,0 +1,17 @@
+MakeWeapon: |
+  The art of the <0 Type='3' Data='0000'/>Boulder Breaker<0 Type='3' Data='ffff'/> is passed down
+  over generations. But Fugo, the apprentice,
+  gave up on making it midway and sold the
+  materials he was using for marbled rock roast.
+  
+  To complete the Boulder Breaker and earn his
+  master's approval, he needs a cobble crusher,
+  three diamonds, and five pieces of flint.
+Name: |
+  Soul of the Gorons
+Complete: |
+  Fugo successfully finished the Boulder Breaker
+  and will inherit the forge from Rohan.
+  
+  If your <0 Type='3' Data='0000'/>Boulder Breaker <0 Type='3' Data='ffff'/>breaks, Fugo will fix it
+  for you.

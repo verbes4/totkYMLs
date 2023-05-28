@@ -1,0 +1,216 @@
+Pa_ShopInfo_00-Pa_HaveNum_00-T_Slash_00: |
+  /
+Pa_ShopPouchSlideList_00-Pa_Category_04-T_Text_00: |
+  Materials
+Effect: |
+  By effect
+Orange: |
+  Orange
+TotalNumText_Sell: |
+  Total Earnings
+Pa_ShopInfo_00-Pa_Info_00-T_Plus_00: |
+  +
+White: |
+  White
+Pa_ShopPouchSlideList_00-Pa_SlideListSet_00-Pa_BtnElem_02-T_Kakeru_00: |
+  x
+Pa_ShopInfo_00-Pa_Material_00-T_Slash_00: |
+  /
+Pa_ShopPouchSlideList_00-Pa_SlideListSet_00-Pa_BtnElem_02-T_Kakeru_01: |
+  x
+Pink: |
+  Peach
+ParasailPatternChange: |
+  Fabric
+Pa_ShopPouchSlideList_00-Pa_Category_02-T_Text_00: |
+  Shields
+TotalNumText_Buy: |
+  Total Price
+Mane: |
+  All Manes
+Pa_GuideRS_00-T_Icon_00: |
+  
+3000: |
+  Price
+Black: |
+  Black
+Pa_GuideRS_00-T_Icon_01: |
+  
+StockNum: |
+  Stock
+3001: |
+  Enhance Level
+3002: |
+  Labor
+4000: |
+  <2 Type='15' Data='2600530069006d0070006c00650049006e00740046006f0072004d00650073007300610067006500ffff01cd'/>
+3003: |
+  Required
+Pa_ShopInfo_00-T_Text_00: |
+  Necessary Materials
+Pa_ShopPouchSlideList_00-Pa_SlideListSet_00-Pa_BtnElem_03-T_Kakeru_00: |
+  x
+Pa_ShopPouchSlideList_00-Pa_Category_00-T_Text_00: |
+  Armor
+4001: |
+  <2 Type='14' Data='2600530069006d0070006c00650049006e00740046006f0072004d00650073007300610067006500ffff01cd'/>
+Pa_ShopInfo_00-T_Text_01: |
+  Have/Need
+DressFairy: |
+  The Great Fairy isn't strong enough
+Pa_ShopPouchSlideList_00-Pa_SlideListSet_00-Pa_BtnElem_03-T_Kakeru_01: |
+  x
+LightBlue: |
+  Light Blue
+Use: |
+  By most used
+Brown: |
+  Brown
+Crimson: |
+  Crimson
+Pa_ShopPouchSlideList_00-Pa_Category_07-T_Text_00: |
+  Key Items
+Pa_ShopInfo_00-Pa_Material_02-T_Slash_00: |
+  /
+Saddle: |
+  All Saddles
+Navy: |
+  Navy
+Pa_ShopSlideList_00-Pa_SellBtn_00-T_SoldOut_00: |
+  Sold Out
+ArmorSet: |
+  By set
+HeaderNeedNum: |
+  Required
+Pa_ShopInfo_00-Pa_Info_00-Pa_FoodParam_01-T_Plus_00: |
+  +
+Pa_GuideY_00-T_Guide_00: |
+  Sort
+Pa_ShopInfo_00-Pa_Info_00-Pa_FoodParam_01-T_Plus_01: |
+  +
+Purple: |
+  Purple
+HeaderPrice: |
+  Price
+Pa_ShopPouchSlideList_00-Pa_Category_05-T_Text_00: |
+  Cooking
+MaxArmorLevel: |
+  Already enhanced to maximum level
+Rein: |
+  All Bridles
+ScraBuild: |
+  By Fuse attack power
+ArmorCategory: |
+  By body part
+Pa_ShopInfo_00-Pa_Info_00-T_Num_01: |
+  ×
+Pa_ShopPouchSlideList_00-Pa_SlideListSet_00-Pa_BtnElem_04-T_Kakeru_00: |
+  x
+Pa_ShopInfo_00-T_NumR_00: |
+  ??
+TotalNum: |
+  <2 Type='18' Data='4000550049005f004e0075006d0044006900730070006c00610079004f007600650072007200690064006500450078007000650063007400560061006c0075006500ffff01cd'/>
+Blue: |
+  Blue
+Pa_ShopPouchSlideList_00-Pa_SlideListSet_00-Pa_BtnElem_04-T_Kakeru_01: |
+  x
+Pa_ShopInfo_00-T_NumR_01: |
+  ??
+Red: |
+  Red
+Yellow: |
+  Yellow
+Pa_GuideY_00-T_Icon_00: |
+  
+Pa_ShopInfo_00-T_NumR_02: |
+  ??
+TotalNumText_Need: |
+  Total Required
+Pa_GuideB_00-T_Guide_00: |
+  Back
+Pa_ShopPouchSlideList_00-Pa_Category_03-T_Text_00: |
+  Weapons
+Pa_GuideY_00-T_Icon_01: |
+  
+Green: |
+  Green
+HaveNum: |
+  Stock
+TradeList: |
+  Trade Items
+Pa_ShopInfo_00-T_Slash_00: |
+  /
+Pa_ShopPouchSlideList_00-Pa_SlideListSet_00-Pa_BtnElem_00-T_Kakeru_00: |
+  x
+Pa_ShopInfo_00-Pa_Porch_00-T_Kakeru_00: |
+  x
+Pa_ShopInfo_00-T_Slash_01: |
+  /
+LightYellow: |
+  Light Yellow
+Pa_ShopPouchSlideList_00-Pa_SlideListSet_00-Pa_BtnElem_00-T_Kakeru_01: |
+  x
+Pa_ShopInfo_00-T_Slash_02: |
+  /
+Pa_ShopInfo_00-Pa_Info_00-Pa_FoodParamEnergy_00-T_MaxText_00: |
+  Energy boost
+Pa_ShopPouchSlideList_00-Pa_ButtonL_00-T_Icon_00: |
+  
+Pa_ShopPouchSlideList_00-Pa_ButtonR_00-T_Icon_00: |
+  
+Pa_ShopPouchSlideList_00-Pa_Category_01-T_Text_00: |
+  Bows
+CannotEnhance: |
+  Cannot enhance this item
+Pa_ShopInfo_00-Pa_Material_01-T_Slash_00: |
+  /
+0000: |
+  <2 Type='21' Data='1800530068006f007000550049005f0050007200690063006500ffff'/>
+Pa_ShopInfo_00-T_Name_00: |
+  ???
+0001: |
+  <2 Type='22' Data='1c00530068006f007000550049005f0048006100760065004e0075006d00ffff'/>
+Pa_ShopInfo_00-Pa_Info_00-Pa_FoodParam_00-T_MaxText_00: |
+  Full recovery
+Pa_ShopInfo_00-T_Name_01: |
+  ???
+Pa_GuideA_00-T_Guide_00: |
+  Select
+0002: |
+  In Inventory
+Pa_ShopPouchSlideList_00-Pa_SlideListSet_00-Pa_BtnElem_01-T_Kakeru_00: |
+  x
+Pa_ShopInfo_00-T_Name_02: |
+  ???
+0003: |
+  Owned
+Pa_ShopPouchSlideList_00-Pa_SlideListSet_00-Pa_BtnElem_01-T_Kakeru_01: |
+  x
+Pa_ShopInfo_00-T_NumL_00: |
+  ??
+Pa_ShopInfo_00-T_NumL_01: |
+  ??
+Pa_GuideRS_00-T_Guide_00: |
+  Rotate
+Pa_ShopInfo_00-T_NumL_02: |
+  ??
+Category: |
+  By type
+Pa_ShopPouchSlideList_00-Pa_Category_06-T_Text_00: |
+  Zonai Devices
+RoomList: |
+  Room Units
+Pa_GuideB_00-T_Icon_00: |
+  
+GoodsList: |
+  Items
+1000: |
+  <2 Type='15' Data='2600530069006d0070006c00650049006e00740046006f0072004d00650073007300610067006500ffff01cd'/>
+Pa_GuideB_00-T_Icon_01: |
+  
+Gray: |
+  Gray
+1001: |
+  <2 Type='2' Data='2600530069006d0070006c00650049006e00740046006f0072004d00650073007300610067006500ffff01cd'/>
+Strength: |
+  By strength

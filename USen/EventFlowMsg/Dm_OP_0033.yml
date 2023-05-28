@@ -1,0 +1,15 @@
+Dm_OP_0033_Text_000_b: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1a00410064006d00690072006100740069006f006e005f0030003000'/>You did very well getting through that
+  shrine. And you've restored an ability.
+  This is wonderful.
+Dm_OP_0033_Text_001_b: |
+  If you visit and complete two more
+  shrines, you should be able to open
+  the door to the Temple of Time.
+Dm_OP_0033_Text_002_b: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>You may want to mark the shrines in the
+  distance with pins. Then you'll never lose
+  track of where they are.
+Dm_OP_0033_Text_003_b: |
+  The Purah Pad offers you a very useful
+  <0 Type='3' Data='0000'/>scope<0 Type='3' Data='ffff'/>. It's quite handy.

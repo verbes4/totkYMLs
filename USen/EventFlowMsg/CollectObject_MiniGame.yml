@@ -1,0 +1,206 @@
+Talk020: |
+  <3 Type='0' Data='0800'/>Evenin', kids! It's nice to seal ya!
+  Everyone sealin' good?
+Talk09_2_1: |
+  <3 Type='0' Data='0701'/>Now hop to it!
+Talk021: |
+  <FontSize Value='80'/>...<0 Type='4'/><FontSize Value='100'/><3 Type='0' Data='0a00'/>Woof. <5 Type='0'/>Fake it till you make it, I guess.<5 Type='0'/>
+  But it'll be worth it to see those kids
+  beaming with joy.<FontSize Value='80'/><FontSize Value='100'/>
+0010: |
+  No, I'll keep going.
+Balloon0_1: |
+  Which way to the school...
+Talk022: |
+  <FontSize Value='80'/>...<0 Type='4'/><FontSize Value='100'/><3 Type='0' Data='0a00'/>Woof. <5 Type='0'/>I'll keep working on it until I can
+  say that without cringing.<5 Type='0'/><FontSize Value='80'/><FontSize Value='100'/>
+Talk023: |
+  <3 Type='0' Data='0700'/>Now that that weirdo's not interrupting
+  me, I can start fresh. <5 Type='0'/>I'll practice smiling
+  until my cheeks hurt!
+Talk03_0_1: |
+  <3 Type='0' Data='0900'/>Y-you startled me! <5 Type='1'/>Give a gal some
+  warning next time!
+Balloon0_2: |
+  You got this!
+Balloon0_3: |
+  S-sealin' good?
+Talk09_0: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>There's <0 Type='3' Data='0000'/><2 Type='14' Data='440043006f006c006c006500630074004f0062006a006500630074005f004d0069006e006900470061006d0065005f004d006100780047006f006f00640073004e0075006d00ffff00cd'/><0 Type='3' Data='ffff'/> stuffed toys I need you to
+  gather up for me. Each and every one
+  was made with love, so be gentle.<0 Type='4'/>Or was there something else?
+Talk02: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/><FontSize Value='125'/>Gyaaah!<FontSize Value='100'/>
+Talk09_1: |
+  <3 Type='0' Data='0700'/>Great. Keep at it, then!
+Talk08_00: |
+  <3 Type='0' Data='0800'/>Aw, thanks! Well? Feeling confident?
+  Then get to it!
+Talk09_3: |
+  <3 Type='0' Data='0b00'/>If you bail before the job's done, I'm
+  gonna keep your <0 Type='3' Data='0000'/>20 rupee <0 Type='3' Data='ffff'/>deposit.<5 Type='1'/>
+  You sure you wanna quit?
+Talk06_0: |
+  <3 Type='0' Data='0800'/>Oh, now you want to help?! <5 Type='0'/>Then start
+  picking them up and loading them on
+  the cart.<0 Type='4'/>I'll make you a deal. If you get all <0 Type='3' Data='0000'/><5 Type='0'/><2 Type='14' Data='440043006f006c006c006500630074004f0062006a006500630074005f004d0069006e006900470061006d0065005f004d006100780047006f006f00640073004e0075006d00ffff00cd'/> <0 Type='3' Data='ffff'/>of
+  them for me, I'll pay you.<0 Type='4'/>But if you're serious about helping, I want
+  to see them all in that cart at the end.
+Talk08_02: |
+  <3 Type='0' Data='0800'/>Thaaanks! <5 Type='0'/>That's a huge help!
+Talk06_1: |
+  <3 Type='0' Data='0701'/>Oh, and you gotta be careful loading the
+  toys.<5 Type='0'/> They tend to fall out if they're not all
+  the way in.
+Talk52: |
+  <3 Type='0' Data='0900'/>Hey! <5 Type='0'/>What're you doing?!
+Talk06_2: |
+  <3 Type='0' Data='0700'/>I want to get moving, so make this quick,
+  OK? I'll be keeping track of time.
+Talk53: |
+  <3 Type='0' Data='0200'/><4 Type='0' Data='0a0041006e00670072007900'/>You were trying to pull one over on me,
+  weren't you!<0 Type='4'/>Knock it off. <5 Type='0'/>These precious little plushes
+  are charity donations to kids!
+Talk061_4: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0a005400680069006e006b00'/>I wouldn't mind some help again. <5 Type='0'/>Load
+  them all for me and I'll pay you.
+Talk061_5: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0a005400680069006e006b00'/>I'm thinking I'll have you do it again.<0 Type='4'/>I mean, you didn't seem to have any
+  trouble picking them up last time. <5 Type='0'/>So you
+  can do it <0 Type='3' Data='0000'/>even quicker than before<0 Type='3' Data='ffff'/>, right?!
+  <3 Type='0' Data='0701'/>Of course I'll pay you for loading them all
+  for me.
+Talk010: |
+  <3 Type='0' Data='0c00'/>Huh? <5 Type='0'/>Was this NOT the way to
+  Hateno Village?<0 Type='4'/>I can't get lost now. Not after spending
+  all that time with the Gerudo dollmaker
+  learning to make <0 Type='3' Data='0000'/>sand-seal plushes<0 Type='3' Data='ffff'/>.<0 Type='4'/>I refuse to give up on my dream of
+  handing these out to the schoolkids!
+Talk03_1_1: |
+  <3 Type='0' Data='0900'/>You again?! <5 Type='1'/>Seriously, can you please not
+  sneak up on me? <5 Type='1'/>It's bad for my heart.
+Talk061_6: |
+  <3 Type='0' Data='0701'/>After an emotional-damages fee of <0 Type='3' Data='0000'/>20
+  rupees<0 Type='3' Data='ffff'/>, that is. <5 Type='0'/>You'll still do it, right?
+Talk57: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0600530061006400'/>Quit acting weird! I don't wanna have to
+  clean up after you again.
+0000: |
+  Let me help!
+Talk012: |
+  <3 Type='0' Data='0300'/>I can't wait to see their faces light up
+  when I give them these stuffed toys.<5 Type='0'/>
+  Hope I can remember not to glare at 'em.<5 Type='1'/>
+  <3 Type='0' Data='0800'/>Oh, I know! <5 Type='1'/>I should practice my routine
+  so I can hand out the toys with a smile.
+0001: |
+  Sorry.
+Talk013: |
+  <3 Type='0' Data='0800'/>M-morning, kids! I'm the sand-seal lady!
+0002: |
+  I quit.
+0003: |
+  Never mind.
+Talk14_1: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Phew... <5 Type='1'/>That oughta do it!
+Talk015: |
+  <FontSize Value='80'/><3 Type='0' Data='0c01'/>Hmm. <5 Type='1'/>Not much pizzazz to it.<5 Type='1'/><0 Type='4'/>How about...<FontSize Value='100'/>
+Talk07_0: |
+  <3 Type='0' Data='0b01'/>Uh, hold on a sec.<0 Type='4'/>You're not thinking of pocketing any of
+  my seals, I hope. <5 Type='0'/>These are handmade.<5 Type='0'/>
+  For children.
+0004: |
+  I'll do it.
+Talk14_2: |
+  <3 Type='0' Data='0701'/>I'll get this smiling thing down. <5 Type='0'/>Eventually.<5 Type='0'/>
+  I hope. Anyway, I clearly need more
+  practice at it.<0 Type='4'/>So leave me alone, would you?
+Talk016: |
+  <3 Type='0' Data='0800'/>H-hi, kids! I'm the sand-seal lady!
+Talk07_1: |
+  <3 Type='0' Data='0701'/>I said I'd pay you if you bring 'em back,
+  but this is kinda your fault, so...
+0005: |
+  I won't do it.
+Talk017: |
+  <3 Type='0' Data='0800'/>G-good evening, children! I'm the sand-
+  seal lady!
+Talk07_2: |
+  <3 Type='0' Data='0701'/>Mind giving me a <0 Type='3' Data='0000'/>20 rupee <0 Type='3' Data='ffff'/>deposit?
+  You'll get it back once you're done.
+Talk40: |
+  <3 Type='0' Data='0200'/><4 Type='0' Data='0a0041006e00670072007900'/>Hey, careful with that!
+Talk11_0: |
+  <3 Type='0' Data='0900'/>Wait, this isn't all of the plushes!<5 Type='0'/><0 Type='4'/><3 Type='0' Data='0701'/>Though loading even <2 Type='14' Data='580043006f006c006c006500630074004f0062006a006500630074005f004d0069006e006900470061006d0065005f00430075007200720065006e007400530063006f00720065005f00530075006e00610044006f006c006c00ffff00cd'/> for me helped.<5 Type='1'/>
+  You tried, I suppose. <5 Type='0'/>I'll at least return
+  your deposit.
+Talk018: |
+  <3 Type='0' Data='0800'/>Mornin', kiddos! It's nice to seal ya!
+  Everyone sealin' good?
+0007: |
+  ...
+Talk11_1: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='0a0048006100700070007900'/>Nice work! <5 Type='0'/>I didn't think you'd manage
+  to load them all up in so short a time.
+Talk019: |
+  <3 Type='0' Data='0800'/>Helloooooo, kiddies! It's nice to seal ya!
+  Everyone sealin' good?
+0008: |
+  What are you doing?
+Talk11_2: |
+  <3 Type='0' Data='0900'/>Wait, <2 Type='14' Data='580043006f006c006c006500630074004f0062006a006500630074005f004d0069006e006900470061006d0065005f00430075007200720065006e007400530063006f00720065005f00530075006e00610044006f006c006c00ffff00cd'/> of them? What was I paying
+  you for?!<0 Type='4'/><3 Type='0' Data='0701'/>Great question, me! If I've got to do all
+  the work, I'm keeping all the money.
+Talk04_1: |
+  <3 Type='0' Data='0301'/>They're waterproof, so they should be
+  OK, but still...
+0009: |
+  Yeah, I'm done.
+Talk11_3: |
+  <3 Type='0' Data='0b01'/>In fact, you did it even quicker than last
+  time. <5 Type='0'/>You're pretty good at this! <5 Type='0'/>I mean
+  that—you've been a huge help.
+Talk04_0_1: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003100'/>Aaah! <0 Type='3' Data='0000'/><5 Type='0'/><0 Type='3' Data='ffff'/>My <0 Type='3' Data='0000'/>toys<0 Type='3' Data='ffff'/>!
+Talk10: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0e00430061006c006c00460061007200'/>Hey, are you not done yet? This is taking
+  forever! <5 Type='0'/>I have places to be!
+Talk12: |
+  <3 Type='0' Data='0101'/>So yeah, here's your pay. Your deposit is
+  included in that.
+Talk13: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Don't worry, I can pick up what's left.
+Talk08_1: |
+  <3 Type='0' Data='0a00'/>Wow, really? It's just <0 Type='3' Data='0000'/>20 rupees<0 Type='3' Data='ffff'/>...
+  Well, whatever. I can do it myself.
+Talk15: |
+  <3 Type='0' Data='0b00'/>No way. You're done picking 'em all up?!<5 Type='1'/>
+  That was fast!
+Talk08_2: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>You're kidding me, right? You don't have
+  any rupees? That's hilarious.<5 Type='1'/> Whatever,
+  I can do it myself.
+Talk05_1: |
+  <3 Type='0' Data='0b01'/>I worked so hard to make the <0 Type='3' Data='0000'/><2 Type='14' Data='440043006f006c006c006500630074004f0062006a006500630074005f004d0069006e006900470061006d0065005f004d006100780047006f006f00640073004e0075006d00ffff00cd'/> <0 Type='3' Data='ffff'/>of them,
+  and now this! <5 Type='0'/>How am I supposed to
+  gather all these up by myself?!
+Talk19: |
+  <3 Type='0' Data='0a00'/>Oh yeah?<5 Type='0'/> Well, that's fine, I can pick 'em
+  up myself.
+Talk30: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>My seals went flying, but they didn't
+  scatter that far! <5 Type='0'/>Come back here!
+Talk03_3_1: |
+  <3 Type='0' Data='0900'/>YOU! <5 Type='1'/>How many times is it now?!<5 Type='1'/> Can't
+  you see I've got a lot on my mind?!<0 Type='4'/>Ugh, you're the worst.<5 Type='0'/> Stop bothering
+  me already!
+Talk09_2_0: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>There's <0 Type='3' Data='0000'/><2 Type='14' Data='440043006f006c006c006500630074004f0062006a006500630074005f004d0069006e006900470061006d0065005f004d006100780047006f006f00640073004e0075006d00ffff00cd'/><0 Type='3' Data='ffff'/> stuffed toys I need you to
+  gather up for me.<0 Type='4'/>Be sure to load them on the cart nice
+  and gentle. <5 Type='0'/>They'll fall right off again if
+  they're hanging out the sides.
+Talk31: |
+  <3 Type='0' Data='0900'/>Hey, <5 Type='0'/>there are still stuffed toys scattered
+  all over. <5 Type='0'/>I thought we agreed you'd gather
+  all <0 Type='3' Data='0000'/><2 Type='14' Data='440043006f006c006c006500630074004f0062006a006500630074005f004d0069006e006900470061006d0065005f004d006100780047006f006f00640073004e0075006d00ffff00cd'/><0 Type='3' Data='ffff'/> of them?<0 Type='4'/>You're not really going to leave them here
+  after we made a deal, right?

@@ -1,0 +1,112 @@
+0001: |
+  I've got none.
+0002: |
+  Marbled rock roast?
+Talk_00: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>Oh. You're just a wee Hylian.
+  
+  
+  You poor Hylians can't eat <0 Type='3' Data='0000'/>marbled rock
+  roast<0 Type='3' Data='ffff'/>. That must be awful for you.
+  
+  Makes sense you're not carryin' any.
+  
+  
+  <3 Type='0' Data='0a01'/>They're not selling them at <0 Type='3' Data='0000'/>YunoboCo HQ<0 Type='3' Data='ffff'/>,
+  so I gotta head all the way to <0 Type='3' Data='0000'/>Goron City<0 Type='3' Data='ffff'/>
+  to buy some...
+0003: |
+  YunoboCo HQ?
+NakedPlayer: |
+  Nice underclothes.
+Talk_10: |
+  <3 Type='0' Data='0400'/>The lava cooled, and it made a passage
+  here, but this is the first time I've seen a
+  traveler actually use it.
+  <3 Type='0' Data='0000'/>Nice to see someone. It's so empty out
+  here... I get pretty lonely.
+  
+  <3 Type='0' Data='0a00'/>If ya go down the road, you'll see some
+  <0 Type='3' Data='0000'/>big bones <0 Type='3' Data='ffff'/>lying around to the north. <5 Type='0'/>I
+  wouldn't recommend going alone though.
+Talk_20: |
+  <3 Type='0' Data='0400'/>The lava cooled, and it made a passage
+  here, but you're the only one who seems
+  to use it.
+  <0 Type='3' Data='0200'/><FontSize Value='80'/>It's just about time for nightfall...<FontSize Value='100'/><0 Type='3' Data='ffff'/>
+  
+  
+  <3 Type='0' Data='0000'/>It's so empty out here... I get
+  pretty lonely.
+  
+  <3 Type='0' Data='0a00'/>If ya go down the road, you'll see some
+  <0 Type='3' Data='0000'/>big bones <0 Type='3' Data='ffff'/>lying around to the north. <5 Type='0'/>I
+  wouldn't recommend going alone though.
+0004: |
+  Goron City?
+Talk_02: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>You're one of those people who can't eat
+  <0 Type='3' Data='0000'/>marbled rock roast<0 Type='3' Data='ffff'/>. I've got no interest in
+  chattin' with you.
+  <3 Type='0' Data='0a01'/>*sigh* They're not selling them at
+  <0 Type='3' Data='0000'/>YunoboCo HQ <0 Type='3' Data='ffff'/>now, so I gotta go all the
+  way to <0 Type='3' Data='0000'/>Goron City<0 Type='3' Data='ffff'/> to buy some...
+0005: |
+  ...
+Talk_12: |
+  <3 Type='0' Data='0400'/>The lava cooled, and it made a passage
+  here, but you're the only one who seems
+  to use it.
+  <3 Type='0' Data='0000'/>It's so empty out here... I get
+  pretty lonely.
+  
+  <3 Type='0' Data='0a00'/>If ya go down the road, you'll see some
+  <0 Type='3' Data='0000'/>big bones <0 Type='3' Data='ffff'/>lying around to the north. <5 Type='0'/>I
+  wouldn't recommend going alone though.
+Near_00: |
+  Someone's here...
+Talk_13: |
+  <3 Type='0' Data='0c00'/>Travelers sure are brave.
+  
+  
+  If ya go down the road, you'll see some
+  <0 Type='3' Data='0000'/>big bones <0 Type='3' Data='ffff'/>lying around to the north. <5 Type='0'/>I
+  wouldn't recommend going alone though.
+Talk_04: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0c005300610064005f0030003100'/>My last one... I should probably savor this
+  deliciousness, but I'm about to swallow
+  it whole—it's so tasty!
+Talk_14: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='14005000610069006e00660075006c005f0030003100'/>Oh. <5 Type='0'/>Good morning.
+Talk_05: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>Would ya happen to have any
+  <0 Type='3' Data='0000'/>marbled rock roast<0 Type='3' Data='ffff'/>?
+Talk_15: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='14005000610069006e00660075006c005f0030003100'/>Oh. <5 Type='0'/>Hi.
+Talk_16: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='14005000610069006e00660075006c005f0030003100'/>Oh. <5 Type='0'/>Good evenin'.
+Talk_07: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c0045006100740069006e006700'/>I've got nothin' to say to some nobody
+  who doesn't have <0 Type='3' Data='0000'/>marbled rock roast<0 Type='3' Data='ffff'/>.
+Talk_17: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='14005000610069006e00660075006c005f0030003100'/>Oh. <5 Type='0'/>Good mornternoon.
+Talk_08: |
+  <3 Type='0' Data='0701'/>There's another Hylian over yonder at
+  <0 Type='3' Data='0000'/>YunoboCo HQ<0 Type='3' Data='ffff'/>.
+Talk_09: |
+  <3 Type='0' Data='0701'/>Hylians get along with Hylians, I reckon.
+Talk_19: |
+  <3 Type='0' Data='0400'/>The lava cooled, and it made a passage
+  here, but you're the only one who seems
+  to use it.
+  <0 Type='3' Data='0200'/><FontSize Value='80'/>Definitely the only one usin' it at this hour...<FontSize Value='100'/><0 Type='3' Data='ffff'/>
+  
+  
+  <3 Type='0' Data='0000'/>It's so empty out here... I get
+  pretty lonely.
+  
+  <3 Type='0' Data='0a00'/>If ya go down the road, you'll see some
+  <0 Type='3' Data='0000'/>big bones <0 Type='3' Data='ffff'/>lying around to the north. <5 Type='0'/>I
+  wouldn't recommend going alone though.
+0000: |
+  I've got some.

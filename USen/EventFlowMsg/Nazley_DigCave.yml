@@ -1,0 +1,147 @@
+Talk21: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='1000540069007200650064005f0030003100'/>Maybe I could manage if I had something
+  to break the rocks with, but as it is, my
+  wings are clipped.
+0009: |
+  Leave it to me.
+Talk11: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Really?! I'd appreciate that. We were
+  trying to collect what food we could
+  from this cave.
+  <3 Type='0' Data='0001'/>As you can see, a cave-in closed off
+  the entrance, and I can't get in.
+  
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>But if you make a <0 Type='3' Data='0000'/>hole in the rocks big
+  enough for me to walk through<0 Type='3' Data='ffff'/>, I can
+  bring that food back to the village.
+Talk12: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0e0045006100730065005f0030003000'/>I see. <5 Type='0'/>That's too bad.
+  
+  
+  There's food in that cave, but I can't bring
+  it back to the village if I can't get in.
+  
+  Seems my only option is to dig through
+  those rocks. Even getting prepped for
+  that could take a while though...
+  <3 Type='0' Data='0501'/>Hmm. <5 Type='0'/>Maybe I should just cut my losses
+  and give up on this for today.
+Talk13: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Again, sorry to trouble you with this.
+  
+  
+  If you could make a <0 Type='3' Data='0000'/>hole big enough for
+  me to walk through<0 Type='3' Data='ffff'/>, it'd be a huge help.
+Talk01: |
+  <3 Type='0' Data='0900'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>A cave-in? You've got to be kidding me.
+  How am I supposed to get inside now?
+0010: |
+  I wasn't planning on it...
+Talk14: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Thanks. I owe you one.
+Talk02: |
+  <3 Type='0' Data='0701'/>Well, <5 Type='0'/>take a gander for yourself.
+Talk15: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>I hate to ask, but...could you clear the
+  way into the cave?
+Near01: |
+  That's it for the entrance...
+Talk03: |
+  <3 Type='0' Data='0501'/><4 Type='0' Data='1000540069007200650064005f0030003100'/>I was hauling food out of there when the
+  entrance collapsed. Now what do I do?<0 Type='4'/><3 Type='0' Data='0300'/>I should have picked some bomb flowers
+  from the other caves. Could've used 'em
+  to blow these rocks away. What foul luck.
+  I hate to leave all that food behind, but
+  maybe I just need to call today a wash
+  and come back tomorrow.
+Talk16: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Really?! I'd appreciate that.
+  
+  
+  <3 Type='0' Data='0001'/>It'd be great if you could make a hole <0 Type='3' Data='0000'/>big
+  enough <0 Type='3' Data='ffff'/>for me to walk through.
+  
+  That will let me bring the supply of food
+  in the cave back to the village.
+Near02: |
+  There's no other way in...
+Talk04: |
+  <3 Type='0' Data='0a00'/>This isn't good. The cave entrance is
+  completely blocked off!
+  
+  Ugh, why didn't I harvest bomb flowers
+  from the other caves? I could've used
+  them to blow these rocks away.
+  <3 Type='0' Data='0c01'/>There's still food in that cave I haven't
+  hauled out... I have to get in there
+  somehow.
+Talk17: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='1000540069007200650064005f0030003100'/>Ah. <5 Type='0'/>I suppose that's fair.
+  
+  
+  It doesn't seem like there's any way in
+  except through these rocks. And I did not
+  come here prepared to dig.
+  <3 Type='0' Data='0501'/>Hmmm. <5 Type='0'/>Maybe I just need to call it a day
+  and come back tomorrow.
+0001: |
+  What's wrong?
+Talk18: |
+  <3 Type='0' Data='0001'/>Hey, could—<5 Type='0'/> Could you get through those
+  rocks for me?
+Near03: |
+  Whoa! Look at the cave!
+Talk05: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='12004c0061007500670068004c005f0030003000'/>Hey! <5 Type='0'/>Those rocks didn't know what hit
+  them. You're amazing!
+  
+  <3 Type='0' Data='0101'/>Now I can bring some supplies back to
+  the village! Thank you so much!
+  
+  Oh, right, I need to reward you somehow,
+  don't I? <5 Type='0'/>Here, take this.
+  
+  Consider it a token of my gratitude!<5 Type='1'/>
+0002: |
+  Where's Tulin?
+Talk19: |
+  <3 Type='0' Data='0001'/>Listen, I—<5 Type='0'/> Would you break through the
+  rocks blocking the cave for me?
+Talk02_01: |
+  The entrance to the cave is completely
+  blocked off.
+0003: |
+  See you around.
+Talk07: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>All right, I'm going to go check if that
+  food is still good. Thank you for opening
+  a path for me!
+Talk08: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='12004c0061007500670068004c005f0030003000'/>Hey! <5 Type='0'/>I saw what you did. That was
+  awesome! Those rocks never stood
+  a chance.
+  <3 Type='0' Data='0001'/>I was searching the cave for food to bring
+  back to the village, but a cave-in blocked
+  off the entrance and put a stop to that.
+  <3 Type='0' Data='0101'/>But now, thanks to you, I can fly the
+  supplies in there back home.
+  
+  I know you didn't do it for me, but...
+  Here's a token of my gratitude. <5 Type='0'/>Take it.<5 Type='1'/>
+Talk09: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Tulin? Do you need him for something?
+  
+  
+  He's out collecting food at another cave
+  right now. I'm pretty sure he was with
+  Gesane's group.
+  <3 Type='0' Data='0001'/>There's a <0 Type='3' Data='0000'/>bonfire<0 Type='3' Data='ffff'/> burning outside the
+  <0 Type='3' Data='0000'/>entrance <0 Type='3' Data='ffff'/>of the cave he was headed to,
+  so that should help you find him.
+  It'll be a good place to warm up and rest
+  if you feel yourself starting to freeze too.
+Talk20: |
+  <3 Type='0' Data='0001'/>Hey...<5 Type='0'/> Would you be willing to open up the
+  blocked cave for me?
+0007: |
+  Hang tight.

@@ -1,0 +1,213 @@
+Com_Talk_02c: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>Sarq! Maybe I'll give this to my
+  husband later!
+5507: |
+  I'll take 'em all!
+Com_Talk_02d: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>Sarq! This is great!
+5508: |
+  All of them.
+Com_Talk_90a: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>Sarq! I hope we've got enough...
+Com_Talk_90b: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>Sarq! My husband will be happy too.
+talk0010: |
+  <3 Type='0' Data='0700'/>Do you need anything else?
+shop_near00: |
+  Food here!
+Com_Talk_50: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>That's <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>, you know. Does
+  that sound OK to you?
+Com_Talk_90c: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>Sarq!
+  
+  
+  If you want to do some cooking, you can
+  use a pot over there. You will have to light
+  the fire yourself though...
+talk0011: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0a0048006100700070007900'/>I'll try to bring back enough to survive
+  your shopping sprees!
+shop_near01: |
+  Need some ingredients?
+Com_Talk_52: |
+  <3 Type='0' Data='0000'/>All right, <2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/> of them... In that case,
+  it'll be <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>!
+talk0013: |
+  <3 Type='0' Data='0700'/>When that sand shroud was at its worst,
+  I thought it might be the end—that I might
+  never see my husband again.
+  It reminded me that every day is
+  priceless, and I need to live them to
+  the fullest...
+Com_Talk_53: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0600530061006400'/>Aw, you changed your mind? Even
+  though these fine ingredients were
+  lovingly gathered by my husband?
+Com_Talk_05b: |
+  <3 Type='0' Data='0701'/>Keep 'em coming!
+talk0014: |
+  <3 Type='0' Data='0700'/>If you're looking to do some cooking, you
+  can use the shared kitchen. It's right in
+  front of this shop.
+Com_Talk_13: |
+  <3 Type='0' Data='0000'/>All right, how many?
+Com_Talk_54: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0600530061006400'/>I...I'm sorry to be the bearer of bad news,
+  but... <5 Type='0'/>You don't have enough rupees.
+Com_Talk_05c: |
+  <3 Type='0' Data='0701'/>I'd love to see something that would
+  delight my husband.
+talk0015: |
+  <3 Type='0' Data='0800'/>With the sand shroud finally dying down,
+  I was able to see my husband at last!
+  
+  I thought I would be fully stocked for a
+  while, but it looks like I underestimated
+  your appetite for my wares, huh?
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068005300'/>That's fine! <5 Type='0'/>It's an excuse to see my
+  husband again! Sarq!
+Com_Talk_14: |
+  <3 Type='0' Data='0000'/>That's <2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/> of them? I'll pay you
+  <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>.
+Com_Talk_55: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>You can't hold more than that...
+  Sell or throw some things away,
+  then you can try again.
+Com_Talk_05d: |
+  <3 Type='0' Data='0701'/>I like to share the things people sell me
+  with my husband too, so...sell me all
+  sorts of things!
+talk0016: |
+  <3 Type='0' Data='0800'/>My husband gathers all our products, so
+  the flavor and quality are guaranteed!
+Com_Talk_15: |
+  <3 Type='0' Data='0a00'/>What is that? <5 Type='0'/>Well, regardless, it's not
+  something I can handle.
+Com_Talk_56: |
+  <3 Type='0' Data='0000'/>Just one, then? That'll be <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>.
+0001: |
+  Buy from me!
+Com_Talk_16: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Huh? You're wanting to sell what you're
+  currently wearing?<5 Type='0'/> Sorry, but around
+  here, you have to change out of it first...
+talk0000: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1200530075007200700072006900730065004d00'/>Hey! You recently arrived, right?
+  Does that mean the sand shroud has
+  finally died down?
+0002: |
+  Goodbye.
+talk0001: |
+  <3 Type='0' Data='0800'/>With the sand shroud finally dying down,
+  I was able to see my husband at last!
+  
+  Now the store is fully stocked, so buy as
+  much as you'd like!
+Com_Talk_00: |
+  <3 Type='0' Data='0700'/>All right, show me what you'd like to sell.
+GreetingAfter03: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='180043007500730074006f006d00560061007300610061007100'/>Vasaaq!<5 Type='0'/>
+  
+  
+  My husband gathers all of our products,
+  so I can personally vouch for their flavor
+  and quality!
+talk0002: |
+  <3 Type='0' Data='0a00'/>Oh, hang on...<5 Type='0'/> Now that I really look, I can
+  see all the sand covering your clothes...
+  
+  What was I thinking? If the sand shroud
+  really was gone, I doubt everyone would
+  still be hanging around...<5 Type='1'/>
+  <3 Type='0' Data='0701'/>Ugh, sorry. I asked you a question, and
+  then immediately went on my own little
+  journey there.
+  Ever since the sand shroud started,
+  I haven't been able to see my husband.
+  It's left me a little frazzled.
+Com_Talk_01: |
+  <3 Type='0' Data='0000'/>In that case, it'll be <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>, OK?
+talk0003: |
+  <3 Type='0' Data='0a00'/>I'm sorry my selection is what it is...
+  
+  
+  Because of this sand shroud, I can't get
+  word to my husband to let him know what
+  we need to restock...
+Com_Talk_02: |
+  <3 Type='0' Data='0800'/>Sarq! Got anything else?
+talk0004: |
+  <3 Type='0' Data='0c00'/>I wonder if he has anything left...<5 Type='1'/>
+  
+  
+  I want to let my husband know what
+  the store needs, but as long as this
+  sand shroud continues...
+GreetingBefore03: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='180043007500730074006f006d00560061007300610061007100'/>Vasaaq...<5 Type='0'/>
+  
+  
+  My husband gathers all of our products,
+  so I can personally vouch for their flavor
+  and quality.
+Com_Talk_04: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Uh, you changed your mind? Oh, well.
+talk0006: |
+  <3 Type='0' Data='0700'/>I know my stock is pretty limited, but...
+  
+  
+  Here's a tip! You can make an excellent
+  meal just by adding a mushroom to some
+  Hylian rice and rock salt!
+Com_Talk_05: |
+  <3 Type='0' Data='0000'/>Is there anything else you want to
+  sell me?
+talk0007: |
+  <3 Type='0' Data='0700'/>If you're looking to do some cooking, you
+  can use the shared kitchen. It's down the
+  path flanked by palm trees.
+talk0008: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>Sarq!
+  
+  
+  If you want to do some cooking, you can
+  use the pot in the shared kitchen. It's at
+  the end of the path with the palm trees.
+talk0009: |
+  <3 Type='0' Data='0700'/>I'm surprised you were able to travel at
+  all in that storm. You must be exhausted.
+  
+  You know, in times like these, it's really
+  important to keep your strength up.
+  And you can do that by eating right!
+  My husband gathers all our products, so
+  the flavor and quality are guaranteed!
+Com_Talk_31: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>How many should I wrap up for you?
+Com_Talk_33: |
+  <3 Type='0' Data='0000'/>Just one, right?<5 Type='0'/> In that case,
+  is <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/> OK?
+Com_Talk_34: |
+  <3 Type='0' Data='0000'/>All of them?!<5 Type='0'/> I've got <2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/> left, so that
+  would be <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>.
+Com_Talk_35: |
+  <3 Type='0' Data='0000'/>All of yours? OK, sure. How about
+  <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>?
+5500: |
+  OK.
+Com_Talk_91a: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>Sarq! I'll have to ask my husband to
+  collect some more!
+5501: |
+  Never mind.
+5502: |
+  Buy.
+5503: |
+  Never mind.
+near0000: |
+  This reminds me...
+near0001: |
+  Vasaaq!
+Com_Talk_02b: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>Sarq! This is my husband's favorite!

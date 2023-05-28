@@ -1,0 +1,178 @@
+GoalPoint_01: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='08004300680061007400'/>So, <0 Type='3' Data='0000'/>Kakariko Village <0 Type='3' Data='ffff'/>is just down the road.
+  
+  
+  I've heard that these strange, <0 Type='3' Data='0000'/>ring-shaped
+  ruins<0 Type='3' Data='ffff'/> fell all around the village and are
+  drawing quite the crowd.
+  I wonder if the voe of my destiny is among
+  them. Unlikely, but who knows?
+GoRange_01: |
+  <3 Type='0' Data='0700'/>Go straight ahead down this road to arrive
+  at <0 Type='3' Data='0000'/>Kakariko Village<0 Type='3' Data='ffff'/>.
+  
+  I hear large crowds have formed there
+  since those odd <0 Type='3' Data='0000'/>ring-shaped ruins <0 Type='3' Data='ffff'/>were
+  discovered in the area.
+  <3 Type='0' Data='0001'/><4 Type='0' Data='0a005400680069006e006b00'/>There's an off chance that the voe of
+  my destiny is there too. Perhaps I should
+  go and find out?
+FriendGreet_03: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>Heh!<5 Type='0'/> It's amusing, isn't it? Our little
+  back-and-forth.
+  
+  Though jokes aside, it does make
+  me wonder when I'll meet the voe of
+  my destiny...
+BackRange_01_2: |
+  <3 Type='0' Data='0700'/><0 Type='3' Data='0000'/>Kakariko Village<0 Type='3' Data='ffff'/> is to the <0 Type='3' Data='0000'/>north<0 Type='3' Data='ffff'/> up this
+  road. If you're interested, by all means,
+  go and look around.
+  Everyone seems busy investigating the
+  <0 Type='3' Data='0000'/>ring-shaped ruins<0 Type='3' Data='ffff'/> right now though, so
+  I think I'll save my visit for another day.
+Near_StartPoint_01: |
+  Twins...
+StartPoint_01: |
+  <3 Type='0' Data='0700'/>Hey, did you know?<5 Type='0'/> The owner of this
+  stable is a twin.
+  
+  And that's not all.<5 Type='0'/> His younger brother's
+  children are also twins! It's twins as far as
+  the eye can see!
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>I just thought of something!<5 Type='0'/> What if the
+  voe of my destiny turns out to be a twin?<5 Type='0'/>
+  
+  And what if he and his equally handsome
+  brother compete for my affections?<5 Type='1'/> Argh!<5 Type='0'/>
+  I won't know how to choose!
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0e0045006100730065005f0030003100'/>*sigh*<5 Type='1'/> Listen to me, fantasizing about
+  love triangles when I can't even find a
+  decent line segment...
+GerudoHello_01: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1e0043007500730074006f006d005300610076006100610071005f0030003000'/>Sav'aaq!
+StartPoint_01_2: |
+  <3 Type='0' Data='0700'/>The owner of this stable is a twin,
+  and what's more, his brother has twin
+  children of his own. <5 Type='1'/>How fascinating.
+StartPoint_01_3: |
+  Hm...<5 Type='1'/> You look bored. Am I boring you?
+  
+  
+  Well, you're boring me too.
+  
+  
+  <3 Type='0' Data='0000'/><4 Type='0' Data='0e0045006100730065005f0030003100'/>It's fine. Let's both just shut up and enjoy
+  the music.
+StartPoint_01_4: |
+  Hm...<5 Type='1'/> You look bored. Am I boring you?
+  
+  
+  Or perhaps you want me to stop talking so
+  you can find the musical troupe.
+  
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0e0045006100730065005f0030003100'/>Unfortunately for you, they're not here.
+  They must be playing at another stable.
+BackRange_01: |
+  <3 Type='0' Data='0700'/>If you go <0 Type='3' Data='0000'/>north<0 Type='3' Data='ffff'/> up this road, you will find
+  <0 Type='3' Data='0000'/>Kakariko Village<0 Type='3' Data='ffff'/>.<5 Type='1'/><0 Type='4'/>I was thinking of visiting to try to find the
+  voe of my destiny.<0 Type='4'/>But ever since those mysterious,
+  ring-shaped ruins fell from the sky,
+  I hear the village has been all astir.
+  With all of those people investigating the
+  ruins, the atmosphere is less...<5 Type='1'/>romantic
+  than I had hoped.
+Near_GoRange_01: |
+  Kakariko Village...
+Near_BackRange_01: |
+  So that's Kakariko Village.
+GerudoMorning_01: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='200043007500730074006f006d005300610076006f007400740061005f0030003000'/>Sav'otta!
+GerudoEvening_01: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='220043007500730074006f006d00530061007600730061006100620061005f0030003000'/>Sav'saaba!
+0098: |
+  No way!
+FriendGreet_00_03: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='12004c0061007500670068004c005f0030003100'/>Ahaha! Oh dear... <5 Type='1'/>Apologies, but I was
+  only joking.
+  
+  I don't think the voe of my destiny will
+  make himself so easy to find.
+  
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0a0048006100700070007900'/>But thank you for the entertainment.<5 Type='0'/>
+  That put a smile on my face.
+  
+  Sav'orq!
+RainPoint_01_2: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0600530061006400'/>Though getting rained on is a valuable
+  experience, it's just so damp and
+  uncomfortable.
+  At least in Gerudo, splashing yourself
+  <0 Type='3' Data='0000'/>staves off the heat<0 Type='3' Data='ffff'/>. Here, getting wet is
+  merely a nuisance...
+GoRange_01_2: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='0a005400680069006e006b00'/>I hear a large number of people have
+  gathered in <0 Type='3' Data='0000'/>Kakariko Village <0 Type='3' Data='ffff'/>to study
+  the <0 Type='3' Data='0000'/>ring-shaped ruins<0 Type='3' Data='ffff'/>.
+  Perhaps I should go and see if the voe of
+  my destiny is among them.
+0099: |
+  Definitely.
+FriendGreet_00_04: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003100'/>Oh, you said that so bluntly... I can't help
+  but feel a little hurt.
+  
+  <3 Type='0' Data='0000'/>But no matter. I was only teasing.
+  
+  
+  I don't think the voe of my destiny will
+  make himself so easy to find.
+Near_Thunder: |
+  Kyah! Lightning!
+GoalPoint_01_2: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='08004300680061007400'/><0 Type='3' Data='0000'/>Kakariko Village <0 Type='3' Data='ffff'/>is just down this road.<0 Type='4'/>Could this be where I finally meet my
+  destined voe?
+RainPoint_01: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Rain is such a nuisance in this region.<5 Type='0'/>
+  It makes my clothes soggy and
+  uncomfortable.
+  In the Gerudo Desert, water is useful.
+  You need to splash yourself with it to
+  <0 Type='3' Data='0000'/>stave off the heat<0 Type='3' Data='ffff'/>.
+  And in the blazing sun, the water
+  evaporates, which means your clothes
+  never get damp...
+Near_RainPoint_01: |
+  What enviable weather.
+FriendGreet_00: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Oh my. You're quite the assertive voe,
+  coming and talking to me all of a sudden.
+  
+  Did you know that when a Gerudo comes
+  of age, she goes on a journey to search
+  for the voe of her destiny?
+  I am on the middle of such a voe hunt.
+  And I believe you and I meeting here may
+  be fated.
+  <3 Type='0' Data='0001'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>Don't you think so?
+Near_Rain: |
+  A blessing from the sky.
+FriendGreet_01: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Oh! You're coming up to me again.
+  
+  
+  If you want to talk that badly, then
+  perhaps...<5 Type='1'/> Perhaps you believe we're
+  fated to meet here after all?
+Near_GoalPoint_01: |
+  Kakariko Village lies ahead.
+FriendGreet_02: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>Huh? Wait...<5 Type='0'/> Really?
+  
+  
+  I'm sorry. I don't believe that you are
+  the voe of my destiny.
+  
+  <3 Type='0' Data='0500'/><4 Type='0' Data='0a005400680069006e006b00'/>Listen... <5 Type='0'/>You have nice eyes.<5 Type='0'/> Why don't
+  you use them to find the partner you're
+  meant to be with?

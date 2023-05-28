@@ -1,0 +1,123 @@
+Talk_0006: |
+  <3 Type='0' Data='0701'/>You know what I mean?
+Talk_0007: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Back again, huh?
+  
+  
+  Look at those two. They're still going
+  at it.
+Near_0001: |
+  They're still going?
+Talk_0008: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>I mean those two squabblers over there.<0 Type='4'/><3 Type='0' Data='0701'/>I want to investigate the <0 Type='3' Data='0000'/>Ring Ruin nestled<0 Type='3' Data='ffff'/>
+  in these hills, but some monsters have set
+  up camp there.<0 Type='4'/>I heard these two are competing to be
+  the town's top fighter, so I asked them
+  to <0 Type='3' Data='0000'/>clear out the monsters<0 Type='3' Data='ffff'/>.<0 Type='4'/>But this is all they do!
+Near_0002: |
+  It's too wet for this...
+Talk_0009: |
+  <3 Type='0' Data='0700'/>I want to investigate the <0 Type='3' Data='0000'/>nestled Ring
+  Ruin<0 Type='3' Data='ffff'/>, but some monsters have set up
+  camp there.<0 Type='4'/>I heard these two compete to be the
+  town's top fighter, so I asked them to
+  <0 Type='3' Data='0000'/>clear out the monsters<0 Type='3' Data='ffff'/>.<0 Type='4'/>But this is all they do! 
+Near_0003: |
+  I'm glad it's safe now.
+Near_0004: |
+  It's sure quiet...
+Talk_0020: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='0a005400680069006e006b00'/>It must have been important. <5 Type='0'/>It's a shame
+  we don't yet know what they meant by
+  "sage" and "secret stone."
+Talk_0021: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>I can't hear the monsters anymore.
+  Do you know if something happened?
+Talk_0022: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>You got rid of all those monsters?! Wow!
+  
+  
+  <3 Type='0' Data='0701'/>You should let those two know you
+  handled it.
+Talk_0010: |
+  <3 Type='0' Data='0a00'/>There's a <0 Type='3' Data='0000'/>stone slab<0 Type='3' Data='ffff'/> in the <0 Type='3' Data='0000'/>nestled<0 Type='3' Data='ffff'/>
+  <0 Type='3' Data='0000'/>Ring Ruin <0 Type='3' Data='ffff'/>inscribed with Zonai writing.<0 Type='4'/>What if the monsters destroy that
+  priceless artifact?<0 Type='4'/><3 Type='0' Data='0a01'/>*sigh* Why did I ask those two for help?
+0000: |
+  Those two?
+Talk_0011: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='0600530061006400'/>I don't care if they argue, but I want them
+  to <0 Type='3' Data='0000'/>chase off the<0 Type='3' Data='ffff'/> <0 Type='3' Data='0000'/>monsters<0 Type='3' Data='ffff'/> first.
+Talk_0024: |
+  <3 Type='0' Data='0800'/>Thank you! I can't wait to get back to
+  my investigation.
+  
+  Make sure to let those two know you took
+  care of the monsters. Not that I want to
+  see the looks on their faces, but... Well.
+0001: |
+  Goodbye.
+Talk_0012: |
+  <3 Type='0' Data='0800'/>Now that you've chased off the monsters,
+  I can go back to investigating the stone
+  slab in the Ring Ruin. Thank you!
+Talk_0026: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>Hey now! I've had to listen to them
+  bickering, so the least you can do is
+  listen to me complain.
+Talk_0013: |
+  <3 Type='0' Data='0700'/>Don't worry, the monsters didn't get to
+  the <0 Type='3' Data='0000'/>stone slab<0 Type='3' Data='ffff'/> in the ruins. Phew!
+  
+  Y'know, it feels a little lonely without
+  those two arguing...
+0002: |
+  Stone slab?
+Talk_0001: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='1000540069007200650064005f0030003100'/>Good grief. Those two really don't
+  get along...
+Talk_0014: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='0c004c0061007500670068005300'/>I can finally investigate without worrying
+  I'm about to get eaten!
+  
+  Even better, the <0 Type='3' Data='0000'/>stone slab<0 Type='3' Data='ffff'/> and its
+  precious writing are safe. You did
+  good work here.
+Talk_0015: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>Looks like the monsters are gone for
+  good. I can finally research in peace.
+  
+  Best of all, the <0 Type='3' Data='0000'/>stone slab<0 Type='3' Data='ffff'/> and the
+  precious writing carved on it are safe.
+  Thank you. Seriously.
+0004: |
+  Well, I'm done here.
+Talk_0004: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='1000540069007200650064005f0030003100'/>I don't know what their problem is, but
+  those two are at each other's throats
+  from morning to night.
+Talk_0017: |
+  <3 Type='0' Data='0700'/>This is one of <0 Type='3' Data='0000'/>five ring-shaped ruins<0 Type='3' Data='ffff'/> that
+  fell in the area.<0 Type='4'/>They're all broken open except for the
+  <0 Type='3' Data='0000'/>floating one <0 Type='3' Data='ffff'/>within the village itself.<0 Type='4'/>When that happened, chambers with
+  <0 Type='3' Data='0000'/>stone slabs <0 Type='3' Data='ffff'/>were exposed. These slabs
+  provide rare examples of Zonai writing.
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0a0048006100700070007900'/>Someone placed them very carefully.
+  They must have been important objects—
+  I can't believe I get to study them!<0 Type='4'/><3 Type='0' Data='0701'/>Tauro has translated a bit of it already.<0 Type='4'/>This particular stone slab seems to detail
+  requirements for becoming a "sage."<0 Type='4'/>Apparently, not only did you need to be
+  exceptional in some way, you also needed
+  a secret stone.<0 Type='4'/><3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>I'd never heard of these secret stones
+  before reading this! <5 Type='0'/>There's still so much
+  mystery in the world.<0 Type='4'/>If you want the exact text, you can read
+  the <0 Type='3' Data='0000'/>translation <0 Type='3' Data='ffff'/>next to the stone slab.
+Talk_0005: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='1000540069007200650064005f0030003100'/>I don't know what their problem is, but
+  even the rain doesn't slow them down.
+Talk_0018: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>They ignored the monsters and started
+  arguing as soon as one of them brought
+  up who was stronger.
+  Do they even care whether some awful
+  monster in the <0 Type='3' Data='0000'/>nestled Ring Ruin<0 Type='3' Data='ffff'/> destroys<0 Type='3' Data='0000'/><0 Type='3' Data='ffff'/>
+  that precious <0 Type='3' Data='0000'/>slab<0 Type='3' Data='ffff'/>?<0 Type='3' Data='0000'/> <0 Type='3' Data='ffff'/>I doubt it!

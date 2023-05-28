@@ -1,0 +1,20 @@
+Name: |
+  A Way to Trade, Washed Away
+Search: |
+  A general merchant, Garini, is upset that his
+  trading boat has floated out to sea. He wants
+  to get his hands on a boat he can use instead.
+  
+  Garini says that things often drift all the way to
+  <0 Type='3' Data='0000'/>Tenoko Island<0 Type='3' Data='ffff'/>, off the eastern coast—maybe
+  there's a beached boat there that he can use.
+Reward: |
+  You gave Garini a boat.
+  
+  To thank you, he wants to give you something
+  called a "star fragment." Talk to him when
+  you've <0 Type='3' Data='0000'/>organized your pouch<0 Type='3' Data='ffff'/>.
+Complete: |
+  You gave a boat to Garini. He quickly rebuilt
+  it as a trading vessel and reopened his
+  general store.

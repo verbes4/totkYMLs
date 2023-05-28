@@ -1,0 +1,359 @@
+talk0019: |
+  <3 Type='0' Data='0a00'/>I've tried to make these garden beds as
+  perfect as they were before.
+  
+  It's just so hard on my own. If only
+  someone would help...
+talk0020: |
+  <3 Type='0' Data='0700'/>Sure. Glad to help. Keep the tools a little
+  longer. And here's a tip...
+  
+  Don't overwork the soil.
+talk0068: |
+  <3 Type='0' Data='0b00'/>Hey! That raft belongs to the stable.
+  Don't go cutting the rope without my
+  permission.
+talk0021: |
+  <3 Type='0' Data='0800'/>You said you'll help! I accept your offer!
+0001: |
+  You saw the princess?
+talk0069: |
+  <3 Type='0' Data='0b00'/>Hey, hold on there! You've gotta wait for
+  me to get aboard before you cut the rope.
+talk0070: |
+  <3 Type='0' Data='0700'/>...Phew.<5 Type='0'/> All right. Ready.
+talk0022: |
+  <3 Type='0' Data='0b00'/>What?! I didn't say that!
+0002: |
+  Goodbye.
+talk0023: |
+  <3 Type='0' Data='0800'/>Well, close enough! So what if you don't
+  say what you really think. I won't hold
+  that against you!
+  Now, how about you go work that soil
+  like you said. I'll go tend to the flowers.
+  
+  <3 Type='0' Data='0801'/>We'll have this whole garden back in
+  beautiful shape by the time the princess
+  returns. It'll be the pride of Hyrule.
+  Oh! And here's a tip from me...<5 Type='2'/> Put your
+  back into it!
+talk0072: |
+  Don't forget to cut the rope when you're
+  ready to launch!
+talk0024: |
+  <3 Type='0' Data='0701'/>I'm off to report back to Traysi. See you
+  around, partner.
+talk0073: |
+  <3 Type='0' Data='0700'/>Fella? I don't think this is the way to
+  <0 Type='3' Data='0000'/>Floret Sandbar<0 Type='3' Data='ffff'/>...
+0005: |
+  I can take you!
+talk0026: |
+  <3 Type='0' Data='0c00'/>All this was about a sanctuary for plants
+  and flowers, huh?
+  
+  <3 Type='0' Data='0701'/>Sounds just like our princess to find time
+  to work on a garden alongside folks while
+  restoring Hyrule.
+talk0074: |
+  <3 Type='0' Data='0b00'/>That's our stable's raft! Please stop doing
+  whatever that is you're doing to it.
+talk0075: |
+  <3 Type='0' Data='0700'/>You take it from here! Just cut the rope
+  when you're ready to launch.
+0006: |
+  Good luck...
+talk0028: |
+  <3 Type='0' Data='0700'/>That was a long time ago, but I do
+  remember she said she needed them for
+  something at <0 Type='3' Data='0000'/>Floret Sandbar<0 Type='3' Data='ffff'/>.
+  It's around the river bend and then a
+  good distance after that.
+  
+  <3 Type='0' Data='0c00'/>I'd take the raft there myself, but after all
+  <0 Type='3' Data='0000'/>that stuff fell from the sky<0 Type='3' Data='ffff'/>, I'm having a
+  hard time getting down the river.
+  So you might say I'm in a bind.
+talk0076: |
+  <3 Type='0' Data='0700'/>You can go. I'll stay here. What else
+  have I got to do, right?
+0007: |
+  Floret Sandbar?
+talk0029: |
+  <3 Type='0' Data='0800'/>You did a great job getting us here!
+  Where'd you learn how to handle a raft
+  like that?
+  I thought it'd be a rough run, but it all
+  turned out fine.
+talk0030: |
+  <3 Type='0' Data='0900'/>HEY!<5 Type='1'/>
+  
+  
+  What do you think you're doing, just
+  barging in here? This place is for flowers
+  and plants—all of them, precious!
+  You'd better watch out. You'll rue the
+  day you trample on any of them!
+talk0077: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1400520075006e0061007700610079005f0030003000'/>Y-<5 Type='0'/>you're kidding me! <5 Type='1'/>It's on FIRE?
+0008: |
+  Never mind.
+talk0031: |
+  <3 Type='0' Data='0b00'/>S-<5 Type='0'/>sorry, ma'am!<5 Type='0'/> We're just looking for
+  some <0 Type='3' Data='0000'/>farm tools<0 Type='3' Data='ffff'/> that I lent to <0 Type='3' Data='0000'/>Princess
+  Zelda<0 Type='3' Data='ffff'/> a ways back!
+  I promise we won't pick any flowers.
+talk0078: |
+  <3 Type='0' Data='0a00'/>Phew... I was worried for a second there.
+0009: |
+  Let's turn back.
+0010: |
+  I'm getting out.
+talk0032: |
+  <3 Type='0' Data='0a00'/><FontSize Value='80'/>*sigh* Can't talk my way out of this one...<5 Type='1'/>
+  
+  
+  And she'd, uh, probably wreck the tools if she
+  used 'em wrong.<FontSize Value='100'/>
+  
+  <3 Type='0' Data='0701'/>OK, fine.<5 Type='0'/> Seems like I'm up the creek
+  without a paddle here. Or down it.
+  Either way, I'll help.
+talk0079: |
+  <3 Type='0' Data='0b00'/>Fella?<5 Type='0'/> The raft's leaving without you on it!<5 Type='0'/>
+  You need to get it back!
+talk0080: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1400520075006e0061007700610079005f0030003000'/>Y-<5 Type='0'/>you're kidding me! <5 Type='1'/>It BROKE?
+talk0082: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Hm! We're a little too far.<5 Type='0'/> Would you stop
+  right by the dock?
+talk0034: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003100'/>I get seasick! Could you stop rocking the
+  raft so much?
+talk0083: |
+  <3 Type='0' Data='0401'/><5 Type='0'/>Wait a minute... <5 Type='0'/><0 Type='3' Data='0000'/>Farm tools?<0 Type='3' Data='ffff'/><5 Type='0'/> Did you say
+  something about <0 Type='3' Data='0000'/>farm tools<0 Type='3' Data='ffff'/>?
+talk0035: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1400520075006e0061007700610079005f0030003100'/>*hurp*<5 Type='0'/> Can you stop tilting it so much?
+  I get sea—<5 Type='0'/> *hurp*<5 Type='0'/> Seasick!
+  
+  Urgh, it's no use... <5 Type='0'/>*hurp*<5 Type='0'/> I gotta get off
+  of here!
+talk0084: |
+  And also...<5 Type='1'/>nope. That's all I got.<5 Type='1'/>
+  
+  
+  <3 Type='0' Data='0400'/>Uh...<5 Type='1'/>what's with the face?
+talk0036: |
+  <3 Type='0' Data='0700'/>Careful at the river bend...
+talk0037: |
+  <3 Type='0' Data='0700'/>Past those ruins...
+talk0038: |
+  <3 Type='0' Data='0700'/>Stop near that dock.
+talk0040: |
+  <3 Type='0' Data='0700'/>OK! It's straight downriver.
+talk0041: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0a005400680069006e006b00'/>Sorry to turn you away, but I'm a little
+  busy right now.
+talk0042: |
+  <3 Type='0' Data='0700'/>You'll find <0 Type='3' Data='0000'/>Floret Sandbar <0 Type='3' Data='ffff'/>farther down
+  this river.
+talk0043: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Just head for the <0 Type='3' Data='0000'/>dock<0 Type='3' Data='ffff'/> that's there. All
+  right, I'm counting on you!
+talk0044: |
+  <3 Type='0' Data='0a00'/>Phew... Bad luck. Maybe try handling it
+  a bit more carefully?
+talk0045: |
+  <3 Type='0' Data='0700'/>Hey, partner. Get a good night's sleep?<5 Type='1'/>
+  Oh, <5 Type='0'/>actually, hold that thought.<5 Type='1'/> We don't
+  have time to squawk right now.
+talk0046: |
+  <3 Type='0' Data='0700'/>Hey, partner. How you doing?<5 Type='1'/> Actually,<5 Type='0'/>
+  let's just get to it.<5 Type='0'/> You're always on an
+  even keel.
+talk0000: |
+  <3 Type='0' Data='0700'/>I got a very interesting lead about our
+  missing princess. We could have a pretty
+  huge story here.
+  Sounds as if one night a while back—and
+  I'm not sure how far—<0 Type='3' Data='0000'/>Princess Zelda<0 Type='3' Data='ffff'/>
+  borrowed this stable's farm tools.
+  <3 Type='0' Data='0c00'/>That's a bit unusual. Why would our
+  princess...<5 Type='0'/>need farm tools?<5 Type='1'/> But this story
+  has another odd twist.
+  She promised to return them...<5 Type='0'/>and didn't.<5 Type='1'/>
+  Now, this all might seem trivial. She's a
+  busy princess, after all.
+  Still, these are strange times. So I got to
+  thinking—only <0 Type='3' Data='0000'/>weapons decayed <0 Type='3' Data='ffff'/>during
+  the Upheaval.
+  Maybe the princess was in desperate
+  need of tools for...<5 Type='1'/> Wait, Penn...<5 Type='0'/> Hold on.
+  You've gotten ahead of yourself.
+  <3 Type='0' Data='0b00'/>We need to gather the facts—when, what,
+  where, who!
+  
+  Let's start at the beginning. I heard that
+  a man named <0 Type='3' Data='0000'/>Izra<0 Type='3' Data='ffff'/> lent her the tools.
+  
+  He's right around here—watches over
+  the stable's raft, I heard. Let's get to
+  work, partner.
+talk0047: |
+  <3 Type='0' Data='0700'/>What's wrong? Did you forget where
+  <0 Type='3' Data='0000'/>Floret Sandbar <0 Type='3' Data='ffff'/>is?
+talk0001: |
+  <3 Type='0' Data='0c00'/>What did <0 Type='3' Data='0000'/>Princess Zelda <0 Type='3' Data='ffff'/>need those
+  <0 Type='3' Data='0000'/>farm tools <0 Type='3' Data='ffff'/>for?
+  
+  I have a wild guess that it's because only
+  <0 Type='3' Data='0000'/>weapons decayed <0 Type='3' Data='ffff'/>during the Upheaval,
+  and that would mean...
+  <3 Type='0' Data='0700'/>No, we need facts! I heard that a man
+  named <0 Type='3' Data='0000'/>Izra<0 Type='3' Data='ffff'/> spoke to the princess. I think
+  he watches over the raft at this stable.
+talk0048: |
+  I mean, really... Why?
+talk0050: |
+  <3 Type='0' Data='0700'/>Hey, partner. You have a good day?<5 Type='1'/>
+  Oh, <5 Type='0'/>actually, hold that thought.<5 Type='1'/> We can
+  squawk all about it later.
+talk0002: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0a005400680069006e006b00'/>Sorry, I'm a little busy right now...
+talk0049: |
+  I need those farm tools...
+talk0051: |
+  <3 Type='0' Data='0700'/>This rain, huh, partner? Will it ever end?
+  Oh, <5 Type='0'/>no need to answer that.<5 Type='1'/> I know it'll
+  end at some point. Just making small talk.
+talk0003: |
+  <3 Type='0' Data='0a00'/>Urgh.<5 Type='1'/> How can I get any work done right
+  unless I get the stable's tools back?
+talk0052: |
+  <3 Type='0' Data='0800'/>I'm ready whenever you—
+  
+  
+  <3 Type='0' Data='0300'/>Um, hold on. <5 Type='0'/>I can't sit down in the chair.
+talk0005: |
+  <3 Type='0' Data='0a00'/>*sigh*<5 Type='1'/> I know we could clear up this mess
+  if someone could take me downriver to
+  <0 Type='3' Data='0000'/>Floret Sandbar<0 Type='3' Data='ffff'/> on the raft.
+talk0053: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0e0047006f006f006400620079006500'/><FontSize Value='125'/>Soar long!<FontSize Value='100'/>
+talk0054: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1200530075007200700072006900730065005300'/>Huh? Up in the sky! There's something...<5 Type='0'/>
+  er, someone...<5 Type='0'/>coming at us!
+talk0007: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='0c004e006f007400690063006500'/>Oh... I was wondering when you guys
+  would show up. You work with Penn from
+  the newspaper, right?
+  <3 Type='0' Data='0a00'/>I didn't want this to get out, because I
+  don't want people to think I'm saying bad
+  things about <0 Type='3' Data='0000'/>Princess Zelda<0 Type='3' Data='ffff'/>.
+  But she borrowed our stable's <0 Type='3' Data='0000'/>farm tools<0 Type='3' Data='ffff'/>
+  and hasn't given them back.
+talk0055: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='08004500610073006500'/>Whew... Finally caught up with you two!
+  
+  
+  I was flying around this whole area,
+  partner, trying to find our facts, when I
+  saw you on this raft.
+  I figured you'd chased down our story,
+  so I flew right on down to help. But, uh...<5 Type='0'/>
+  where are we?
+talk0008: |
+  <3 Type='0' Data='0b00'/>What?!<5 Type='0'/> You mean that, fella? You'll take
+  me to <0 Type='3' Data='0000'/>Floret Sandbar<0 Type='3' Data='ffff'/>?
+  
+  <3 Type='0' Data='0800'/>Thanks!<5 Type='0'/> Can't tell you how much I
+  appreciate you offering to do that.
+talk0056: |
+  <3 Type='0' Data='0b00'/>Whoa! Who's this?<5 Type='0'/> Ever met her
+  before, partner?
+Near_Ready_1001: |
+  Could be a huge story...
+talk0057: |
+  <3 Type='0' Data='0700'/>Oh, really?<5 Type='0'/> Let's get off the raft and
+  start from scratch, then.
+talk0011: |
+  <3 Type='0' Data='0700'/>You take it from here!
+talk0058: |
+  <3 Type='0' Data='0700'/>Well, seems like we got those facts we
+  wanted,<5 Type='0'/> and those two...<5 Type='0'/>worked it all
+  out, I guess?
+  I can't wait to write this up. Our readers
+  love glimpses into the princess's life. Here
+  she was, helping to create a garden.
+  Expect the story in an issue of the paper
+  soon. It'll be a real headline!
+talk0059: |
+  <3 Type='0' Data='0b00'/>What the—<5 Type='0'/> Where's my raft?<5 Type='0'/> I better put
+  it back where it was to start.
+talk0060: |
+  <3 Type='0' Data='0700'/>There we go...<5 Type='0'/> Whew!<5 Type='0'/> Close one!
+talk0012: |
+  <3 Type='0' Data='0a00'/>*sigh* <5 Type='1'/>I wonder why Princess Zelda won't
+  give the stable's tools back.
+  
+  I want to go downriver to <0 Type='3' Data='0000'/>Floret Sandbar<0 Type='3' Data='ffff'/>
+  and find out what happened, but I'm
+  having a hard time with the raft.
+talk0061: |
+  <3 Type='0' Data='0700'/>So, you're going to take me to <0 Type='3' Data='0000'/>Floret
+  Sandbar<0 Type='3' Data='ffff'/> on this raft?
+talk0062: |
+  <3 Type='0' Data='0800'/>Thanks, fella!<5 Type='0'/> I'm counting on you!
+talk0014: |
+  <3 Type='0' Data='0800'/><FontSize Value='125'/>Woo-hoo! We made it!<FontSize Value='100'/>
+talk0015: |
+  <3 Type='0' Data='0900'/>Picking them? I'm more worried about
+  you kicking them!<5 Type='1'/>
+talk0063: |
+  <3 Type='0' Data='0700'/>Hey! Where are you taking me? This is
+  NOT the way to <0 Type='3' Data='0000'/>Floret Sandbar<0 Type='3' Data='ffff'/>!
+  
+  Look, it seems like we're lost. How about
+  we go back to the dock and start over?
+talk0016: |
+  <3 Type='0' Data='0900'/>That's right—some <0 Type='3' Data='0000'/>farm tools <0 Type='3' Data='ffff'/>from our
+  stable. I want them back!
+talk0064: |
+  <3 Type='0' Data='0700'/>Tell me when you're ready to go. Don't
+  forget, OK? You're my last hope!
+talk0017: |
+  <3 Type='0' Data='0700'/>Oh, well. That's my fault. I have them.
+  
+  
+  This area is home to <0 Type='3' Data='0000'/>Princess Zelda<0 Type='3' Data='ffff'/>'s
+  plant sanctuary. She asked me to take
+  care of this special place with her.
+  She loved these plants, and spent a lot of
+  time here, making sure the garden beds
+  were happy homes for them.
+  We meant to return the tools after we
+  finished our work here.
+  
+  <3 Type='0' Data='0c00'/>But the princess—well,<5 Type='0'/> they say she
+  went <0 Type='3' Data='0000'/>missing<0 Type='3' Data='ffff'/>.
+  
+  <3 Type='0' Data='0700'/>And all our hard work was ruined when...<5 Type='0'/>
+  oh, these darn ruins crashed down!
+  It's been really awful.
+  I've been working so hard since then to
+  try to make it all nice again.
+talk0065: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1400520075006e0061007700610079005f0030003000'/>What?!<5 Type='0'/> We're...<5 Type='0'/>we're falling!
+talk0018: |
+  <3 Type='0' Data='0c00'/>Really? <5 Type='0'/>That's what happened?<0 Type='4'/><3 Type='0' Data='0701'/>Now I think about it, I didn't tell the
+  princess how soon I needed our stable's
+  tools back.
+  <3 Type='0' Data='0700'/>As long as they're in good condition,
+  it's no problem. I'll just go ahead and take
+  them with me if you're done.
+  Now I feel guilty for some reason. Didn't
+  mean to make you hurry it up.
+talk0066: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1400520075006e0061007700610079005f0030003000'/>*cough*<5 Type='0'/> Help!<5 Type='0'/> *sputter*<5 Type='0'/> I can't swim!

@@ -1,0 +1,251 @@
+Talk_0015: |
+  I didn't know that while I was stuck in this
+  hole, the Great Fairies went into hiding
+  and my troupe reformed.
+  It sounds like I should get out of this hole
+  and join back up with the Stable Trotters
+  as soon as I can, but...
+Talk_0252: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003100'/>Aaah! <5 Type='1'/>Too dangerous! I'm falling out!
+Talk_0511_02: |
+  <3 Type='0' Data='0100'/>Why don't you come to<5 Type='0'/> <0 Type='3' Data='0000'/>Snowfield Stable<0 Type='3' Data='ffff'/>,
+  too, and hear us perform?
+Talk_0521: |
+  <3 Type='0' Data='0000'/>Except...your pouch is already full.<0 Type='4'/>I have <0 Type='3' Data='0000'/>three bits of courser bee honey<0 Type='3' Data='ffff'/>
+  for you, if you wouldn't mind getting rid
+  of some things to make room for them.
+Talk_0016: |
+  <3 Type='0' Data='0700'/>I can't climb up the side of this hole. <5 Type='1'/>Not
+  without <0 Type='3' Data='0000'/>my wagon<0 Type='3' Data='ffff'/>, at least, and I'd rather
+  not leave it behind.
+0010: |
+  Get out.
+0011: |
+  Everything's fine.
+Near_0003: |
+  I'm in a real bind...
+Near_0004: |
+  Your reward...
+Talk_0006_01: |
+  <3 Type='0' Data='0c00'/>I'm relieved that someone came to rescue
+  me, <5 Type='0'/>but I hope you have a plan to <0 Type='3' Data='0000'/>free me
+  from this hole<0 Type='3' Data='ffff'/>.
+Talk_0111: |
+  <3 Type='0' Data='0a00'/>Yeah...you're right.<0 Type='4'/>I might as well wish for my wagon to <0 Type='3' Data='0000'/>take
+  to the air<0 Type='3' Data='ffff'/>. <5 Type='1'/>Or for some kind of <0 Type='3' Data='0000'/>ramp out
+  of the hole<0 Type='3' Data='ffff'/> to mysteriously appear.<0 Type='4'/>Either of those is as likely as the wagon
+  getting <0 Type='3' Data='0000'/>lifted out<0 Type='3' Data='ffff'/> by some invisible force.<0 Type='4'/>I shouldn't go hoping for a miracle...
+Talk_0506_01: |
+  <3 Type='0' Data='0400'/>Oh, have you not heard of us?<5 Type='1'/><0 Type='4'/><3 Type='0' Data='0701'/>Us Stable Trotters are a music troupe that
+  goes around stables to perform.<0 Type='4'/>If I had to guess...<5 Type='0'/>it's out of your way,
+  but they might be near <0 Type='3' Data='0000'/>Woodland Stable<0 Type='3' Data='ffff'/>
+  over in Eldin.
+Talk_0002_01: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Why, thank you!
+Talk_0006_02: |
+  <3 Type='0' Data='0c00'/>It's nice to know I'm not the only one this
+  happens to. <5 Type='0'/>But it would be nicer if you
+  had a plan to <0 Type='3' Data='0000'/>free us from this hole<0 Type='3' Data='ffff'/>.
+Talk_0102_01: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>What? <5 Type='1'/>You can actually make
+  this happen?
+Talk_0202_01: |
+  <3 Type='0' Data='0700'/>Got it!<5 Type='0'/> I'll hop back out.
+Talk_0506_02: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>Oh! <5 Type='1'/>You've met the troupe leader?!<5 Type='1'/> So the
+  Stable Trotters are back together...
+Talk_0002_02: |
+  <3 Type='0' Data='0a00'/>It happens to the best of us.
+Talk_0102_02: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>All right, then. <5 Type='1'/>Let's hope you know what
+  you're doing!
+Talk_0202_02: |
+  <3 Type='0' Data='0700'/>Got it! <5 Type='0'/>It's raining anyway. Let's start this
+  whole thing over.
+Talk_0001: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003100'/>Ugh...<5 Type='0'/> Oh, hey!<5 Type='1'/> Did you come down here
+  to rescue me?
+Talk_0102_03: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Will do!<5 Type='0'/> Just a moment.
+Talk_0102_04: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>All right, then. <5 Type='0'/>Let's hurry and get out of
+  this rain.
+Talk_0003: |
+  <3 Type='0' Data='0701'/>I was heading to Rito Village, which is
+  suffering through a fierce blizzard, to
+  cheer them up with music and supplies.
+  I got my wagon going at a pretty good clip
+  on this road, but then I suddenly drove
+  into this hole. It's never been here before!<0 Type='4'/><3 Type='0' Data='0a00'/>The horse I was riding ran off somewhere,<5 Type='0'/>
+  and my cargo has spoiled. <5 Type='0'/>The only thing
+  I have left is the <0 Type='3' Data='0000'/>wagon<0 Type='3' Data='ffff'/>.
+Talk_0004: |
+  <3 Type='0' Data='0a01'/>As if that weren't enough, now I'm wet...<5 Type='0'/>
+  and cold...<5 Type='0'/> Why did it have to rain?
+Talk_0039: |
+  <3 Type='0' Data='0b00'/>Ah! <5 Type='0'/>Hold it! <5 Type='0'/>I'm not so sure about this.<0 Type='4'/>That wagon is important to me. Please
+  don't mess with it before checking first.
+Talk_0510: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>And now I'd better be on my way.
+Talk_0005: |
+  <3 Type='0' Data='0700'/>I haven't figured out how to get <0 Type='3' Data='0000'/>both me
+  and my wagon <0 Type='3' Data='ffff'/>out this hole, and I won't
+  leave it behind.
+  Which leaves me stuck here, plain
+  and simple.
+Talk_0101_01: |
+  <3 Type='0' Data='0700'/>I can't climb up the wall of this hole, and
+  even if I could, I wouldn't want to leave
+  without my wagon.
+Talk_0101_02: |
+  <3 Type='0' Data='0c00'/>Ahhh...<5 Type='1'/>if only someone could <0 Type='3' Data='0000'/>pull my
+  wagon out of the hole with me in it<0 Type='3' Data='ffff'/>.<5 Type='1'/>
+  Is that too much to hope for?
+0003: |
+  It's a rescue!
+Talk_0561: |
+  <3 Type='0' Data='0800'/>Oh! I'm glad to see you freed up some
+  room in your pouch.<0 Type='4'/>Well then, these are yours!
+0004: |
+  Nope, I fell in.
+Talk_0100: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hello again. How's everything going with
+  you? <5 Type='1'/>Not much has changed for me, sad
+  to say. Still stuck in a big hole.<0 Type='4'/><3 Type='0' Data='0a01'/>I've been playing my horn to keep my
+  spirits up. <5 Type='0'/>But it hasn't lessened my
+  desire to get out of this hole any.
+0005: |
+  Get in the wagon!
+0006: |
+  That won't be easy.
+Talk_0103: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1200570061006b006500750070005f0030003100'/>There we go.<5 Type='1'/>
+Talk_0104: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1400430061006c006c004600610072005f0030003000'/>I'm in the wagon! Ready to go!
+Talk_0105: |
+  <3 Type='0' Data='0a00'/>Hmmm. <5 Type='1'/>Is it impossible<5 Type='0'/> to <0 Type='3' Data='0000'/>get me out of
+  the hole while I'm riding in the wagon<0 Type='3' Data='ffff'/>
+  after all?
+Talk_0039_01: |
+  <3 Type='0' Data='0b00'/>Ah! <5 Type='0'/>Hold it! <5 Type='0'/>Hands off the wagon, please!<0 Type='4'/><3 Type='0' Data='0000'/>I really don't want it to fall in the hole
+  again. <5 Type='1'/>Leave well enough alone!
+Talk_0508_01: |
+  <3 Type='0' Data='0100'/>After I return this wagon I borrowed, I'm
+  going to rejoin the troupe.<0 Type='4'/>There are so many people who would
+  benefit from hearing us play!
+Talk_0508_02: |
+  <3 Type='0' Data='0c01'/>For the time being, I should head to
+  <0 Type='3' Data='0000'/>Snowfield Stable<0 Type='3' Data='ffff'/> and play my horn for
+  the Great Fairy there.
+Talk_0041: |
+  <3 Type='0' Data='0b00'/>Ah! <5 Type='0'/>Hold it! <5 Type='0'/>Don't take my dear, precious
+  wagon away from me!
+Talk_0501: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003000'/>Whoa! <5 Type='1'/>I'm out of the hole?!<1 Type='3' Data='1e000000'/>
+Talk_0042: |
+  <3 Type='0' Data='0700'/>Whew. <5 Type='0'/>You had me going. <5 Type='0'/>Seems mean to
+  take another fellow's precious wagon.<0 Type='4'/>My wagon's not the only one who needs
+  to be freed from the hole. <0 Type='3' Data='0000'/>I want to get
+  out too<0 Type='3' Data='ffff'/>.
+Talk_0502: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='12004c0061007500670068004c005f0030003100'/>Whew! I'm finally out!
+Talk_0121: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>Huh? The wagon's escaped without me!<0 Type='4'/>If that was your doing, please <0 Type='3' Data='0000'/>wait until
+  I've boarded it<0 Type='3' Data='ffff'/>. <5 Type='1'/>We're a team, after all!
+Talk_0043: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1200530075007200700072006900730065004d00'/>Huh?! <5 Type='0'/>What happened?! <5 Type='0'/>It's on fire!
+Talk_0503: |
+  <3 Type='0' Data='0000'/>I got so nervous, I fogged up my glasses
+  and missed what you did...<0 Type='4'/><3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>But you did it! You actually did it!<5 Type='1'/> Thank
+  you so much!<0 Type='4'/>If you hadn't come along, I don't know
+  how much longer I would have been
+  stuck in that hole.
+Talk_0122: |
+  <3 Type='0' Data='0c00'/>Huh? <5 Type='1'/>I can't get on the wagon like this.
+Talk_0281: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='08004500610073006500'/>Hey! <5 Type='0'/>Be more careful!<5 Type='0'/> Ahem...and I will
+  pull myself together.
+Talk_0044: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='08004500610073006500'/>Whew... <5 Type='0'/>That was a close one. <5 Type='0'/>Good thing
+  we got the fire out somehow.<0 Type='4'/>Be careful handling flames around my
+  wagon. It's irreplaceable.
+Talk_0504: |
+  <3 Type='0' Data='0300'/>Come to think of it, if I hadn't made such
+  a rash decision during the earliest days of
+  the Upheaval, and run off on my troupe...<0 Type='4'/>maybe things wouldn't have ended up
+  like this.
+Talk_0507_01: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>This is great news! <5 Type='1'/>I've been itching to
+  put my skills on the horn to good use.
+Talk_0123: |
+  <3 Type='0' Data='0c00'/>Huh? <5 Type='1'/>There's nowhere for me to sit.
+Talk_0201: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Are you having trouble with this?<5 Type='0'/> Would
+  it help if I got back out?
+Talk_0045: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1200530075007200700072006900730065004d00'/>Aaah! <5 Type='1'/>My wagon!
+Talk_0505: |
+  I mean, the supplies I collected to help
+  feed Rito Village have all spoiled by
+  now anyway.<0 Type='4'/><3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>I should get back to the <0 Type='3' Data='0000'/>Stable Trotters<0 Type='3' Data='ffff'/>
+  and rejoin my bandmates. That will do
+  more good.
+Talk_0507_02: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>This is great news! <5 Type='1'/>So they're at <0 Type='3' Data='0000'/>Dueling
+  Peaks Stable<0 Type='3' Data='ffff'/> right now?
+Talk_0551: |
+  <3 Type='0' Data='0800'/>Before I return to the Stable Trotters,
+  I want to thank you for saving me from
+  the hole.<0 Type='4'/>I have <0 Type='3' Data='0000'/>three bits of courser bee honey<0 Type='3' Data='ffff'/>
+  for you, if you wouldn't mind getting rid
+  of some things to make room for them.
+Talk_0011: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>*sigh* <5 Type='1'/>I used to play horn with the <0 Type='3' Data='0000'/>Stable
+  Trotters<0 Type='3' Data='ffff'/>, it's true.
+Talk_0124: |
+  <3 Type='0' Data='0c00'/>Hmm. <5 Type='1'/>I'm going to have a hard time
+  getting on the wagon.<0 Type='4'/>Could you let me know when you've put
+  the wagon somewhere easier for me to
+  board it?
+Talk_0046: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='08004500610073006500'/>*sigh* <5 Type='0'/>I'm glad we got the wagon fixed.<0 Type='4'/>This wagon is very dear to me. <5 Type='0'/>Plus it's
+  borrowed, so please be careful with it.
+Talk_0507_03: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>This is great news! <5 Type='1'/>So they're at <0 Type='3' Data='0000'/>Outskirt
+  Stable<0 Type='3' Data='ffff'/> right now?
+Talk_0012: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003000'/>What?! <5 Type='1'/>The Great Fairy went into hiding?<5 Type='1'/>
+  And so the troupe is looking for me?
+Talk_0203: |
+  <3 Type='0' Data='0700'/>OK, <5 Type='0'/>if you say so...
+Talk_0013: |
+  <3 Type='0' Data='0c01'/>Well, from bad to worse...<0 Type='4'/><3 Type='0' Data='0701'/>Have you heard how Rito Village north of
+  here is struggling to get enough food?
+  It really breaks my heart.
+  The Rito were always good to us when our
+  music troupe was touring the kingdom.
+  
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>So when I heard about a fierce blizzard
+  tearing into Rito Village, I couldn't just sit
+  and do nothing.
+  I slipped away from the troupe and made
+  for their village with supplies and songs
+  to ease their burdens.
+Talk_0014: |
+  I got my wagon going at a quick trot on
+  this road, but then I suddenly drove into
+  this hole. It didn't use to be here!<0 Type='4'/><3 Type='0' Data='0a00'/>The horse I was riding ran off somewhere,<5 Type='0'/>
+  and my cargo has spoiled. <5 Type='0'/>The only thing
+  I have left is the <0 Type='3' Data='0000'/>wagon<0 Type='3' Data='ffff'/>.
+Talk_0509: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Oh!<5 Type='0'/> One more thing!<5 Type='1'/>
+  
+  
+  Take this, please! It's a cooking ingredient
+  I picked up in my travels.
+  
+  This is the least I can do for you getting
+  me out of there.
+Talk_0511_01: |
+  <3 Type='0' Data='0701'/>I'm sure we'll bump into each other again.<5 Type='0'/>
+  I look forward to playing my horn for you!

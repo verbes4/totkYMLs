@@ -1,0 +1,59 @@
+Talk_PreChallenge00: |
+  <3 Type='0' Data='0a00'/>Ugh... Those <0 Type='3' Data='0000'/>Gibdos<0 Type='3' Data='ffff'/> are a nuisance...
+  They keep attacking us from the cover
+  of the <0 Type='3' Data='0000'/>sand shroud<0 Type='3' Data='ffff'/>.<0 Type='3' Data='0000'/><0 Type='3' Data='ffff'/>
+  If it weren't for Lady Riju and her
+  <0 Type='3' Data='0000'/>lightning strikes<0 Type='3' Data='ffff'/>, we'd have been
+  wiped out already.
+  Grrr... We're supposed to be protecting
+  her, not the other way around. What kind
+  of guards are we?
+Talk_AfterChallenge_00: |
+  <FontSize Value='80'/><3 Type='0' Data='0700'/><FontSize Value='100'/>If you don't want to pay to rent a <0 Type='3' Data='0000'/>sand
+  seal<0 Type='3' Data='ffff'/> from the <0 Type='3' Data='0000'/>rental shop<0 Type='3' Data='ffff'/>, you can always
+  try and catch one of them on your own.
+  But they're very <0 Type='3' Data='0000'/>sensitive to sound<0 Type='3' Data='ffff'/>. You
+  have to approach them very quietly.<FontSize Value='80'/>
+  
+  <3 Type='0' Data='0400'/>Shhhhhh... <5 Type='1'/>Be sneaky!<FontSize Value='100'/>
+Talk_PreChallenge01: |
+  <3 Type='0' Data='0a00'/>Lady Riju hasn't been able to completely
+  master her <0 Type='3' Data='0000'/>control over lightning<0 Type='3' Data='ffff'/>... If only
+  I could do something to help her.
+  So sore... <5 Type='1'/>I guess I should focus on my
+  own recovery, but... Ugh, I just feel
+  so pathetic.
+Talk_PreDefense: |
+  <3 Type='0' Data='0900'/><0 Type='3' Data='0000'/>Lady Riju<0 Type='3' Data='ffff'/> may be the core of our fighting
+  power, but I'm going to do my part! I'll
+  catch these monsters off guard this time!
+Talk_AfterChallenge_01: |
+  Come on in!
+Talk_AfterChallenge: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Oh, it's you!<5 Type='0'/> Don't worry—you can come
+  and go as you please.
+  
+  Now that the sand shroud has cleared up,
+  you can really appreciate the beauty of
+  the desert. Just look at that view!<0 Type='4'/>When I want to relax, I rent a sand seal
+  from the <0 Type='3' Data='0000'/>rental shop<0 Type='3' Data='ffff'/> over there and
+  explore the desert.
+  Because of you and the chief, it's safe
+  to go out and really appreciate the
+  desert scenery!
+Talk_PreDefense_00: |
+  <3 Type='0' Data='0900'/>The defense of the town isn't just on Lady
+  Riju's shoulders! We'll all do our part to
+  keep everyone safe!
+Talk_AfterDefense: |
+  <3 Type='0' Data='0800'/>There's no way to know if they'll be back,
+  but for now, we've driven them off and
+  that's a huge victory.
+  If they come back, I'll stop them from
+  getting through this gate—with my life,
+  if I have to!
+Talk_InBattle: |
+  <3 Type='0' Data='0900'/>Don't let them reach Lady Riju!
+Talk_InAzito: |
+  <3 Type='0' Data='0800'/>I'm protecting this area. I won't let the
+  monsters get into town again.<5 Type='0'/> I swear it!

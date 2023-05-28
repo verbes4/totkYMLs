@@ -1,0 +1,89 @@
+Talk_0006: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004e006f007400690063006500'/>You're the one who saved me from that
+  nasty bout of food poisoning, aren't you?<5 Type='0'/>
+  Fancy running into you again.
+  Our mistake was using monster parts in
+  cooking. They're supposed to be mixed
+  with bugs to make elixirs.
+  <3 Type='0' Data='0c00'/>What were we thinking?
+Talk_0012: |
+  <3 Type='0' Data='0700'/>Taking a morning stroll? <5 Type='0'/>It's soothing,
+  isn't it, the warmth of the morning sun
+  on your face.
+  <3 Type='0' Data='0701'/>I wonder if <0 Type='3' Data='0000'/>bugs<0 Type='3' Data='ffff'/> can feel the sun on
+  their faces.
+Talk_0013: |
+  <3 Type='0' Data='0700'/>Taking a midnight stroll? <5 Type='0'/>I know how
+  you feel, being drawn out of bed by
+  the moonlight.
+  <3 Type='0' Data='0701'/>I wonder if <0 Type='3' Data='0000'/>bugs<0 Type='3' Data='ffff'/> look up at the moon.
+Talk_0014: |
+  <3 Type='0' Data='0700'/>You've more energy than I, going out on
+  a midday walk. <5 Type='0'/>The sunlight's already
+  wearing me down.
+  <3 Type='0' Data='0701'/>I wonder if <0 Type='3' Data='0000'/>bugs<0 Type='3' Data='ffff'/> get tired in the sun.
+Talk_0008: |
+  <3 Type='0' Data='0700'/>Ah, sorry. I've got bugs on the mind. I'm
+  hoping to catch some and mix them with
+  <0 Type='3' Data='0000'/>monster parts <0 Type='3' Data='ffff'/>to make a few handy <0 Type='3' Data='0000'/>elixirs<0 Type='3' Data='ffff'/>.
+  Bugs blend in with nature, so you can't
+  always see them at first glance.<5 Type='1'/> But
+  they're all around us.
+  Crickets are often lurking in patches of
+  grass, for instance.<0 Type='4'/><3 Type='0' Data='0700'/>And the bug I'm looking for now, the
+  rugged rhino beetle, likes to perch on
+  tree trunks.<0 Type='4'/>If you see one, be sure not to make any
+  sudden movements. <5 Type='1'/>Bugs scare easily!
+  
+  Be kind and gentle when you catch the
+  little guys! Do it lovingly!
+Talk_0020: |
+  <3 Type='0' Data='0700'/>I think about bugs so much, I'm starting
+  to feel a bit like one myself.
+Near_0001: |
+  Bugs...aren't food...
+NakedPlayer: |
+  Down to the skivvies, hm?
+Talk_0015: |
+  <3 Type='0' Data='0700'/>Going on an evening walk? <5 Type='0'/>When the sky
+  turns deep red like this, I always feel like
+  doing that too.
+  <3 Type='0' Data='0701'/>I wonder if <0 Type='3' Data='0000'/>bugs<0 Type='3' Data='ffff'/> feel the same way?
+Talk_0016: |
+  <3 Type='0' Data='0700'/>You've got gumption, taking a walk in
+  the rain. <5 Type='0'/>As for me, I don't like my clothes
+  getting squidgy.
+  <3 Type='0' Data='0701'/>I wonder if <0 Type='3' Data='0000'/>bugs <0 Type='3' Data='ffff'/>like the rain, or if they
+  prefer to stay dry like me.
+Near_0003: |
+  I'm working up an appetite.
+Talk_0001: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a0053006c00650065007000'/>Joute, <5 Type='1'/>no... <5 Type='1'/>Moblin guts...<5 Type='1'/>go in elixirs...
+Near_0011: |
+  Hope it clears up soon.
+Talk_0025: |
+  <3 Type='0' Data='0c00'/>I will say, they're shyer than usual today.<5 Type='0'/>
+  Maybe because of all the noise above the
+  treetops? What is that?
+Near_0006: |
+  I could use a break.
+0000: |
+  Bugs?
+Talk_0003: |
+  <3 Type='0' Data='0700'/>I'm hoping to catch some bugs and mix
+  them with <0 Type='3' Data='0000'/>monster parts <0 Type='3' Data='ffff'/>to make <0 Type='3' Data='0000'/>elixirs<0 Type='3' Data='ffff'/>.<0 Type='4'/>The bug I'm looking for now, the rugged
+  rhino beetle, likes to perch on tree trunks.<0 Type='4'/>If you see one, be sure not to make any
+  sudden movements. <5 Type='1'/>Bugs scare easily!
+  
+  Be kind and gentle when you catch the
+  little guys! Do it lovingly!
+Talk_0026: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='0a005400680069006e006b00'/>*yawn* <5 Type='1'/>Getting sleepy...<5 Type='1'/>
+0001: |
+  Goodbye.
+Talk_0027: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a005400680069006e006b00'/>Lots of bugs are nocturnal. <5 Type='0'/>And if you
+  want to catch a nocturnal creature,
+  you've gotta be one.
+  That's why I'm going to bed now—so I can
+  lay hold of a <0 Type='3' Data='0000'/>rugged rhino beetle <0 Type='3' Data='ffff'/>tonight!

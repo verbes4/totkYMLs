@@ -1,0 +1,106 @@
+IpponSugi: |
+  Tulin was not at the cave when you went out
+  to find him. Gesane told you that he left Hebra
+  South Summit Cave and went toward the <0 Type='3' Data='0000'/>lone
+  cedar tree<0 Type='3' Data='ffff'/> on <0 Type='3' Data='0000'/>Talonto Peak<0 Type='3' Data='ffff'/>, visible to the north.
+  
+  According to Gesane, he saw a group of
+  monsters and gave chase alone.
+BossBattle: |
+  You unlocked the five locks. Once you <0 Type='3' Data='0000'/>use the
+  terminal<0 Type='3' Data='ffff'/> and open the deck hatch, it will be time
+  to step forward and stop the frigid winds
+  spouting from belowdecks.
+CheckTerminal: |
+  You found a massive ship, which Tulin says
+  is the Stormwind Ark, floating inside the
+  thunderhead. A figure greatly resembling
+  Princess Zelda was seen on the ship's deck
+  before she vanished suddenly. The blizzard,
+  which shows no sign of abating, is coming from
+  <0 Type='3' Data='0000'/>below the hatch<0 Type='3' Data='ffff'/>. The cause of the Rito's
+  suffering seems close at hand.
+DungeonStart: |
+  You tried using the terminal, but the deck's
+  hatch did not open. The mysterious voice then
+  spoke to you again, saying the hatch will remain
+  shut until all five locks are unlocked.
+  
+  Find the <0 Type='3' Data='0000'/>five locks<0 Type='3' Data='ffff'/> the voice spoke of to save
+  Rito Village from the never-ending blizzard and
+  to get a lead on Princess Zelda's whereabouts.
+Name: |
+  Tulin of Rito Village
+FoundTulin: |
+  Upon reaching the lone cedar tree, you found
+  an upset Tulin looking toward the sky.
+  
+  He said his bow was stolen by a flying monster.
+DefeatEnemy: |
+  You defeated the Aerocuda and recovered
+  Tulin's bow. But before the two of you could
+  leave, more Aerocudas arrived—this time
+  flinging Bokoblins at you.
+  
+  Work with Tulin to defeat the monsters.
+TouchSecretStone: |
+  The ice covering the altar melted after you
+  vanquished the monster, revealing a <0 Type='3' Data='0000'/>shining
+  stone<0 Type='3' Data='ffff'/> set there.
+  
+  You can sense great power emanating from
+  the stone, and Tulin senses it as well.
+GoToCave: |
+  Harth had no leads on Princess Zelda either.
+  He suggested you speak to Tulin, who has been
+  scouting the skies since the fierce blizzard
+  began.
+  
+  Harth said that Tulin went to the <0 Type='3' Data='0000'/>Hebra South
+  Summit Cave<0 Type='3' Data='ffff'/> with Gesane and Laissa. Its
+  entrance is marked with another bonfire.
+GetBack: |
+  Upon reaching the lone cedar tree, you found
+  an upset Tulin. He told you that a flying monster
+  stole his bow.
+  
+  It's up to you to defeat the monster and get
+  <0 Type='3' Data='0000'/>Tulin's bow<0 Type='3' Data='ffff'/> back.
+GoDungeon: |
+  Though you didn't find Princess Zelda where
+  Tulin said she'd be, you heard a disembodied
+  voice say, "Come to me." Inside the cloud, you
+  discovered a great ship, which looks just like
+  the one from the Song of the Stormwind Ark.
+  
+  Is this mysterious voice guiding Tulin <0 Type='3' Data='0000'/>into
+  the cloud<0 Type='3' Data='ffff'/>?
+Complete: |
+  Rito Village is no longer at the mercy of the
+  unusual blizzard.
+  
+  Tulin, who inherited a secret stone from the
+  ancient sage to become the new Sage<0 Type='3' Data='0000'/> <0 Type='3' Data='ffff'/>of Wind,
+  promised to lend you his power anytime.
+MountainHut: |
+  A severe blizzard has struck Rito Village, leaving
+  it in crisis. Teba had no information for you
+  concerning Princess Zelda, but he suggested
+  you ask Harth<0 Type='3' Data='0000'/> <0 Type='3' Data='ffff'/>at a nearby lodge.
+  
+  This lodge is north of the village at the foot of
+  the Hebra Mountains, and it's marked by a
+  <0 Type='3' Data='0000'/>pair of bonfires<0 Type='3' Data='ffff'/>.
+GoToHebra: |
+  Tulin's recent ordeal has taught him a valuable
+  lesson about working together. Even Harth can
+  see that the young Rito has matured.
+  
+  Go with Tulin to the <0 Type='3' Data='0000'/>sky islands<0 Type='3' Data='ffff'/> above Hebra
+  Peak, where he claims he saw Princess Zelda.
+DefeatBoss: |
+  When the deck hatch opened, a <0 Type='3' Data='0000'/>massive
+  monster <0 Type='3' Data='ffff'/>emerged. This must be the culprit
+  behind the fierce blizzard assailing Rito Village.
+  
+  Work with Tulin to vanquish the monster.

@@ -1,0 +1,25 @@
+Name: |
+  The Closed Door
+GoToLightSpotOfPurahPad: |
+  When you tried to open the door to the
+  Temple of Time, <0 Type='3' Data='0000'/>Rauru<0 Type='3' Data='ffff'/> appeared and said
+  he was the original owner of your new arm.
+  
+  He also said you need to revitalize the arm so
+  the power of its touch will open the door. To
+  do that, visit the island's <0 Type='3' Data='0000'/>shrines<0 Type='3' Data='ffff'/>. A green light
+  spirals above each of them.
+GoBackToTempleEntrance: |
+  Rauru appeared after you visited the three
+  shrines. He said that you've revitalized
+  enough power in your new arm to enter the
+  <0 Type='3' Data='0000'/>Temple of Time<0 Type='3' Data='ffff'/>.
+  
+  The door will now open at the touch of
+  your hand.
+Complete: |
+  After visiting the three shrines, you returned to
+  the Temple of Time. Its door opened to
+  your touch, no longer denying you entry.
+  Somehow, your new arm was truly revitalized
+  enough in those shrines.

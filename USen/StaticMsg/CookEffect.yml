@@ -1,0 +1,444 @@
+LifeMaxUp_Name_Masculine: |
+  Hearty 
+ExStaminaMaxUp_MedicineDesc: |
+  Restores stamina and temporarily extends
+  your Stamina Wheel. The additional stamina
+  will disappear as it's used.
+ResistCold_Name_Neuter: |
+  Spicy 
+ResistElectric_Name_Masculine: |
+  Electro 
+AttackUpHot_Name_Plural: |
+  Scorching 
+QuietnessUp_Desc_02: |
+  Grants a midlevel stealth boost.
+  
+DefenseUp_MedicineDesc: |
+  Grants a low-level toughness effect, which
+  fortifies your bones to strengthen your
+  defense. Best to use before facing off
+  against hard-hitting enemies.
+AttackUp_Name: |
+  Mighty 
+AttackUpCold_Desc: |
+  Grants a low-level attack enhancement in
+  cold places.
+  
+QuietnessUp_Desc_03: |
+  Grants a high-level stealth boost.
+  
+ResistElectric_Name_Plural: |
+  Electro 
+AllSpeed_MedicineDesc: |
+  Grants a low-level haste effect, which
+  boosts your movement speed while
+  running, swimming, or climbing.
+ResistCold_Desc: |
+  Grants low-level cold resistance.
+  
+ResistElectric_Desc: |
+  Grants low-level electricity resistance.
+  
+AttackUp_Name_Plural: |
+  Mighty 
+MiasmaGuard_Name_Masculine: |
+  Warding 
+ResistElectric_Desc_02: |
+  Grants midlevel electricity resistance.
+  
+ResistElectric_Desc_03: |
+  Grants high-level electricity resistance.
+  
+AttackUp_MedicineDesc: |
+  Grants a low-level might effect, which
+  strengthens your body and mind to boost
+  your attack power with all weapons.
+StaminaRecover_Name_Plural: |
+  Energizing 
+AttackUpThunderstorm_Name_Masculine: |
+  Stormy 
+SwimSpeedUp_Name: |
+  Rapid 
+AttackUpHot_Desc: |
+  Grants a low-level attack enhancement in
+  hot places.
+  
+ExStaminaMaxUp_Desc: |
+  Restores and overfills your Stamina Wheel.
+  
+QuietnessUp_Desc: |
+  Grants a low-level stealth boost.
+  
+ResistCold_MedicineDesc_02: |
+  Grants a high-level warming effect,
+  increasing your resistance to cold
+  environments. Very useful when exploring
+  snow-covered mountains.
+MiasmaGuard_Name_Plural: |
+  Warding 
+StaminaRecover_Name: |
+  Energizing 
+LifeMaxUp_Name_Feminine: |
+  Hearty 
+LightEmission_Name_Plural: |
+  Bright 
+AttackUp_MedicineDesc_02: |
+  Grants a midlevel might effect, which
+  strengthens your body and mind to boost
+  your attack power with all weapons.
+AllSpeed_Desc: |
+  Grants a low-level movement-speed boost.
+  
+AttackUp_MedicineDesc_03: |
+  Grants a high-level might effect, which
+  strengthens your body and mind to boost
+  your attack power with all weapons.
+AllSpeed_Name_Masculine: |
+  Hasty 
+AttackUpThunderstorm_Name_Neuter: |
+  Stormy 
+AttackUpHot_Name_Feminine: |
+  Scorching 
+DefenseUp_Name_Masculine: |
+  Tough 
+AttackUpCold_Desc_02: |
+  Grants a midlevel attack enhancement in
+  cold places.
+  
+AttackUpThunderstorm_Desc_02: |
+  Grants a midlevel attack enhancement during
+  thunderstorms.
+  
+QuietnessUp_MedicineDesc: |
+  Grants a low-level stealth effect, which
+  calms the nerves and silences footfalls.
+  Allows you to move about undetected by
+  monsters and animals.
+ResistCold_Desc_02: |
+  Grants midlevel cold resistance.
+  
+MiasmaGuard_Name: |
+  Warding 
+HeartRepair_Name_Neuter: |
+  Sunny 
+NotSlippy_Name_Feminine: |
+  Sticky 
+LifeMaxUp_Desc: |
+  Restores your health and temporarily
+  increases your maximum hearts.
+  
+AllSpeed_Name_Feminine: |
+  Hasty 
+LightEmission_Name_Masculine: |
+  Bright 
+ResistHot_MedicineDesc_02: |
+  Grants a high-level cooling effect, raising
+  your body's resistance to heat. Crucial for
+  long journeys through the desert.
+ResistHot_Desc: |
+  Grants low-level heat resistance.
+  
+AttackUpCold_Name: |
+  Biting 
+StaminaRecover_Name_Masculine: |
+  Energizing 
+SwimSpeedUp_Name_Neuter: |
+  Rapid 
+SwimSpeedUp_Name_Feminine: |
+  Rapid 
+AttackUpThunderstorm_Desc: |
+  Grants a low-level attack enhancement during
+  thunderstorms.
+  
+ResistHot_Name_Plural: |
+  Chilly 
+AllSpeed_Name_Neuter: |
+  Hasty 
+HeartRepair_Name_Masculine: |
+  Sunny 
+LightEmission_Desc_02: |
+  Grants a midlevel glow effect, illuminating
+  your immediate surroundings.
+  
+LightEmission_Desc_03: |
+  Grants a high-level glow effect, illuminating
+  your immediate surroundings.
+  
+ResistCold_Name: |
+  Spicy 
+ResistElectric_Name: |
+  Electro 
+AttackUpHot_Name: |
+  Scorching 
+ResistBurn_Name_Neuter: |
+  Fireproof 
+ExStaminaMaxUp_Name_Neuter: |
+  Enduring 
+QuietnessUp_Name: |
+  Sneaky 
+ResistCold_Name_Masculine: |
+  Spicy 
+AttackUpCold_Name_Plural: |
+  Biting 
+ExStaminaMaxUp_Name_Feminine: |
+  Enduring 
+LifeMaxUp_Name_Plural: |
+  Hearty 
+LightEmission_MedicineDesc_02: |
+  Grants a midlevel glow effect, illuminating
+  your immediate surroundings. This faint
+  luminescence is a boon in dark places.
+ResistBurn_Name: |
+  Fireproof 
+LifeMaxUp_MedicineDesc: |
+  Restores you to full health and increases
+  your maximum hearts. The additional hearts
+  are lost as you take damage.
+LightEmission_MedicineDesc_03: |
+  Grants a high-level glow effect, illuminating
+  your immediate surroundings. This faint
+  luminescence is a boon in dark places.
+AttackUpHot_Name_Neuter: |
+  Scorching 
+LightEmission_Desc: |
+  Grants a low-level glow effect, illuminating
+  your immediate surroundings.
+  
+ExStaminaMaxUp_Name: |
+  Enduring 
+ResistBurn_MedicineDesc_02: |
+  Grants a high-level fireproof effect, which
+  prevents your body from catching fire.
+  Be sure to pack this when venturing out
+  to explore caves in Death Mountain.
+ResistElectric_Name_Neuter: |
+  Electro 
+AttackUp_Name_Masculine: |
+  Mighty 
+QuietnessUp_Name_Plural: |
+  Sneaky 
+ResistBurn_Name_Feminine: |
+  Fireproof 
+NotSlippy_Name_Plural: |
+  Sticky 
+ResistHot_MedicineDesc: |
+  Grants a low-level cooling effect, raising
+  your body's resistance to heat. Crucial for
+  long journeys through the desert.
+AttackUp_Name_Neuter: |
+  Mighty 
+DefenseUp_Name_Feminine: |
+  Tough 
+QuietnessUp_Name_Masculine: |
+  Sneaky 
+AllSpeed_Name: |
+  Hasty 
+DefenseUp_Name_Plural: |
+  Tough 
+HeartRepair_Desc: |
+  Restores hearts damaged by gloom.
+  
+NotSlippy_Name: |
+  Sticky 
+ResistCold_Name_Feminine: |
+  Spicy 
+DefenseUp_Desc: |
+  Grants a low-level defense boost.
+  
+HeartRepair_Name_Feminine: |
+  Sunny 
+StaminaRecover_Name_Neuter: |
+  Energizing 
+ResistHot_Name_Masculine: |
+  Chilly 
+NotSlippy_MedicineDesc: |
+  Grants a low-level slip resistance to keep you
+  from slipping on wet surfaces. Its highly
+  absorptive ingredients make it a must-have
+  for sudden rainfalls.
+ResistBurn_MedicineDesc: |
+  Grants a fireproof effect, which prevents your
+  body from catching fire.
+  Be sure to pack this when venturing out
+  to explore caves in Death Mountain.
+ResistHot_Name_Feminine: |
+  Chilly 
+QuietnessUp_Name_Feminine: |
+  Sneaky 
+ResistBurn_Name_Masculine: |
+  Fireproof 
+MiasmaGuard_Name_Neuter: |
+  Warding 
+ResistCold_MedicineDesc: |
+  Grants a low-level warming effect, increasing
+  your resistance to cold environments. Very
+  useful when exploring snow-covered
+  mountains.
+LifeMaxUp_Name: |
+  Hearty 
+AllSpeed_MedicineDesc_02: |
+  Grants a midlevel haste effect, which
+  boosts your movement speed while
+  running, swimming, or climbing.
+AttackUpThunderstorm_Name_Feminine: |
+  Stormy 
+LightEmission_Name_Neuter: |
+  Bright 
+AllSpeed_MedicineDesc_03: |
+  Grants a high-level haste effect, which
+  boosts your movement speed while
+  running, swimming, or climbing.
+ResistHot_Name: |
+  Chilly 
+DefenseUp_Desc_02: |
+  Grants a midlevel defense boost.
+  
+ResistCold_Name_Plural: |
+  Spicy 
+AttackUpCold_Name_Feminine: |
+  Biting 
+DefenseUp_Desc_03: |
+  Grants a high-level defense boost.
+  
+SwimSpeedUp_Name_Masculine: |
+  Rapid 
+AttackUpHot_Name_Masculine: |
+  Scorching 
+AttackUpThunderstorm_Name: |
+  Stormy 
+AttackUp_Name_Feminine: |
+  Mighty 
+LightEmission_Name_Feminine: |
+  Bright 
+AllSpeed_Desc_02: |
+  Grants a midlevel movement-speed boost.
+  
+AllSpeed_Desc_03: |
+  Grants a high-level movement-speed boost.
+  
+AttackUp_Desc: |
+  Grants a low-level attack-power boost.
+  
+AttackUpThunderstorm_Name_Plural: |
+  Stormy 
+ResistElectric_MedicineDesc_02: |
+  Grants a midlevel resistance to electricity.
+  Useful against enemies with electrical
+  attacks.
+ResistHot_Name_Neuter: |
+  Chilly 
+ResistElectric_MedicineDesc_03: |
+  Grants a high-level resistance to electricity.
+  Useful against enemies with electrical
+  attacks.
+LightEmission_Name: |
+  Bright 
+MiasmaGuard_Name_Feminine: |
+  Warding 
+ResistHot_Desc_02: |
+  Grants high-level heat resistance.
+  
+HeartRepair_Name_Plural: |
+  Sunny 
+MiasmaGuard_Desc_02: |
+  Grants midlevel gloom protection.
+  
+MiasmaGuard_Desc_03: |
+  Grants high-level gloom protection.
+  
+StaminaRecover_MedicineDesc: |
+  Restores your stamina, which is used when
+  performing physical actions such as 
+  climbing walls or swimming.
+StaminaRecover_Name_Feminine: |
+  Energizing 
+StaminaRecover_Desc: |
+  Instantly refills some of your Stamina Wheel.
+  
+SwimSpeedUp_Desc: |
+  Grants a low-level swim-speed boost.
+  
+AttackUpCold_Name_Neuter: |
+  Biting 
+HeartRepair_Name: |
+  Sunny 
+LifeMaxUp_Name_Neuter: |
+  Hearty 
+SwimSpeedUp_Name_Plural: |
+  Rapid 
+ResistElectric_Name_Feminine: |
+  Electro 
+DefenseUp_Name: |
+  Tough 
+AllSpeed_Name_Plural: |
+  Hasty 
+AttackUpHot_Desc_02: |
+  Grants a midlevel attack enhancement in
+  hot places.
+  
+LightEmission_MedicineDesc: |
+  Grants a low-level glow effect, illuminating
+  your immediate surroundings. This faint
+  luminescence is a boon in dark places.
+ExStaminaMaxUp_Name_Masculine: |
+  Enduring 
+AttackUp_Desc_02: |
+  Grants a midlevel attack-power boost.
+  
+QuietnessUp_Name_Neuter: |
+  Sneaky 
+NotSlippy_Name_Neuter: |
+  Sticky 
+QuietnessUp_MedicineDesc_02: |
+  Grants a midlevel stealth effect, which
+  calms the nerves and silences footfalls.
+  Allows you to move about undetected by
+  monsters and animals.
+AttackUp_Desc_03: |
+  Grants a high-level attack-power boost.
+  
+ResistBurn_Name_Plural: |
+  Fireproof 
+NotSlippy_Name_Masculine: |
+  Sticky 
+QuietnessUp_MedicineDesc_03: |
+  Grants a high-level stealth effect, which
+  calms the nerves and silences footfalls.
+  Allows you to move about undetected by
+  monsters and animals.
+ExStaminaMaxUp_Name_Plural: |
+  Enduring 
+SwimSpeedUp_Desc_02: |
+  Grants a midlevel swim-speed boost.
+  
+NotSlippy_MedicineDesc_02: |
+  Grants a midlevel slip resistance to keep you
+  from slipping on wet surfaces. Its highly
+  absorptive ingredients make it a must-have
+  for sudden rainfalls.
+AttackUpCold_Name_Masculine: |
+  Biting 
+DefenseUp_Name_Neuter: |
+  Tough 
+DefenseUp_MedicineDesc_02: |
+  Grants a midlevel toughness effect, which
+  fortifies your bones to strengthen your
+  defense. Best to use before facing off
+  against hard-hitting enemies.
+NotSlippy_MedicineDesc_03: |
+  Grants a high-level slip resistance to keep
+  you from slipping on wet surfaces. Its highly
+  absorptive ingredients make it a must-have
+  for sudden rainfalls.
+MiasmaGuard_Desc: |
+  Grants low-level gloom protection.
+  
+ResistElectric_MedicineDesc: |
+  Grants a low-level resistance to electricity.
+  Useful against enemies with electrical
+  attacks.
+DefenseUp_MedicineDesc_03: |
+  Grants a high-level toughness effect, which
+  fortifies your bones to strengthen your
+  defense. Best to use before facing off
+  against hard-hitting enemies.

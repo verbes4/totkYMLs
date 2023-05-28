@@ -1,0 +1,35 @@
+Name: |
+  True Treasure
+Step1: |
+  You found Sasan when you entered the cave
+  at Tarm Point. It seems Finley ventured deeper
+  into the cave without waiting for him.
+  
+  Sasan needs to board a <0 Type='3' Data='0000'/>raft <0 Type='3' Data='ffff'/>to catch up to her,
+  but he can't make it far with the water level
+  rising and falling. He's not sure what to do...
+Step0: |
+  Kodah at the inn came across the following
+  passage from an ancient text: "<0 Type='3' Data='0000'/>Long, long ago,
+  at Tarm Point, a blessed stone was hidden
+  away within a sacred shrine.<0 Type='3' Data='ffff'/>"
+  
+  Kodah's daughter, Finley, believes there must
+  be treasure there, and so she and Sasan set off
+  for Tarm Point. Does treasure await them?
+GetPrize: |
+  You let Sasan board the raft in the cave at
+  Tarm Point and delivered him safely to Finley,
+  who was waiting for him farther inside.
+  
+  They want to give you a gift in thanks. Call on
+  them again after you <0 Type='3' Data='0000'/>organize your belongings<0 Type='3' Data='ffff'/>.
+Complete: |
+  You let Sasan board the raft in the cave at
+  Tarm Point and delivered him safely to Finley,
+  who was waiting for him farther inside.
+  
+  They didn't find the treasure they expected at
+  the Shrine deep within the cave, but in the end,
+  the memories they made together are more
+  precious a treasure than any.

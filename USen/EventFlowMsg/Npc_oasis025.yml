@@ -1,0 +1,161 @@
+Talk_43: |
+  <4 Type='0' Data='080057006f0072006b00'/>Do you want to recall the deployed
+  soldiers?
+Talk_44: |
+  <3 Type='0' Data='0900'/><4 Type='0' Data='080057006f0072006b00'/>We Gerudo will protect Lady Riju to our
+  last breath. You focus on those enemies!
+Talk_45: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Pairing the spear troops, with their
+  lightning weapons, and the barricade's
+  iron barrels...
+  I see! <5 Type='0'/>That way they can effectively
+  defend the area with <0 Type='3' Data='0000'/>serious electric
+  shocks<0 Type='3' Data='ffff'/>!
+Talk_46: |
+  <3 Type='0' Data='0900'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003100'/>A thief! You couldn't have shown up at
+  a worse time...<5 Type='1'/> No matter. We will keep
+  Lady Riju safe!
+  Once we're done with the Gibdos, you'll
+  be next, Yiga! You better prepare yourself!
+Talk_21: |
+  <3 Type='0' Data='0200'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hives of monsters have appeared outside
+  the town walls. It won't be long before
+  we'll need to deal with this threat.
+  How should we deploy our forces?
+  Who should we send and where...
+  
+  We could spread them out to lightly cover
+  all the gates. Or maybe a concentrated
+  force to protect a weakened position?
+Talk_22: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>We need to decide who to send where.
+  I'd like to hear your thoughts.
+TerrorExplosion: |
+  A trespasser?!
+Talk_23: |
+  <3 Type='0' Data='0700'/>Where should we deploy them?
+TerrorSword: |
+  Think you can beat me?
+Talk_24: |
+  <3 Type='0' Data='0700'/>I have the <0 Type='3' Data='0000'/>spear troops<0 Type='3' Data='ffff'/> standing by at the
+  <0 Type='3' Data='0000'/>north gate<0 Type='3' Data='ffff'/> right now. <5 Type='0'/>Where do you want
+  to redeploy them to?
+Talk_25: |
+  <3 Type='0' Data='0700'/>I have the <0 Type='3' Data='0000'/>spear troops<0 Type='3' Data='ffff'/> standing by at the
+  <0 Type='3' Data='0000'/>east gate<0 Type='3' Data='ffff'/> right now. <5 Type='0'/>Where do you want
+  to redeploy them to?
+Talk_26: |
+  <3 Type='0' Data='0700'/>I have the <0 Type='3' Data='0000'/>spear troops<0 Type='3' Data='ffff'/> standing by at the
+  <0 Type='3' Data='0000'/>west gate<0 Type='3' Data='ffff'/> right now. <5 Type='0'/>Where do you want
+  to redeploy them to?
+Talk_27: |
+  <3 Type='0' Data='0700'/>I have the <0 Type='3' Data='0000'/>sword troops<0 Type='3' Data='ffff'/> standing by at the
+  <0 Type='3' Data='0000'/>north gate<0 Type='3' Data='ffff'/> right now. <5 Type='0'/>Where do you want
+  to redeploy them to?
+Talk_28: |
+  <3 Type='0' Data='0700'/>I have the <0 Type='3' Data='0000'/>sword troops <0 Type='3' Data='ffff'/>standing by at the
+  <0 Type='3' Data='0000'/>east gate<0 Type='3' Data='ffff'/> right now. <5 Type='0'/>Where do you want
+  to redeploy them to?
+TerrorFire: |
+  Ah! Put that fire out!
+Near_01: |
+  Hm... Where to deploy...
+Talk_29: |
+  <3 Type='0' Data='0700'/>I have the <0 Type='3' Data='0000'/>sword troops<0 Type='3' Data='ffff'/> standing by at the
+  <0 Type='3' Data='0000'/>west gate<0 Type='3' Data='ffff'/> right now. <5 Type='0'/>Where do you want
+  to redeploy them to?
+Near_02: |
+  Kara Kara Bazaar is...
+Talk_30: |
+  <3 Type='0' Data='0700'/>The <0 Type='3' Data='0000'/>cannoneer<0 Type='3' Data='ffff'/> is deployed at the <0 Type='3' Data='0000'/>north
+  gate<0 Type='3' Data='ffff'/> right now. <5 Type='0'/>Where do you want
+  to redeploy them to?
+0002: |
+  The spear troops...
+Talk_31: |
+  <3 Type='0' Data='0700'/>The <0 Type='3' Data='0000'/>cannoneer<0 Type='3' Data='ffff'/> is deployed at the <0 Type='3' Data='0000'/>east
+  gate<0 Type='3' Data='ffff'/> right now. <5 Type='0'/>Where do you want
+  to redeploy them to?
+Near_03: |
+  It's getting back to normal.
+0003: |
+  The sword troops...
+Talk_32: |
+  <3 Type='0' Data='0700'/>The <0 Type='3' Data='0000'/>cannoneer<0 Type='3' Data='ffff'/> is deployed at the <0 Type='3' Data='0000'/>west
+  gate<0 Type='3' Data='ffff'/> right now. <5 Type='0'/>Where do you want
+  to redeploy them to?
+0004: |
+  The cannoneer...
+Talk_33: |
+  <3 Type='0' Data='0900'/><4 Type='0' Data='080057006f0072006b00'/>I will defend this spot with my life while
+  you strike at the enemy hives!
+0005: |
+  Up to you!
+0006: |
+  The north gate!
+Talk_35: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a0048006100700070007900'/>Understood.<5 Type='0'/> They will defend the
+  <0 Type='3' Data='0000'/>north gate<0 Type='3' Data='ffff'/>.
+0007: |
+  The east gate!
+Talk_36: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a0048006100700070007900'/>Understood.<5 Type='0'/> They will defend the
+  <0 Type='3' Data='0000'/>east gate<0 Type='3' Data='ffff'/>.
+TerrorArrow: |
+  You can't be serious...
+0008: |
+  The west gate!
+Talk_37: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a0048006100700070007900'/>Understood.<5 Type='0'/> They will defend the
+  <0 Type='3' Data='0000'/>west gate<0 Type='3' Data='ffff'/>.
+0009: |
+  Hold this position.
+Talk_38: |
+  <3 Type='0' Data='0700'/>Everyone in town is grateful for your help
+  putting things right here. Sarqso.
+  
+  You know, we'd previously shut down our
+  training area due to the sand shroud...
+  Sudrey was thrilled when we reopened it.
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a0048006100700070007900'/>I'm sure she'd welcome you there if you
+  decided to drop by!
+  
+  The training area is out near the
+  <0 Type='3' Data='0000'/>Southern Oasis<0 Type='3' Data='ffff'/>.
+  
+  <3 Type='0' Data='0700'/>If you're heading there, I'd suggest going
+  out through the <0 Type='3' Data='0000'/>east gate<0 Type='3' Data='ffff'/>. You can also
+  ask the <0 Type='3' Data='0000'/>gatekeeper <0 Type='3' Data='ffff'/>for help.
+0010: |
+  Return to the yard.
+Talk_39: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='08004500610073006500'/>Phew...<5 Type='1'/> That was a tough battle, but
+  we still managed to make it through.
+  
+  I've never seen Gibdos work together
+  in such a coordinated way.<5 Type='0'/> It was almost
+  like someone was giving them orders.
+  ...Is that even possible? Could they have
+  a leader?
+0011: |
+  Make no changes.
+AssassinClothes: |
+  Is that...
+Talk_40: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='10004700720065006500740069006e006700'/>I doubt this will be the end of things.<5 Type='0'/>
+  We cannot let our guards down just yet.
+ThunderHelmet: |
+  That helm... It can't be.
+Talk_41: |
+  <3 Type='0' Data='0700'/>Unless you have any specific requests,
+  my plan is to divide our forces between
+  each gate.
+0012: |
+  Recall them.
+Talk_42: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>If you change your mind, please let
+  me know.
+0013: |
+  They're fine.
+TerrorBomb: |
+  What the?!

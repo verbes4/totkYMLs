@@ -1,0 +1,249 @@
+Talk_0501: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003000'/>Whoa! Those are my <0 Type='3' Data='0000'/>white goats<0 Type='3' Data='ffff'/>!<5 Type='1'/> So this
+  is where they ran off to...
+Talk_0522_02: |
+  <3 Type='0' Data='0800'/>A perfect investigation with a happy
+  ending!<5 Type='1'/> And all without me even knowing!
+  <5 Type='1'/>I'd expect nothing less from you.
+Talk_0009: |
+  <3 Type='0' Data='0700'/>Hey, buddy... Have you seen some <0 Type='3' Data='0000'/>white
+  goats<0 Type='3' Data='ffff'/> around here?
+  
+  I'd given those goats all the love and care
+  in the world, but the other day, they ran
+  off together.
+  <3 Type='0' Data='0a00'/>They didn't even finish all their food
+  before they left—the <0 Type='3' Data='0000'/>Hylian pine cones<0 Type='3' Data='ffff'/>
+  weren't eaten!
+  <FontSize Value='80'/>I followed Princess Zelda's recipe perfectly... But
+  could it have been the feed that drove them off?<FontSize Value='100'/>
+Talk_0502: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='08004500610073006500'/>There, there...<5 Type='1'/> I'm just so glad to see you!
+  Are you all OK?
+Talk_0010: |
+  <3 Type='0' Data='0a00'/>My poor white goats... Where did you run
+  off to?
+  
+  And why didn't you finish all your food
+  from that great recipe? The <0 Type='3' Data='0000'/>Hylian pine
+  cones <0 Type='3' Data='ffff'/>weren't even touched...
+Talk_0503: |
+  <3 Type='0' Data='0801'/>And you're the one who found them?<5 Type='0'/>
+  Thank you! I won't forget this!
+Talk_0011: |
+  <3 Type='0' Data='0700'/>Yeah! <0 Type='3' Data='0000'/>Princess Zelda <0 Type='3' Data='ffff'/>shared a recipe
+  when she visited the stable a while back.
+  
+  <3 Type='0' Data='0000'/>It's really amazing how much she knows
+  about animals. I never would've expected
+  her to be developing healthy feed recipes!
+  In this case, it's a recipe for a special
+  kind of feed for white goats. The main
+  ingredient is fresh <0 Type='3' Data='0000'/>Hylian pine cones<0 Type='3' Data='ffff'/>.
+  <3 Type='0' Data='0800'/>It's actually pretty unusual—it requires
+  you to mix the pine cones in whole. You
+  don't grind them down or anything!
+Talk_0504: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>This bottle... <5 Type='1'/>This is what I was using to
+  keep Princess Zelda's recipe safe!
+  
+  Let me see it—<5 Type='1'/>I need to check the recipe.
+Near_0002: |
+  Are there other clues?
+Talk_0012: |
+  <3 Type='0' Data='0c00'/>I just can't believe that someone like
+  Princess Zelda would make a feed that
+  the <0 Type='3' Data='0000'/>white goats<0 Type='3' Data='ffff'/> would hate so much.
+  <3 Type='0' Data='0a01'/>What could have caused them to run away
+  like that?
+Talk_0505: |
+  <3 Type='0' Data='0c00'/>Mm-hmm. Yes...yes...<0 Type='4'/><FontSize Value='125'/><3 Type='0' Data='0400'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003100'/>Wait!<5 Type='1'/> Oh...no!<FontSize Value='100'/>
+Talk_0506: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='1200530075007200700072006900730065005300'/>"Grind the pine cones into a powder."<5 Type='1'/>
+  I'm not supposed to use the <0 Type='3' Data='0000'/>Hylian
+  pine cone<0 Type='3' Data='ffff'/> whole?!
+  <3 Type='0' Data='0a01'/>I should have known something was off.
+  It did look really hard to eat...
+Talk_0507: |
+  My poor, sweet goats! They must have
+  run off because of the awful food I was
+  making them eat...
+Talk_0508: |
+  <3 Type='0' Data='0a00'/>I'm so sorry. <5 Type='0'/>I hurt you all when I thought
+  I was helping!
+  
+  It was my fault all along.<5 Type='0'/> I would have run
+  away too.
+Talk_0509: |
+  <3 Type='0' Data='0a01'/>I can't believe I doubted the recipe that
+  Princess Zelda shared with me...
+Talk_0510: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>I swear that from now on, I will take care
+  of you all with the same kindness and
+  compassion that Princess Zelda displays.
+  That's the best way to show my gratitude
+  for her sharing the recipe with me.
+Near_Ready_1001: |
+  I smell a story...
+Talk_0018: |
+  <3 Type='0' Data='0700'/>If you still haven't talked to the stable
+  hand Chork, go and talk to him now!
+  
+  <3 Type='0' Data='0801'/>We've got to solve this mystery!
+Talk_0511: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Oh, and I really, really can't thank you
+  enough for finding my white goats. And
+  the recipe!
+  <3 Type='0' Data='0000'/>We're going to head back to the stable.<5 Type='1'/>
+  You take care!
+Near_Report_1021: |
+  <3 Type='0' Data='0800'/>You saved me from a serious problem.<5 Type='0'/>
+  I can't even find the words to thank you.
+  
+  From now on, my wonderful <0 Type='3' Data='0000'/>white goats<0 Type='3' Data='ffff'/>
+  eat only the best <0 Type='3' Data='0000'/>feed<0 Type='3' Data='ffff'/>. For sure this time!
+Near_Report_1022: |
+  <3 Type='0' Data='0301'/>I'll never doubt <0 Type='3' Data='0000'/>Princess Zelda<0 Type='3' Data='ffff'/> again.
+  It was awful for me to think she'd harm
+  my goats in the first place!
+  <3 Type='0' Data='0700'/>Amazing what panic and worry can do to
+  you. But I'm past it now!
+  
+  I hope I see <0 Type='3' Data='0000'/>Princess<0 Type='3' Data='ffff'/> <0 Type='3' Data='0000'/>Zelda <0 Type='3' Data='ffff'/>in the future.
+  I feel like I need to thank her all over
+  again for giving me this recipe.
+Near_Search_1001: |
+  Where'd the recipe go?
+Talk_0024: |
+  <3 Type='0' Data='0800'/>Keep up the hard work, partner!<5 Type='1'/> The
+  answer to this mystery is close! I can
+  feel it!
+Near_Hearing_1002: |
+  Why'd they run away?
+Talk_0509_01: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>I should have noticed my mistake right
+  away.<5 Type='0'/> After all, I really do want to take
+  the best possible care of the goats...
+  But it's not just about what kind of food
+  you feed them, right? It's important to
+  show them you care with all your heart!
+Talk_0521: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='10004700720065006500740069006e006700'/>I saw everything, partner!
+Talk_0011_01: |
+  <3 Type='0' Data='0000'/>I didn't want my wonderful white goats to
+  eat the recipe the princess gave me, so I
+  put it in a glass bottle...
+  <3 Type='0' Data='0700'/>But a big storm came through one day,
+  and it blew the bottle off somewhere.
+  
+  I wasn't able to find it after that, so I've
+  been making the recipe from memory
+  since then.
+  <3 Type='0' Data='0c00'/>But what would make my <0 Type='3' Data='0000'/>white goats<0 Type='3' Data='ffff'/> spit
+  up the <0 Type='3' Data='0000'/>Hylian pine cones<0 Type='3' Data='ffff'/> and run off
+  like that?
+  Did they... Did they really hate Princess
+  Zelda's recipe that much?
+Talk_0001: |
+  <3 Type='0' Data='0c00'/>Hm. <5 Type='0'/>Hardly a trace of a <0 Type='3' Data='0000'/>recipe <0 Type='3' Data='ffff'/>remains...<5 Type='1'/>
+  Just the remnants of half-eaten <0 Type='3' Data='0000'/>Hylian
+  pine cones<0 Type='3' Data='ffff'/>...
+0007: |
+  Recipe?
+Talk_0523: |
+  <3 Type='0' Data='0c01'/>Hmmm. Do you think it's a coincidence
+  that the missing white goats and the lost
+  recipe were in the same place?
+  I have another theory...<0 Type='4'/><3 Type='0' Data='0700'/><4 Type='0' Data='0c004c0061007500670068005300'/>Maybe the white goats set out to find the
+  bottle themselves because they couldn't
+  stand to eat the wrong recipe anymore.
+  I don't think that's the case,<5 Type='0'/> but it does
+  make you wonder, doesn't it?
+Talk_0002: |
+  <3 Type='0' Data='0b00'/>Hey, partner! You're looking good!
+  Were you also pulled to this place by
+  the inescapable tug of a story?
+  <3 Type='0' Data='0701'/>I'm chasing some new chirps and warbles
+  from my beloved little birds.
+0008: |
+  Goodbye.
+Talk_0524: |
+  <3 Type='0' Data='0701'/>All right! I'm gonna hurry back to HQ and
+  bring word of this story's conclusion to
+  our readers!
+  See ya later, partner! I look forward to
+  chasing another big scoop with you!
+Talk_0003: |
+  <3 Type='0' Data='0701'/>A group of goats is a herd, or a trip, or a
+  tribe... <5 Type='0'/>Anyway, this stable has been
+  raising a small herd of <0 Type='3' Data='0000'/>white goats<0 Type='3' Data='ffff'/>.
+  Or it was until all those <0 Type='3' Data='0000'/>white goats<0 Type='3' Data='ffff'/> up
+  and vanished all of a sudden.
+  
+  <3 Type='0' Data='0c00'/>That's not where it stops though. Some
+  have said that Princess Zelda may also
+  be involved...
+Talk_0005_01: |
+  <3 Type='0' Data='0c00'/>So the white goats were being given a
+  feed that Princess Zelda created the
+  recipe for...
+  It's hard to believe that Princess Zelda
+  would teach anyone a nonsense recipe.
+  That doesn't seem like her at all...
+  <3 Type='0' Data='0701'/>Maybe you can learn more about the <0 Type='3' Data='0000'/>feed
+  recipe<0 Type='3' Data='ffff'/> from <0 Type='3' Data='0000'/>Chork<0 Type='3' Data='ffff'/>?
+  
+  I'm going to poke around and see if I can
+  turn up any other information.
+Talk_0032: |
+  <3 Type='0' Data='0700'/>Hey, partner! <5 Type='0'/>I love that you've got the
+  energy to search for a scoop this early!<5 Type='1'/>
+  How's it going? You find any leads?
+Talk_0525: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0e0047006f006f006400620079006500'/><FontSize Value='125'/>Soar long!<FontSize Value='100'/>
+Talk_0004: |
+  <3 Type='0' Data='0701'/>Anyway. Why don't you talk with <0 Type='3' Data='0000'/>Chork<0 Type='3' Data='ffff'/>,
+  the <0 Type='3' Data='0000'/>guy who was taking care of the
+  white goats<0 Type='3' Data='ffff'/>. I'll look for more clues.
+Talk_0005_02: |
+  <3 Type='0' Data='0c00'/>Chork says the bottle that he kept
+  Princess Zelda's <0 Type='3' Data='0000'/>recipe <0 Type='3' Data='ffff'/>in was <0 Type='3' Data='0000'/>blown
+  off somewhere by the wind<0 Type='3' Data='ffff'/>...
+  <3 Type='0' Data='0c01'/>As a result, the feed he's been giving to
+  his white goats was made from what he
+  could remember of the recipe.
+  I can't believe that Princess Zelda would
+  teach anyone a nonsense recipe. That
+  doesn't seem like her at all...
+  It's important that we find these
+  white goats...<0 Type='4'/><3 Type='0' Data='0700'/>But I think we should also find the <0 Type='3' Data='0000'/>recipe<0 Type='3' Data='ffff'/>.
+  That might shine some light on what
+  exactly Princess Zelda was up to.
+  I'm going to poke around and see if I can
+  turn up any other information.
+Talk_0033: |
+  <3 Type='0' Data='0700'/>Hey, partner! How's it going? You find
+  any leads?
+Talk_0005: |
+  <3 Type='0' Data='0c01'/>It looks like you caught up with the <0 Type='3' Data='0000'/>stable
+  hand<0 Type='3' Data='ffff'/> <0 Type='3' Data='0000'/>Chork<0 Type='3' Data='ffff'/> about what happened...
+Talk_0034: |
+  <3 Type='0' Data='0700'/>Hey, partner! <5 Type='0'/>You're still tracking down
+  leads this late? Impressive!<5 Type='1'/> How's it
+  going? You find anything?
+Talk_0006: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Partner, time for you to get to work!<5 Type='1'/>
+  There's a big scoop here, I can feel it!
+Talk_0035: |
+  <3 Type='0' Data='0700'/>Hey, partner! <5 Type='0'/>The rain has a nasty habit of
+  washing away clues...<5 Type='1'/> How's your search
+  going? You find any leads?
+Talk_0007: |
+  <3 Type='0' Data='0701'/><0 Type='3' Data='0000'/><4 Type='0' Data='0a005400680069006e006b00'/><0 Type='3' Data='ffff'/>Where have the <0 Type='3' Data='0000'/>white goats <0 Type='3' Data='ffff'/>gone?<5 Type='1'/>
+  Why did they escape in the first place?<5 Type='1'/>
+  And how is <0 Type='3' Data='0000'/>Princess Zelda <0 Type='3' Data='ffff'/>involved?<5 Type='0'/>
+  <3 Type='0' Data='0801'/>The more mysteries there are, the brighter
+  a reporter's spirit burns!
+Talk_0522_01: |
+  <3 Type='0' Data='0800'/>A perfect investigation with a happy
+  ending! <5 Type='1'/>I'd expect nothing less from you.

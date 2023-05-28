@@ -1,0 +1,324 @@
+Searching_Victim1_02: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='12004c0061007500670068004c005f0030003100'/><FontSize Value='125'/>AHHH!<0 Type='4'/><FontSize Value='100'/>Now that's refreshin'! Never in my life
+  have I been so grateful for splash fruit!<0 Type='4'/>I think that now... <5 Type='1'/>Yep! Yep! My limbs
+  work again! I'd better go and meet up
+  with my friends, eh?
+  <3 Type='0' Data='0701'/>Thanks for the save, pal!
+Talk_Ready_11_Client: |
+  <3 Type='0' Data='0a00'/>We got separated from three of our
+  friends on the road in Gerudo Canyon.<0 Type='4'/>One of them has come back, but the other
+  two are still out there somewhere.<0 Type='4'/>The longer they're gone, the more worried
+  I get. What if they're lost? Or hurt?
+Searching_Victim1_03: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0c005300610064005f0030003100'/>No worries, pal... Ugh... There's not a
+  river nearby, is there?
+Searching_Victim1_04: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>You...bring me a splash fruit?
+Rescued_Victim1_Morning: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Good mornin'.<0 Type='4'/><3 Type='0' Data='0401'/><FontSize Value='125'/>Wait a sec! I know you!<FontSize Value='100'/>
+Rescued_Victim3_00: |
+  <3 Type='0' Data='0800'/>I've gotta thank you for your help back
+  in the canyon. That spicy pepper warmed
+  my heart and my everything else!
+  I owe you one, really. I'll never forget
+  what you did for me.
+Balloon_Ready_00_Client: |
+  I hope they're OK.
+Talk_Report_01_Client_Unknown_00: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0a0048006100700070007900'/>Oh my! You wouldn't happen to be...<5 Type='1'/>
+Rescued_Victim3_01: |
+  <3 Type='0' Data='0700'/>I promise, if I ever see a traveler in need,
+  I'll help them like you helped me.
+Talk_Report_01_Client_Unknown_01: |
+  <3 Type='0' Data='0800'/>I lost sight of my friends during our
+  travels, but thanks to you, all three of
+  them have made it back safely!
+  Thank you, truly. This is a token of my
+  appreciation. Please take it!
+Talk_Report_01_Client_Unknown_02: |
+  <4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>Oooh! I recognize you! You're the traveler
+  who rescued everyone, aren't you?
+Rescued_Victim3_aboutVictim1_2: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0a005400680069006e006b00'/>Which reminds me...old Giro and our
+  bodyguard Botrick still haven't come
+  back. They might be in trouble.
+  Giro was grousing an awful lot about
+  the heat. Maybe he went to cool off by
+  the river?
+  And Botrick scares so easily, I wouldn't
+  be surprised if he skittered into a cave at
+  the first sign of a monster.
+  I hope they're OK.
+Talk_Ready_00_Client: |
+  <3 Type='0' Data='0b01'/><FontSize Value='125'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>HEEEY!<FontSize Value='100'/>
+Rescued_Victim1_Midnight: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0e0045006100730065005f0030003100'/>Ngh... Who goes there?<0 Type='4'/><3 Type='0' Data='0401'/><FontSize Value='125'/>Hey! I know you!<FontSize Value='100'/>
+Talk_Ready_00_Client_00: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='0c004e006f007400690063006500'/>Oh, hello there.
+Talk_Report_00_Client_00: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0a0048006100700070007900'/>There you are!
+Talk_Report_01_Client_RePresent_00: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>Did you make some space in your pouch?
+Talk_Step_Common_Assistant_Day: |
+  <3 Type='0' Data='0700'/>I don't need to tell you how sweltering
+  Gerudo Canyon can get.<0 Type='4'/>I'm sure they're just resting in a nice, cool
+  cave along the road somewhere. They'll
+  come back. You'll see.
+Talk_Report_00_Client_01: |
+  <3 Type='0' Data='0b00'/>Oh! It's you!
+Talk_Report_01_Client_RePresent_01: |
+  <3 Type='0' Data='0700'/>There you are. Quince is waiting for you.
+Rescued_Victim1_Noon: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>Hey there! I was hopin' I'd see you again
+  sooner or later.
+Rescued_Victim2_Evening: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Hey, it's you from before! It's so dark,
+  I almost didn't recognize you.
+Talk_Report_00_Client_02: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Oy! Everyone gather around!
+Talk_Report_01_Client_RePresent_02: |
+  <4 Type='0' Data='12004c00610075006700680053005f0030003000'/>Here you go, then! A little thank-you for
+  helping out my friends.
+Talk_Step_00_Client_00: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0c005300610064005f0030003100'/>I understand your concern, Quince.<5 Type='1'/>
+  Really I do.
+  
+  But what if we went searching for them
+  and they came back while we were gone?
+  They'd think we abandoned them.
+  Best for us to be patient and wait here.
+  As difficult as that might be.
+Talk_Step_Common_Client: |
+  <3 Type='0' Data='0501'/><4 Type='0' Data='0a005400680069006e006b00'/>If you're heading to Gerudo Canyon, then
+  all I can say is be careful.
+Rescued_Victim2_00: |
+  <3 Type='0' Data='0700'/>I owe you an apology for having to save a
+  professional bodyguard from monsters.<0 Type='4'/>You haven't mentioned that to the
+  others, have you? I wouldn't want them
+  rethinking their decision to hire me.
+Talk_Ready_05_Client: |
+  <3 Type='0' Data='0a00'/>I hope you're right.
+Rescued_Victim1_about: |
+  Anyhoo!
+Rescued_Victim2_01: |
+  <3 Type='0' Data='0700'/>If my friends ask, say I was looking out for
+  them like a real bodyguard. Oh, and that I
+  looked cool fighting the monsters!
+Talk_Step_10_Client: |
+  <3 Type='0' Data='0a00'/>Two of our friends still haven't come back.<5 Type='1'/>
+  It's horrible just standing here, not
+  knowing if they're all right.
+Talk_Report_00_Client: |
+  <3 Type='0' Data='0800'/>All three of our friends came back! That
+  was your doing, wasn't it?<0 Type='4'/>Thank you very, very, very much. Here's a
+  little something for you. Don't be modest!
+  You deserve it!
+Rescued_Victim2_Noon: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Hey, it's you from before! You look busy,
+  so I won't take up too much of your time.
+Balloon_Searching_Victim2_00: |
+  AAAH!
+Talk_Ready_03_Client: |
+  <3 Type='0' Data='0700'/>Nenea and I lost sight of three of our
+  friends on the road in Gerudo Canyon.<0 Type='4'/>We had agreed to meet here if we got
+  separated, but there's still no sign
+  of them.
+  The longer they're gone, the more worried
+  I get. What if they're lost? Or hurt?
+Rescued_Victim2_aboutVictim1_3: |
+  <3 Type='0' Data='0c00'/>On that note...it's odd that Giro and Garill
+  still haven't come back.<0 Type='4'/>Giro has a real weakness for fish.
+  I wouldn't be surprised if he headed
+  toward the river.
+  As for Garill, he's an energetic guy and
+  likes to admire the scenery. He might've
+  raced down the path to get a good view.<0 Type='4'/>I'd search for them myself, but I'm still a
+  little shaken up...
+Searching_Victim3_00: |
+  <3 Type='0' Data='0a00'/>Ugh... <5 Type='1'/>Can you help me?<0 Type='4'/>I was traveling through here with my
+  friends, but I got too excited and split off
+  from the group.
+  <3 Type='0' Data='0300'/>Before I could find them, night fell and
+  the chill set in... I got so cold, my joints
+  froze up.
+  <5 Type='1'/>I can hardly move, let alone walk all the
+  way to where my friends are.<0 Type='4'/><3 Type='0' Data='0700'/><4 Type='0' Data='0a005400680069006e006b00'/>I think a <0 Type='3' Data='0000'/>spicy pepper <0 Type='3' Data='ffff'/>is just about the
+  only thing that'll warm me up...
+Talk_Ready_21_Client: |
+  <3 Type='0' Data='0a00'/>We got separated from three of our
+  friends on the road in Gerudo Canyon.<0 Type='4'/>Two of them have come back, but the
+  other one is still out there somewhere.<0 Type='4'/>The more time passes, the more worried
+  I get. What if something happened?
+Searching_Victim3_02: |
+  <3 Type='0' Data='0a00'/>Not even one?<0 Type='4'/>Uh, that's OK... I just wish I'd thought to
+  bring some <0 Type='3' Data='0000'/>spicy pepper<0 Type='3' Data='ffff'/>. Then I could
+  cook one to warm me up.
+Talk_Report_01_Client_MaxPouch: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='0c004e006f007400690063006500'/>Hm. <5 Type='1'/>I wanted to give you these 10 bomb
+  flowers, but it looks like there's no room
+  in your pouch.
+  Why don't you make some space and
+  come back? I'll be here!
+Rescued_Victim1_00: |
+  <3 Type='0' Data='0800'/>You're the only reason I made it outta
+  Gerudo Canyon alive.<0 Type='4'/>I thank my lucky stars for you and that
+  refreshing splash fruit.<0 Type='4'/>Really, ya saved my skin!
+Rescued_Victim1_aboutVictim2_3: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0600530061006400'/>I see Botrick and Garill still haven't
+  come back.<0 Type='4'/>Botrick may be a bodyguard by vocation,
+  but he's a timid sort. I betcha he's hidin'
+  out in a cave somewhere.
+  As for Garill, he's a romantic at heart.
+  He might have gone someplace high up to
+  get a good view of the canyon.
+  <3 Type='0' Data='0c01'/>Then again, Garill's a seasoned traveler.
+  He would have known not to stray from
+  the road.
+  Anyway, I worry for both of those guys.
+Rescued_Victim2_Morning: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Hey, it's you from before! Have you been
+  walking around all morning?
+Rescued_Victim2_aboutVictim1: |
+  <3 Type='0' Data='0c00'/>On that note...it's odd that Giro still
+  hasn't come back.<0 Type='4'/>The man has a real weakness for fish.
+  I wouldn't be surprised if he headed
+  toward the river.<0 Type='4'/>I'd search for him myself, but I'm still a
+  little shaken up about those monsters...
+Searching_Victim3_04: |
+  <3 Type='0' Data='0b00'/>Ah, how kind of you! You're warming
+  my heart.<0 Type='4'/><3 Type='0' Data='0100'/>Now to warm the rest of me! Let's cook!
+Rescued_Victim1_01: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='0a005400680069006e006b00'/>If I ever go back to Gerudo Canyon, I'll
+  make sure to fill up my satchel with plenty
+  of splash fruit.
+  I tell ya, I got so thirsty back there, I just
+  about started drinkin' sand.
+Rescued_Victim1_aboutVictim2: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0600530061006400'/>I see my friend Botrick still hasn't
+  come back.<0 Type='4'/>Botrick may be a bodyguard by vocation,
+  but he's a timid sort. I betcha he's hidin'
+  out in a cave somewhere.
+  Poor guy... I'm worried for him.
+Searching_Victim3_05: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0a005400680069006e006b00'/>Hey, you're back.<0 Type='4'/>I'm still stuck here... Since that night out
+  in the cold, I can hardly turn my neck,
+  let alone get up and walk.
+  I think a <0 Type='3' Data='0000'/>spicy pepper <0 Type='3' Data='ffff'/>is just about the
+  only thing that'll warm me up...
+Rescued_Victim1_aboutVictim3: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0600530061006400'/>I see my friend Garill still hasn't
+  come back.<0 Type='4'/>He's a romantic at heart, so he might
+  have gone someplace high up to get a
+  good view of the canyon.
+  <3 Type='0' Data='0c01'/>Then again, he's a seasoned traveler.
+  He would have known not to stray from
+  the road.<0 Type='4'/>At any rate, I worry for the guy.
+Rescued_Victim2_aboutVictim3: |
+  <3 Type='0' Data='0c00'/>On that note...it's odd that Garill still
+  hasn't come back.<0 Type='4'/>But he's an energetic guy, and he likes to
+  admire the scenery. He might have raced
+  down the path to get a good view.<0 Type='4'/>I'd search for him myself, but I'm still a
+  little shaken up...
+Searching_Victim3_06: |
+  <3 Type='0' Data='0800'/>Mm-hmm! Loose aaand limber!<0 Type='4'/>You really saved me there. A seasoned
+  traveler I may be, but I guess even pros
+  make mistakes sometimes.
+  <3 Type='0' Data='0700'/>My friends must be worried sick. I'll have
+  to head out soon.<0 Type='4'/>Thanks for your help! I owe you one!
+Rescued_Victim3_Noon: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Hey! You look well. I was just thinking
+  about you.
+Talk_Ready_01_Client: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0c005300610064005f0030003000'/>Oh...<0 Type='4'/><3 Type='0' Data='0a01'/>Sorry if I seem disappointed. I just
+  thought our friends might have returned.
+Talk_Ready_04_Assistant_Day: |
+  <3 Type='0' Data='0d00'/>They're experienced travelers. I'm sure
+  they'll be fine.
+  
+  They probably stopped to rest in a cave or
+  under some shade along the road, since
+  the canyon gets so hot during the day.
+  Not to say they'll travel faster at night.
+  It gets so cold, they might have to start
+  a fire to keep from freezing...<0 Type='4'/>But they'll be back in due time. We just
+  have to be patient.
+Rescued_Victim3_aboutVictim1: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0a005400680069006e006b00'/>Which reminds me...old Giro still hasn't
+  come back. He might be in trouble.<0 Type='4'/>Giro was grousing an awful lot about
+  the heat. Maybe he went to cool off by
+  the river?<0 Type='4'/>I hope he's OK.
+Rescued_Victim3_aboutVictim2: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0a005400680069006e006b00'/>Which reminds me...our bodyguard
+  Botrick still hasn't come back. He might
+  be in trouble.
+  He scares so easily, I wouldn't be
+  surprised if he skittered into a cave
+  at the first sign of a monster.
+  I hope he's OK.
+0010: |
+  Here you go.
+Rescued_Victim3_Evening: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Hey! You're here mighty late. I was just
+  thinking about you.
+0011: |
+  I don't have any.
+Balloon_Searching_Victim1_00: |
+  Somebody...
+Rescued_Victim1_Evening: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0a0048006100700070007900'/>Hey there! Pretty late to be on the road,
+  isn't it? Anyway, I've been hopin' I'd see
+  you again.
+Talk_Step_Common_Assistant_Night: |
+  <3 Type='0' Data='0700'/>I don't need to tell you how freezing cold
+  Gerudo Canyon gets at night.<0 Type='4'/>I'm sure they're resting in a cave by the
+  road with a nice, warm fire going. They'll
+  come back. You'll see.
+Searching_Victim2_00: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0a0053006300610072006500'/><1 Type='3' Data='5a000000'/>Heeelp! Lizards! BIG lizards!
+Searching_Victim2_01: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='0a0053006300610072006500'/>AAAH! Are you one of THEM?!
+0030: |
+  Here you go.
+Rescued_Victim3_Midnight: |
+  <3 Type='0' Data='0700'/>...Mm? Oh, it's you.<5 Type='1'/> Sorry. I was dozing
+  off there.
+Talk_Report_01_Client: |
+  <3 Type='0' Data='0700'/>Now, it's high time for us to get back on
+  the road. Stay safe out there!
+Balloon_Report_00_Client: |
+  They're safe!
+Searching_Victim2_02: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='12004c0061007500670068004c005f0030003000'/><FontSize Value='125'/>Wow, you're strong!<0 Type='4'/><3 Type='0' Data='0300'/><FontSize Value='100'/>Whew. You might think I'm a hopeless
+  coward...<5 Type='1'/>and you wouldn't be entirely
+  wrong. <5 Type='1'/>But I'm also a bodyguard.
+  I was traveling with my friends, but we got
+  separated. Then I saw those monsters and
+  I completely froze up.<0 Type='4'/><3 Type='0' Data='0000'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>Don't tell anyone...OK?<0 Type='4'/><3 Type='0' Data='0700'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>I'd better get going. My friends will surely
+  feel safer with a fearless bodyguard by
+  their side... <5 Type='1'/>Heh. See ya!
+0031: |
+  I don't have one.
+Talk_Step_20_Client: |
+  <3 Type='0' Data='0a00'/>One of our friends still hasn't come back.
+  Ugh... <5 Type='1'/>It's frustrating, just waiting and
+  hoping for a safe return.
+Talk_Step_00_Client: |
+  <3 Type='0' Data='0a00'/>Three of our friends still haven't come
+  back. <5 Type='1'/>I'm worried. But all I can do is wait.
+Rescued_Victim2_Midnight: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Hmm? Wha-?<0 Type='4'/><3 Type='0' Data='0200'/>I wasn't sleeping! I was closing my eyes
+  so I could listen for intruders!<0 Type='4'/><3 Type='0' Data='0400'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Oh...it's you from before! I thought one
+  of my friends might have caught me
+  snoozing on the job.
+Searching_Victim1_00: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0c005300610064005f0030003000'/>Ya found me... I was sure nobody'd come
+  lookin' for me all the way out here...<0 Type='4'/>Got split up from my friends... Tried
+  looking for 'em, but then the dehydration
+  set in, and I couldn't move...
+  Ugh... I sure could go for a skosh of
+  <0 Type='3' Data='0000'/>splash fruit<0 Type='3' Data='ffff'/>...
+Rescued_Victim3_Morning: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Good morning! You're an early riser, huh?
+  You look well.
+Searching_Victim1_01: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0e0045006100730065005f0030003000'/>Oooh... I could kiss ya right now. Thanks!

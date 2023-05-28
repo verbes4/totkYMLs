@@ -1,0 +1,26 @@
+Name: |
+  A Picture for Outskirt Stable
+Step02: |
+  Embry, the owner of Outskirt Stable, is pleased
+  to have a painting of the cherry-blossom tree
+  hung up at his establishment.
+  
+  He was going to give you a reward, but your
+  inventory was full. Be sure to trim your
+  belongings before you accept his gift.
+Step01: |
+  Embry, the owner of Outskirt Stable, wants
+  to hang a picture of a special, mystical
+  cherry-blossom tree that can be found on
+  Satori Mountain, <0 Type='3' Data='0000'/>northwest<0 Type='3' Data='ffff'/> of the stable.
+  
+  Maybe there's a way to take a picture of it and
+  show it to Embry.
+Complete: |
+  Embry, the owner of Outskirt Stable, is pleased
+  to have a painting of the cherry-blossom tree
+  hung up at his establishment.
+  
+  Still, he's happy to replace it with a different
+  picture of the tree. Just show him a new image 
+  and he'll make a copy to put on display.

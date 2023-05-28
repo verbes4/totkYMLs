@@ -1,0 +1,193 @@
+GoRange_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>Hey. Where ya headed?<5 Type='0'/> As for me,
+  I'm gonna heal up at the ol' hot spring
+  while stayin' at Foothill Stable!
+BackRange_03: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='08004500610073006500'/>Woooeee!<5 Type='1'/> That hot spring <5 Type='1'/>was
+  somethin' else, I tell ya.
+  
+  Oh, hey. Are you lookin' for a hot spring?<5 Type='0'/>
+  You should know there's a great one
+  further up the road to the <0 Type='3' Data='0000'/>north<0 Type='3' Data='ffff'/>.
+  <3 Type='0' Data='0100'/>If ya hop in, you can<0 Type='3' Data='0000'/> fully heal from the
+  fatigue of your journey<0 Type='3' Data='ffff'/>. That means you'll
+  feel real good after!
+  It's a good idea to stay at the nearby
+  stable and then heal up in that relaxin'
+  hot spring.
+GoRange_02: |
+  <3 Type='0' Data='0700'/>I hear things are real bad in<0 Type='3' Data='0000'/> Lanayru to
+  the east<0 Type='3' Data='ffff'/>. They've got sticky black globs
+  fallin' down from the sky. Imagine that!
+  I think they're callin' it <0 Type='3' Data='0000'/>sludge<0 Type='3' Data='ffff'/>...<5 Type='0'/> Gross.
+  You'd better wash anything like that off in
+  a hot spring.
+  <3 Type='0' Data='0c01'/>Oh, wait. <5 Type='0'/>Guess there aren't any hot
+  springs in Lanayru, huh? <5 Type='0'/>Wish I could
+  share some of Eldin's with 'em.
+GoRange_03: |
+  <3 Type='0' Data='0700'/>Hey. If you're a traveler, it's a good idea
+  to have a couple of favorite hot springs to
+  rest up at.
+  There's a great one just up the road to
+  the <0 Type='3' Data='0000'/>north<0 Type='3' Data='ffff'/>.
+  
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>If ya hop in, you can<0 Type='3' Data='0000'/> fully heal from the
+  fatigue of your journey<0 Type='3' Data='ffff'/>. That means you'll
+  feel real good after!
+  So try stayin' at the nearby stable and
+  then heal up in that relaxin' hot spring.
+Near_RainPoint_01: |
+  I hate the rain.
+Guardian00: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='0a0053006300610072006500'/>What's with that monster?<5 Type='0'/> If I hadn't run
+  away, I'd be in big trouble!
+Near_GoalPoint_01: |
+  Great hot spring!
+SavedLv3_00: |
+  <3 Type='0' Data='0800'/>Hey, you're really strong!<5 Type='0'/> You saved me!
+Greeting: |
+  <3 Type='0' Data='0800'/>Hey!
+Near_Rain: |
+  It's raining. Ugh.
+Near_GoRange_01: |
+  Gotta try all the springs!
+Near_BackRange_03: |
+  Great hot spring!
+SavedLv3_01: |
+  <3 Type='0' Data='0800'/>You saved my life. Thanks so much!
+Greeting_00: |
+  <3 Type='0' Data='0800'/>Hey! Good mornin'!
+GoRange_02_3: |
+  <3 Type='0' Data='0700'/>In Lanayru, off to the east, there are lots
+  of lakes and rivers and water-type stuff,
+  but not a single hot spring to be found.
+  <3 Type='0' Data='0100'/>That's one reason I love Eldin. So many
+  hot springs!
+BackRange_03_2: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>There's a nice hot spring farther up the
+  road to the <0 Type='3' Data='0000'/>north<0 Type='3' Data='ffff'/>.
+  
+  If ya hop in, you can <0 Type='3' Data='0000'/>fully heal from the
+  fatigue of your journey<0 Type='3' Data='ffff'/>. That means you'll
+  feel real good after!
+Near_GoRange_02: |
+  Sticky, goopy gunk...
+EnokidaSignboard: |
+  Hudson Construction?
+Greeting_01: |
+  I was just thinkin' it'd be nice to talk to
+  someone.
+  
+  I'm glad you said somethin'!
+Near_GoRange_03: |
+  How fun!
+Thanks00: |
+  <3 Type='0' Data='0100'/>It's not much,<5 Type='0'/> but here's a reward for
+  savin' me!
+Greeting_02: |
+  <3 Type='0' Data='0800'/>Hey! Good to see ya!
+StartPoint_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>Hey. <5 Type='0'/>Are you visitin' all the hot springs
+  around Eldin?<5 Type='0'/> I hope not, 'cause it's not
+  a great time for that.
+  <3 Type='0' Data='0301'/>Some <0 Type='3' Data='0000'/>strange rocks <0 Type='3' Data='ffff'/>have shown up in
+  Goron City, and ever since, all of my
+  Goron buddies have been actin' weird.
+  I used to love the hot springs at the
+  grub place just up the road to the
+  <0 Type='3' Data='0000'/>northeast<0 Type='3' Data='ffff'/>.
+  The place is shaped like a rock roast!
+  Heh. Real nice place to relax, I tell ya.
+  Thing is...
+  <3 Type='0' Data='0a00'/>I don't wanna get caught up in all of that,
+  so I'm tryin' to steer clear for now.
+SavedLv2_00: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>If you hadn't been here, I'd have been
+  a goner!
+GoalPoint_01: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='08004500610073006500'/>Woooeee!<5 Type='1'/> This water is perfect for a
+  nice, hot foot bath!
+  
+  You should try relaxing in it yourself.<5 Type='0'/>
+  It'll make your <0 Type='3' Data='0000'/>fatigue melt away<0 Type='3' Data='ffff'/>. That
+  means you'll feel real good after!
+  Eldin is full of great hot springs.<5 Type='0'/>
+  You should try 'em all!
+SavedLv2_01: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>Thanks for that!<5 Type='0'/> You're not hurt, are ya?
+Near_GoRange_02_1: |
+  Love it!
+SavedLv1_00: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0e0045006100730065005f0030003000'/>Phew!<5 Type='0'/> That was scary.<5 Type='1'/> Thanks for
+  savin' me!
+Failed00: |
+  <3 Type='0' Data='0a00'/>Ouch...<5 Type='1'/> I might be safe, <5 Type='1'/>but every inch
+  of me hurts...
+SavedLv1_01: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>I'm glad we're both safe.
+Failed01: |
+  <3 Type='0' Data='0a00'/>*pant*<5 Type='1'/> *pant*<5 Type='1'/> This is the first time
+  somethin' that scary has ever
+  happened to me. I'm shook!
+GoRange_03_2: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>There's a hot spring up the road to the
+  <0 Type='3' Data='0000'/>north<0 Type='3' Data='ffff'/>. Use it to <0 Type='3' Data='0000'/>heal from your fatigue<0 Type='3' Data='ffff'/>.
+  That means you'll feel real good after!
+Atacked00: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003100'/>Somebody! Help me!
+Near_StartPoint_01: |
+  I'm worried...
+Atacked01: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003000'/>Eek!<5 Type='0'/> Ya know, even if you attack me,
+  it's not like you can eat me...
+StartPoint_01_2: |
+  <3 Type='0' Data='0a00'/>I used to love the hot springs at that
+  grub spot shaped like a rock roast.
+  
+  Ya know, the one just up the road to the
+  <0 Type='3' Data='0000'/>northeast<0 Type='3' Data='ffff'/>...
+  
+  But I haven't been since those <0 Type='3' Data='0000'/>strange
+  rocks <0 Type='3' Data='ffff'/>appeared and all of my Goron
+  buddies started actin' weird.
+Near_StartPoint_02: |
+  I wanna go again.
+Near_Thunder: |
+  I'm scared of lightning...
+StartPoint_01_3: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>Hey. Are ya visitin' all the hot springs
+  around Eldin too?<5 Type='0'/> Did ya try the waters
+  at <0 Type='3' Data='0000'/>Bedrock Bistro<0 Type='3' Data='ffff'/>?
+GoalPoint_01_2: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='08004500610073006500'/>Wowie!<5 Type='1'/> That's some great water.<5 Type='1'/> Makes
+  your <0 Type='3' Data='0000'/>fatigue just melt away<0 Type='3' Data='ffff'/>. That means
+  you feel real good after!
+StartPoint_01_4: |
+  <3 Type='0' Data='0800'/>Folks always go on an' on about the
+  famous steak they serve there, but that's
+  just the beginning.
+  We should all be goin' on and on about
+  the great hot springs in front of that
+  grub spot!
+  The place is shaped like a rock roast too.
+  Gets the ol' imagination runnin' wild!
+  
+  <3 Type='0' Data='0700'/>You should see it for yourself. It's just up
+  the road to the <0 Type='3' Data='0000'/>northeast <0 Type='3' Data='ffff'/>from here.
+RainPoint_01: |
+  <3 Type='0' Data='0a00'/>I hate the rain. It's so cold and dreary.<5 Type='0'/>
+  When it stops, I'll drop by a hot spring
+  to warm up.
+  <3 Type='0' Data='0701'/>If you're a hot springs fan, too,
+  I gotta recommend a place called
+  <0 Type='3' Data='0000'/>Lake Ferona Springs<0 Type='3' Data='ffff'/>.
+  It's near<0 Type='3' Data='0000'/> Foothill Stable<0 Type='3' Data='ffff'/>, so you can
+  always stay there and take your time
+  healin' up in the spring.
+GoRange_01_2: |
+  <3 Type='0' Data='0700'/>Lots of hot springs are bubblin' up near
+  <0 Type='3' Data='0000'/>Foothill Stable <0 Type='3' Data='ffff'/>to the <0 Type='3' Data='0000'/>east<0 Type='3' Data='ffff'/>.
+  
+  <3 Type='0' Data='0801'/>Visitin' hot springs every day is good
+  for ya. That's what I say, anyway.

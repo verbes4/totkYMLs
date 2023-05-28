@@ -1,0 +1,19 @@
+Name: |
+  Walton's Treasure Hunt
+Step02: |
+  Walton sent you on a treasure hunt. This time
+  he's hidden a <0 Type='3' Data='0000'/>forest dweller's shield <0 Type='3' Data='ffff'/>below the
+  Deku Tree's face.
+  
+  If you find it, you should show it to Walton.
+Step01: |
+  Walton sent you on a treasure hunt. He's
+  hidden a <0 Type='3' Data='0000'/>forest dweller's sword <0 Type='3' Data='ffff'/>and a <0 Type='3' Data='0000'/>forest
+  dweller's spear <0 Type='3' Data='ffff'/>above the Deku Tree's face.
+  
+  If you find them, you should show them
+  to Walton.
+Complete: |
+  You found all of Walton's hidden treasures,
+  much to his satisfaction. He feels like he's got
+  a knack for finding good hiding places.

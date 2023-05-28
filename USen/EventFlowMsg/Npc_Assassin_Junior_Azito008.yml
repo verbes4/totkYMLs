@@ -1,0 +1,95 @@
+0001: |
+  The HOVERDOOM, duh.
+TerrorImpulse_00: |
+  What are you doing?!
+0002: |
+  Let's do this.
+Talk_00: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1600540061006c006b00440065006e0079005f0030003100'/>Tell me.
+Talk_10: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1a0055006e006400650072007300740061006e0064005f0030003000'/>Heh, easiest question you'll ever answer.
+  
+  
+  This HOVERDOOM MK.3 is a whole
+  different beast from that all-show
+  number over there.
+  Simplicity with a dash of recklessness...
+  Now that's how you craft a dangerous
+  weapon.
+0003: |
+  I'll pass.
+Talk_11_2: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004c006100750067006800420061006400'/><FontSize Value='80'/>So, how about it? You've a dash of recklessness
+  yourself, so I'll sell you one brand-new for
+  <0 Type='3' Data='0000'/>99 rupees<0 Type='3' Data='ffff'/>.<5 Type='1'/>
+  Hold on...<5 Type='1'/>you're a blademaster.
+  
+  
+  OK... <5 Type='1'/>Yeah. You scratch my back, I'll scratch yours.
+  Help me out, and I'll give you a HOVERDOOM MK.3
+  for <0 Type='3' Data='0000'/>50 rupees<0 Type='3' Data='ffff'/>.
+  But let's keep it between us, huh? If people hear I'm
+  just letting these go, it wouldn't be good for me.
+  
+  You good if we do the handover outside?<FontSize Value='100'/>
+Talk_03_2: |
+  <3 Type='0' Data='0700'/>Yep, that's <0 Type='3' Data='0000'/>50 rupees<0 Type='3' Data='ffff'/>, all right. <5 Type='1'/>
+  Heh, I'm glad someone around
+  here recognizes quality.
+  Just remember, I might be looking for
+  some back-scratching in the future...
+TerrorImpulse_02: |
+  Hands off HOVERDOOM!
+Talk_11: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004c006100750067006800420061006400'/><FontSize Value='80'/>How about it? You've a dash of recklessness
+  yourself, so I'll sell you one brand-new for
+  <0 Type='3' Data='0000'/>99 rupees<0 Type='3' Data='ffff'/>.
+  Just don't let it slip that I sold one to some
+  rank-and-file Yiga member, OK? That'd lead
+  to some awkward conversations.
+  You good if we do the handover outside?<FontSize Value='100'/>
+0004: |
+  Goodbye.
+Talk_02: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1600540061006c006b00440065006e0079005f0030003100'/>I'll ask you again.
+Talk_12: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='12004c0061007500670068004c005f0030003000'/>Haha. Just can't keep yourself away from
+  my HOVERDOOM MK.3, can you?
+  
+  You really do have impeccable taste.
+  <5 Type='1'/>However...
+  
+  <FontSize Value='125'/><3 Type='0' Data='0900'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>I told you not to touch it!<FontSize Value='100'/>
+Talk_13: |
+  Between that tasteless Gloomdredger
+  over there and this HOVERDOOM MK.3...<0 Type='4'/>which do you think is more beautiful?
+Talk_03: |
+  <3 Type='0' Data='0700'/>Looks like you've got <0 Type='3' Data='0000'/>99 rupees<0 Type='3' Data='ffff'/>, all right.<5 Type='1'/>
+  Heh,<5 Type='0'/> I'm glad someone around here
+  recognizes quality.
+Talk_04: |
+  <FontSize Value='80'/><3 Type='0' Data='0701'/>We're in the public eye here. Come on... Pretend
+  like you don't know me, and follow me out...<FontSize Value='100'/>
+Talk_15: |
+  <3 Type='0' Data='0700'/>Brand new, complete with a steering stick.<5 Type='0'/>
+  Take it.
+Talk_06: |
+  <3 Type='0' Data='0900'/><4 Type='0' Data='1a005100750065007300740069006f006e0041006e00670072007900'/>Huh? I'm not interested in people who
+  don't have money. This conversation's
+  over.<5 Type='1'/> Go on! Get out of here!
+Talk_07: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='100041006e006700720079005f0030003000'/>Not another move!
+  
+  
+  <3 Type='0' Data='0701'/>I'll give you points for being interested in
+  my HOVERDOOM MK.3, but...<5 Type='1'/>
+  
+  <FontSize Value='125'/><3 Type='0' Data='0900'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>No touching it without my OK!<FontSize Value='100'/>
+Talk_08: |
+  <3 Type='0' Data='0900'/>It's all spike and no substance! And so
+  are you! This conversation's over.<5 Type='1'/> Go on!
+  Get out of here!
+Talk_09: |
+  <3 Type='0' Data='0900'/>I picked the wrong person to ask.
+0000: |
+  The Gloomdredger.

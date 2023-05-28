@@ -1,0 +1,168 @@
+Talk_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Sure, yeah, we're kinda not wearing the
+  usual gear here. But we're just following
+  orders. It's not weird. Not weird at all.
+  <3 Type='0' Data='0a01'/>Still, that girl who works in the stable
+  took one look at all of us and left. She's
+  <0 Type='3' Data='0000'/>far over there<0 Type='3' Data='ffff'/>...and won't come back.
+  <3 Type='0' Data='0101'/><4 Type='0' Data='12004c0061007500670068004c005f0030003000'/>Doesn't she know we're the real deal?
+  We're the Zonai Survey Team!<5 Type='1'/> This is all
+  super official. It's not weird.
+Talk_14: |
+  <3 Type='0' Data='0700'/>You're heading out now?<5 Type='0'/> That makes
+  sense. Nice to get an early start.
+Talk_02: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>So, you're back again,<5 Type='0'/> traveler!
+  
+  
+  I keep saying this...<5 Type='0'/>but yeah, we're kinda
+  not wearing the usual gear, but we're just
+  following orders. Not weird. No way.
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0c005300610064005f0030003100'/>Still, that girl who works in the stable took
+  one look at all of us and left. She's far
+  over there...and won't come back.
+  <3 Type='0' Data='0201'/>She's got to know, though, that we're the
+  real deal! The Zonai Survey Team!<5 Type='1'/> This is
+  as far from weird as it gets.
+Talk_15: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Are you serious? I'm glad everyone back
+  home is OK. Whew! What a relief.
+TerrorGeneric: |
+  Gyah!
+TerrorLightning: |
+  Gyah!
+Talk_03: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0600530061006400'/>Oh man...<5 Type='1'/> That girl from the stable...
+  
+  
+  There's no way she'll talk to any of us on
+  the team if we're dressed like this.
+Talk_16: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1000540069007200650064005f0030003100'/>When I return to <0 Type='3' Data='0000'/>Lurelin Village<0 Type='3' Data='ffff'/>, I think
+  I'll try and raise a dog too.
+Talk_04: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='12004c0061007500670068004c005f0030003100'/>Oh, it's you, traveler! Thanks to you, we
+  could all dress normally again!
+  
+  <3 Type='0' Data='0801'/>Then that girl from the stable came over
+  to talk to some of us on the survey team.
+  She knows a LOT <0 Type='3' Data='0000'/>about dogs<0 Type='3' Data='ffff'/>!
+  <4 Type='0' Data='1000480061007000700079005f0030003000'/>There aren't many girls right around my
+  age in <0 Type='3' Data='0000'/>Lurelin Village<0 Type='3' Data='ffff'/>. So, yeah, gotta say
+  it was great to talk.
+NakedPlayer: |
+  The underpants method!
+Talk_18: |
+  <3 Type='0' Data='0700'/>You're heading out now?<5 Type='0'/> Good thinking.
+  A little safer these days when the sun's
+  high in the sky.
+Talk_05: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='12004c0061007500670068004c005f0030003100'/>Here you are again! How are your travels
+  treating you?
+  
+  I'm still having good talks with that girl
+  at the stable <0 Type='3' Data='0000'/>about dogs<0 Type='3' Data='ffff'/>.
+  
+  <4 Type='0' Data='1000480061007000700079005f0030003000'/>There aren't many girls right around my
+  age in <0 Type='3' Data='0000'/>Lurelin Village<0 Type='3' Data='ffff'/>. So, I gotta say it's
+  always great to talk.
+Talk_19: |
+  <3 Type='0' Data='0700'/>You're heading out now?<5 Type='0'/> Well, I can't
+  think of many things nicer than traveling
+  by moonlight.
+Talk_06: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='12004c0061007500670068004c005f0030003100'/>Who knew I'd get so excited <0 Type='3' Data='0000'/>talking
+  about dogs<0 Type='3' Data='ffff'/>.
+  
+  No one ever seemed to talk about dogs
+  at all when I lived in <0 Type='3' Data='0000'/>Lurelin Village<0 Type='3' Data='ffff'/>.
+Talk_07: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>Y-<5 Type='1'/>you're all wrong. <5 Type='0'/>We're following
+  Princess Zelda's orders...<5 Type='1'/>
+TerrorImpulse: |
+  Eek!
+Near_00: |
+  The girl from the stable...
+Talk_08: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='08005300690067006800'/>She'll surely return if you...<5 Type='1'/>just dress like
+  regular people.
+Near_01: |
+  She came over here...
+Near_02: |
+  This is ridiculous.<5 Type='1'/>
+0000: |
+  Lurelin Village?
+0001: |
+  Dog talk, huh?
+TerrorSword: |
+  Stop it!
+0002: |
+  Goodbye.
+TerrorIce: |
+  That's cold!
+0003: |
+  The pirates are gone.
+TerrorFlash: |
+  Bwah!
+TerrorArrow: |
+  That's dangerous!
+TerrorHorse: |
+  What are you doing?!
+Talk_21: |
+  <3 Type='0' Data='0700'/>You're heading out now?<5 Type='0'/> Well, it is
+  really beautiful around here earlier in
+  the evening.
+  Watch where you're going though. Easy
+  to look at the view and take a bad step!
+Talk_22: |
+  <3 Type='0' Data='0701'/>Oh, yes... There's almost nothing better
+  than <0 Type='3' Data='0000'/>talking about dogs<0 Type='3' Data='ffff'/> to just make a
+  person feel happy.
+Talk_10: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0c005300610064005f0030003100'/>How did this happen? I was the last
+  member of the team to reach this
+  survey location.
+  By then, everyone was dressed like this
+  by order of Princess Zelda. Why would
+  she give such a strange command?
+Talk_23: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='08004500610073006500'/>I just joined the Zonai Survey Team and
+  thought I'd be investigating ruins. But
+  researching monsters seems interesting.
+TerrorFire: |
+  None of that!
+Talk_11: |
+  <3 Type='0' Data='0900'/><4 Type='0' Data='20005100750065007300740069006f006e0041006e006700720079005f0030003000'/>What are you thinking?! You guys are all
+  making our research team look like fools!<5 Type='0'/>
+  
+  I think you DO look weird. So there,
+  chew on that.
+TerrorExplosion: |
+  Gyaaah!
+Talk_12: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>That's where I come from. Far, far, far
+  to the <0 Type='3' Data='0000'/>southeast<0 Type='3' Data='ffff'/> from here.
+  
+  It's on the sea. Everyone there makes a
+  living by fishing.
+  
+  I can't swim. Just don't have the knack
+  for it. So I didn't bother with all that
+  fisherman stuff.
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>Being on the Zonai Survey Team is the
+  life for me. So I volunteered for action,
+  and action's what I got!
+  But I have to say, I heard that <0 Type='3' Data='0000'/>pirates<0 Type='3' Data='ffff'/>
+  have taken over my village. That...<5 Type='1'/>worries
+  me. I'm not sure if I can ever go back.
+TerrorBomb: |
+  Hold up...
+Talk_13: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>The girl at the stable says she likes dogs,
+  so I started learning about them!
+  
+  Turns out that when dogs <0 Type='3' Data='0000'/>get close<0 Type='3' Data='ffff'/> with a
+  person, they'll <0 Type='3' Data='0000'/>find treasure for them<0 Type='3' Data='ffff'/>!
+  
+  <3 Type='0' Data='0101'/>What's that?<5 Type='0'/> How do you get close with a
+  dog? <5 Type='1'/>Well...<5 Type='1'/>love and loyalty, of course!

@@ -1,0 +1,180 @@
+Talk_PointRest_01: |
+  <3 Type='0' Data='0700'/>You should take time to rest. Out here,
+  you need to keep your strength up.<0 Type='4'/>It's easy to get completely exhausted
+  without even realizing it.
+Talk_Between_A_Rest_00_Back: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0c005300610064005f0030003000'/>The swing in temperature from day to
+  night sure makes traveling tricky.
+  Preparation is the key.
+  <3 Type='0' Data='0000'/>I always keep elixirs on hand that can heat
+  me up or cool me down. Without them, I'd
+  be done for!
+Talk_Between_B_Rest_01_Back: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='0a005400680069006e006b00'/>I wonder what it's like to look down from
+  one of those floating islands.
+  
+  Everything far below, the whole world
+  open to you...
+  
+  <3 Type='0' Data='0300'/>It's a shame I'm no good with heights.
+  I'd be scared to look down.
+Balloon_Between_B_Rest: |
+  Wish I could ride a horse...
+Balloon_Between_B_Rest_Back: |
+  I'd like to go there...
+Greeting_Morning: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Getting things done early? That's a
+  good idea.
+Balloon_PointB: |
+  Impressive...
+Guardian00: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='1000530063006100720065005f0030003000'/>What is that?! I'm no match for this!
+NakedPlayer_00: |
+  Where's the style in that?
+Greeting_Evening: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Are you traveling too? You must have
+  had a rough time in that heat. I'm glad it
+  cooled off a little.
+Talk_Between_B_Rest_00_Back: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>What do you see when you look up?
+  
+  
+  Those sky islands appeared after the
+  Upheaval, right? I have trouble believing
+  my own eyes some days.
+  <3 Type='0' Data='0c00'/>What are they? What's up there?<5 Type='1'/>
+  And why do they float?
+  
+  I can't get those islands out of my mind.
+  
+  
+  <3 Type='0' Data='0500'/>I bet someone standing up there would
+  see things no one's ever noticed before.<5 Type='0'/>
+  Maybe I'll work out a way to get there.
+Balloon_Between_A_Rest: |
+  I'm hungry...
+Balloon_Between_A_Rest_Back: |
+  Do I have enough elixirs?
+NakedPlayer_01: |
+  What a wild streak!
+NakedPlayer_02: |
+  You look comfortable.
+SavedLv3_00: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='0e0045006100730065005f0030003100'/>Whew! That was a close one.
+Talk_Between_A_Rest_00: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0a005400680069006e006b00'/>I hear plenty of travelers through the
+  desert and Gerudo Canyon have collapsed
+  since the climate shifted.<0 Type='4'/>It should be fine if you have food that
+  suits the temperature though.<0 Type='4'/><3 Type='0' Data='0000'/>Well,<5 Type='0'/> just make sure you don't overdo it!
+SavedLv3_01: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>That was one scary monster. I couldn't
+  do anything!
+Talk_Between_A_Rest_01: |
+  <3 Type='0' Data='0700'/>If you can cook food that suits the
+  temperature, dealing with the hot and
+  cold weather here becomes a lot easier.
+  Traveling the canyon isn't something you
+  should take on lightly. You should do
+  everything you can to stay safe.
+EnokidaSignboard: |
+  Won't forget this soon...
+Talk_Between_B_Rest_00: |
+  <3 Type='0' Data='0700'/>If you're looking for a stable, you can
+  take this road <0 Type='3' Data='0000'/>northeast <0 Type='3' Data='ffff'/>to find
+  <0 Type='3' Data='0000'/>Outskirt Stable<0 Type='3' Data='ffff'/>.
+  There's also Gerudo Canyon Stable
+  to the <0 Type='3' Data='0000'/>west<0 Type='3' Data='ffff'/>...<5 Type='1'/> Ah, shoot, never mind.
+  That one's closed.
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0a005400680069006e006b00'/>Sad story... <5 Type='1'/>Horses couldn't make it
+  there in the harsh climate, so all the
+  business dried up.
+Balloon_PointA_00: |
+  It's truly an oasis.
+Thanks00: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Sorry you had to lend a hand there.
+  Take this, at least.
+Greeting_Noon: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Ugh, it's blazing hot. Cool off in the shade
+  if you're feeling faint.
+Talk_Between_B_Rest_01: |
+  <3 Type='0' Data='0700'/>Sadly, <0 Type='3' Data='0000'/>Gerudo Canyon Stable <0 Type='3' Data='ffff'/>to the <0 Type='3' Data='0000'/>west<0 Type='3' Data='ffff'/>
+  isn't running anymore.
+  
+  So if you need a stable,<5 Type='0'/> your best bet is
+  <0 Type='3' Data='0000'/>Outskirt Stable <0 Type='3' Data='ffff'/>to the <0 Type='3' Data='0000'/>northeast<0 Type='3' Data='ffff'/>.
+SavedLv2_00: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0c005300610064005f0030003100'/>Those monsters moved so fast!
+  I'm shaking just thinking about it.
+SavedLv2_01: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0c005300610064005f0030003100'/>Those darn monsters. They're sure
+  getting confident!
+Greeting_Night: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Brr, it's cold. You're going to freeze out
+  here if you're not prepared.
+SavedLv1_00: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0c005300610064005f0030003000'/>I thought they were just small fry, so I
+  let my guard down.
+Failed00: |
+  <3 Type='0' Data='0201'/><4 Type='0' Data='100041006e006700720079005f0030003000'/>What a mess!
+Talk_PointA_02: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hey. <5 Type='0'/>Did you also come here to relax?
+  
+  
+  The desert is harsh. But here, we can
+  stock up on clothes, food, and arrows.<5 Type='0'/> 
+  We get to sleep in nice, fluffy beds...
+  I almost wish I could stay awhile.
+  But my adventurous spirit won't let me
+  settle in one place for long.
+SavedLv1_01: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0c005300610064005f0030003000'/>I underestimated them. They didn't seem
+  so tough...
+Failed01: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0c005300610064005f0030003100'/>I can't believe it... Me, of all people...
+Talk_PointA_03: |
+  <3 Type='0' Data='0700'/>Here, not only do we have food and
+  clothes but we can also stock up on
+  arrows and sleep in fluffy beds...
+  It's a real oasis in the middle of this
+  harsh desert.
+Atacked00: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003100'/>Th-this thing! It came out of nowhere!
+Talk_PointA_04: |
+  <3 Type='0' Data='0c00'/>Come to think of it, the pond seems to
+  have dried up since last I was here...
+  
+  Is that due to the Upheaval, I wonder?
+Talk_Between_A_Rest_01_Back: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Me, I check my stock every day to make
+  sure I don't run out of elixirs to warm me
+  up or cool me down.
+  I wouldn't miss a single day! Don't you
+  forget to check your stock either.
+Atacked01: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>This monster is no joke!
+Talk_PointA_05: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Say, it looks like the pond has a lot
+  more water than last I was here.
+  
+  When the sand shroud disappeared,
+  I heard the waterways in Gerudo Town
+  started flowing again.
+  I wonder if the sand shroud was affecting
+  the pond as well.
+Talk_PointB_00: |
+  <3 Type='0' Data='0700'/>I have absolutely no interest in ruins, but
+  I respect the folks who research them.<0 Type='4'/>Even in a harsh environment like this,
+  they keep up their studies.<0 Type='4'/>If you have any questions about ruins
+  or the Zonai,<5 Type='0'/> I bet they would be the
+  people to ask.
+Balloon_PointRest: |
+  I'm taking a break.
+Talk_PointRest_00: |
+  <3 Type='0' Data='0700'/>I found the perfect bit of roof, so I'm
+  taking a break.<0 Type='4'/>There aren't many places to rest in
+  Gerudo Canyon, after all.<0 Type='4'/>If you don't rest when you can, you'll
+  regret it. Oh yes, you will.
+Talk_PointB_01: |
+  <3 Type='0' Data='0700'/>If you have any questions about ruins
+  or the Zonai, <5 Type='0'/>you should try asking the
+  Zonai Survey Team members.

@@ -1,0 +1,114 @@
+Talk_0020: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0a005400680069006e006b00'/>Stables are good places to learn things,
+  so I thought I'd hear about the <0 Type='3' Data='0000'/>legendary
+  pumpkin <0 Type='3' Data='ffff'/>here, but so far, no such luck.
+Talk_0010: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='08004500610073006500'/>I can't stop wondering... What does the
+  <0 Type='3' Data='0000'/>Master Gourd <0 Type='3' Data='ffff'/>taste like?<0 Type='4'/>I'm so preoccupied thinking about it, I can
+  hardly even hear the music.
+Talk_0021: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0600530061006400'/>So you don't know. <5 Type='0'/>Of course! Why would
+  my luck be any different today?<0 Type='4'/><3 Type='0' Data='0701'/>Rumor has it that deep in a forest
+  somewhere, there's a legendary pumpkin
+  called the <0 Type='3' Data='0000'/>Master Gourd<0 Type='3' Data='ffff'/>.
+  I heard the flavor was powerful enough
+  to defeat any monster, no matter how
+  strong its stomach!
+  <3 Type='0' Data='0301'/><4 Type='0' Data='08004500610073006500'/>But everyone I ask about it looks at me
+  like I'm talking nonsense. <5 Type='0'/>Maybe I was fed
+  some bad info...
+Talk_0011: |
+  <3 Type='0' Data='0700'/>Someone at this stable must have relevant
+  info. I'll have to keep asking around.
+Talk_0002: |
+  <3 Type='0' Data='0c00'/>All right! When travelers come to hear the
+  musical troupe perform, I'll be able to ask
+  them about... <5 Type='1'/>Hm?
+0004: |
+  Legendary pumpkin?
+Talk_0023: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>A legendary sword, you say? And it's
+  called the <0 Type='3' Data='0000'/>Master Sword<0 Type='3' Data='ffff'/>?<0 Type='4'/><3 Type='0' Data='0b00'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003100'/>Wait, hey! So then the Master Gourd I'm
+  looking for...<0 Type='4'/>Is it possible that I misheard? That they
+  were talking about the Master Sword?<0 Type='4'/><3 Type='0' Data='0500'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>...Nah! <5 Type='0'/>Why, just the other day I heard
+  a rumor about the Master Gourd being in
+  the <0 Type='3' Data='0000'/>Lost Woods <0 Type='3' Data='ffff'/>up north.
+  Guess you misheard, friend! That's so
+  embarrassing for you, hahaha!
+Talk_0013: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0a005400680069006e006b00'/>No musical troupe? But that means
+  no audience!<0 Type='4'/>I was hoping for a nice, big group of
+  travelers that I could ask about the
+  <0 Type='3' Data='0000'/>legendary pumpkin<0 Type='3' Data='ffff'/>...<5 Type='1'/> Hm?
+Talk_0003: |
+  <3 Type='0' Data='0a00'/>I've learned nothing about the <0 Type='3' Data='0000'/>legendary
+  pumpkin<0 Type='3' Data='ffff'/>, and now it's raining. Luck is
+  really not on my side...
+0005: |
+  Goodbye.
+Talk_0024: |
+  <3 Type='0' Data='0a00'/>Don't waste my time with that <0 Type='3' Data='0000'/>Master
+  Sword <0 Type='3' Data='ffff'/>silliness. A sword in the middle of
+  the woods? <5 Type='0'/>Come on now!
+  I've finally pinpointed the Master Gourd's
+  location. It's in the Lost Woods.<0 Type='4'/><3 Type='0' Data='0000'/>That means I'll have to travel to the <0 Type='3' Data='0000'/>north<0 Type='3' Data='ffff'/>
+  of Hyrule, which is a ways off.<0 Type='4'/>But I'll head there once I'm ready.
+Talk_0014: |
+  <3 Type='0' Data='0c00'/>All right! When travelers come to hear the
+  musical troupe perform, I'll be able to ask
+  them about... <5 Type='1'/>Hm?
+Talk_0015: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Oh, hello. You're a traveler, aren't you?
+  But I guess we're all travelers, aren't we,
+  in one way or another! Haha!
+  You haven't by chance heard about a
+  <0 Type='3' Data='0000'/>legendary pumpkin<0 Type='3' Data='ffff'/>, have you?
+Talk_0005: |
+  <3 Type='0' Data='0700'/>What is it now?<5 Type='0'/> Wait...<5 Type='0'/> You know
+  something about the <0 Type='3' Data='0000'/>legendary pumpkin<0 Type='3' Data='ffff'/>,
+  don't you?
+  <3 Type='0' Data='0401'/>If you know something, you have to
+  tell me! <5 Type='1'/>Please?
+Talk_0025: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='08004500610073006500'/>I can't stop wondering... What does the
+  <0 Type='3' Data='0000'/>Master Gourd <0 Type='3' Data='ffff'/>taste like?<0 Type='4'/>I'm so preoccupied thinking about it, I can
+  hardly catch a wink of sleep at night.
+Talk_0026: |
+  <3 Type='0' Data='0c00'/><FontSize Value='80'/>I'm happy to spend my whole entire day asking
+  strangers about the Master Gourd. I don't care who
+  snickers at me...<FontSize Value='100'/>
+Near_0001: |
+  I want that pumpkin...
+Talk_0027: |
+  <FontSize Value='80'/><3 Type='0' Data='0c00'/>I need to learn what I can about the Master Gourd.
+  It's urgent, which means there's no time to sleep!<FontSize Value='100'/>
+Talk_0017: |
+  <3 Type='0' Data='0700'/>Ah, we meet again.<0 Type='4'/><3 Type='0' Data='0c01'/>With so many travelers passing through
+  the stables, I thought at least one would
+  know about the <0 Type='3' Data='0000'/>legendary pumpkin<0 Type='3' Data='ffff'/>.
+  But sadly, no such luck as yet.
+Talk_0008: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='1000540069007200650064005f0030003100'/>So you don't know what I'm talking about.
+  Pah! Figures!<0 Type='4'/>I need to get to the bottom of this, one
+  way or another. Is it true that there's a
+  brave hero who wields the pumpkin?
+  That he harvested it from deep within a
+  forest somewhere?<0 Type='4'/>Or that the flavor is powerful enough to
+  defeat any monster, no matter how strong
+  its stomach?
+  These are my unanswered questions
+  surrounding the legendary pumpkin
+  called the Master Gourd.<0 Type='4'/><3 Type='0' Data='0a00'/>But everyone I ask about it looks at me
+  like I'm talking nonsense. Maybe I was fed
+  some bad info...
+Near_0002: |
+  I'll keep digging.
+Talk_0019: |
+  <3 Type='0' Data='0c00'/><FontSize Value='80'/>Say, it's mealtime. This might be my chance to ask
+  other travelers about the Master Gourd.<FontSize Value='100'/>
+Talk_0009: |
+  <3 Type='0' Data='0c00'/>All I know is that it is—or was—hidden
+  deep in the woods somewhere...<0 Type='4'/><3 Type='0' Data='0001'/>And that it can defeat any monster you
+  feed it to!
+Near_0003: |
+  Rain? Really?

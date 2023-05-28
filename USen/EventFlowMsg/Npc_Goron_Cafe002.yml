@@ -1,0 +1,139 @@
+near01: |
+  Money is no object.
+Talk_09: |
+  <3 Type='0' Data='0c00'/>The polite way to enjoy it is to roll it
+  silently beneath the tongue, allowing it
+  to dissolve.<5 Type='1'/> Hm?
+  Oh me, oh my!
+Talk_20: |
+  <3 Type='0' Data='0a01'/>I took a detour from my travels and came
+  all this way to try it, but there's nothing
+  to be done about it now.
+  <3 Type='0' Data='0100'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>Oh! My apologies for the delayed
+  introduction. The name's <0 Type='3' Data='0000'/>Gomo<0 Type='3' Data='ffff'/>.
+  
+  I travel the world, sampling every rock
+  under the sun. I s'pose that's why I'm
+  known as Gomo the goromand.
+  <3 Type='0' Data='0701'/>I must ask, have you any <0 Type='3' Data='0000'/>flint <0 Type='3' Data='ffff'/>to spare?
+  Inside some flint is a rare and especially
+  delectable <0 Type='3' Data='0000'/>ripened flint<0 Type='3' Data='ffff'/>.
+  <4 Type='0' Data='0e0045006100730065005f0030003100'/>If I could have any ripened <0 Type='3' Data='0000'/><0 Type='3' Data='ffff'/>flint you find,
+  I'd pay you <0 Type='3' Data='0000'/>1,000 rupees <0 Type='3' Data='ffff'/>per piece.
+  
+  Ripened flint looks like normal <0 Type='3' Data='0000'/><0 Type='3' Data='ffff'/>flint, and
+  you won't know one way or the other if
+  it's ripened until you try eating it.
+Talk_21: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>It's a shame, but it looks like <0 Type='3' Data='0000'/>marbled
+  rock roast <0 Type='3' Data='ffff'/>isn't on the menu anymore.
+Talk_22: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='0c004e006f007400690063006500'/>Oh... Oh yes! There can be no doubt. That
+  delicate, earthy aroma. You have some,
+  do you not?
+Talk_23: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0e0045006100730065005f0030003100'/>I'm known as Gomo the goromand. I've
+  sampled nearly every rock in the world!
+  
+  I'll blow through a mountain of rupees for
+  a mountain of exquisite rock.
+Talk_10: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0c005300610064005f0030003000'/>Alas... It's only normal <0 Type='3' Data='0000'/>flint<0 Type='3' Data='ffff'/>.<5 Type='1'/>
+Talk_24: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a005400680069006e006b00'/><0 Type='3' Data='0000'/>Ripened flint <0 Type='3' Data='ffff'/>is incredibly rare—you may
+  have a hundred flint pieces, and not
+  one yields the elusive ripened variety!
+  If you have <0 Type='3' Data='0000'/>20 or more pieces <0 Type='3' Data='ffff'/>of flint,
+  please, let me have them.
+Talk_11: |
+  <3 Type='0' Data='0100'/><FontSize Value='125'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>It's ripened flint!<FontSize Value='100'/>
+0000: |
+  Here ya go.
+Talk_12: |
+  <3 Type='0' Data='0801'/>Sharp edges that bite at the tongue. A
+  gravelly mouthfeel with particulate that
+  sticks between the teeth.
+  <4 Type='0' Data='1000480061007000700079005f0030003100'/>There can be no doubt. This is indeed
+  authentic, ripened flint!
+Talk_25: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='100041006e006700720079005f0030003000'/>I look forward...<5 Type='1'/>
+  
+  
+  <3 Type='0' Data='0800'/><4 Type='0' Data='100041006e006700720079005f0030003100'/>to a stupendous...<5 Type='1'/>
+  
+  
+  <3 Type='0' Data='0800'/><4 Type='0' Data='12004c0061007500670068004c005f0030003000'/>relationship with you!
+Talk_00: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0e0045006100730065005f0030003100'/>Here for Cooke's famous culinary
+  concoctions too?
+  
+  Recently, I heard about a rare delicacy
+  being offered here known as <0 Type='3' Data='0000'/>marbled
+  rock roast<0 Type='3' Data='ffff'/>. I'm told it's indescribable!
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>I interrupted my travels to come try it, but
+  they're fresh out...
+  
+  <3 Type='0' Data='0701'/>Not sure <0 Type='3' Data='0000'/>edible rocks <0 Type='3' Data='ffff'/>would appeal to a
+  Hylian though. Too much tooth-crunch!
+  
+  Normally, there's a menu just for Hylians,
+  but everything's sold out on that one
+  as well.
+  Seems like we're both out of luck, hm?
+0001: |
+  I've changed my mind.
+Talk_13: |
+  <3 Type='0' Data='0801'/>Here are your <0 Type='3' Data='0000'/>1,000 rupees<0 Type='3' Data='ffff'/>, as promised.
+Talk_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a005400680069006e006b00'/><0 Type='3' Data='0000'/>Ripened flint <0 Type='3' Data='ffff'/>is a true delicacy.
+  
+  
+  If I may have any of your ripened flint,
+  I'll pay you <0 Type='3' Data='0000'/>1,000 rupees <0 Type='3' Data='ffff'/>per piece.
+  
+  It looks like normal flint, and you won't
+  know one way or the other until you try
+  eating it.
+0002: |
+  Just 20.
+Talk_14: |
+  <3 Type='0' Data='0701'/><0 Type='3' Data='0000'/>Ripened flint <0 Type='3' Data='ffff'/>is incredibly rare—eat a
+  hundred, and you still may not find even
+  one. So this isn't too surprising, really.
+  I shall spare no expense for ripened flint.
+  I'd be thrilled if you brought me more
+  to test out.
+0003: |
+  A healthy 50.
+Talk_15: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>What have we here!
+Talk_03: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='0e0045006100730065005f0030003100'/>There's no telling whether or not it's
+  ripened <0 Type='3' Data='0000'/>flint <0 Type='3' Data='ffff'/>until I eat it.
+  
+  How much will you provide me with?
+0004: |
+  Got room for 100?
+Talk_16: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003100'/>Could you hand them over all in one go?
+Talk_17: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0e0045006100730065005f0030003100'/>You here for Cooke's famous culinary
+  concoctions too?
+  
+  <3 Type='0' Data='0a01'/>I came here to sample the <0 Type='3' Data='0000'/>marbled rock
+  roast<0 Type='3' Data='ffff'/>, but it looks like they no longer
+  offer it.
+0005: |
+  Never mind.
+Talk_18: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0a005400680069006e006b00'/>I even made a big detour out this way so
+  I could come try the <0 Type='3' Data='0000'/>marbled rock roast<0 Type='3' Data='ffff'/>
+  I've heard so much about.
+  To think it'd be sold out...
+  What a travesty.
+Talk_19: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0e0045006100730065005f0030003100'/>You here for Cooke's famous culinary
+  concoctions too?
+  
+  <3 Type='0' Data='0a01'/>I came here to try <0 Type='3' Data='0000'/>marbled rock roast<0 Type='3' Data='ffff'/>,
+  but it seems they're fresh out.

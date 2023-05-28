@@ -1,0 +1,56 @@
+talk0000: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='08005300610076006f00'/>Votta!<5 Type='0'/> I mean, Sav'otta!
+talk0001: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='08005300610076006100'/>Sav'a!<5 Type='0'/> I mean, Sav'aaq!
+talk0002: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='08005300610076006100'/>Sav'a!<5 Type='0'/> I mean, Sav'saaba!
+talk0003: |
+  <FontSize Value='80'/><3 Type='0' Data='0a01'/>That was close... If the others heard me, they'd
+  definitely chew me out for using slang on duty...<FontSize Value='100'/>
+AssassinClothes: |
+  Hm?
+talk0004: |
+  <3 Type='0' Data='0800'/>I never would have thought to decorate
+  my weapon with a ruby.
+  
+  But now I'm a changed vai! I'm going to
+  decorate my weapon, my shield, and my
+  arrows too! I'll be a glittering guard!
+talk0010: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a0041006e00670072007900'/>If you run out, come see me.
+talk0005: |
+  <3 Type='0' Data='0900'/>Hey! What do you think you're doing?!
+talk0011: |
+  <3 Type='0' Data='0800'/>Sarq for before!<5 Type='0'/> I mean, sarqso!
+  
+  
+  After all your help, you're welcome to
+  anything you want from our stock here.
+talk0006: |
+  Those rations are for the soldiers.<0 Type='4'/>The <0 Type='3' Data='0000'/>sand shroud <0 Type='3' Data='ffff'/>is wreaking havoc on our
+  supply of provisions right now. Sorry, but
+  if you need something, check the shop.
+near0000: |
+  I've got more arrows here!
+talk0012: |
+  <3 Type='0' Data='0700'/>Now that the sand shroud's quieted
+  down, we're able to get our regular
+  supplies from town again.
+  So feel free to take what you need from
+  our stockpile here.
+talk0007: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a0041006e00670072007900'/>You're here to help, right?! Then get your
+  bow ready, and fight!
+talk0013: |
+  Are these enough arrows for now?
+talk0008: |
+  I have bows and arrows to spare. If you
+  need them, just ask.
+talk0014: |
+  <3 Type='0' Data='0800'/>After what you did, you're welcome to use
+  anything you want from our stock here.
+talk0009: |
+  If this will help, it's all yours.
+talk0015: |
+  <3 Type='0' Data='0900'/>I have no time to entertain brigands and
+  thieves. <5 Type='1'/>Get out of here.<5 Type='0'/> Now!

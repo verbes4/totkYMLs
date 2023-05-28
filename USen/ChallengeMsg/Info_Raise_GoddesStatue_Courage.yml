@@ -1,0 +1,40 @@
+CheckGoddesStatue: |
+  The Goddess Statue of the Spring of Courage
+  is troubled by her inability to sense the
+  <0 Type='3' Data='0000'/>Mother Goddess Statue in the vast canyon<0 Type='3' Data='ffff'/>.
+  
+  She asked you to check on the statue and
+  return with your findings.
+Name: |
+  Goddess Statue of Courage
+Complete: |
+  To restore the toppled Mother Goddess Statue,
+  you offered the golden spirit Farosh's claw at
+  the Spring of Courage.
+  
+  Assisting the Goddess Statues at the other
+  springs will apparently help restore the Mother
+  Goddess Statue.
+Report: |
+  The "vast canyon" turned out to refer to the
+  Forgotten Temple, where you found a great
+  Goddess Statue that had been toppled over.
+  
+  Report the bad news to the Goddess Statue
+  at the Spring of Courage.
+SolvePouch: |
+  To restore the toppled Mother Goddess Statue,
+  you offered Farosh's claw at the spring. The
+  Goddess Statue of the Spring of Courage was
+  grateful, but your pouch was too full to accept
+  her reward of a topaz.
+  
+  Return to her once you've made room for it.
+Altarage: |
+  The Goddess Statue of the Spring of Courage
+  was saddened to hear that the great Goddess
+  Statue had been toppled. She asked you to
+  help her restore it.
+  
+  Offer the golden spirit <0 Type='3' Data='0000'/>Farosh's claw<0 Type='3' Data='ffff'/> at
+  the spring.

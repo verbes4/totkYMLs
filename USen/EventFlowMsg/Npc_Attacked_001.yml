@@ -1,0 +1,259 @@
+FirstTalk_01: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068005300'/>I keep hearing about the stylish clothes
+  they make in Hateno Village.
+  
+  Take it from me—<5 Type='0'/>you can't underestimate
+  the power of a good wardrobe.
+  
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0a0048006100700070007900'/>I used to be a total wallflower. Then I
+  learned how to dress myself, and boom—
+  I was a new woman!
+  Maybe you should go to Hateno Village
+  and try a new look for yourself.
+  
+  It's located on the far side of Necluda
+  in southeast Hyrule.
+  
+  Never know! Might change your life.
+StartPoint_01: |
+  <3 Type='0' Data='0700'/>I'm traveling all over to learn what I can
+  about the latest trends.
+  
+  Fashion never stops moving, see. I've got
+  to constantly work to keep up or I risk
+  getting left behind.
+  <3 Type='0' Data='0c01'/>Come to think of it, there are people from
+  all over at Lookout Landing right now,
+  south of Hyrule Castle.
+  Might be a good place to learn the latest
+  fashion news—<5 Type='0'/>or any other kind of news,
+  for that matter.
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>Guess that'll be my next stop!
+GoalPoint_01: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0600530061006400'/>Aren't you afraid of monsters?
+  
+  
+  No matter how confident I am now, I still
+  cringe whenever I see a monster...
+  
+  They just don't care how stylish you are!
+  
+  
+  When monsters are nearby, move carefully
+  to avoid their attention.
+FirstTalk_02: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>If you want trendy clothes, Hateno Village
+  is the place to go.
+  
+  It's on the far side of Necluda, over there
+  in southeast Hyrule.
+  
+  Why not check it out? You might be
+  surprised what a new outfit can do!
+BeforeMeetPurah_01_2: |
+  <3 Type='0' Data='0700'/>You can have a nice, safe rest if you make
+  it to <0 Type='3' Data='0000'/>Lookout Landing<0 Type='3' Data='ffff'/>. It's just<0 Type='3' Data='0000'/> south <0 Type='3' Data='ffff'/>of
+  <0 Type='3' Data='0000'/>Hyrule Castle<0 Type='3' Data='ffff'/>.
+  Head for the tall tower. You can't miss it.
+SavedLv2_00: |
+  <3 Type='0' Data='0501'/><4 Type='0' Data='08004500610073006500'/>Thanks to you, I'll be<5 Type='0'/> *clack* <5 Type='0'/>fine as soon
+  as my <5 Type='0'/>*clack*<5 Type='0'/> teeth stop chattering.
+SavedLv2_01: |
+  <3 Type='0' Data='0501'/><4 Type='0' Data='08004500610073006500'/>So s-scary... <5 Type='0'/>Th... <5 Type='0'/>Tha... <5 Type='0'/>Thank you
+  berry...<5 Type='0'/>berry much.
+GoRange_01_2: |
+  <3 Type='0' Data='0700'/>A shop that can dye your clothes a new
+  color...<5 Type='0'/> I'd like to go at least once.
+  
+  It's on the far side of Necluda in
+  southeastern Hyrule, so I'll have to
+  travel quite a ways.
+  But once I'm done here, I think I might
+  make the trip.
+GoalPoint_01_2: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0600530061006400'/>When monsters are nearby, move carefully
+  to avoid their attention.
+Greet_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Oh, morning!
+ComStylishTalk_001: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Hey, are you looking for <0 Type='3' Data='0000'/>Misko's
+  hidden treasure<0 Type='3' Data='ffff'/>?
+  
+  I want to stay on top of the fashion game,
+  so I've been trying to find it for ages.
+Greet_02: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Oh, hey! Hello.
+ComStylishTalk_002: |
+  <3 Type='0' Data='0700'/>Are you also trying to find <0 Type='3' Data='0000'/>Misko's
+  hidden treasure<0 Type='3' Data='ffff'/>?
+Atacked00: |
+  <3 Type='0' Data='0201'/><4 Type='0' Data='1200530075007200700072006900730065004c00'/>Don't just stand there!<5 Type='0'/> SAVE ME!
+Greet_04: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Oh, good evening!
+BackRange_02_2: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0a005400680069006e006b00'/>The <0 Type='3' Data='0000'/>cave <0 Type='3' Data='ffff'/>hiding <0 Type='3' Data='0000'/>Misko<0 Type='3' Data='ffff'/>'s treasure is
+  supposed to be around here...
+SagonoHat: |
+  I must have that hat.
+Atacked01: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='1200530075007200700072006900730065004c00'/>Help! <5 Type='0'/>Heeelp! <5 Type='1'/>Monster attaaack!
+ComStylishTalk_005: |
+  <3 Type='0' Data='0700'/>Oh.<5 Type='0'/> Bye.
+NakedPlayer: |
+  Down to the skivvies, hm?
+StartPoint_01_2: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>You're not much of a talker, are you?
+  
+  
+  Well, if you like listening, I hear Lookout
+  Landing's a good place to pick up all sorts
+  of info. It's just south of Hyrule Castle.
+  I might go myself—<5 Type='0'/>see what I learn about
+  the latest fashion trends.
+Guardian00: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='0a0053006300610072006500'/>Wh-<5 Type='0'/>what was with that monster?!
+Near_GoalPoint_01: |
+  I need to be careful...
+Failed00: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0a0053006300610072006500'/>Whew.<5 Type='0'/> I can't take it anymore! <5 Type='0'/>If there's a
+  world without monsters, sign me up.
+SavedLv3_00: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='1000540069007200650064005f0030003000'/>Thank few! <5 Type='0'/>Er,<5 Type='0'/> thank new! I mean... *sigh*<5 Type='1'/>
+  Just... Thanks!
+Failed01: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0a0053006300610072006500'/>I-I can't it anymore!<5 Type='0'/> My goosebumps
+  have goosebumps!
+Thanks00: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0a0048006100700070007900'/>Wow! <5 Type='0'/>You saved my life!<5 Type='0'/> Please, take this.
+0001: |
+  Misko's treasure?
+SavedLv1_00: |
+  <3 Type='0' Data='0501'/><4 Type='0' Data='08004500610073006500'/>Whew! <5 Type='0'/>I didn't like that one bit. Thanks
+  for the help.
+SavedLv3_01: |
+  <3 Type='0' Data='0a00'/>Th-that was awful!<5 Type='0'/> I would cry, except
+  that wouldn't go with this look at all.
+GoRange_02_2: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0600530061006400'/>There's a rumor that the <0 Type='3' Data='0000'/>clothes <0 Type='3' Data='ffff'/>hidden
+  by the <0 Type='3' Data='0000'/>Great Bandit Misko <0 Type='3' Data='ffff'/>are buried in
+  a <0 Type='3' Data='0000'/>cave <0 Type='3' Data='ffff'/>near here.
+  But going into a <0 Type='3' Data='0000'/>cave <0 Type='3' Data='ffff'/>takes courage that
+  I don't have. What if there are monsters?
+SavedLv1_01: |
+  <3 Type='0' Data='0501'/><4 Type='0' Data='08004500610073006500'/>I can't believe I got out of there with
+  nothing worse than shaky knees.<5 Type='0'/> Thanks.
+0003: |
+  Goodbye.
+Near_Rain: |
+  Ack! My clothes!
+Near_GoRange_01: |
+  Which color? Hmm...
+GoRange_01: |
+  <3 Type='0' Data='0700'/>I heard there's a shop in <0 Type='3' Data='0000'/>Hateno Village<0 Type='3' Data='ffff'/>
+  that can dye your clothes a new color.
+  
+  Hateno is on the far side of Necluda,
+  which is pretty far from here.
+  
+  But it's a must for anyone who cares
+  about fashion. And I definitely care.
+Near_GoRange_02: |
+  Misko's treasure...
+RainPoint_01_2: |
+  <3 Type='0' Data='0700'/><0 Type='3' Data='0000'/>Hateno Village <0 Type='3' Data='ffff'/>is on the far side of
+  Necluda in southeast Hyrule. It's not
+  exactly close.
+  But it's THE place to go if your outfit
+  fades and you need to have it re-dyed.
+GoRange_02: |
+  <3 Type='0' Data='0700'/>Yeah...<5 Type='0'/> It refers to the <0 Type='3' Data='0000'/>clothes <0 Type='3' Data='ffff'/>hidden by
+  the <0 Type='3' Data='0000'/>Great Bandit Misko<0 Type='3' Data='ffff'/> ages ago.
+  
+  There's a rumor that the treasure is
+  hidden in a <0 Type='3' Data='0000'/>cave <0 Type='3' Data='ffff'/>near here.
+  
+  As someone with a keen eye for fashion,
+  obviously I'd like to get my hands on it...
+  
+  <3 Type='0' Data='0a00'/>But <0 Type='3' Data='0000'/>caves<0 Type='3' Data='ffff'/> probably have monsters in
+  them. And how am I supposed to deal
+  with that, huh?
+BeforeMeetPurah_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>You lost?<5 Type='1'/> If you're looking for a town or
+  village around here, try <0 Type='3' Data='0000'/>Lookout Landing<0 Type='3' Data='ffff'/>.
+  It's just south of Hyrule Castle.
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>You'll be able to see the tower from a
+  ways off. Can't miss it.
+  
+  <3 Type='0' Data='0001'/>There are lots of monsters around these
+  days,<5 Type='0'/> so watch out.
+RainPoint_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Are you avoiding the rain too?
+  
+  
+  Getting wet is the worst!<5 Type='0'/> The rain is awful
+  for clothes.
+  
+  <3 Type='0' Data='0401'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>But get this—I heard there's a shop in
+  Hateno Village<0 Type='3' Data='0000'/> <0 Type='3' Data='ffff'/>that'll re-dye your outfits.
+  
+  <3 Type='0' Data='0000'/>Hateno is on the far side of Necluda in
+  southeast Hyrule. It's not exactly close.
+  
+  <3 Type='0' Data='0800'/>But it's THE place to go if your outfit
+  fades or you want to freshen up your look.
+Near_RainPoint_01: |
+  Can't get my clothes wet...
+EnokidaSignboard: |
+  Is that hairstyle in now?
+Near_BeforeMeetPurah_01: |
+  Gotta be careful.
+BackRange_01_2: |
+  <3 Type='0' Data='0700'/>Rito Village is to the<0 Type='3' Data='0000'/> northwest<0 Type='3' Data='ffff'/>,<0 Type='3' Data='0000'/> <0 Type='3' Data='ffff'/><5 Type='0'/>or you
+  could go <0 Type='3' Data='0000'/>northeast<0 Type='3' Data='ffff'/> to Goron City.
+  
+  Zora's Domain<0 Type='3' Data='0000'/> <0 Type='3' Data='ffff'/>is <0 Type='3' Data='0000'/>east<0 Type='3' Data='ffff'/>,<5 Type='0'/> and if you want to
+  see Gerudo Town, go <0 Type='3' Data='0000'/>southwest<0 Type='3' Data='ffff'/>.
+  
+  <3 Type='0' Data='0800'/>Surely a fancy adventurer like you has a
+  <0 Type='3' Data='0000'/>map<0 Type='3' Data='ffff'/>, right?
+Near_StartPoint_01: |
+  I need to change...
+BackRange_01: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Hold on, are you lost? <5 Type='0'/>Here, I can help.
+  We're in Hyrule Field, right? Well...
+  
+  <3 Type='0' Data='0001'/>Rito Village is to the<0 Type='3' Data='0000'/> northwest<0 Type='3' Data='ffff'/>,<0 Type='3' Data='0000'/> <0 Type='3' Data='ffff'/><5 Type='0'/>or you
+  could go <0 Type='3' Data='0000'/>northeast<0 Type='3' Data='ffff'/> to Goron City.
+  
+  Zora's Domain<0 Type='3' Data='0000'/> <0 Type='3' Data='ffff'/>is <0 Type='3' Data='0000'/>east<0 Type='3' Data='ffff'/>,<5 Type='0'/> and if you want to
+  see Gerudo Town, go <0 Type='3' Data='0000'/>southwest<0 Type='3' Data='ffff'/>.
+  
+  <3 Type='0' Data='0800'/>Just take a map and you'll be fine.
+  You...have a <0 Type='3' Data='0000'/>map<0 Type='3' Data='ffff'/>, right?
+Near_Thunder: |
+  Hyaaa!
+Near_BackRange_01: |
+  Hope you have a map.
+FirstTalk_Near: |
+  Fashion is everything!
+BackRange_02: |
+  <3 Type='0' Data='0700'/>Yeah... <5 Type='0'/>It refers to the<0 Type='3' Data='0000'/> legendary clothing<0 Type='3' Data='ffff'/>
+  hidden by the <0 Type='3' Data='0000'/>Great Bandit Misko<0 Type='3' Data='ffff'/>.
+  
+  There's a rumor that the treasure is
+  hidden in a <0 Type='3' Data='0000'/>cave <0 Type='3' Data='ffff'/>near here...
+  
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0600530061006400'/>But I've been looking for ages, and it
+  isn't ANYWHERE.
+  
+  I wonder if it has to do with me avoiding
+  any place there might be monsters.
+Near_BackRange_02: |
+  Now, where...
+ComNakedCheck_W_001: |
+  <3 Type='0' Data='0b00'/>Oh, please! <5 Type='1'/>Don't waste your time talking
+  to me looking like that.<0 Type='4'/>Listen, your fashion sense—or lack of
+  fashion sense—is your own, but...<0 Type='4'/>I simply can NOT be guilty by association
+  of the fashion crimes you're committing
+  right now.

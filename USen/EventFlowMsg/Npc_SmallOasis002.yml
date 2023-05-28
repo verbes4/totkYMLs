@@ -1,0 +1,133 @@
+near1003: |
+  <FontSize Value='80'/>Zzz...<FontSize Value='100'/>
+near1004: |
+  Glad I've got wings.
+0003: |
+  Sand shroud?
+0004: |
+  Goodbye.
+talk0012: |
+  <3 Type='0' Data='0700'/>Have you seen the thick layer of sand
+  over the desert? That is the sand shroud.
+  
+  Should you be caught in it, not only will it
+  obscure your vision but it will also make
+  your compass go haywire.
+  Thanks to that updraft over there,
+  however, this oasis is secure.
+  
+  I've never been inside the sand shroud,
+  myself. We<0 Type='3' Data='0000'/> Rito<0 Type='3' Data='ffff'/> can simply <0 Type='3' Data='0000'/>fly over it<0 Type='3' Data='ffff'/>.
+talk0022: |
+  <3 Type='0' Data='0700'/>Another Hylian stranded out here by the
+  sand shroud, I take it?
+  
+  Well, the storm has settled now, and
+  visibility is clear in any direction you
+  may care to look.
+  It should be safe for you and your
+  wingless kin to cross the desert again.
+  
+  As for me, I've grown fond of this little
+  oasis. I think I'll bring my <0 Type='3' Data='0000'/>family<0 Type='3' Data='ffff'/> out here
+  and make this place our forever nest.
+0005: |
+  You have a family?
+talk0013: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Goodvorq...
+  
+  
+  *sigh* I did it again. That was one part
+  "goodbye" and one part "sav'orq."
+talk0023: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0a0048006100700070007900'/>My wife runs a general store in Rito
+  Village. I'm not one to brag, but she's the
+  most beautiful lady you ever will see.
+  Our son runs a store of his own in some
+  town or other, but I'm not entirely sure
+  of all the details.
+  The town itself was apparently established
+  fairly recently in northeast Hyrule.
+  
+  <3 Type='0' Data='0700'/>As you might imagine, the two of them
+  stay very busy, so it may be some time
+  before we all live together again.
+0006: |
+  Goodbye.
+talk1000: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c00570061006b00650075007000'/>Hmm?<5 Type='1'/> Oh... I must have fallen asleep.
+talk0024: |
+  <3 Type='0' Data='0700'/>Be careful not to get your feathers rustled
+  by the sand shroud.<0 Type='4'/>Goodvorq for now.<0 Type='4'/>Ugh, sorry. That was a little bit "goodbye"
+  and a little bit "sav'orq." <5 Type='1'/>Look, you knew
+  what I meant. Just take care out there.
+talk1001: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Oh, goodmortta—<5 Type='1'/>
+  
+  
+  <3 Type='0' Data='0701'/>Ah, forgive me. Mixed up my languages
+  there. That was one part "good morning"
+  and one part "sav'otta."
+  Perhaps I have been out here too long...
+talk0015: |
+  <3 Type='0' Data='0700'/>Life without wings must be hard for
+  you Hylians.
+  
+  The sand shroud's no trouble for <0 Type='3' Data='0000'/>Rito<0 Type='3' Data='ffff'/> like
+  me. We can simply <0 Type='3' Data='0000'/>fly over it<0 Type='3' Data='ffff'/>.
+talk1002: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Well, good'aaq—
+  
+  
+  <3 Type='0' Data='0701'/>Dear me. I accidentally combined "good
+  day" with the Gerudo "sav'aaq" there.
+  
+  Perhaps I've lived here too long...
+talk1012: |
+  <3 Type='0' Data='0c01'/><0 Type='3' Data='0200'/><FontSize Value='80'/>Which reminds me, I've heard all sorts of new
+  greetings lately, like "votta" and "sav'a"... 
+  Should I be using those instead?<FontSize Value='100'/><0 Type='3' Data='ffff'/>
+talk0016: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0600530061006400'/>I'm still recovering from the shock of
+  seeing those monsters swarming all over
+  peaceful oasis.
+  After all these years, I thought the desert
+  had run out of ways to surprise me.
+talk1003: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Ah, goodevaaba—
+  
+  
+  <3 Type='0' Data='0701'/>No, that isn't right. I just combined "good
+  evening" with the Gerudo "sav'saaba"...
+  
+  A sign I've been here too long, perhaps...
+talk0007: |
+  <3 Type='0' Data='0700'/>Another Hylian stranded by the <0 Type='3' Data='0000'/>sand
+  shroud<0 Type='3' Data='ffff'/>, I take it?<5 Type='0'/> How challenging life
+  without wings must be.
+  The <0 Type='3' Data='0000'/>higher<0 Type='3' Data='ffff'/> you go, the <0 Type='3' Data='0000'/>thinner <0 Type='3' Data='ffff'/>the shroud
+  gets, so we<0 Type='3' Data='0000'/> <0 Type='3' Data='ffff'/>Rito can soar right over it.
+  
+  For us, it's little more than a sandy fog.
+talk0017: |
+  <3 Type='0' Data='0700'/>At the end of the day, this is where I have
+  chosen to nest. Goodvorq, old home.
+  
+  ...Goodbye. I meant goodbye. I just mixed
+  it up with the Gerudo word "sav'orq."
+near1000: |
+  <FontSize Value='80'/>Zzz...<FontSize Value='100'/>
+talk0018: |
+  <3 Type='0' Data='0700'/>Now that the sand shroud is gone, we
+  have clear views in every direction.
+  
+  Crossing the desert should be safe for
+  you and your wingless kin once more.
+  
+  As for me, I've grown fond of this oasis.
+  I plan to bring my <0 Type='3' Data='0000'/>family<0 Type='3' Data='ffff'/> here so we can
+  live out our lives in this place.
+near1001: |
+  <FontSize Value='80'/>Zzz...<FontSize Value='100'/>
+near1002: |
+  <FontSize Value='80'/>*snore*<FontSize Value='100'/>

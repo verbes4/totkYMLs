@@ -1,0 +1,215 @@
+Talk_2112: |
+  <3 Type='0' Data='0700'/>I'm always happy to talk, but would it be
+  all right if we moved this conversation
+  under a tree and out of the rain?
+Talk_1018: |
+  <3 Type='0' Data='0701'/>I don't really know what this all means...
+  
+  
+  But it's the duty of a stable to keep its
+  guests safe, so I can't help but worry.
+Talk_2100: |
+  <3 Type='0' Data='0700'/>There's nothing cuter than the sleeping
+  face of my granddaughter.
+LargeHorse: |
+  It's clearly fond of you.
+GoldHorse: |
+  What a beautiful creature...
+Talk_1019: |
+  <3 Type='0' Data='0701'/>So if you <0 Type='3' Data='0000'/>also<0 Type='3' Data='ffff'/> plan to go to the city, watch
+  out for Gorons with strange rocks.
+Talk_2101: |
+  <3 Type='0' Data='0700'/>Oh, excuse me. If you would like me to
+  <0 Type='3' Data='0000'/>show you around the area<0 Type='3' Data='ffff'/>, I'd ask you
+  to please wait until morning.
+  This little girl is my granddaughter. She's
+  been fascinated by the sky ever since she
+  was able to lift her head.
+  Since the Upheaval, her eyes and
+  imagination have been fixed on those
+  islands floating up there.
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Maybe when she grows up, she'll be like
+  those researchers and travel the world,
+  chasing her passions...<5 Type='1'/>
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>It's funny—when I dream of her future,
+  I can't help but want to spend time with
+  her now.
+0010: |
+  Also?
+0011: |
+  Strange rocks?
+Near_100: |
+  It's not letting up...
+Near_101: |
+  I swear, this weather...
+Near_02: |
+  I hope they're all right...
+0001: |
+  Goodbye.
+Near_03: |
+  Looking for directions?
+Near_04: |
+  What a dear...
+Talk_2010: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068005300'/>If you want to be shown the way to
+  Goron City, Zora's Domain, or Hyrule
+  Castle, just say the word.
+Talk_1020: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004c0061007500670068005300'/>Oh, setting out this early, are we?
+Talk_2011: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>If you proceed up the mountain path,
+  you'll find Goron City at the very end of
+  your climb.
+  The Gorons are wonderful folks, and just
+  wait until you see the <0 Type='3' Data='0000'/>prices on the ores<0 Type='3' Data='ffff'/>
+  at YunoboCo's <0 Type='3' Data='0000'/>mineral market<0 Type='3' Data='ffff'/>!
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>They had some recent trouble with these
+  strange rocks that made them act up a
+  little, but that's all over now.
+  The Gorons are back to their welcoming
+  selves, so go ahead and pay them a visit.
+Talk_1021: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004c0061007500670068005300'/>Oh, do my eyes deceive me? Or do you
+  plan on setting out?
+Talk_2012: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>If you want to get to Zora's Domain, your
+  best option is to follow the river upstream.
+  
+  You'll know you've nearly made it when
+  you see the shiny blue entrance gate.
+Talk_1022: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004c0061007500670068005300'/>The monsters are out on the prowl around
+  now, and you're still setting out?
+Talk_2000: |
+  <3 Type='0' Data='0701'/>Most of the travelers who stop by our
+  stable are headed toward Goron City,
+  Zora's Domain, or Hyrule Castle.
+  Guiding them to wherever they're going
+  is one of my roles here.
+  
+  Is there anywhere I can guide you?
+0006: |
+  Where's Goron City?
+Talk_2013: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='0600530061006400'/>I hear that the Zora are dealing with this
+  strange, falling sludge right now.
+  
+  Though I'm afraid I don't know much
+  about it myself.
+  
+  <3 Type='0' Data='0700'/>There's a stable out east near Zora's
+  Domain—Foothill Stable.
+  
+  Maybe the proprietor there can tell you
+  more about what's going on.
+Talk_1023: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004c0061007500670068005300'/>My, even the rain isn't enough to slow
+  you down, I see.
+Talk_1010: |
+  <3 Type='0' Data='0701'/>I take it you're <0 Type='3' Data='0000'/>also<0 Type='3' Data='ffff'/> headed to Goron City.
+  
+  
+  <4 Type='0' Data='0600530061006400'/>This may be an odd warning, but do try to
+  watch out for Gorons with <0 Type='3' Data='0000'/>strange rocks<0 Type='3' Data='ffff'/>.
+Talk_2001: |
+  <3 Type='0' Data='0700'/>You don't really plan on going out and
+  about this late at night, do you?
+0007: |
+  Where's Zora's Domain?
+Talk_2014: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0e0045006100730065005f0030003000'/>By the way, that sludge that was troubling
+  the Zora is completely gone. I'm sure
+  they're even more relieved than I am.
+Talk_1024: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004c0061007500670068005300'/>My, setting out at this hour? Not much of
+  a sleeper, are you?
+Talk_1011: |
+  <3 Type='0' Data='0700'/>You look like an experienced traveler, so
+  you'll probably be fine, but...
+  
+  If you're <0 Type='3' Data='0000'/>also<0 Type='3' Data='ffff'/> headed to Goron City, be
+  careful of Gorons with <0 Type='3' Data='0000'/>strange rocks<0 Type='3' Data='ffff'/>.
+Talk_2002: |
+  <3 Type='0' Data='0700'/>Setting out so early? 
+Talk_2015: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068005300'/>If you're looking for directions, just ask.
+  It is my job, after all.
+0008: |
+  Where's Hyrule Castle?
+BoneHorse: |
+  What a strange mount.
+Talk_1012: |
+  <3 Type='0' Data='0700'/>There's a <0 Type='3' Data='0000'/>restaurant<0 Type='3' Data='ffff'/> up this mountain
+  path toward the city.
+  
+  I pointed a traveler in that direction quite
+  some time ago, but there's been no sign
+  of them coming back.
+  <3 Type='0' Data='0c00'/>It's hard not to imagine they've gotten
+  into some sort of trouble...
+Talk_2016: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Continue west along this road, keeping
+  your eye on the floating Hyrule Castle...
+  
+  You'll find yourself in the middle of
+  Central Hyrule looking up at it before
+  you know it.
+  <3 Type='0' Data='0a00'/>It was a truly beautiful castle once, but
+  now it looks so sinister...
+  
+  I've heard rumors that the princess might
+  still be sealed away in there.
+  
+  Whether that's true or not, I'll still be
+  praying for her safety.
+0009: |
+  Goodbye.
+Talk_1013: |
+  <3 Type='0' Data='0700'/>The Gorons are typically so gentle
+  and hardworking.
+  
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='0a0041006e00670072007900'/>But lately it seems the young ones have
+  stopped working altogether, and some
+  are even playing tricks on travelers...
+  I met one injured traveler who told me
+  that the Gorons in question all carried
+  "<0 Type='3' Data='0000'/>strange rocks<0 Type='3' Data='ffff'/>."
+Talk_2017: |
+  <3 Type='0' Data='0700'/>There are more monsters out at night.
+  If you're feeling tired, why not rest until
+  morning at our stable?
+Talk_1014: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068005300'/>It's a stable's duty to keep travelers safe,
+  so if you ever find yourself in any trouble,
+  don't be shy about coming to us.
+WakkaCharm: |
+  Well, isn't that fancy?
+Talk_1015: |
+  <3 Type='0' Data='0701'/>So just try to give a wide berth to any
+  Gorons you might see with <0 Type='3' Data='0000'/>strange rocks<0 Type='3' Data='ffff'/>.
+Talk_1016: |
+  <3 Type='0' Data='0700'/>There's a <0 Type='3' Data='0000'/>restaurant<0 Type='3' Data='ffff'/> up this mountain
+  path toward the city.
+  
+  I pointed a traveler in that direction quite
+  some time ago, but there's been no sign
+  of them coming back.
+  <3 Type='0' Data='0c00'/>I've been so worried about what could
+  have happened that I've hardly been able
+  to sleep at night...
+Talk_2111: |
+  <3 Type='0' Data='0700'/>Sorry, but if you'd like me to <0 Type='3' Data='0000'/>show you
+  around the area<0 Type='3' Data='ffff'/>, could you please wait
+  until morning?
+  This little girl is my granddaughter. She's
+  been fascinated by the sky ever since she
+  was able to lift her head.
+  And since the Upheaval, her eyes and
+  imagination have been fixed on those
+  islands floating up there.
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Maybe when she grows up, she'll be like
+  those researchers and travel the world,
+  chasing her passions...<5 Type='1'/>
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>It's funny—when I dream of her future,
+  I can't help but want to spend time with
+  her now.

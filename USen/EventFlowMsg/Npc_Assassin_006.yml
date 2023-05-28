@@ -1,0 +1,27 @@
+Talk01: |
+  <3 Type='0' Data='0900'/><FontSize Value='125'/>Your life is mine!<1 Type='3' Data='5a000000'/><FontSize Value='100'/>
+0000: |
+  I've heard.
+0001: |
+  News to me.
+Talk03: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068005300'/>I told you that this place would lead you
+  to the underworld, and you still came
+  back? Oh, hero...
+Near00: |
+  This place...
+Talk04: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>Is that right?<5 Type='1'/> Well, listen close, hero, and
+  you'll hear some screams...
+  
+  <3 Type='0' Data='0000'/>But they're going to be yours!
+Talk00: |
+  <3 Type='0' Data='0700'/>Did you know if you put your ear to a well,
+  you can hear the wailing of the dead?<5 Type='0'/>
+  Or so they say, anyway.
+Talk05: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='12004c0061007500670068004c005f0030003000'/>Wow, heroes really do know a little bit
+  about everything!<5 Type='0'/>
+  
+  <3 Type='0' Data='0000'/>And guess what?<5 Type='1'/> You'll be joining those
+  wailing dead very soon!

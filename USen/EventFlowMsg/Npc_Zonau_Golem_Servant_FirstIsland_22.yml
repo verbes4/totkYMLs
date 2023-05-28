@@ -1,0 +1,165 @@
+talk_1020: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/><0 Type='3' Data='ffff'/>Your Energy Cell has been expanded to
+  the maximum extent possible. <5 Type='0'/>It will not
+  support more Energy Wells.<0 Type='4'/>But you may still find yourself with surplus
+  <0 Type='3' Data='0000'/>crystallized charges<0 Type='3' Data='ffff'/>.<0 Type='4'/>I will instead accept <0 Type='3' Data='0000'/>crystallized charges<0 Type='3' Data='ffff'/>
+  for your choice of <0 Type='3' Data='0000'/>Zonai device<0 Type='3' Data='ffff'/>.
+0014: |
+  Let's see them.
+Com_Talk_12: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0700'/><0 Type='3' Data='ffff'/>You may select a Zonai device
+  in exchange.
+talk_1021: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0700'/><0 Type='3' Data='ffff'/>Would you like to trade now for a
+  <0 Type='3' Data='0000'/>Zonai device<0 Type='3' Data='ffff'/>?
+0015: |
+  Not right now.
+0016: |
+  Crystallized charges?
+talk_1022: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0800'/><0 Type='3' Data='ffff'/>Your <0 Type='3' Data='0000'/>Energy Cell<0 Type='3' Data='ffff'/> has been expanded to
+  the maximum extent possible.<0 Type='4'/>I will still trade crystallized charges for
+  your choice of Zonai device.
+5500: |
+  It's a deal.
+0017: |
+  Goodbye.
+talk_1023: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0700'/><0 Type='3' Data='ffff'/>Will you trade crystallized charges for
+  a Zonai device?
+5501: |
+  Never mind.
+0018: |
+  Get producing!
+talk_1024: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0700'/><0 Type='3' Data='ffff'/>I am unfortunately out of stock right now.<5 Type='0'/>
+  I can show you examples of the kinds of
+  things I can trade in the future.
+0019: |
+  Crystallized charges?
+talk_1025: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0700'/><0 Type='3' Data='ffff'/>I am out of stock right now. <5 Type='0'/>Would you
+  like to see samples of what I will have
+  in the future?
+5503: |
+  Actually, never mind.
+talk_1026: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0701'/>Zonaite <0 Type='3' Data='ffff'/>can be excavated even in the
+  <0 Type='3' Data='0000'/>mining cave<0 Type='3' Data='ffff'/> on this island.<0 Type='4'/>Though there is very little left there.<5 Type='0'/>
+  It is unlikely you will find enough to
+  produce an <0 Type='3' Data='0000'/>Energy Well<0 Type='3' Data='ffff'/>.<0 Type='4'/>Greater concentrations can be found in
+  the <0 Type='3' Data='0000'/>distant depths of the world below<0 Type='3' Data='ffff'/>.
+  It was originally mined from there.
+0020: |
+  Energy Wells?
+talk_1027: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0700'/><0 Type='3' Data='ffff'/>An <0 Type='3' Data='0000'/>Energy Well <0 Type='3' Data='ffff'/>can increase the <0 Type='3' Data='0000'/>capacity<0 Type='3' Data='ffff'/>
+  of the Energy Cell you are carrying.<0 Type='4'/>This increased <0 Type='3' Data='0000'/>capacity <0 Type='3' Data='ffff'/>will allow you to
+  use <0 Type='3' Data='0000'/>Zonai devices<0 Type='3' Data='ffff'/> for longer periods.<0 Type='4'/>I can produce these <0 Type='3' Data='0000'/>Energy Wells <0 Type='3' Data='ffff'/>for you<0 Type='3' Data='0000'/><0 Type='3' Data='ffff'/>
+  if you bring me <0 Type='3' Data='0000'/>crystallized charges<0 Type='3' Data='ffff'/>.
+0021: |
+  Goodbye.
+talk_1028: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0700'/><0 Type='3' Data='ffff'/>I encourage you to visit whenever you
+  have collected <0 Type='3' Data='0000'/>crystallized charges<0 Type='3' Data='ffff'/>.
+talk_1029: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0700'/><4 Type='0' Data='0a005400680069006e006b00'/><0 Type='3' Data='ffff'/>Please wait.
+5507: |
+  I want them all.
+talk_1030: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0700'/><0 Type='3' Data='ffff'/>Yes. <5 Type='0'/><0 Type='3' Data='0000'/>Crystallized charges<0 Type='3' Data='ffff'/> are materials
+  used in the creation of <0 Type='3' Data='0000'/>Energy Wells<0 Type='3' Data='ffff'/>.<0 Type='4'/>They are made by processing <0 Type='3' Data='0000'/>zonaite<0 Type='3' Data='ffff'/>.<5 Type='0'/>
+  It is a unique mineral found <0 Type='3' Data='0000'/>deep beneath
+  the surface below<0 Type='3' Data='ffff'/>.<0 Type='4'/>You can bring any <0 Type='3' Data='0000'/>zonaite <0 Type='3' Data='ffff'/>mined
+  from the Depths to a <0 Type='3' Data='0000'/>Forge Construct<0 Type='3' Data='ffff'/>
+  for processing.
+talk_1031: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0700'/><4 Type='0' Data='1200530075007200700072006900730065005300'/><0 Type='3' Data='ffff'/>An Energy Cell has <0 Type='3' Data='0000'/>45 slots <0 Type='3' Data='ffff'/>for expansion.<5 Type='0'/>
+  Yours will hold <0 Type='3' Data='0000'/><2 Type='2' Data='38004200610074007400650072007900450078006300680061006e00670065005f004200610074007400650072007900550070004e0075006d00ffff00cd'/><0 Type='3' Data='ffff'/> more <0 Type='3' Data='0000'/><201 Type='6' Data='160065006e0065007200670079002000770065006c006c00180065006e0065007200670079002000770065006c006c0073000000'/><0 Type='3' Data='ffff'/>.
+talk_1006: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>This is a <0 Type='3' Data='0000'/>crystal refinery<0 Type='3' Data='ffff'/>.
+talk_1007: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0700'/><0 Type='3' Data='ffff'/>Shall I begin <0 Type='3' Data='0000'/>production<0 Type='3' Data='ffff'/>? <5 Type='0'/>Or would you
+  like me to explain <0 Type='3' Data='0000'/>crystallized charges<0 Type='3' Data='ffff'/>?
+0030: |
+  Get producing!
+talk_1008: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0700'/><0 Type='3' Data='ffff'/>Shall I begin <0 Type='3' Data='0000'/>production<0 Type='3' Data='ffff'/>? <5 Type='0'/>Or would you
+  like me to explain <0 Type='3' Data='0000'/>Energy Wells<0 Type='3' Data='ffff'/>?
+0031: |
+  Not right now.
+talk_1009: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0700'/><0 Type='3' Data='ffff'/>That completes the explanation. <5 Type='0'/>Shall I
+  <0 Type='3' Data='0000'/>produce<0 Type='3' Data='ffff'/> <0 Type='3' Data='0000'/>Energy Wells <0 Type='3' Data='ffff'/>for you?
+Com_Talk_30: |
+  How many do you require?
+talk_1010: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0700'/><0 Type='3' Data='ffff'/>Yes. <5 Type='0'/><0 Type='3' Data='0000'/>Crystallized charges<0 Type='3' Data='ffff'/> <5 Type='0'/>are materials
+  used in the creation of <0 Type='3' Data='0000'/>Energy Wells<0 Type='3' Data='ffff'/>.<0 Type='4'/>They are made by processing <0 Type='3' Data='0000'/>zonaite<0 Type='3' Data='ffff'/>.
+Com_Talk_31: |
+  I will require <0 Type='3' Data='0000'/><2 Type='18' Data='4a00530068006f0070005f00540072006100640065004900740065006d005000610079006d0065006e0074004d006100740065007200690061006c0054006f00740061006c004e0075006d00ffff00cd'/> <0 Type='3' Data='ffff'/>crystallized charges
+  in exchange for <2 Type='2' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/> of those.
+talk_1011: |
+  <3 Type='0' Data='0701'/>I can take your <0 Type='3' Data='0000'/>crystallized charges <0 Type='3' Data='ffff'/>and
+  use them to produce <0 Type='3' Data='0000'/>Energy Wells<0 Type='3' Data='ffff'/>.
+Com_Talk_32: |
+  I will require <0 Type='3' Data='0000'/><2 Type='18' Data='4a00530068006f0070005f00540072006100640065004900740065006d005000610079006d0065006e0074004d006100740065007200690061006c0054006f00740061006c004e0075006d00ffff00cd'/> <0 Type='3' Data='ffff'/>crystallized charges
+  in exchange for one of those.
+talk_1012: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>This is a <0 Type='3' Data='0000'/>crystal refinery<0 Type='3' Data='ffff'/>. But you do not
+  seem to have an <0 Type='3' Data='0000'/>Energy Cell <0 Type='3' Data='ffff'/>to work with.
+talk_1013: |
+  <3 Type='0' Data='0700'/>I can do nothing for you if you do not
+  have an <0 Type='3' Data='0000'/>Energy Cell<0 Type='3' Data='ffff'/>.<0 Type='4'/>Find one somewhere on this island and
+  see me again afterward.
+Com_Talk_34: |
+  I will require <0 Type='3' Data='0000'/><2 Type='18' Data='4a00530068006f0070005f00540072006100640065004900740065006d005000610079006d0065006e0074004d006100740065007200690061006c0054006f00740061006c004e0075006d00ffff00cd'/> <0 Type='3' Data='ffff'/>crystallized charges
+  in exchange for all of them.
+0008: |
+  Get producing!
+Com_Talk_06: |
+  <3 Type='0' Data='0700'/>Very well.
+0009: |
+  Energy Wells?
+talk_1015: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0700'/><4 Type='0' Data='0c004e006f007400690063006500'/><0 Type='3' Data='ffff'/>The production will require<5 Type='0'/> at least <0 Type='3' Data='0000'/>100<0 Type='3' Data='ffff'/>
+  <0 Type='3' Data='0000'/>crystallized charges<0 Type='3' Data='ffff'/>.<0 Type='4'/>Return when you have collected a
+  sufficient amount.
+Com_Talk_07: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0700'/><0 Type='3' Data='ffff'/>I am out of that right now. <5 Type='0'/>My apologies.
+talk_1016: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0700'/><0 Type='3' Data='ffff'/>One note regarding the <0 Type='3' Data='0000'/>zonaite <0 Type='3' Data='ffff'/>required
+  to process <0 Type='3' Data='0000'/>crystallized charges<0 Type='3' Data='ffff'/>.<0 Type='4'/>The mines on this island have nearly run
+  dry. <5 Type='0'/>I doubt there is enough left to
+  produce an <0 Type='3' Data='0000'/>Energy Well<0 Type='3' Data='ffff'/>.<0 Type='4'/>But there is more to be had. <5 Type='0'/>Check the
+  <0 Type='3' Data='0000'/>distant depths of the world below<0 Type='3' Data='ffff'/>. That
+  is its original source.
+0010: |
+  I'll make that trade.
+Com_Talk_08: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0700'/><4 Type='0' Data='1200530075007200700072006900730065005300'/><0 Type='3' Data='ffff'/>You do not have enough crystallized
+  charges.
+talk_1017: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0700'/><0 Type='3' Data='ffff'/>To produce <0 Type='3' Data='0000'/><2 Type='2' Data='38004200610074007400650072007900450078006300680061006e00670065005f004200610074007400650072007900550070004e0075006d00ffff00cd'/> <201 Type='6' Data='160065006e0065007200670079002000770065006c006c00180065006e0065007200670079002000770065006c006c0073000000'/> <0 Type='3' Data='ffff'/>will require
+  <0 Type='3' Data='0000'/><2 Type='2' Data='42004200610074007400650072007900450078006300680061006e00670065005f0045006e0065007200670079004d006100740065007200690061006c004e0075006d00ffff00cd'/> <0 Type='3' Data='ffff'/>crystallized charges. Is that
+  acceptable?
+0011: |
+  Not right now.
+Com_Talk_09: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0700'/><4 Type='0' Data='1200530075007200700072006900730065005300'/><0 Type='3' Data='ffff'/>You are overburdened already.
+Com_Talk_38: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0700'/><0 Type='3' Data='ffff'/>All trade items are out of stock.
+talk_1018: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0700'/><4 Type='0' Data='0a0048006100700070007900'/><0 Type='3' Data='ffff'/>I have refined your <0 Type='3' Data='0000'/>crystallized charges<0 Type='3' Data='ffff'/>
+  into <0 Type='3' Data='0000'/><2 Type='2' Data='38004200610074007400650072007900450078006300680061006e00670065005f004200610074007400650072007900550070004e0075006d00ffff00cd'/> <201 Type='6' Data='160065006e0065007200670079002000770065006c006c00180065006e0065007200670079002000770065006c006c0073000000'/><0 Type='3' Data='ffff'/>. 
+0012: |
+  I'll make that trade.
+Com_Talk_10: |
+  Will you trade <0 Type='3' Data='0000'/><2 Type='18' Data='4000530068006f0070005f00540072006100640065004900740065006d005000610079006d0065006e0074004d006100740065007200690061006c004e0075006d00ffff00cd'/> <0 Type='3' Data='ffff'/>crystallized
+  charges for that?
+talk_1019: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0700'/><4 Type='0' Data='0a0048006100700070007900'/><0 Type='3' Data='ffff'/>I would enjoy further visits from you.
+0013: |
+  Not right now.
+Com_Talk_11: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0800'/><0 Type='3' Data='ffff'/>Thank you for the trade.

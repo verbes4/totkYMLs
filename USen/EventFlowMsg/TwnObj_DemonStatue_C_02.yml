@@ -1,0 +1,108 @@
+Talk_1012: |
+  ...
+  
+  
+  I take it you have encountered
+  my brethren.
+  
+  Stay a moment...
+Talk_1000: |
+  You who stand before me...
+  
+  
+  Make an offering...
+  
+  
+  Offer <0 Type='3' Data='0000'/>Poes<0 Type='3' Data='ffff'/> to me...spirits that ought to
+  return to the afterlife.
+  
+  They are pitiful beings who have lost
+  their way home and wander this land.
+  
+  I am one who returns all Poes to the
+  afterlife without prejudice...
+  
+  Good... Evil... That's the futile perspective
+  of narrow-minded beings... There is no
+  such distinction in wandering spirits...
+Talk_1013: |
+  Seek my brethren in this land...
+Talk_1014: |
+  If you do so, you may receive
+  further blessings.
+5500: |
+  Offer them.
+Talk_1002: |
+  My brethren and I have combined our
+  power to create the <0 Type='3' Data='0000'/>tunic of the Depths<0 Type='3' Data='ffff'/>.
+5501: |
+  Never mind.
+Talk_1003: |
+  My brethren and I have combined our
+  power to create the <0 Type='3' Data='0000'/>dark trousers<0 Type='3' Data='ffff'/>.
+Talk_1004: |
+  My brethren and I have combined our
+  power to create the <0 Type='3' Data='0000'/>gaiters of the Depths<0 Type='3' Data='ffff'/>.
+5503: |
+  Actually, never mind.
+Talk_1005: |
+  My brethren and I have combined our
+  power to create the <0 Type='3' Data='0000'/>dark hood<0 Type='3' Data='ffff'/>.
+Com_Talk_07: |
+  Alas, I cannot give that to you now...
+Talk_1006: |
+  My brethren and I have combined our
+  power to create the <0 Type='3' Data='0000'/>hood of the Depths<0 Type='3' Data='ffff'/>.
+Com_Talk_08: |
+  You do not have enough Poes to offer...
+Com_Talk_30: |
+  <0 Type='3' Data='0000'/><2 Type='36' Data='2600530068006f0070005f00530065006c006500630074004900740065006d004e0061006d006500ffff'/><0 Type='3' Data='ffff'/>?
+  How many do you desire?
+Talk_1007: |
+  My brethren and I have combined our
+  power to create the <0 Type='3' Data='0000'/>Tunic of Memories<0 Type='3' Data='ffff'/>.
+Com_Talk_09: |
+  It seems you cannot carry anything more.
+Com_Talk_31: |
+  You must offer...<0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> Poes<0 Type='3' Data='ffff'/>.
+Talk_1008: |
+  If you desire it, you must make a
+  suitable offering.
+Com_Talk_32: |
+  For the <0 Type='3' Data='0000'/><2 Type='36' Data='2600530068006f0070005f00530065006c006500630074004900740065006d004e0061006d006500ffff'/><0 Type='3' Data='ffff'/>,
+  you must offer...<0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> Poes<0 Type='3' Data='ffff'/>.
+5507: |
+  I want them all.
+Talk_1009: |
+  You who stand before me... Offer <0 Type='3' Data='0000'/>Poes<0 Type='3' Data='ffff'/>
+  so as to return them to the afterlife.
+Com_Talk_34: |
+  To purchase them all, you must offer...
+  <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> Poes<0 Type='3' Data='ffff'/>.
+Com_Talk_10: |
+  <0 Type='3' Data='0000'/><2 Type='36' Data='2600530068006f0070005f00530065006c006500630074004900740065006d004e0061006d006500ffff'/><0 Type='3' Data='ffff'/>?
+  Will you offer <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> Poes<0 Type='3' Data='ffff'/>?
+Com_Talk_36: |
+  I have no more items to offer you.
+  
+  
+  Others may also be seeking spirits. If you
+  are going to travel this land, you ought to
+  visit my brethren...
+Com_Talk_11: |
+  I have returned the lost spirits to the
+  afterlife.
+Com_Talk_37: |
+  I no longer have anything to offer you.
+  
+  
+  Others may also be seeking spirits. If you
+  are going to travel this land, you ought to
+  visit my brethren...
+Talk_1010: |
+  Seek my brethren...
+Com_Talk_12: |
+  Offer <0 Type='3' Data='0000'/>Poes<0 Type='3' Data='ffff'/>...
+Talk_1011: |
+  Visit me again when you have an
+  abundance of wandering spirits.

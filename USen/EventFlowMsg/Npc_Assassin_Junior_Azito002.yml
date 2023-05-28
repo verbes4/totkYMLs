@@ -1,0 +1,82 @@
+Com_Talk_05: |
+  <3 Type='0' Data='0701'/>Any day now.
+Com_Talk_02c: |
+  <3 Type='0' Data='0700'/>What else?
+5508: |
+  I'll sell them all.
+Com_Talk_02d: |
+  <3 Type='0' Data='0700'/>Got more?
+Talk_07: |
+  <3 Type='0' Data='0700'/>You done? Then scram.
+Talk_09: |
+  <3 Type='0' Data='0700'/>A well-maintained weapon is an assassin's
+  best friend.
+0001: |
+  Buy my stuff!
+0002: |
+  Goodbye.
+Com_Talk_13: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0000'/><0 Type='3' Data='ffff'/>How many?
+Com_Talk_14: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0000'/><0 Type='3' Data='ffff'/>For <2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/>, I could give you <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>.
+  That work for ya?
+Com_Talk_15: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a005400680069006e006b00'/>Not interested.
+5500: |
+  Yes.
+Com_Talk_50: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>That'll be <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>. You got
+  the cash?
+Com_Talk_33: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0000'/><0 Type='3' Data='ffff'/>One, huh? I'll give you <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>.
+  You in?
+Com_Talk_16: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a005400680069006e006b00'/>What are you— I'm not buying the clothes
+  right off your back, you got that?!
+Near_00: |
+  Need a weapon?
+5501: |
+  No.
+Com_Talk_05b: |
+  <3 Type='0' Data='0701'/>Decide already.
+Talk_00: |
+  <3 Type='0' Data='0700'/>And I deal in friends.
+  
+  
+  No guarantee they weren't taken off some
+  of our former associates though.
+Com_Talk_00: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>You selling? Let's see it.
+Com_Talk_05c: |
+  <3 Type='0' Data='0701'/>You wanna move this along?
+Com_Talk_35: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0000'/><0 Type='3' Data='ffff'/>Let's see, for all <2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/> of them...I could
+  give ya <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>. Deal?
+Talk_01: |
+  <3 Type='0' Data='0700'/>I don't like my time being wasted.
+  Whaddaya want?
+5503: |
+  Never mind.
+Com_Talk_53: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a005400680069006e006b00'/>You done? Then leave.
+Com_Talk_05d: |
+  <3 Type='0' Data='0701'/>Well?
+Com_Talk_01: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0000'/><0 Type='3' Data='ffff'/>I'll take it off your hands for
+  <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>. You in?
+Near_03: |
+  *sniff*... Master Kohga...
+Talk_02: |
+  <3 Type='0' Data='0700'/>Your eyes work, don't they? I got nothin'
+  left to sell.
+Com_Talk_02: |
+  <3 Type='0' Data='0700'/>Anything else? Make it snappy.
+Talk_03: |
+  <3 Type='0' Data='0700'/>Keep your weapons sharp, assassin.
+Com_Talk_55: |
+  <3 Type='0' Data='0900'/>Tch.<5 Type='0'/> Come back when you've organized
+  your stuff.
+Com_Talk_02b: |
+  <3 Type='0' Data='0700'/>Done. Next?
+Com_Talk_04: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a0041006e00670072007900'/>Doubt is an assassin's worst enemy.

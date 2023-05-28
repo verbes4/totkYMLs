@@ -1,0 +1,194 @@
+SavedLv3_01: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>I underestimated you.<0 Type='4'/>While my brothers run their mouths,
+  you let your weapon do the talking—
+  and how loquacious it is!
+Talk1032: |
+  <3 Type='0' Data='0c00'/><FontSize Value='80'/>*sigh* Ridiculous. Those two are still bickering,
+  even at this late hour?
+  
+  I don't care if it's that <0 Type='3' Data='0000'/>rumored beast <0 Type='3' Data='ffff'/>or the
+  <0 Type='3' Data='0000'/>legendary sword<0 Type='3' Data='ffff'/>. Can we just pick one and get
+  going? <5 Type='1'/>Hm?<FontSize Value='100'/>
+Thanks00: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>I won't forget your heroism for as long as
+  I live...<5 Type='0'/> Is that too strong? <5 Type='0'/> Well, I won't
+  forget it for a really long time.
+  Rather than just thanking you, I'll show
+  my appreciation more tangibly.<0 Type='4'/>Here you are.
+Talk1033: |
+  <3 Type='0' Data='0700'/>I know monsters won't step foot on the
+  stable grounds, but...
+  
+  There are still some scary monsters and
+  such prowling around at night. So I'd
+  prefer to be sleeping inside.
+  <3 Type='0' Data='0a00'/>But of course, I can't because my older
+  brothers... <5 Type='1'/>They'll keep on bickering, even
+  while they're asleep!
+  Good grief. <0 Type='3' Data='0000'/>Rumored beast <0 Type='3' Data='ffff'/>or <0 Type='3' Data='0000'/>legendary
+  weapon<0 Type='3' Data='ffff'/>, I don't care. Can't they just
+  pick one?
+SavedLv1_00: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='08004500610073006500'/>I know danger is at the heart of
+  adventure, but even so, I'd love to stop
+  getting entangled with <0 Type='3' Data='0000'/>monsters<0 Type='3' Data='ffff'/>.
+Talk1021: |
+  <3 Type='0' Data='0c00'/><FontSize Value='80'/>*sigh* Ridiculous. Those two are still bickering,
+  even at this late hour?
+  
+  I don't care if it's that <0 Type='3' Data='0000'/>rumored beast <0 Type='3' Data='ffff'/>or the
+  <0 Type='3' Data='0000'/>legendary weapon<0 Type='3' Data='ffff'/>. Can we just pick one and
+  get going? <5 Type='1'/>Hm?<FontSize Value='100'/>
+Talk1034: |
+  <3 Type='0' Data='0700'/>I know logically that it's safe under
+  this roof. But long ago, my metal sword
+  was struck by lightning and, well...
+  Let's just say I get nervous when it rains.
+  
+  
+  I would like to shelter inside, but my
+  older brothers are still in there bickering
+  about where to go next.
+  <3 Type='0' Data='0a00'/>So ridiculous. I for one don't care if
+  we look for that <0 Type='3' Data='0000'/>rumored beast <0 Type='3' Data='ffff'/>or the
+  <0 Type='3' Data='0000'/>legendary weapon<0 Type='3' Data='ffff'/>.
+  Can't they just hurry up and pick
+  one already?
+SavedLv1_01: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>My horse and I could have won that fight.
+  But thanks for saving us the effort!
+Talk1035: |
+  <3 Type='0' Data='0c00'/><FontSize Value='80'/>*sigh* Ridiculous. The night is over, and those two
+  are still bickering?
+  
+  I don't care if it's that <0 Type='3' Data='0000'/>rumored beast <0 Type='3' Data='ffff'/>or the
+  <0 Type='3' Data='0000'/>legendary sword<0 Type='3' Data='ffff'/>. Can we just pick one and get
+  going? <5 Type='1'/>Hm?<FontSize Value='100'/>
+Atacked00: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1200530075007200700072006900730065004c00'/>Right on time!<5 Type='0'/> Would you mind, ah,
+  saving me?
+Talk1036: |
+  <3 Type='0' Data='0c00'/><FontSize Value='80'/>*sigh* Ridiculous. The night is over, and those two
+  are still bickering?
+  
+  I don't care if it's that <0 Type='3' Data='0000'/>rumored beast <0 Type='3' Data='ffff'/>or the
+  <0 Type='3' Data='0000'/>legendary sword<0 Type='3' Data='ffff'/>. Can we just pick one and get
+  going? <5 Type='1'/>Hm?<FontSize Value='100'/>
+Atacked01: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1200530075007200700072006900730065004c00'/>I can't fight on horseback!<5 Type='0'/> Can you help
+  me out here?
+Talk1037: |
+  <3 Type='0' Data='0c00'/><FontSize Value='80'/>*sigh* This is ridiculous. How long are my older
+  brothers going to keep bickering?
+  
+  I don't care if it's that <0 Type='3' Data='0000'/>rumored beast <0 Type='3' Data='ffff'/>or the
+  <0 Type='3' Data='0000'/>legendary sword<0 Type='3' Data='ffff'/>. Can we just pick one and get
+  going? <5 Type='1'/>Hm?<FontSize Value='100'/>
+Talk1038: |
+  <3 Type='0' Data='0c00'/><FontSize Value='80'/>*sigh* This is ridiculous. How long are my older
+  brothers going to keep bickering?
+  
+  I don't care if it's that <0 Type='3' Data='0000'/>rumored beast <0 Type='3' Data='ffff'/>or the
+  <0 Type='3' Data='0000'/>legendary sword<0 Type='3' Data='ffff'/>. Can we just pick one and get
+  going? <5 Type='1'/>Hm?<FontSize Value='100'/>
+Talk1039: |
+  <3 Type='0' Data='0c00'/><FontSize Value='80'/>*sigh* Ridiculous. The sun is going down, and
+  those two are still bickering?
+  
+  I don't care if it's that <0 Type='3' Data='0000'/>rumored beast <0 Type='3' Data='ffff'/>or the
+  <0 Type='3' Data='0000'/>legendary weapon<0 Type='3' Data='ffff'/>. Can we just pick one and get
+  going?<5 Type='1'/> Hm?<FontSize Value='100'/>
+Talk1001: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004e006f007400690063006500'/>Do you need something? If so, you'd be
+  better off asking a <0 Type='3' Data='0000'/>stable worker <0 Type='3' Data='ffff'/>for help.
+  I'm just a visitor.
+  <3 Type='0' Data='0a00'/>My older brothers have been arguing
+  incessantly about where to go next.
+  It's exhausting.
+  I got so tired of listening to them that
+  I had to seek refuge out here.
+  
+  <3 Type='0' Data='0c00'/>I don't put much faith in either legends or
+  rumors. <5 Type='0'/>But more than that...
+  
+  <3 Type='0' Data='0701'/>I find the <0 Type='3' Data='0000'/>caves <0 Type='3' Data='ffff'/>and <0 Type='3' Data='0000'/>fallen ruins<0 Type='3' Data='ffff'/> caused by
+  the Upheaval to be a much, much more
+  interesting area of study.
+SavedLv2_00: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='0a0048006100700070007900'/>You're rescuing me? Well, better you than
+  my older brothers!
+Talk1002: |
+  <3 Type='0' Data='0700'/>I told you—if you need something, you
+  should ask a <0 Type='3' Data='0000'/>stable worker<0 Type='3' Data='ffff'/>, not me.
+  
+  <3 Type='0' Data='0a01'/>My older brothers have been arguing
+  incessantly about where to go next, so
+  I'm seeking refuge out here.
+  <3 Type='0' Data='0c00'/>I don't put much faith in either legends or
+  rumors. <5 Type='0'/>But more than that...
+  
+  <3 Type='0' Data='0701'/>I find the <0 Type='3' Data='0000'/>caves <0 Type='3' Data='ffff'/>and <0 Type='3' Data='0000'/>fallen ruins<0 Type='3' Data='ffff'/> caused by
+  the Upheaval to be a much, much more
+  interesting area of study.
+SavedLv2_01: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>I appreciate the rescue! My only note is
+  that your hustle needs work.<5 Type='0'/> I have places
+  to get to.
+Talk1003: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1200530075007200700072006900730065004c00'/>Hold on! Can this wait until later?
+  
+  
+  Long ago, my metal sword was struck by
+  lightning and, well... Let's just say I get
+  nervous when it rains.
+Talk1004: |
+  <3 Type='0' Data='0a00'/>I would like to lie down in my bed, but my
+  older brothers...<5 Type='1'/> They'll keep bickering all
+  night long! Annoying me in my sleep!
+  So ridiculous. I don't care if we
+  look for that <0 Type='3' Data='0000'/>rumored beast <0 Type='3' Data='ffff'/>or the
+  <0 Type='3' Data='0000'/>legendary weapon<0 Type='3' Data='ffff'/>.
+  Can't they just hurry up and choose
+  where we're going next?
+Talk1040: |
+  <3 Type='0' Data='0c00'/><FontSize Value='80'/>*sigh* Ridiculous. The sun is going down, and
+  those two are still bickering?
+  
+  I don't care if it's that <0 Type='3' Data='0000'/>rumored beast <0 Type='3' Data='ffff'/>or the
+  <0 Type='3' Data='0000'/>legendary weapon<0 Type='3' Data='ffff'/>. Can we just pick one and
+  get going?<5 Type='1'/> Hm?<FontSize Value='100'/>
+Talk1005: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004e006f007400690063006500'/>Do you need something? If so, you'd be
+  better off asking a <0 Type='3' Data='0000'/>stable worker <0 Type='3' Data='ffff'/>for help.
+  I'm just a visitor.
+  <3 Type='0' Data='0a00'/>My older brothers have been arguing
+  incessantly about where to go next.
+  It's exhausting.
+  I got so tired of listening to them that
+  I had to seek refuge out here.
+  
+  <3 Type='0' Data='0c00'/>I don't put much faith in either legends or
+  rumors. <5 Type='0'/>But more than that...
+  
+  <3 Type='0' Data='0701'/>I find the <0 Type='3' Data='0000'/>caves <0 Type='3' Data='ffff'/>and <0 Type='3' Data='0000'/>fallen ruins<0 Type='3' Data='ffff'/> caused by
+  the Upheaval to be a much, much more
+  interesting area of study.
+EnokidaSignboard: |
+  Won't forget this soon...
+Talk1041: |
+  <3 Type='0' Data='0c00'/>I'm tired of waiting around for my older
+  brothers to make a decision.
+  
+  <3 Type='0' Data='0100'/>Maybe I'll simply...leave. Go off and have
+  an adventure of my own.<5 Type='0'/> They'd probably
+  come running after me though!
+Talk1042: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>Enough is enough. If my older brothers
+  won't make a decision, I'll just go have an
+  adventure of my own!
+SavedLv3_00: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='08004500610073006500'/>That was terrifying... <5 Type='0'/>I applaud you for
+  keeping your cool.
+Guardian00: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='0a0053006300610072006500'/>That's no normal monster! <5 Type='1'/>What am I
+  supposed to do?

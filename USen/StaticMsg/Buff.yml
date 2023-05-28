@@ -1,0 +1,110 @@
+AttackUpBowPlus: |
+  Attack Up +<2 Type='14' Data='2800530069006d0070006c00650049006e00740046006f0072004d006500730073006100670065003200ffff01cd'/>
+ResitLightning: |
+  Lightning Proof
+ResistFreeze: |
+  Unfreezable
+DecreaseSwimStamina: |
+  Swim Dash Stamina Up
+MiasmaDefenseUp: |
+  Gloom Attack Resist
+AttackUpBow: |
+  Attack Up +<2 Type='14' Data='2800530069006d0070006c00650049006e00740046006f0072004d006500730073006100670065003200ffff01cd'/>
+DefenseUp: |
+  Defense Up
+ToughnessUpPlus: |
+  Durability Up +
+ResistHot: |
+  Heat Resistance
+FinishBlow: |
+  Critical Hit
+SnowMoveUp: |
+  Snow Speed Up
+ZonauEnergyHealUp: |
+  Energy Recharge Up
+SwimSpeedUp: |
+  Swim Speed Up
+ExStaminaMaxUp: |
+  Extra Stamina
+LifeRepair: |
+  Gloom Recovery
+NoFallDamage: |
+  Impact Proof
+RupeeGuard: |
+  Rupee Padding
+DecreaseWallJumpStamina: |
+  Climbing Jump Stamina Up
+AttackUpWeapon: |
+  Attack Up +<2 Type='14' Data='2800530069006d0070006c00650049006e00740046006f0072004d006500730073006100670065003200ffff01cd'/>
+QuietnessUp: |
+  Stealth Up
+AttackUp: |
+  Attack Up
+AttackUpThunderstorm: |
+  Stormy Weather Attack
+LifeMaxUp: |
+  Extra Hearts
+GuardUp: |
+  Shield Guard Up +<2 Type='14' Data='2800530069006d0070006c00650049006e00740046006f0072004d006500730073006100670065003200ffff01cd'/>
+LongThrow: |
+  Long Throw
+ClimbSpeedUp: |
+  Climb Speed Up
+ResistBurn: |
+  Flame Guard
+LightFootprint: |
+  Shining Steps
+StalDisguise: |
+  Disguise; Bone Weap. Prof.
+StaminaRecover: |
+  Stamina Recovery
+SwordBeamUp: |
+  Master Sword Beam Up
+ChargePowerUpHot: |
+  Hot Weather Charge
+ToughnessUp: |
+  Durability Up
+NightMoveSpeedUp: |
+  Night Speed Up
+AttackUpHot: |
+  Hot Weather Attack
+ChargePowerUpCold: |
+  Cold Weather Charge
+GuardUpPlus: |
+  Shield Guard Up +<2 Type='14' Data='2800530069006d0070006c00650049006e00740046006f0072004d006500730073006100670065003200ffff01cd'/>
+NoSlip: |
+  Slip Proof
+NotSlippy: |
+  Slip Resistance
+DecreaseZonauEnergy: |
+  Energy Up
+SandMoveUp: |
+  Sand Speed Up
+AttackUpWeaponPlus: |
+  Attack Up +<2 Type='14' Data='2800530069006d0070006c00650049006e00740046006f0072004d006500730073006100670065003200ffff01cd'/>
+RapidShot: |
+  Quick Shot
+AllSpeed: |
+  Speed Up
+NoBurning: |
+  Fireproof
+SetBonus_ResistElectric: |
+  Shock Damage Resist
+AttackUpCold: |
+  Cold Weather Attack
+DivingMobilityUp: |
+  Skydive Mobility Up
+ResistCold: |
+  Cold Resistance
+LightEmission: |
+  Glow
+MiasmaGuard: |
+  Gloom Resistance
+SpreadShot5: |
+  Five-Shot Burst
+ResistElectric: |
+  Shock Resistance
+DecreaseChargeAttackStamina: |
+  Charge Atk. Stamina Up
+ChargePowerUpThunderstorm: |
+  Stormy Weather Charge

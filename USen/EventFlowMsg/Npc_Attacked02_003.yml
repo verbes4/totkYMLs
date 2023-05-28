@@ -1,0 +1,233 @@
+GoodBye04: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>I am glad to have seen you again.
+GoodBye01_01: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>I heard tell there was a cave that housed
+  a <0 Type='3' Data='0000'/>Bubbulfrog<0 Type='3' Data='ffff'/> in this area, but all of my
+  searching has come to naught.
+  Perhaps someone else has caused the
+  beast to move on...<5 Type='0'/>leaving me to grapple
+  with my greatest foe yet—free time.
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>I've got it!<5 Type='1'/> While you're here, why don't
+  I regale you with tales of the numerous
+  cave creatures I've matched mettle with?
+  You are an adventurer, are you not? I'm
+  certain you'll find my stories educational!
+Talk00_01: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Be sure to take care as you journey into a
+  cave. You might find your path blocked by
+  monsters known as <0 Type='3' Data='0000'/>Horriblins<0 Type='3' Data='ffff'/>.
+  Each has a unique, <0 Type='3' Data='0000'/>hammer-shaped horn<0 Type='3' Data='ffff'/>
+  atop its head.<5 Type='0'/> The stronger the variant,
+  the <0 Type='3' Data='0000'/>larger and tougher<0 Type='3' Data='ffff'/> the horn.
+  Should you face off against these beasts,
+  it would serve you well to make careful
+  note of their horns.
+Talk01_00: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>Have you had the displeasure of
+  encountering a <0 Type='3' Data='0000'/>Like Like<0 Type='3' Data='ffff'/>?<0 Type='4'/>These loathsome monsters swallow up
+  anyone who gets too close, <0 Type='3' Data='0000'/>stealing their
+  swords and shields<0 Type='3' Data='ffff'/> in the process.
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>Clever hunters like myself know that the
+  beast's <0 Type='3' Data='0000'/>weak point is the tongue in its
+  maw<0 Type='3' Data='ffff'/>, but opportunities to strike it are few.
+  They're troublesome foes indeed... But
+  my last encounter with one offered some
+  food for thought.
+  <3 Type='0' Data='0001'/>I was searching through a cave when an
+  unnoticed Like Like attacked me from my
+  blind spot.
+  The sudden strike rattled my composure,
+  and I tried to fend it off with the <0 Type='3' Data='0000'/>torch<0 Type='3' Data='ffff'/>
+  I had on hand.
+  <3 Type='0' Data='0700'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003100'/>The torch ignited the beast.<5 Type='1'/> As the fire
+  spread across its body, it let out a groan,
+  exposing its tongue!
+  Though I can only speak to my own
+  experience,<5 Type='1'/> it seems <0 Type='3' Data='0000'/>the creature may
+  well be weak to fire<0 Type='3' Data='ffff'/>.
+  It might be worth testing that theory
+  yourself next time you run into one.
+GoodBye01_02: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>They say a <0 Type='3' Data='0000'/>Bubbulfrog<0 Type='3' Data='ffff'/> lurks in cave near
+  here, but my search proved fruitless.
+  
+  <3 Type='0' Data='0001'/>Now that I've lost my prey, I find myself
+  with an abundance of free time. Might I
+  tell you another cave-monster tale?
+Talk01_01: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>The equipment-stealing <0 Type='3' Data='0000'/>Like Like<0 Type='3' Data='ffff'/> does not
+  readily show its <0 Type='3' Data='0000'/>weak point—its tongue<0 Type='3' Data='ffff'/>.
+  
+  <3 Type='0' Data='0001'/>But when, by chance, I set fire to one's
+  body, it groaned and stuck out its tongue.<0 Type='4'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/><0 Type='3' Data='0000'/>They may well be weak to fire.<0 Type='3' Data='ffff'/><5 Type='1'/> Should you
+  encounter one in a cave, give it a try.
+Talk02_00: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>We've discussed <0 Type='3' Data='0000'/>Like Likes <0 Type='3' Data='ffff'/>before, but
+  did you know that different types exist?<0 Type='4'/>Why, I recently encountered one that
+  <0 Type='3' Data='0000'/>spat rocks out of its mouth<0 Type='3' Data='ffff'/>.<0 Type='4'/><3 Type='0' Data='0000'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>And if that weren't troublesome enough,
+  the beast's body was covered in rocks! It
+  shrugged off even my respectable strikes.
+  I had no choice but to turn my back upon
+  that rocky tyrant and flee the cave as fast
+  as I could.<0 Type='4'/><3 Type='0' Data='0a00'/><4 Type='0' Data='0c005300610064005f0030003000'/>*sigh*<5 Type='1'/> How thrilling it would have been to
+  send those rocks the creature spat <0 Type='3' Data='0000'/>back
+  the way they came<0 Type='3' Data='ffff'/>...
+Talk02_01: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0701'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/><0 Type='3' Data='ffff'/>All <0 Type='3' Data='0000'/>Like Likes <0 Type='3' Data='ffff'/>are troublesome, but the
+  variant that spits rocks may be the worst
+  I've yet encountered.
+  Its body is covered in stone so tough that
+  even my mighty strikes had no effect.<0 Type='4'/><3 Type='0' Data='0c01'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>If only I could <0 Type='3' Data='0000'/>send the rocks the creature
+  spat back the way they came<0 Type='3' Data='ffff'/>...
+SavedLv1_00: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>Heh...<5 Type='0'/> That wasn't even a warm-up for
+  you, was it? It's written all over your face.
+SavedLv1_01: |
+  <3 Type='0' Data='0500'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>Hmm... <5 Type='0'/>I appreciate the rescue, but it was
+  hardly necessary for a foe like that.
+SavedLv2_00: |
+  <3 Type='0' Data='0700'/>You've got some skill.<5 Type='1'/> They hardly posed
+  a challenge to you, let alone a threat.
+ClearTerrorEnemy: |
+  I expected a challenge.
+SavedLv2_01: |
+  <3 Type='0' Data='0700'/>Not bad!<5 Type='1'/> But I can tell you're capable of
+  so much more...
+SavedLv3_00: |
+  <3 Type='0' Data='0700'/>The way you fought just now...<5 Type='0'/>
+  I'm impressed!<5 Type='1'/> I could learn much
+  from your approach to combat.
+SavedLv3_01: |
+  <3 Type='0' Data='0800'/>That was beautiful! <5 Type='0'/>A tremendous show
+  of skill!<5 Type='0'/> I had high expectations, but
+  consider me stunned.
+Talk99_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hi there!<5 Type='1'/> We meet again!<5 Type='1'/> My search for
+  the elusive <0 Type='3' Data='0000'/>Bubbulfrog<0 Type='3' Data='ffff'/> continues.
+AfterFailed: |
+  <3 Type='0' Data='0a00'/>How embarrassing to be done in by a
+  monster...<5 Type='1'/> Please, leave me to my shame.
+  Away, away!
+Talk99_02: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hi there! <5 Type='1'/>We meet again!<5 Type='1'/>
+Atacked00: |
+  <3 Type='0' Data='0700'/>You want to help? Heh. <5 Type='0'/>A situation such
+  as this hardly warrants it, but I'm grateful
+  for the sentiment!
+Guardian00: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1200530075007200700072006900730065004c00'/>If you're intent on fighting, I won't stop
+  you...<5 Type='1'/>but this monster may be more than
+  we can handle!
+Failed00: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='14005000610069006e00660075006c005f0030003000'/>What an embarrassment on my part...<5 Type='1'/> I'm
+  not lagging behind some monster, surely!
+Atacked01: |
+  <3 Type='0' Data='0700'/>As you can see, I'm a little tied up with
+  this monster situation.<5 Type='0'/> If you want to talk,
+  it'll have to wait until later!
+GoodBye00: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Though I may not look it, I am a monster
+  hunter of some small renown.
+  
+  I spend my days traveling the lands of
+  Hyrule in pursuit of a myriad of prey.
+  
+  At the request of a fellow named <0 Type='3' Data='0000'/>Koltin<0 Type='3' Data='ffff'/>,
+  I'm presently hunting <0 Type='3' Data='0000'/>Bubbulfrogs<0 Type='3' Data='ffff'/>—<5 Type='0'/>
+  mysterious, cave-dwelling creatures.
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>I've heard that one such beast lurks in a
+  cave in <0 Type='3' Data='0000'/>this very region<0 Type='3' Data='ffff'/>.<0 Type='4'/>The question is, which cave?
+Talk03_00: |
+  My search for <0 Type='3' Data='0000'/>Bubbulfrogs <0 Type='3' Data='ffff'/>yet continues,
+  as per <0 Type='3' Data='0000'/>Koltin's<0 Type='3' Data='ffff'/> request.<0 Type='4'/><3 Type='0' Data='0c00'/>Though admittedly, the Bubbulfrog rumor
+  is running somewhat dry. <5 Type='0'/>Worse still, my
+  client seems to have disappeared.
+  <3 Type='0' Data='0001'/>But a hunter must make opportunities out
+  of obstacles! I'll be searching the cave for
+  glowing mushrooms and exploding fruit.
+  <4 Type='0' Data='12004c00610075006700680053005f0030003000'/>That way I'll be prepared for any monster
+  I may encounter!
+Talk100: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>If my tales aid you in any way, I'll be glad
+  for it!<5 Type='1'/> Well then, fellow traveler,<5 Type='0'/> let us
+  hope our paths will cross again!
+Failed01: |
+  <3 Type='0' Data='0900'/><4 Type='0' Data='100041006e006700720079005f0030003000'/>An uncharacteristic blunder on my part.<5 Type='1'/>
+  Perhaps the most powerful enemy of all
+  is carelessness...
+GoodBye01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>I'm glad our paths have crossed yet again.<5 Type='1'/>
+  Our conversations are a highlight of my
+  continued hunt for the <0 Type='3' Data='0000'/>Bubbulfrog<0 Type='3' Data='ffff'/>.
+Talk03_01: |
+  <3 Type='0' Data='0c00'/>I do not know where <0 Type='3' Data='0000'/>Koltin<0 Type='3' Data='ffff'/> has gone.
+  He's the one who hired me to seek out
+  the <0 Type='3' Data='0000'/>Bubbulfrog<0 Type='3' Data='ffff'/>.
+  <3 Type='0' Data='0001'/>So for the time being, I've decided to
+  polish my skills as a monster hunter by
+  exploring different caves.
+  In addition to monsters to fight, caves are
+  filled with nourishing mushrooms and fish.
+  It's all a hunter could ever need.
+Talk04_00: |
+  The whereabouts of my former client
+  <0 Type='3' Data='0000'/>Koltin <0 Type='3' Data='ffff'/>may be unknown, but that will not
+  deter me from exploring every cave I find.
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>My next goal is challenging the Depths...
+  <5 Type='1'/>There dwell monsters stronger than any
+  found in the caves.
+  Every cave I visit is a new opportunity to
+  train. When I finally do enter the Depths,
+  I want to be ready for anything.
+  <3 Type='0' Data='0001'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>Perhaps our journeys will converge again.
+  <5 Type='1'/>Until then, take care!
+Thanks00: |
+  <3 Type='0' Data='0100'/>Perhaps it's fate that we were to fight
+  together like this.<0 Type='4'/>Your bravery deserves a reward.<5 Type='0'/> Take it!
+Talk04_01: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>You're clearly becoming just as
+  indomitable an adventurer as I am.<0 Type='4'/>If there is nowhere left to challenge us
+  on the surface, then perhaps we've no
+  choice but to take on the Depths.
+Thanks01: |
+  <3 Type='0' Data='0100'/>Your battle prowess deserves a show of
+  appreciation. <5 Type='1'/>Please, I insist!
+GoodBye00_01: |
+  <3 Type='0' Data='0c00'/>If I could just determine which cave it's
+  hiding in, slaying the <0 Type='3' Data='0000'/>Bubbulfrog<0 Type='3' Data='ffff'/> would
+  be simplicity itself!<5 Type='0'/>
+  But until I find that all-important cave,
+  I cannot demonstrate my worth.
+  
+  <3 Type='0' Data='0000'/>It's supposed to be somewhere nearby
+  too... Perhaps I'll search more thoroughly
+  after I've rested my mind and body.
+GoodBye01_00: |
+  Reports of a Bubbulfrog sighting in a
+  nearby cave drew me to this area.<0 Type='4'/><3 Type='0' Data='0c01'/><4 Type='0' Data='0a005400680069006e006b00'/>But I cannot find the cave in question.<5 Type='1'/>
+  It should be <0 Type='3' Data='0000'/>close<0 Type='3' Data='ffff'/>, but alas, the report
+  was less detailed than one might hope.
+  Hmph. Confounded <0 Type='3' Data='0000'/>Bubbulfrog<0 Type='3' Data='ffff'/>...<5 Type='1'/> It must
+  have heard I was coming for it and hidden
+  itself away somewhere.
+  <3 Type='0' Data='0800'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>But on my reputation as a monster hunter,
+  I swear I will bring it to light!
+Talk00_00: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Here's one...<5 Type='1'/> Have you heard of the beast
+  known as the <0 Type='3' Data='0000'/>Horriblin<0 Type='3' Data='ffff'/>?<0 Type='4'/>They're a recently discovered monster,
+  making their nefarious lairs in caves
+  across the land.
+  <4 Type='0' Data='0e0043006800610074005f0030003100'/>Of particular note is their distinctive,
+  <0 Type='3' Data='0000'/>hammer-shaped horn<0 Type='3' Data='ffff'/>.
+  
+  Horriblins come in a variety of colors,
+  each with their <0 Type='3' Data='0000'/>own horn shape<0 Type='3' Data='ffff'/>.
+  
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>The horns of stronger varieties tend to be
+  larger and tougher. Perhaps there's some
+  way to put those horns to use...
+  <3 Type='0' Data='0001'/>Should you ever find yourself
+  face-to-wretched-face with a Horriblin,
+  be sure to observe it carefully.
+Talk99: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Hi there!<5 Type='1'/> Are you a traveling adventurer?

@@ -1,0 +1,84 @@
+Talk1002: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='08004300680061007400'/>The Great Fairy grants travelers a blessing
+  that gives them strong protection! Well,
+  that's what folks say, at least.
+Talk1019: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='0a0048006100700070007900'/>It's a tremendous help to have both the
+  Great Fairy's blessings AND musical
+  entertainment!
+  Leave your troubles at the door, and
+  relax awhile.
+WakkaCharm: |
+  That's the same as ours!
+Talk1003: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0e0043006800610074005f0030003000'/>We're open all day, every day! Rain or
+  shine, day or night, you can count on us!
+Talk1004: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>Did you come to see the Great
+  Fairy Kaysa?<0 Type='4'/>Unfortunately, she sealed herself away
+  after <0 Type='3' Data='0000'/>the Upheaval<0 Type='3' Data='ffff'/>. She hasn't come
+  out since.<0 Type='4'/>Before that, she used to make an
+  appearance from time to time. She's a big
+  fan of music, you know. Especially flutes.<0 Type='4'/><3 Type='0' Data='0301'/><4 Type='0' Data='0600530061006400'/>Why, when the <0 Type='3' Data='0000'/>flutist Pyper<0 Type='3' Data='ffff'/> came by,
+  she would poke her face out of her
+  fountain. It's been a long time though.
+GoldHorse: |
+  That's Princess Zelda's...
+Talk1005: |
+  <3 Type='0' Data='0c01'/>She sure loved that <0 Type='3' Data='0000'/>music group<0 Type='3' Data='ffff'/> that used
+  to pass through. I wish they would come
+  by and <0 Type='3' Data='0000'/>play for her<0 Type='3' Data='ffff'/> again...
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Ah, my apologies. I was just thinking
+  out loud.<0 Type='4'/>Please, make yourself comfortable.
+Talk1006: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>You're the one who helped the <0 Type='3' Data='0000'/>Great
+  Fairy Kaysa<0 Type='3' Data='ffff'/>?! I'll be!<0 Type='4'/>You know, folks say that she grants
+  travelers a blessing that gives them
+  stronger protection.<0 Type='4'/>We're honored that the Great Fairy made
+  her home here.<0 Type='4'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>I'm so relieved that she's doing better.
+  Thank you, truly.
+LargeHorse: |
+  What a big creature...
+Talk1007: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Hello and welcome! Make sure to visit the
+  stable before you head out. That's just
+  common sense!
+Talk1014: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Hello and welcome! Come on into the
+  stable before it gets dark. That's just
+  common sense!
+near0000: |
+  <4 Type='0' Data='0e00430061006c006c00460061007200'/>Make yourself at home!
+Talk1020: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1200530075007200700072006900730065005300'/>Excuse me! You should find shelter when
+  it's raining. That's just common sense!<0 Type='4'/>If you aren't careful, lightning will burn
+  you to a crisp!
+BoneHorse: |
+  What an odd horse.
+Talk1015: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Hello and welcome! Come on into the
+  stable and get out of the dark. That's
+  just common sense!
+Talk1016: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Hello and welcome! Head on into the
+  stable to get out of the rain. That's just
+  common sense!
+0000: |
+  Great Fairy?
+Talk1022: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0e0043006800610074005f0030003000'/>Whenever I have a bit of peace, I think
+  about my youngest daughter, Haite.<0 Type='4'/>She left to go work at <0 Type='3' Data='0000'/>Highland Stable<0 Type='3' Data='ffff'/>.<0 Type='4'/><3 Type='0' Data='0301'/><4 Type='0' Data='08004500610073006500'/>But that's about as <0 Type='3' Data='0000'/>far south<0 Type='3' Data='ffff'/> as you can
+  go and still be in Hyrule, so I don't get
+  to see her anymore...
+0001: |
+  Goodbye.
+Talk1017: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>This is the home of the <0 Type='3' Data='0000'/>Great Fairy Kaysa<0 Type='3' Data='ffff'/>,
+  so you'll be safe with us!<0 Type='4'/><3 Type='0' Data='0701'/>If you have a question about <0 Type='3' Data='0000'/>horses<0 Type='3' Data='ffff'/>,
+  you can ask at the <0 Type='3' Data='0000'/>counter out front<0 Type='3' Data='ffff'/>.<0 Type='4'/>Or you can use the <0 Type='3' Data='0000'/>counter inside<0 Type='3' Data='ffff'/> if you
+  want to stay at the inn, of course.
+Talk1001: |
+  <3 Type='0' Data='0701'/>This is Outskirt Stable, home of the <0 Type='3' Data='0000'/>Great
+  Fairy Kaysa<0 Type='3' Data='ffff'/>!<0 Type='4'/>If you have a question about <0 Type='3' Data='0000'/>horses<0 Type='3' Data='ffff'/>,
+  you can ask at the <0 Type='3' Data='0000'/>counter out front<0 Type='3' Data='ffff'/>.<0 Type='4'/>Or you can use the <0 Type='3' Data='0000'/>counter inside<0 Type='3' Data='ffff'/> if you
+  want to stay at the inn, of course.
